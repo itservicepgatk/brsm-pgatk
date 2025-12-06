@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>БРСМ | ПГАТК им. А.Е. Клещева</title>
     
-    <!-- мета -->
+    <!-- мета для соцсетей (превью) -->
     <meta property="og:title" content="БРСМ | Молодежь Пинска">
     <meta property="og:description" content="Официальный сайт первичной организации БРСМ Пинского аграрно-технического колледжа.">
     <meta property="og:image" content="assets/img/hero-bg.jpg">
@@ -13,20 +13,19 @@
 
     <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 
-    <!-- шрифты -->
+    <!-- шрифты (Google Fonts) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap" rel="stylesheet">
     
-    <!-- иконки -->
+    <!-- иконки fontawesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-    <!-- стили -->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
-    <!-- шапка -->
+    <!-- Шапка -->
     <header class="site-header">
         <div class="container header-wrap">
             <div class="logo">
@@ -37,28 +36,28 @@
                 </div>
             </div>
 
-            <!-- меню -->
+            <!-- навигация -->
             <nav class="main-nav">
                 <a href="#hero" class="nav-link">Главная</a>
                 <a href="#about" class="nav-link">О нас</a>
                 <a href="#directions" class="nav-link">Направления</a>
                 <a href="#statute" class="nav-link">Устав</a>
                 <a href="#contacts" class="nav-link">Контакты</a>
-                <!-- ссылка только для мобильного меню -->
+                <!-- ссылка появляется только в мобильном меню -->
                 <a href="#contacts" class="nav-link mobile-link">Вступить</a>
             </nav>
 
-            <!-- кнопка -->
+            <!-- кнопка справа (скрывается на тел) -->
             <a href="#contacts" class="btn btn-small header-btn">Вступить</a>
 
-            <!-- бургер -->
+            <!-- иконка меню -->
             <div class="burger-menu">
                 <i class="fa-solid fa-bars"></i>
             </div>
         </div>
     </header>
 
-    <!-- главный блок -->
+    <!-- Главный экран -->
     <section id="hero" class="hero-section">
         <div class="container hero-content">
             <div class="hero-text-block">
@@ -79,7 +78,7 @@
         </div>
     </section>
 
-    <!-- секретарь -->
+    <!-- Блок о секретаре -->
     <section id="about" class="secretary-section">
         <div class="container secretary-wrap">
             <div class="secretary-photo">
@@ -105,14 +104,16 @@
         </div>
     </section>
 
-    <!-- направления -->
+    <!-- Направления (табы) -->
     <section id="directions" class="directions-interactive">
         <div class="container directions-wrapper">
             
+            <!-- левая часть с картинкой -->
             <div class="dir-image-box">
                 <img src="assets/img/dir-1.jpg" alt="Направление" id="main-dir-image" class="fade-in">
             </div>
 
+            <!-- правая часть с текстом и кнопками -->
             <div class="dir-content-box">
                 <h2 class="dir-main-title">Направления <br>деятельности</h2>
                 
@@ -125,9 +126,9 @@
                     </p>
                 </div>
 
+                <!-- кнопки переключения -->
                 <div class="dir-grid-nav">
                     
-                    <!-- 1 -->
                     <div class="dir-nav-item active" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-1.jpg"
@@ -138,7 +139,6 @@
                         <span class="nav-label">Гражданско-патриотическое</span>
                     </div>
 
-                    <!-- 2 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-2.jpg"
@@ -149,7 +149,6 @@
                         <span class="nav-label">Трудоустройство молодежи</span>
                     </div>
 
-                    <!-- 3 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-3.jpg"
@@ -160,7 +159,6 @@
                         <span class="nav-label">Поддержка талантов</span>
                     </div>
 
-                    <!-- 4 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-4.jpg"
@@ -171,7 +169,6 @@
                         <span class="nav-label">Пропаганда ЗОЖ</span>
                     </div>
 
-                    <!-- 5 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-5.jpg"
@@ -182,7 +179,6 @@
                         <span class="nav-label">Волонтерство</span>
                     </div>
 
-                    <!-- 6 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-6.jpg"
@@ -193,7 +189,6 @@
                         <span class="nav-label">Международное сотрудничество</span>
                     </div>
 
-                    <!-- 7 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-7.jpg"
@@ -204,7 +199,6 @@
                         <span class="nav-label">Работа в инфополе</span>
                     </div>
 
-                    <!-- 8 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-8.jpg"
@@ -215,7 +209,6 @@
                         <span class="nav-label">Правовое воспитание</span>
                     </div>
 
-                    <!-- 9 -->
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-9.jpg"
@@ -231,7 +224,7 @@
         </div>
     </section>
 
-    <!-- галерея -->
+    <!-- Галерея -->
     <section class="gallery-section">
         <div class="container">
             <h2 class="section-title">Наши <span class="color-accent">Будни</span></h2>
@@ -244,7 +237,7 @@
         </div>
     </section>
 
-    <!-- символика -->
+    <!-- Символика -->
     <section id="statute" class="symbols-section">
         <div class="container">
             <h2 class="section-title">Наша <span class="color-accent">Символика</span></h2>
@@ -273,6 +266,7 @@
                 </div>
             </div>
 
+            <!-- блок с уставом -->
             <div class="statute-download">
                 <p>Полный текст Устава и нормативные документы доступны для скачивания</p>
                 <a href="#" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Скачать Устав ОО "БРСМ"</a>
@@ -280,7 +274,7 @@
         </div>
     </section>
 
-    <!-- подвал -->
+    <!-- Футер -->
     <footer id="contacts" class="site-footer">
         <div class="container footer-content">
             <div class="footer-col">
@@ -337,12 +331,12 @@
         </div>
     </footer>
 
-    <!-- наверх -->
+    <!-- Стрелка наверх -->
     <div id="scrollTop" class="scroll-top-btn">
         <i class="fa-solid fa-arrow-up"></i>
     </div>
 
-    <!-- скрипты -->
+    <!-- js подключаем в конце для скорости -->
     <script src="assets/js/main.js" defer></script>
 </body>
 </html>
