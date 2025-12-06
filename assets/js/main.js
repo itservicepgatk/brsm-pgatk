@@ -1,11 +1,12 @@
-// Меню (бургер)
+// Бургер меню
 const burgerBtn = document.querySelector('.burger-menu');
 const navMenu = document.querySelector('.main-nav');
 
 if (burgerBtn) {
     burgerBtn.addEventListener('click', () => {
         navMenu.classList.toggle('active');
-        // меняем полоски на крестик
+        
+        // меняем иконку (полоски/крестик)
         const icon = burgerBtn.querySelector('i');
         if (navMenu.classList.contains('active')) {
             icon.classList.remove('fa-bars');
@@ -16,7 +17,7 @@ if (burgerBtn) {
         }
     });
 
-    // закрываем если кликнули по ссылке
+    // закрываем меню при клике на ссылку
     document.querySelectorAll('.nav-link').forEach(link => {
         link.addEventListener('click', () => {
             navMenu.classList.remove('active');
@@ -26,7 +27,7 @@ if (burgerBtn) {
     });
 }
 
-// Заглушка (если битая картинка)
+// Заглушка (если картинка битая)
 const PLACEHOLDER_IMG = 'https://placehold.co/600x800/EEE/D91D24?font=montserrat&text=БРСМ+ПГАТК';
 
 window.addEventListener('error', function (e) {
@@ -38,7 +39,7 @@ window.addEventListener('error', function (e) {
     }
 }, true);
 
-// Логика табов (направления)
+// Переключалка направлений (табы)
 function changeDirection(element) {
     const allItems = document.querySelectorAll('.dir-nav-item');
     allItems.forEach(item => item.classList.remove('active'));
@@ -52,7 +53,7 @@ function changeDirection(element) {
     const descEl = document.getElementById('dir-dynamic-desc');
     const imgEl = document.getElementById('main-dir-image');
 
-    // анимация исчезновения
+    // анимация смены
     imgEl.style.opacity = 0;
     
     setTimeout(() => {
@@ -63,21 +64,20 @@ function changeDirection(element) {
     }, 300);
 }
 
-// Вибрация (мобил)
+// Вибрация телефона при клике на номер
 document.querySelectorAll('a[href^="tel:"]').forEach(link => {
     link.addEventListener('click', () => {
-        // если браузер умеет вибрировать
         if (navigator.vibrate) {
             navigator.vibrate(40);
         }
     });
 });
 
-// Кнопка наверх
+// Кнопка скролла наверх
 const scrollBtn = document.getElementById('scrollTop');
 
 window.addEventListener('scroll', () => {
-    // если прокрутили больше 300px - показывать
+    // показываем если прокрутили немного
     if (window.scrollY > 300) {
         scrollBtn.classList.add('show');
     } else {
@@ -91,4 +91,3 @@ scrollBtn.addEventListener('click', () => {
         behavior: 'smooth'
     });
 });
-
