@@ -5,16 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>БРСМ | ПГАТК им. А.Е. Клещева</title>
     
-    <!-- для красивой ссылки в тг (превьюшка) -->
+    <!-- мета -->
     <meta property="og:title" content="БРСМ | Молодежь Пинска">
     <meta property="og:description" content="Официальный сайт первичной организации БРСМ Пинского аграрно-технического колледжа.">
     <meta property="og:image" content="assets/img/hero-bg.jpg">
     <meta property="og:type" content="website">
 
-    <!-- иконка (svg чтобы четко было) -->
     <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 
-    <!-- шрифты гугл -->
+    <!-- шрифты -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap" rel="stylesheet">
@@ -27,7 +26,7 @@
 </head>
 <body>
 
-    <!-- Шапка -->
+    <!-- шапка -->
     <header class="site-header">
         <div class="container header-wrap">
             <div class="logo">
@@ -38,26 +37,28 @@
                 </div>
             </div>
 
-            <!-- менюшка -->
+            <!-- меню -->
             <nav class="main-nav">
                 <a href="#hero" class="nav-link">Главная</a>
                 <a href="#about" class="nav-link">О нас</a>
                 <a href="#directions" class="nav-link">Направления</a>
                 <a href="#statute" class="nav-link">Устав</a>
                 <a href="#contacts" class="nav-link">Контакты</a>
+                <!-- ссылка только для мобильного меню -->
+                <a href="#contacts" class="nav-link mobile-link">Вступить</a>
             </nav>
 
             <!-- кнопка -->
-            <a href="#contacts" class="btn btn-small">Вступить</a>
+            <a href="#contacts" class="btn btn-small header-btn">Вступить</a>
 
-            <!-- бургер (мобилка) -->
+            <!-- бургер -->
             <div class="burger-menu">
                 <i class="fa-solid fa-bars"></i>
             </div>
         </div>
     </header>
 
-    <!-- Главный блок -->
+    <!-- главный блок -->
     <section id="hero" class="hero-section">
         <div class="container hero-content">
             <div class="hero-text-block">
@@ -73,13 +74,12 @@
                 </div>
             </div>
             <div class="hero-image-block">
-                <!-- фото колледжа -->
                 <img src="assets/img/hero-bg.jpg" alt="Наш колледж" class="hero-main-img">
             </div>
         </div>
     </section>
 
-    <!-- Секретарь -->
+    <!-- секретарь -->
     <section id="about" class="secretary-section">
         <div class="container secretary-wrap">
             <div class="secretary-photo">
@@ -105,11 +105,10 @@
         </div>
     </section>
 
-    <!-- Направления (Табы с полным текстом) -->
+    <!-- направления -->
     <section id="directions" class="directions-interactive">
         <div class="container directions-wrapper">
             
-            <!-- картинка меняется скриптом -->
             <div class="dir-image-box">
                 <img src="assets/img/dir-1.jpg" alt="Направление" id="main-dir-image" class="fade-in">
             </div>
@@ -117,7 +116,6 @@
             <div class="dir-content-box">
                 <h2 class="dir-main-title">Направления <br>деятельности</h2>
                 
-                <!-- текст меняется скриптом -->
                 <div class="dynamic-text">
                     <h3 id="dir-dynamic-title">ГРАЖДАНСКО-ПАТРИОТИЧЕСКОЕ ВОСПИТАНИЕ</h3>
                     <p id="dir-dynamic-desc">
@@ -127,7 +125,6 @@
                     </p>
                 </div>
 
-                <!-- кнопки переключения -->
                 <div class="dir-grid-nav">
                     
                     <!-- 1 -->
@@ -234,12 +231,11 @@
         </div>
     </section>
 
-    <!-- галерея (будни первички) -->
+    <!-- галерея -->
     <section class="gallery-section">
         <div class="container">
             <h2 class="section-title">Наши <span class="color-accent">Будни</span></h2>
             <div class="gallery-grid">
-                <!-- фото заглушки, поменяй потом -->
                 <div class="gallery-item"><img src="assets/img/dir-1.jpg" alt="Фото 1"></div>
                 <div class="gallery-item"><img src="assets/img/dir-2.jpg" alt="Фото 2"></div>
                 <div class="gallery-item"><img src="assets/img/dir-3.jpg" alt="Фото 3"></div>
@@ -254,7 +250,6 @@
             <h2 class="section-title">Наша <span class="color-accent">Символика</span></h2>
             
             <div class="symbols-grid">
-                <!-- Эмблема -->
                 <div class="symbol-card">
                     <div class="symbol-visual">
                         <img src="assets/img/emblem.png" alt="Эмблема БРСМ" class="real-symbol-img">
@@ -266,7 +261,6 @@
                     </div>
                 </div>
 
-                <!-- Флаг -->
                 <div class="symbol-card">
                     <div class="symbol-visual">
                         <img src="assets/img/flag.png" alt="Флаг БРСМ" class="real-symbol-img">
@@ -279,7 +273,6 @@
                 </div>
             </div>
 
-            <!-- устав -->
             <div class="statute-download">
                 <p>Полный текст Устава и нормативные документы доступны для скачивания</p>
                 <a href="#" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Скачать Устав ОО "БРСМ"</a>
@@ -287,12 +280,11 @@
         </div>
     </section>
 
-    <!-- подвал с контактами и ссылками -->
+    <!-- подвал -->
     <footer id="contacts" class="site-footer">
         <div class="container footer-content">
             <div class="footer-col">
                 <h4>БРСМ ПГАТК</h4>
-                <!-- сайт колледжа -->
                 <a href="http://pgatkk.by" target="_blank" class="college-link">
                     Пинский государственный аграрно-технический колледж имени А.Е.Клещева
                 </a>
@@ -315,7 +307,6 @@
                             <i class="fa-solid fa-phone"></i> +375 29 107 91 80 (Артур Валентинович)
                         </a>
                     </li>
-                    <!-- правильный адрес -->
                     <li><i class="fa-solid fa-location-dot"></i> г. Пинск, ул. Иркутско-Пинской дивизии, 25</li>
                 </ul>
             </div>
@@ -323,23 +314,18 @@
             <div class="footer-col">
                 <h4>Мы в соцсетях</h4>
                 <div class="social-links">
-                    <!-- инста -->
                     <a href="https://www.instagram.com/pgatkk" target="_blank" class="social-btn instagram" title="Instagram">
                         <i class="fa-brands fa-instagram"></i>
                     </a>
-                    <!-- вк -->
                     <a href="https://vk.com/pgatkk" target="_blank" class="social-btn vk" title="ВКонтакте">
                         <i class="fa-brands fa-vk"></i>
                     </a>
-                    <!-- тг -->
                     <a href="https://t.me/pgatkk" target="_blank" class="social-btn telegram" title="Telegram">
                         <i class="fa-brands fa-telegram"></i>
                     </a>
-                    <!-- ютуб -->
                     <a href="https://youtube.com/channel/UCx3boiuvaRX1PA-yEXi5hZw" target="_blank" class="social-btn youtube" title="YouTube">
                         <i class="fa-brands fa-youtube"></i>
                     </a>
-                    <!-- тикток -->
                     <a href="https://www.tiktok.com/@_pgatkk" target="_blank" class="social-btn tiktok" title="TikTok">
                         <i class="fa-brands fa-tiktok"></i>
                     </a>
@@ -351,12 +337,12 @@
         </div>
     </footer>
 
-    <!-- кнопка наверх -->
+    <!-- наверх -->
     <div id="scrollTop" class="scroll-top-btn">
         <i class="fa-solid fa-arrow-up"></i>
     </div>
 
-    <!-- js файл -->
+    <!-- скрипты -->
     <script src="assets/js/main.js" defer></script>
 </body>
 </html>
