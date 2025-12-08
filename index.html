@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>БРСМ | ПГАТК им. А.Е. Клещева</title>
+    
+    <!-- Мета-теги для соцсетей -->
+    <meta property="og:title" content="БРСМ | Молодежь Пинска">
+    <meta property="og:description" content="Официальный сайт первичной организации БРСМ Пинского аграрно-технического колледжа.">
+    <meta property="og:image" content="assets/img/hero-bg.jpg">
+    <meta property="og:type" content="website">
+
+    <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+
+    <!-- Шрифты (Google Fonts: Montserrat) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap" rel="stylesheet">
+    
+    <!-- Иконки FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Основные стили -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- PWA / Иконка приложения -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#D91D24">
+    
+    <!-- Для iPhone (iOS) -->
+    <link rel="apple-touch-icon" href="assets/img/icon-192.png">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+</head>
+<body>
+
+    <!-- Шапка сайта -->
+    <header class="site-header">
+        <div class="container header-wrap">
+            <!-- Логотип -->
+            <div class="logo">
+                <img src="assets/img/logo.png" alt="БРСМ" class="logo-img">
+                <div class="logo-text">
+                    <span>БРСМ</span>
+                    <span class="college-tag">#ПГАТККЛЕЩЕВА</span>
+                </div>
+            </div>
+
+            <!-- Навигация -->
+            <nav class="main-nav">
+                <a href="#hero" class="nav-link">Главная</a>
+                <a href="#about" class="nav-link">О нас</a>
+                <a href="#news" class="nav-link">Новости</a>
+                <a href="#directions" class="nav-link">Направления</a>
+<a href="history.html" class="nav-link">История</a>
+<a href="info.html" class="nav-link">Информация</a>
+                <a href="ustav.html" class="nav-link">Устав</a>
+                <a href="#contacts" class="nav-link">Контакты</a>
+                <a href="#" class="nav-link mobile-link open-join">Вступить</a>
+            </nav>
+
+            <!-- Кнопка "Вступить" (скрыта на мобильных) -->
+            <a href="#" class="btn btn-small header-btn open-join">Вступить</a>
+
+            <!-- Бургер-меню для телефонов -->
+            <div class="burger-menu">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Главный экран (Hero) -->
+    <section id="hero" class="hero-section">
+        <div class="container hero-content">
+            <div class="hero-text-block">
+                <p class="hero-subtitle">Только вместе и только вперед!</p>
+                <h1 class="hero-title">Молодежь <br> <span class="text-highlight">Пинска</span></h1>
+                <p class="hero-desc">
+                    Первичная организация БРСМ Пинского аграрно-технического колледжа имени А.Е.Клещева. 
+                    Мы строим будущее своими руками здесь и сейчас.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#directions" class="btn btn-primary">Направления деятельности</a>
+                    <a href="#contacts" class="btn btn-outline">Связаться с нами</a>
+                </div>
+            </div>
+            <div class="hero-image-block">
+                <img src="assets/img/hero-bg.jpg" alt="Наш колледж" class="hero-main-img">
+            </div>
+        </div>
+    </section>
+
+    <!-- Блок о лидере первички -->
+    <section id="about" class="secretary-section">
+        <div class="container secretary-wrap">
+            <div class="secretary-photo">
+                <img src="assets/img/secretary.jpg" alt="Артур Мелюх">
+            </div>
+            <div class="secretary-info">
+                <h2>Лидер первички</h2>
+                <h3>Мелюх Артур Валентинович</h3>
+                <p class="position">Секретарь ПО ОО "БРСМ"</p>
+                
+                <blockquote class="quote">
+                    "Сегодня нашей республике нужны не просто специалисты, обладающие определенными знаниями, 
+                    а заинтересованные и болеющие за свое дело молодые профессионалы, люди, которые выбрали 
+                    свой путь в жизни и прилагают все усилия, чтобы принести конкретную пользу родной стране."
+                </blockquote>
+                
+                <div class="contacts-mini">
+                    <a href="tel:+375291079180">
+                        <i class="fa-solid fa-phone"></i> +375 29 107 91 80
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Новости и Объявления -->
+    <section id="news" class="news-section">
+        <div class="container">
+            <h2 class="section-title">Новости и <span class="color-accent">Объявления</span></h2>
+            
+            <!-- Переключатели вкладок -->
+            <div class="news-tabs">
+                <button class="news-tab active" onclick="switchNews('college')">Новости ПО ОО «БРСМ»</button>
+                <button class="news-tab" onclick="switchNews('city')">Новости ГК ОО «БРСМ»</button>
+            </div>
+
+            <!-- Контейнер для новостей Колледжа (заполняется через JS) -->
+            <div id="news-college" class="news-grid active">
+            </div>
+
+            <!-- Контейнер для новостей Города (заполняется через JS) -->
+            <div id="news-city" class="news-grid">
+            </div>
+
+            <!-- Ссылки на Телеграм каналы -->
+            <div class="telegram-promo">
+                <div class="tg-links">
+                    <a href="https://t.me/pgatkk" target="_blank" class="tg-btn"><i class="fa-brands fa-telegram"></i> Канал Колледжа</a>
+                    <a href="https://t.me/pinskgk" target="_blank" class="tg-btn"><i class="fa-brands fa-telegram"></i> Канал Горкома</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Направления деятельности (Интерактивные табы) -->
+    <section id="directions" class="directions-interactive">
+        <div class="container directions-wrapper">
+            
+            <!-- Картинка направления (слева) -->
+            <div class="dir-image-box">
+                <img src="assets/img/dir-1.jpg" alt="Направление" id="main-dir-image" class="fade-in">
+            </div>
+
+            <!-- Описание и список (справа) -->
+            <div class="dir-content-box">
+                <h2 class="dir-main-title">Направления <br>деятельности</h2>
+                
+                <div class="dynamic-text">
+                    <h3 id="dir-dynamic-title">ГРАЖДАНСКО-ПАТРИОТИЧЕСКОЕ ВОСПИТАНИЕ</h3>
+                    <p id="dir-dynamic-desc">
+                        Меняется эпоха. Буквально на глазах стремительно меняется темп жизни, появляются новые технологии. 
+                        Но остается неизменной жизненная ценность любого государства – патриотизм его граждан, который начинается с любви к своей малой родине, 
+                        к тому месту, где ты родился и вырос, с гордости за свою семью, школу, деревню, поселок или город.
+                    </p>
+                </div>
+
+                <div class="dir-grid-nav">
+                    <!-- Кнопки направлений -->
+                    <div class="dir-nav-item active" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-1.jpg"
+                         data-title="ГРАЖДАНСКО-ПАТРИОТИЧЕСКОЕ ВОСПИТАНИЕ"
+                         data-desc="Меняется эпоха. Буквально на глазах стремительно меняется темп жизни, появляются новые технологии. Но остается неизменной жизненная ценность любого государства – патриотизм его граждан, который начинается с любви к своей малой родине, к тому месту, где ты родился и вырос, с гордости за свою семью, школу, деревню, поселок или город.">
+                        <span class="nav-number">1</span>
+                        <i class="fa-solid fa-flag"></i>
+                        <span class="nav-label">Гражданско-патриотическое</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-2.jpg"
+                         data-title="ТРУДОУСТРОЙСТВО МОЛОДЕЖИ"
+                         data-desc="Трудовая занятость населения – один из приоритетов социально-экономического развития молодого белорусского государства. Органичной частью системы трудоустройства в нашей стране стали студенческие отряды БРСМ. Они несут в себе трудовой и воспитательный заряд, позволяя сориентироваться профессионально, получить рабочие навыки и заработать первые деньги.">
+                        <span class="nav-number">2</span>
+                        <i class="fa-solid fa-helmet-safety"></i>
+                        <span class="nav-label">Трудоустройство молодежи</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-3.jpg"
+                         data-title="ПОДДЕРЖКА ТАЛАНТЛИВОЙ МОЛОДЕЖИ"
+                         data-desc="Совершенствование системы поддержки одаренной, талантливой и обладающей лидерскими качествами молодежи, раскрытие ее творческого потенциала является одним из приоритетов БРСМ. Главная задача – не только найти и помочь раскрыться талантливым ребятам, но и занять молодых людей полезным, интересным делом.">
+                        <span class="nav-number">3</span>
+                        <i class="fa-solid fa-trophy"></i>
+                        <span class="nav-label">Поддержка талантов</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-4.jpg"
+                         data-title="ПРОПАГАНДА ЗОЖ"
+                         data-desc="В нашей стране развитие физической культуры и спорта входит в число приоритетов государственной политики. Спортивные традиции – один из ключевых факторов, способствующих узнаванию и прославлению нашей страны во всем мире. Формирование в молодежной среде моды на здоровый образ жизни – важный ориентир деятельности Союза молодежи.">
+                        <span class="nav-number">4</span>
+                        <i class="fa-solid fa-heart-pulse"></i>
+                        <span class="nav-label">Пропаганда ЗОЖ</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-5.jpg"
+                         data-title="ВОЛОНТЕРСКОЕ ДВИЖЕНИЕ"
+                         data-desc="Волонтерское движение и благотворительная деятельность в современном обществе приобретают с каждым днем всевозрастающее значение. Именно волонтеры стали важным инструментом в решении значимых социальных задач и партнерами государства для развития общества. Движение «Доброе Сердце» помогает найти активность по душе.">
+                        <span class="nav-number">5</span>
+                        <i class="fa-solid fa-hand-holding-heart"></i>
+                        <span class="nav-label">Волонтерство</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-6.jpg"
+                         data-title="МЕЖДУНАРОДНОЕ СОТРУДНИЧЕСТВО"
+                         data-desc="Молодежь во всем мире – надежда любого государства, гордость нации и основа ее цивилизованного развития. Молодежная общественная дипломатия играет значимую роль в формировании межгосударственных отношений. БРСМ предоставляет юношам и девушкам уникальную возможность стать причастными к масштабным событиям международного уровня.">
+                        <span class="nav-number">6</span>
+                        <i class="fa-solid fa-earth-americas"></i>
+                        <span class="nav-label">Международное сотрудничество</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-7.jpg"
+                         data-title="РАБОТА В ИНФОРМАЦИОННОМ ПРОСТРАНСТВЕ"
+                         data-desc="Сегодня Интернет охватил весь мир и все сферы жизнедеятельности человека. Главным драйвером трансформации интернет-среды является первое цифровое поколение. БРСМ активно расширяет свое присутствие в медиапространстве, создавая качественный контент и продвигая молодежные инициативы в сети.">
+                        <span class="nav-number">7</span>
+                        <i class="fa-solid fa-laptop-code"></i>
+                        <span class="nav-label">Работа в инфополе</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-8.jpg"
+                         data-title="ПРАВОВОЕ ВОСПИТАНИЕ"
+                         data-desc="Развитие правового общества является важнейшим приоритетом белорусского государства. Правовое просвещение молодежи выступает одной из центральных задач. Важно закладывать понимание правовых основ, а также необходимость соблюдения законов с детства. Молодежные отряды охраны правопорядка (МООП) – яркий пример участия молодежи.">
+                        <span class="nav-number">8</span>
+                        <i class="fa-solid fa-scale-balanced"></i>
+                        <span class="nav-label">Правовое воспитание</span>
+                    </div>
+
+                    <div class="dir-nav-item" 
+                         onclick="changeDirection(this)"
+                         data-img="assets/img/dir-9.jpg"
+                         data-title="ПОДДЕРЖКА ИНИЦИАТИВ"
+                         data-desc="Проектов много, но ты готов предложить что-то по-настоящему уникальное и полезное для страны? Тогда не откладывай «на потом» – принимай участие в республиканском «Конкурсе молодежных инициатив». Это твоя возможность получить поддержку и грант на реализацию мечты.">
+                        <span class="nav-number">9</span>
+                        <i class="fa-regular fa-lightbulb"></i>
+                        <span class="nav-label">Молодежные инициативы</span>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Фотогалерея -->
+    <section class="gallery-section">
+        <div class="container">
+            <h2 class="section-title">Наши <span class="color-accent">Будни</span></h2>
+            <div class="gallery-grid">
+                <div class="gallery-item"><img src="assets/img/dir-1.jpg" loading="lazy" alt="Фото 1"></div>
+                <div class="gallery-item"><img src="assets/img/dir-2.jpg" loading="lazy" alt="Фото 2"></div>
+                <div class="gallery-item"><img src="assets/img/dir-3.jpg" loading="lazy" alt="Фото 3"></div>
+                <div class="gallery-item"><img src="assets/img/dir-4.jpg" loading="lazy" alt="Фото 4"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Символика -->
+    <section id="statute" class="symbols-section">
+        <div class="container">
+            <h2 class="section-title">Символика <span class="color-accent">БРСМ</span></h2>
+<div class="symbols-grid">
+                <!-- Карточка Эмблемы -->
+                <div class="symbol-card">
+                    <div class="symbol-visual">
+                        <img src="assets/img/emblem.png" loading="lazy" alt="Эмблема БРСМ" class="real-symbol-img">
+                    </div>
+                    <div class="symbol-info">
+                        <h3>Эмблема</h3>
+                        <p>Представляет собой знамя цветов Государственного флага Республики Беларусь, сверху размещена аббревиатура «БРСМ», снизу – лавровая ветвь.</p>
+                        <div class="reg-number">Рег. номер В-29</div>
+                    </div>
+                </div>
+
+                <!-- Карточка Флага -->
+                <div class="symbol-card">
+                    <div class="symbol-visual">
+                        <!-- Твоя GIF анимация -->
+                        <img src="assets/img/flag.gif?v=2" loading="lazy" alt="Флаг БРСМ" class="real-symbol-img">
+                    </div>
+                    <div class="symbol-info">
+                        <h3>Флаг</h3>
+                        <p>Красное прямоугольное полотнище с выпуклой зеленой оконечностью. На красной части расположена аббревиатура «БРСМ», внизу на зеленой – золотая пальмовая ветвь.</p>
+                        <div class="reg-number">Рег. номер В-541</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Блок с ссылкой на Устав -->
+            <div class="statute-download">
+                <p>Полный текст Устава и нормативные документы доступны для ознакомления</p>
+                <a href="ustav.html" class="btn btn-primary"><i class="fa-solid fa-book-open"></i> Читать Устав ОО "БРСМ"</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Футер (Подвал сайта) -->
+    <footer id="contacts" class="site-footer">
+        <div class="container footer-content">
+            <div class="footer-col">
+                <h4>БРСМ ПГАТК</h4>
+                <a href="http://pgatkk.by" target="_blank" class="college-link">
+                    Пинский государственный аграрно-технический колледж имени А.Е.Клещева
+                </a>
+                
+                <a href="secretariat.html" class="disk-link">
+                    <i class="fa-solid fa-users"></i> Секретариат Пинского ГК ОО «БРСМ»
+                </a>
+            </div>
+            
+            <div class="footer-col">
+                <h4>Контакты</h4>
+                <ul class="footer-contacts">
+                    <li>
+                        <a href="tel:+375292116457">
+                            <i class="fa-solid fa-phone"></i> +375 29 211 64 57 – Семен Васильевич, заместитель директора по ВР
+                        </a>
+                    </li>
+                    <li>
+                        <a href="tel:+375291079180">
+                            <i class="fa-solid fa-phone"></i> +375 29 107 91 80 – Артур Валентинович, секретарь ПО ОО «БРСМ»
+                        </a>
+                    </li>
+                    <!-- Ссылка на карту -->
+                    <li>
+                        <a href="https://yandex.by/maps/?text=Пинск+ул+Иркутско-Пинской+дивизии+25" target="_blank" class="map-link">
+                            <i class="fa-solid fa-location-dot"></i> г. Пинск, ул. Иркутско-Пинской дивизии, 25
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h4>Мы в соцсетях</h4>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/pgatkk" target="_blank" class="social-btn instagram" title="Instagram">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                    <a href="https://vk.com/pgatkk" target="_blank" class="social-btn vk" title="ВКонтакте">
+                        <i class="fa-brands fa-vk"></i>
+                    </a>
+                    <a href="https://t.me/pgatkk" target="_blank" class="social-btn telegram" title="Telegram">
+                        <i class="fa-brands fa-telegram"></i>
+                    </a>
+                    <a href="https://youtube.com/channel/UCx3boiuvaRX1PA-yEXi5hZw" target="_blank" class="social-btn youtube" title="YouTube">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+                    <a href="https://www.tiktok.com/@_pgatkk" target="_blank" class="social-btn tiktok" title="TikTok">
+                        <i class="fa-brands fa-tiktok"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Первичная организация ОО «БРСМ» ПГАТК.</p>
+        </div>
+    </footer>
+
+    <!-- Кнопка "Наверх" -->
+    <div id="scrollTop" class="scroll-top-btn">
+        <i class="fa-solid fa-arrow-up"></i>
+    </div>
+
+    <!-- Скрипты (Data грузится первым) -->
+    <script src="assets/js/news-data.js"></script>
+    <script src="assets/js/main.js" defer></script>
+
+    <!-- МОДАЛЬНОЕ ОКНО ЗАЯВКИ -->
+    <div id="joinModal" class="modal-overlay">
+        <div class="modal-window small-modal">
+            <div class="modal-header">
+                <h2>Вступление в БРСМ</h2>
+                <div class="close-join"><i class="fa-solid fa-xmark"></i></div>
+            </div>
+            <div class="modal-body form-body">
+                <p class="form-desc">Заполните анкету, и мы свяжемся с вами для оформления документов.</p>
+                
+                <form id="joinForm">
+                    <div class="input-group">
+                        <label>Фамилия Имя Отчество</label>
+                        <input type="text" name="fio" placeholder="Иванов Иван Иванович" required>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label>Номер группы</label>
+                        <input type="text" name="group" placeholder="Например: 232С" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label>Мобильный телефон</label>
+                        <input type="tel" name="phone" placeholder="+375 (XX) XXX-XX-XX" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary full-width">Отправить заявку</button>
+                </form>
+
+                <!-- Сообщение об успехе (скрыто по умолчанию) -->
+                <div id="successMessage" style="display: none; text-align: center; padding: 20px 0;">
+                    <i class="fa-regular fa-circle-check" style="font-size: 3rem; color: var(--green); margin-bottom: 15px;"></i>
+                    <h3 style="margin-bottom: 10px;">Спасибо!</h3>
+                    <p>Секретарь ПО ОО "БРСМ" свяжется с вами в ближайшее время!</p>
+                    <button class="btn btn-outline close-join-btn" style="margin-top: 15px;">Закрыть</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- МОДАЛЬНОЕ ОКНО ДЛЯ ПРОСМОТРА ФОТО -->
+    <div id="lightbox" class="lightbox-overlay">
+        <span class="lightbox-close"><i class="fa-solid fa-xmark"></i></span>
+        <img class="lightbox-img" src="" alt="Просмотр фото">
+    </div>
+</body>
+</html>
