@@ -1,0 +1,40 @@
+name: Ежедневное обновление новостей
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: репозиторий
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+
+      - name: Устанав библ
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Запуска парсер новостей
+        run: |
+          python update_news.py
+
+      - name: (Commit & Push)
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add assets/js/news-data.js
+
+          # Проверяем, есть ли изменения. Если нет - не падаем с ошибкой.
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Автоматическое обновление новостей [Bot]" && git push)
