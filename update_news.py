@@ -11,13 +11,17 @@ save_path = "assets/js/news-data.js"
 start_date = datetime(2025, 8, 1)
 now = datetime.now()
 
-# Фильтры (Строгие)
+# ФИЛЬТРЫ (Жесткие - только брендовые слова)
+# Если этих слов нет в тексте, новость не попадет на сайт
 keywords = [
     "брсм", "союз молодежи", "молодежный билет", "молодежного билета",
     "доброе сердце", "студотряд", "студенческ", "мооп",
-    "100 идей", "властелин села", "королева студенчества", "сила закона"
+    "100 идей", "властелин села", "королева студенчества", 
+    "сила закона", "зимний патруль", "задело"
 ]
-spam = ["расписание", "замена", "изменения"]
+
+# Мусор, который точно не нужен
+spam = ["расписание", "замена", "изменения в", "педсовет"]
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -78,26 +82,25 @@ def parser(conf):
                 if dt > now: continue
                 if dt < start_date:
                     print(f"Done {conf['url']}")
-                    return res
+                    return res 
 
                 # Текст
                 txt_div = i.find('div', class_='tgme_widget_message_text')
                 raw = txt_div.get_text().lower() if txt_div else ""
                 
-                # Проверка фильтров
+                # 1. Проверка на спам
                 if any(x in raw for x in spam): continue
                 
-                # Строгий фильтр БРСМ: если нет ключевых слов - скип
+                # 2. ЖЕСТКАЯ ПРОВЕРКА БРСМ
                 if not raw or not any(x in raw for x in keywords): continue
 
                 # Ссылка
                 lnk = i.find('a', class_='tgme_widget_message_date')
                 href = lnk['href'] if lnk else "#"
 
-                # Инфо
+                # Заголовок
                 full = txt_div.get_text(separator=' ', strip=True)
                 full = full.replace('"', '\\"').replace('\n', ' ')
-                
                 desc = (full[:130] + '...') if len(full) > 130 else full
                 
                 head = full.split('.')[0]
@@ -106,9 +109,8 @@ def parser(conf):
                 if len(title) > 50: title = title[:50] + '...'
                 if len(title) < 3: title = conf['def']
 
-                # Картинки (Фото -> Видео -> Альбом)
+                # Картинка (Smart search)
                 img = ""
-                
                 photo = i.find('a', class_='tgme_widget_message_photo_wrap')
                 if photo: img = get_bg(photo.get('style'))
                 
@@ -126,7 +128,7 @@ def parser(conf):
                 if not img:
                     img = "https://placehold.co/600x400/EEE/333?text=БРСМ"
 
-                # Сохраняем уникальные
+                # Сохраняем
                 if not any(x['link'] == href for x in res):
                     res.append({
                         'image': img,
@@ -153,7 +155,6 @@ def parser(conf):
             
     return res
 
-# Main
 if __name__ == "__main__":
     print("Working...")
     
