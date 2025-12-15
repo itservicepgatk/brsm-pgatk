@@ -11,8 +11,12 @@ save_path = "assets/js/news-data.js"
 start_date = datetime(2025, 8, 1)
 now = datetime.now()
 
-# Фильтры
-keywords = ["брсм", "союз", "молодеж", "сердце", "студотряд", "мооп", "актив", "волонтер", "квиз"]
+# Фильтры (Строгие)
+keywords = [
+    "брсм", "союз молодежи", "молодежный билет", "молодежного билета",
+    "доброе сердце", "студотряд", "студенческ", "мооп",
+    "100 идей", "властелин села", "королева студенчества", "сила закона"
+]
 spam = ["расписание", "замена", "изменения"]
 
 headers = {
@@ -55,7 +59,7 @@ def parser(conf):
             
             if not items: break
             
-            # Собираем ID для пагинации
+            # ID для пагинации
             ids = []
             for i in items:
                 a = i.find('a', class_='tgme_widget_message_date')
@@ -63,7 +67,7 @@ def parser(conf):
                     try: ids.append(int(a['href'].split('/')[-1]))
                     except: pass
 
-            # Парсим посты
+            # Парсинг
             for i in reversed(items):
                 t_tag = i.find('time')
                 if not t_tag: continue
@@ -74,23 +78,23 @@ def parser(conf):
                 if dt > now: continue
                 if dt < start_date:
                     print(f"Done {conf['url']}")
-                    return res # Выход, если дата старая
+                    return res
 
                 # Текст
                 txt_div = i.find('div', class_='tgme_widget_message_text')
                 raw = txt_div.get_text().lower() if txt_div else ""
                 
-                # Фильтр мусора
+                # Проверка фильтров
                 if any(x in raw for x in spam): continue
                 
-                # Фильтр БРСМ
+                # Строгий фильтр БРСМ: если нет ключевых слов - скип
                 if not raw or not any(x in raw for x in keywords): continue
 
                 # Ссылка
                 lnk = i.find('a', class_='tgme_widget_message_date')
                 href = lnk['href'] if lnk else "#"
 
-                # Заголовок и описание
+                # Инфо
                 full = txt_div.get_text(separator=' ', strip=True)
                 full = full.replace('"', '\\"').replace('\n', ' ')
                 
@@ -102,13 +106,12 @@ def parser(conf):
                 if len(title) > 50: title = title[:50] + '...'
                 if len(title) < 3: title = conf['def']
 
-                # Картинка
+                # Картинки (Фото -> Видео -> Альбом)
                 img = ""
-                # 1. Фото
+                
                 photo = i.find('a', class_='tgme_widget_message_photo_wrap')
                 if photo: img = get_bg(photo.get('style'))
                 
-                # 2. Видео/Альбом
                 if not img:
                     vid = i.find('div', class_='tgme_widget_message_video_thumb') or \
                           i.find('i', class_='tgme_widget_message_video_thumb')
@@ -123,7 +126,7 @@ def parser(conf):
                 if not img:
                     img = "https://placehold.co/600x400/EEE/333?text=БРСМ"
 
-                # Добавляем если нет дублей
+                # Сохраняем уникальные
                 if not any(x['link'] == href for x in res):
                     res.append({
                         'image': img,
@@ -135,7 +138,7 @@ def parser(conf):
                         'date': dt.strftime("%d.%m.%Y")
                     })
 
-            # Пагинация
+            # Листаем назад
             if not ids: break
             mn = min(ids)
             if mn == last: break
@@ -150,7 +153,7 @@ def parser(conf):
             
     return res
 
-# Запуск
+# Main
 if __name__ == "__main__":
     print("Working...")
     
