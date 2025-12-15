@@ -1325,3 +1325,218 @@ a[href^="tel:"]:active {
         font-size: 1.5rem;
     }
 }
+
+/* --- ПРЕЛОАДЕР (СТИЛЬ ДВОЙНАЯ ОРБИТА) --- */
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    z-index: 99999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.loader-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.loader-circle-box {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader-logo-img {
+    width: 50px;
+    height: auto;
+    position: relative;
+    z-index: 10;
+    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.1)); 
+    animation: calmPulse 3s infinite ease-in-out;
+}
+
+.circle-outer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: var(--red);
+    border-right-color: var(--red);
+    animation: spinCommon 1.5s linear infinite;
+    box-shadow: 0 0 15px rgba(217, 29, 36, 0.1);
+}
+
+.circle-inner {
+    position: absolute;
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-bottom-color: var(--green);
+    border-left-color: var(--green);
+    animation: spinCommonReverse 1.2s linear infinite;
+    box-shadow: 0 0 15px rgba(44, 147, 66, 0.1);
+}
+
+.loader-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    color: var(--dark);
+    display: flex;
+    gap: 10px;
+    opacity: 0;
+    animation: fadeInUp 0.8s ease forwards 0.2s;
+}
+
+.loader-text span:first-child { color: var(--red); }
+.loader-text span:last-child { color: var(--green); }
+.divider { color: #ccc !important; font-weight: 300; }
+
+@keyframes spinCommon {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes spinCommonReverse {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(-360deg); }
+}
+
+@keyframes calmPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.preloader-hide {
+    opacity: 0;
+    visibility: hidden;
+}
+
+/* --- ПРОМО БАННЕР (АКЦИЯ) --- */
+.promo-section {
+    padding-top: 60px;
+    padding-bottom: 60px; 
+    background-color: #f9f9f9;
+}
+
+.promo-banner {
+    background: linear-gradient(135deg, #e0f2f1 0%, #ffffff 100%);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 15px 40px rgba(44, 147, 66, 0.2); 
+    border: 1px solid rgba(44, 147, 66, 0.2);
+}
+
+.promo-img {
+    flex: 0 0 40%;
+    height: 350px;
+    margin: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+    overflow: hidden;
+}
+
+.promo-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.promo-content {
+    padding: 40px;
+    flex: 1;
+}
+
+.promo-label {
+    display: inline-block;
+    background-color: var(--red);
+    color: white;
+    padding: 5px 12px;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.promo-banner h2 {
+    font-size: 2.5rem;
+    color: var(--dark);
+    margin-bottom: 10px;
+    line-height: 1.1;
+    font-weight: 900;
+}
+
+.promo-dates {
+    color: var(--green);
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.promo-desc {
+    color: #555;
+    margin-bottom: 30px;
+    max-width: 600px;
+}
+
+/* Адаптив баннера для телефонов */
+@media (max-width: 768px) {
+    .promo-img {
+        width: 100%;
+        height: 200px;
+        border-radius: 20px; 
+        margin-right: 0; 
+        margin-bottom: 15px; 
+    }
+
+    .promo-img {
+        width: 100%;
+        height: 200px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        
+        margin: 0;
+    }
+
+    .promo-content {
+        padding: 25px;
+        text-align: center;
+    }
+
+    .promo-dates {
+        justify-content: center;
+    }
+
+    .promo-banner h2 {
+        font-size: 1.8rem;
+    }
+}
