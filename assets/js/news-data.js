@@ -1,11 +1,11 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2025-12-28 03:28
+// 2025-12-28 04:36
 
 const newsData = {
     college: [
     {
-        "image": "https://cdn4.telesco.pe/file/Yppjh8p8yb3GFIbqhJUZy4dUUpHV-esMHFCI0XuZK7OT1y2eHQYw53J37hYQMISyL4C3RQk0ikGjPrmuYZt__1eg4Rn5aamYld3Ont3y4XCjI7P5zqtgLMKYk9iaLuJumnRAYpbw2yPKpeK0gBvUBqXBVvqKRzMz10PfQKTOixYOhkK-6u8XAMsaq43iTnlrQG5YS7WTXDt38FxZbp5wxu_yl9NlHPdgTV5aF5K7dY91Kqjfk3GZwRbQpZei6xcDdhQqL-qbR9Zu4PEyvQdCbT7bYMIjVgJYzqTBznCsc_00BoquzJe3VYlMYRN7q3-ZZwaIDWYrvy7tdHEmb-nYYQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/HK54Gk4kh3CdVeK23RFOfUqDrmb8Cf4TzD6D7U6uO6QytyjkkRHTmpN2eTvy34-Zf7dDfa2EDO1AeaC-0LNCXDKG0XHQc6cd3uC0bWIcl-HLjIh5CDlZjH3ZU5e7lvHTATDW_-eiJZtzNcBHbNlfVWYbb6vYpddH9V_S4WdS1GjL4V-kXkPFUFbGueD30huyJxMGeXFh2R4lDkUjUrfVHCYqPkLeA5fM8isH5LjhyWocdW2YSRTDQ0WsB230rbra2bEC5-KOAAidG4LuLuR7NeQsnkhIcPhRYERD2i-vKaOJTpT0Amz92Cwy0WWrOBG0JlUXDupua_CH2kNJ2DhidQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❄️ Волшебство добра: согреваем сердца перед Новым ...",
@@ -1006,7 +1006,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Ujv_G2cfLBpUaMs3rS3m_7z-IF58yUHO4hq9o8dcg-V-VJHzm5bmhPAs6tbLFLyGVlRlp-6s8SEvl9pESuFUs4l-tE4Cjcjx3wDu1NBL5HAA-fgEyDZhaUHU0PxYQsGAxPb5oeEEMCQfSmvAoFUI9wsu0hG8kDvdEyYAvMI8zH7uJTtZS_bezJlK5LCE__II8X3Lej6rVpavSs95Le6zRv11MVdM9KyKgQq_KHHM823I-XyODh8dDG4yqoVZIXuy8_FqnMWdpLsbnOm2kZJKiQqahaBOLVtcucDiSxF39OvU9luDtZUwq42I8HbkF3cHjNL6CgRZSa_Erf3ll-644Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/VuPJVZK_Vv7cGhZNaJP0w7BxyDEt5h5QwuaikaeVAtgWPOpnOgBGkI0XrvYOguzvvUFh6tfIPx8QYAM3LfXtQ2Y-6LCzzzqDucOCPgFhCwMUjoX9sUVFriav345EMkslsKY-tKXgmz0FgLQBXeIpews9aFWQNrKHwQUXs340IFAP_DohP4WMp3Sv70BqGh_NJ8akGRJkct5J7RAZ93bOqOxPLA7ORzQt9f8aYyQ_vlqWCQms6q894JWygJxdPKHYcmcXmZkni9PqXHaOtJBVaFMCfsGn2yaiLHwImfm-oxTkOnXyyB18mLweLlnAfHGUbzAAIAyPlvl93V72aPGQ3g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Стартовал проект «Молодежный квиз»! В рамках проек...",
@@ -1150,7 +1150,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/RGr14zeILVgvfR61ZKb_esX6PZWsrbVA5ytbKb7NU5SOQIBx_6Cbp6EJjy7OcGlQEaI_2-WeIPUS8kuPs4UzGO9jLIamUUS4rw-_so6iZsxPTdSD8jpeCaiOKldg0muYxKEh8E7_igc9eOO6NVkeml6WdbmE0HqH6kfQRf99jmMuC0HVksAg91gZPWEveKQKZm4trlOqrwK0HcNVEGyHmUZewg9nk_TsX_kjw8rkQj347GwlmV8SA_qnlNemjWCdb4kfP2C2BYFpICchPdLTjwU6NP_RtYJvyWJCcLAIJnRho8A-onHwjB0feyVGgsDyQWlq96FbmjIIV9Yny36S3A.jpg",
+        "image": "https://cdn4.telesco.pe/file/a-WmT11VCkM-ncdVJcck2UjvL3vUarc41BcrYu8DrUuIkB9VoNRvOvDDHS508_1Xs000uPuOOC_qIu445zALpqtSCGUW296w9qWC1SX4-CLo7I93lx698hOJof3F7mPnrhu900o3c7t3KRlVLuD8I5RqbSI4YulGV0tGPf7OSaLR-TkhzIF6CggjtFzETyRwTptQ4zeCPNCqnIIP9iObkTh8EFQyEpr-DqAb4ttXguxUt7VlDgQMKfnRhG29jMJIiYsoYG4Lfsp0DW-2UAY7fpTfituWq8jxr6pYR5frwRCze6MRW_XMtQGiXU6Zj8WNmMLw1nmE6WKQOhTSsNqdQQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"БРСМ: вчера, сегодня, завтра\\\" 2...",
@@ -1258,7 +1258,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Ou0wDfokJcEy3DfQGcG_sl2xlOiSGFmAviUoeHn2Po20LpDeQIi783wuy5-cGQ8de_ik5Ikge1endUxEF6J3xBOLIO7Fu_zcpbj6yeJYfoFJMGiagk-1ZMjaX3AoANyaOCjH8HzDQMD7j0fWK6s0dU7zBAtihkdeab5sDzdWRPuV3dyUBENGSSiKVG64_Q8nMxMNn2KKX3_f3wSdcUoR70CnkqwfwQCoWvkYcCRAIwasrfnT3ZYzQ3DpAEhiMfn8DPimDQ7awtWR_2PG-3n-fDZMTD61NUp84qA_tXaUgja3mD90RabnWFqByjet3aH2jZy96JQUYY91VcDTC4obZA.jpg",
+        "image": "https://cdn4.telesco.pe/file/Q7YAFSP5zOaXqD8hnOjzEMJMIrMxS1x_C8HnjQSuZm0NuW_hC7onb4SEazdwPpkfrPzq8KjCCoyGrNQpl8rpwYG5lICekCob9atEzEe_i-FC7Bp8pd4mMM0K2XtLBDabEE_9Eh8s_4F0Mp-0xmrHArOqE8TyR3qbB_mGoYuBHvfSJ3359lyVDF7VVGvnjRmyHQ7ER8uAPCrrBN6WhabUpZmObuhW5r7pdXrkGT2asMZaU6RNAary_vGw7gbjUS-QcdEk4nLBbu43vxHowjvXpaTgZZRC35eplyyoVk0IAQebVP1FQPucsACknNIOX5cIarYJDn3a1VJaTcOOcUmgXA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
