@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2025-12-31 03:18
+// 2025-12-31 04:30
 
 const newsData = {
     college: [
@@ -1177,7 +1177,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/NgwJNOppXBSZUthOhr50lhxTWjbqtv-6vvpfC8xddcsd7c7Gedvz8JbBIhsXhBFSwO1Vxc0290C_kB-2cJ6Q0U0Cjostgm5q91_nGk65n5sVqXMgxTNbBSjh_fwuMAR8cibfbYH-ODzjXCUZWqMhdLKhuGSvMKmO-FRdp_Ce4zngcVXRtbWjGEUuaiz1gfgA3ryhYzfPqUu_0K0ULeKRc8Qy_cQChFucPwhOFK6D9LB0j5SjE_wt3ZWs4NSgccVV0lh3st6niN4WQUNceqe2iZe2o8ZPh0BG_hsLfWOZY9cCrsi7xB-yBz7YF9piLIdk9td62S-srsFEzQcqLrrdDA.jpg",
+        "image": "https://cdn4.telesco.pe/file/IK2lExnPsXwgL_4DRWS2BhmeZxNweChAjIQ4_qKi1n-Iie6Lo5kFkRWFyAgSQwXWmiqAirNo5Mf7XP7ZRwqHjBL1xfqSIuBpqsd2Nfj5yY3nsztR4YZISju5dD325RbOPXTQzDsULEWdtBPLEhiuHMoiSFQ3nDSf9nE9tdAoeJpjL23PavMyCGtq08A13TVBWSzsZbmY98ihJOILYsrK4-f6imUPxUBVXIwH_o48sL3prXQJYHA5zTiC723vlwCfegxFRvaVhcib3e2XPR05i_0d2Wm4yAP8FthHTLSR8iEeliKqeLwQEBmBTZ-CU_ZyWcsoUlRk9DPGCpwO_IkChQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"БРСМ: вчера, сегодня, завтра\\\" 2...",
@@ -1285,7 +1285,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/qZFG704H7B_ATlK5cgLFO6SLaB6S3PaBoGkCor_fwlccO_uBmrxhxkswIrfVuCBu1MAv2YuQWNEbHyMWE_7XcuIsOOKi57JAZaTqlmSw60eIzxo9YXF0yOS563io-u-UqLfX9xgE6vFW8rWU7Cje-BHp1Jtly7Tk9QKJFd3BoRHdq7afn1DwvqbX6fSl7UwqOGi8ddmCvLbNpvZ-h8yTLru0UVeLNIgLetYQpGo5oqnKY5CEcLbrj3LVWUxtz6p8XInx01cYPkeo2Cv8Zia-dAx5vUBASFFFr4_c5e-4eJFO_T6k7UOth2TBlfrAz9sZLt-hvicRTVQ-6FSplzu-XQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/JTfGm9iaNF9J6NLcW-lWJQdWdctMI_7fvLHHOZBCvBLJLTRhzdAhkAiW7Z3Jd2ZqbyV2fgYXB198DxUlSgXSIMy4cFr0Yj-DsHPw2mwdF16Rau1ITzgQ3X9-vPa8y4tq68dvr6Bri1hNDHoLZZavuetuntG9LLLf3DBzLon0X_NIBGwc9GkZpPVaKnyKqZeLpC665vDnTQDr1y2OUcMuA8cUEo7njdroYxbMc7Pz9noWisfB9cNf0WWcK_KBgJvtDodqqzvTDMWwomfNDOE802TeuBouA5sDix8SE9bptChUdeEtn1i6z65myltys1v2bm8Z2TmK34hfLTuMvLqIQQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
