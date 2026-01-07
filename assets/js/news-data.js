@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-01-07 03:21
+// 2026-01-07 04:31
 
 const newsData = {
     college: [
@@ -1312,7 +1312,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/N4ZiGKTJ4H-lkEs49xO5-Aig8h8IovkfkwDzQ4hqrTsqdDXb_nGBRFv5BFjGLAwWUCf4VB-8Il39_qYqGBAOEGfn7GTkOl4vjKhILpFvj-cCmKCuzRxPPnDV1Vd2NSnwrYvTPJAhA_gVoV0j-PvrTjosck4w5VlzzrBiO6ltoEGpuyeK2FR__uzFgPHUguZ88QkG2QMN_SCd8dyY5YiL8WhZPzAuGV3BqrqiH57_SOIGeIxVjww3xgfrI3B_R7XONvDWI_yKzJXIW8DJ2EO29cBfjUtq6g07qwjCzVgErsjOv6P36ZydtKLBthq8dYm0wdxtyQngNllENlyDmKJs9Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/FFtPvsn5iNy7GO5qw70zwZuWgTFm-jaVK0m0fXxwNN0MYIkDmDJGinQw13o3cZjPHPvszLB7swBcJdKQ8MBN-k_rtrtw74URyL5HJW9EKPjkxhsRxstQy7Cfwr_PiV8bWnoBT6D3u9nZmJreh7rdcJupWjZV9YP24K_WUSiHP5LdYK14Wfb2lG5MNEMMJG8dv36i3CxQiiXbsEhKavzwhwb99WCnUQYY1n2w2LX5LczRnwD9djImI3sxpW3PFwq3YRqf6vMNV7IOE1qMhVcwloV3el1BR7PeqqlWn9_IIPz8bTRbDvPTRuhkMxPPkxzvY9zddVpRkR7aNE9dC95yJA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
