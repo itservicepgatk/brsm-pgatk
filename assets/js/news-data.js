@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-01-12 00:56
+// 2026-01-12 03:29
 
 const newsData = {
     college: [
@@ -68,7 +68,7 @@ const newsData = {
         "date": "05.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/eGFxddsabr17Lh8OlJ9mmhYDvZTuQQYn7Zp669HVn6-_-Gw5FPKsUy-HsMxOUUuJc_NtitvbD2xYjVvzfWBDX6QnbShNK7bsTtQZuTzQ6L4Bv5EFSlYsDaUZgI1vuwSNg1e8qy9ZYNni5uBFhQPkdC5vP3mbpVrGxsW7fMzTXvOAHg1Ul7oLE_JHvLpkOa2_3klRa_fWp31mToYW6QSm5mAkBGbBQiqiqxzswMVysElDc_YuGR1m2gBzASv44TUPaQ90LB5L5m_1g9_hUSRCglJ_e0U9i1RKCT50D3HhKIDP35UmLRWcghgNqK3adTD2T38nbDYTZL1wUXZOTQLWug.jpg",
+        "image": "https://cdn4.telesco.pe/file/ItYRxwmPwiY7CWPND6ZP8uN-l9JExryMjGXW_dzbMLc133eeO6aa47s-mKoO5aFYeQ0js5jtP4j1fCTyRW1ny-PEL1UKVVyIeFL47GBG_mtNkLPrwWBcYNN-lXE6R4HBpPRr8tdbi7BScOOkmZOTbfo1oUhstZb58GCaYi1rUWkTDA0r-qUvyZ9R67N6jr0whVyTa7VXDBVyQJ1U5r2ipAQk_2kVop7vQG2l0nuKJmW6N8x2S-vEoouwuAIeKLItte_iUaI-v5kvtQDdFDO7p4xJKov7xQSDxuK2GYrNDSCEljWqW6tOqYvnwgnrrqxqkgoTwOSRSENkPIRYEsitMw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❄️ Волшебство добра: согреваем сердца перед Новым ...",
@@ -1339,7 +1339,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/W2V7fhAHccZAIUGPSwoJj_QP_kMhsJs9AouzYLtKKtrJj5cCaYi8Da2EOUyxHzle6b0hWMW-Hb3-brhYJy_-sL13CkEaX_3VyhpCvbPfIlhAr6m9sBVPlwmD0vMI3gI0rRhnHCW4zt-TR52FDW-0_6eezZU1QIuRxGoaXU2LGlqW8IxBS2087pKNyEHkcZxzqcR56W2-iveREJlGAxvHdMDhUnjCb5LWltdOVT81y6gyYAqKWIQmEbrxxO0nyRfusgnVjzGgHJUSiqhuSo5H-T2IOOq0Ulbw-C7bvLiIk8UDcpLfF89wO5bx9PZ4IBs_F1XLAltssL4SfEPmg0cR4g.jpg",
+        "image": "https://cdn4.telesco.pe/file/OVixq5fCUBinPw06aC15rH9fbxhFiEawEYnHNK8QA0sy3-4yulaPsoOegI63-EIxYU6WPldv0sWZGXOKoZlklGspbrmlgZMdtMVIZ8_tpKloJWoEd8_3jM0sWbbmHH7KNFMJ4ALVZqeUKThCxcOxZR4HxZIfHgAGztkiAHvvsmwvpAnntI4LdPtB4FC6Xjw7Lb0OiWbJfeGJt1_uUYv0I_shuLkcz25_q3xWbegjUBFVkU5j_Nbo33V7Ki_xNaX1K8M2t9_MrBGCxJCudQq8V4kjOgapeW27mpdziEo4tAowP0Ycj7Dytzg2G6eiwmkrqCNhapy3TjBw0Jqvt8ODig.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Стартовал проект «Молодежный квиз»! В рамках проек...",
@@ -1483,7 +1483,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/J27P_Jm7ExvJ9O3Xu-RuC1wVkapnE8xUVH8WupvrwfIXfNqIVCzjrS8xrEM8tDWQVM_Da3fteVL9_DkabXL5SsYP3ARuaeo-x7aMSgtF5LlRabUFgzYdWCwh7ACNZkD0Fr4_tmOjBOW7zB5miiJleg0U-4WWShxqdyYrUx9aB8Mv9oOwxcX6iXuKFxllgH97GnXFN-1XLWNyXCT1nuwTckh7jKztDISdDmJwMrkQkgPx8dD2HIyXPS6G9U-Ipu_Ahb9dXDiZlHAUGvGdcyTdLjX2u98R3juo0gTzruDSHffNau5duEcjtFZ9tX0P2izK-NrQFHbwhWl0qYEUGaypSw.jpg",
+        "image": "https://cdn4.telesco.pe/file/b4Z5sp3cBXeNXhBhNyD2KLuOclvAVfDYi2PLuLKnJryAv-HJDbSwP4Pv2AMhBuQ_vbORZEcb1FoH4uOBHJUbmHpeeqfL139LluW_QQxrOf6HgljXPJ0m89MM8bg4qFCecjCvPahErblc39fUm25aSFGpb84jt_xDlMlTtLTJvWTKkWcp6Ei6dGxlUYoP4H4GTOFhP4dBNlRTdIyDlej-unLNxgEhiqllTxl2uP5YJqKkCEkk80G4VUT4_VXh5KKkYXzgyBmU7N9MD6hRZg_MXKFyBKF4n7QHDCwja8gp97xbWJJ5_IeqsqUh4w6OORzOQmcD3bqMZgFryuNODTA1AA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"БРСМ: вчера, сегодня, завтра\\\" 2...",
@@ -1591,7 +1591,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/RdhbnIdO1gOQJMHUNS0n88Embwexe532jZ5IRsBvLaRC1eTnz0GS-KmIrrgZuPG4Dpvi8DB1pAeN-HVN0qtaH5uMLQSg_qVZxNx8q5GuSWlCM_77f2DYRVtyhVPAHB6Xv-YtytS1nt9vU1bHKBz6CCzFEt3SNeTYJAg8ngyIXVISyQUH5zPb0jcnKOdRj3uEsUCjuAqUE_4R5aS7HhJEZ3yXNAlJ5v9OUUBDpU6X_K55tMIeLpk03rDHZ8Tt0rUWbpyfS2KuVYbZjSGRaBLxynVn3S5Ts67sZDsM0beH9WRlxeGnzJ_64tHU_8WFLdOPmkd8UAOGAiL79ZUYDRyRvA.jpg",
+        "image": "https://cdn4.telesco.pe/file/T6TOxKeHC9ZAYfhL22HEGxNLCwsDHZJCNjUWit87CHcTFqT9mpDDrpGO2GF9QH8mauhVQGkkikLIXi4rcAEPqHe6cqNvKYt_emPzolyQRN9mHWBcqnHRA_4-hglG_v4GcmCJ1fWCUVzEyEZOFZHt0SH8NxetTZ-NYO51BGpyzoVNDZg7KjLlXVIvf-Kh7LYDc2xo_UQdl4fNGChmBq1eL_tuXrYzl7z4pLA3c-iwIBJYYgxO55qA23t0DemUhg30ZLQDy_pBdE7ZbFhfndUff_eajEzu9yCa6CBqfvyLHpL9L8-Sh0gsBuHtmGd351pOITtE9A5mlmb-1uQ7MeKZIw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
