@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-02-17 01:05
+// 2026-02-17 04:07
 
 const newsData = {
     college: [
@@ -1456,7 +1456,7 @@ const newsData = {
         "date": "29.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Hw-TkazBJbLioPtJJ8T8Ds_Pnwzm4a6CAGPJe2dhd3zZ6pJUee4afLn6WkquNdjtQjU4D2FshU0G43PQu74kX7JA2SFf7ViaRp4UJsoDh9lQV1GYyVZH-hqjyBZDgEVt46LhNnVBEjP6o7hf7Ntx19PwJQyaenXOVBeJuSizwjUNoO3zlAqWB1q4N5XT2SqOjcRqpTS-wlKL-a1HSLGXSVZAMbsf9sTzWFI2ZTk5VOntabPGV1Mh_9XZYLPH67DpP6DdpuXxgGKUxas8ZgmAlrR6XxX1v7T49uljRXKukFIFZKZt6FS0KxSBYYeVVl5XEvPlx8k13dfbEMJDDMa7xA.jpg",
+        "image": "https://cdn4.telesco.pe/file/u1wCj1p24DOa5sabcwbS1QUTSaaNNDeIZfrRScTWw7l_QmaCkdsWVCTFB2G17exMMGocqubBvp0WSO-q6XCC6yKsDUNJptFc8Ie6crtC5jJ_oHNNmdI6O6Ke4u46y5C_qh6eaP3NKUmjAin6XFzYMmszbtgO7tElfZ5Lh9-sZdNSVY8vJf3YAMrpDJIX498xii8_zbkGfMEeAt_lAr6p0PBRqAO_-RP0rULkDUkyVNB8d25pI09FtRDiYfsvC-NMqKI95MC2MBtuFnTW6YWAzL3ovsl8-VuXDqRa-Dp8uCTj0QiIVFJiwPm_EZ6cVWbUjBTBjGqgIveMeavEu0avBg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🔔 Поздравляем с католическим Рождеством Христовым ...",
@@ -2284,7 +2284,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/jFQ-bGc6BOV0cCOgJCo0ixXeZWj-MSqggiU08OadvLDnMLlDfmmQk4v6mJU9lOYKQS2mAsO_sRKsbd9Ndrx1k3vX9cmsLzFFYnrvdKDz1Eq4QaLvKVfz8PWxdePsv9wh69jaIsvOiAiPq2Gh7knqXSm4brwOtvtwLd9VRh3BXuNUZYDZXZm3a8PZl6t3mwKueZZvuOVM-V1H0mqGUlmYnX5bHI99TPOC1ntNSzCm5n9VNINvVNlOCZiaAxQKchtVbM_xa9wS94ks3gaLukhdaSeKALkk5kvOHl1lnskdsijDBWVDXu7CPhveo6isD6qI_tDXdKG3cffsdjyNXbCMlg.jpg",
+        "image": "https://cdn4.telesco.pe/file/tREqkqv6pPmWcQtrya5PLswPaELt4rgEbHDCpji3CWkfhxTqIvi6nvJNgrdXDZWTctwJIphrKxUIfQfQpNdJUALna0kvoaU3V6CbxwPOW712-Lg5inJesvFX0G1G4S52fCEtJzGAY7L0o0ApZaMEEavdVtwBvELsOR7mXyRsp_m87YPx5MxJWPInD3IGv-RgwKEsvO5klY2KaldIYAaF3XJm9VMT4V-Y90HAqn0S8bbeUaUe9JwsW4z4svxOoX2gBmU0Qne-KlkzaFlNhEFh0xoGmKuC-nY5cf4Zct3gsPCAbwzGjJRvtB4fhjbrSHi464uUSQgLiRn_A9RD66v0_Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
