@@ -1,9 +1,18 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-03-02 12:31
+// 2026-03-02 14:35
 
 const newsData = {
     college: [
+    {
+        "image": "https://cdn4.telesco.pe/file/SZM_jp9iiKceIoYHhrhYkV9pTi2a5Z8W6pnoVQyAvU5WNRB2zBQmbF2v7ZlehRHo-Qlqqh4mBWuxX2Wcol4C8VApeALfwzc1TVeRC-hg4hY9Z2PnFU52syjGGq2ggXhOu0a7T8aZMxJfdb1A0BrTkCyiZZDZaRDcvaXn0C1J76WwLVq9aGpBglqpOr8jwP-Af9XqN5mdJ3rkiVrzSaPsmbR3BNsR7BPKYpCqfi1YFI4uA31_V5_nbaZUpKb4Yg-pEhXyxX3kIHwuxOAyEj8ypCp3U-TmDjlu9EpOt3gEcB8zJOmNg2j03KXoM_D_sIVKDOaa4QNfvbMW4WUWm8iQ2g.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Твой выбор – твоя защита: экспертный диалог Вчера,...",
+        "text": "Твой выбор – твоя защита: экспертный диалог Вчера, 1 марта, мир отмечал Всемирный день борьбы с наркотиками. А уже сегодня, 2 март...",
+        "link": "https://t.me/pgatkk/10678",
+        "date": "02.03.2026"
+    },
     {
         "image": "https://cdn4.telesco.pe/file/FRWsvUlhCHvKsoLzm32qvfl49etO3c0IXArxjltmdiW00d2_BNW9Hxkgiwwmj5NQ2j4Ld1RazSgPrvoGZLcnMYFX6kOl9OBuV_sDSlcLggMrR4VObkR4x5At-AyBNqhOksJkHuIz0S9zCC0u9OFtIWXvU1u-MhHAbKP8oKf17mMINuzNOPJnJOmcNvvc765wmf3JFq37klkWByKx9-bYVy8zgn65rNPSOnM0ESgSwOl8Jmcyzj2v7YX-iLCBdJ3HPG3--pE8i0Ljh4JbjxRTgpvEpGdC2yLtqxzIIi6LmTzUC0dJCZ5nNiqUCVnPGsLBsi4C_DC_uh75rYrbHgAnkw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
@@ -14,7 +23,7 @@ const newsData = {
         "date": "26.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KGYnK4S8kVgaqqoFyvvnRouACGgO8Lvjg4GBoVh5z302bq-UhmEi8Hr77HI5oENdgtXgGtmAntzDMzgWw4vUTLvWlhSIp8himgtsaQUAnlBI2vNIYRqTjLwm1OZMxup94ixknQUa1EtmKUcy5Hj8G7SyjGekMZU9yLlcZ_bQpTX5UN_RBjylkusOQcwr73fhaSgJleBcKM99R1eBTFKhQVC_8JW48G66UyT6nKggm5S8ihA5KN4EhbXonYUmjibM6dY40w37XNqaXFAajU_MXpBgqxlhHHFImzmK57YxER1UnPJLFfE8vcCuJn2oWuOMVSRlu5JPTlmpYv3CBZwg1w.jpg",
+        "image": "https://cdn4.telesco.pe/file/jCs79JKmhj5LHJg6SlAbSns-vUk46xGkl5YuHUogaqq2p1QSeTMbHBCeLfWysbvWur4Bkk1qKNFSSfs7F4SnOEeS9d-Jl5HiUfooemBB7OUoAMgP7nHxx-l9vSpyfwm2Ujgo8AtTo514s_-1EI5LeGX4x-SV73BgKUNoZ8TFfQptwr7bWeGYTAheNtJwQd1__n1FUZ3cIQdMHYBU1i51wD-gM_TELaIugPHUx0FVthOxr4DC3JOt_pjGQoVytRHgm7hxVkjWBqlW5rW66Mz-bzz-dMd-yOn5alqzYLaMQBZJXZ_mYOajp8FPL8Qf98LaV5vaXxS6E505k5BdupUDeA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "В прошла профориентационная встреча с представител...",
@@ -23,7 +32,7 @@ const newsData = {
         "date": "20.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/O5ue1yTa4xleZWv5UpUu6c6vvUVsgigrTJq1NtKkkhRNEGbaILSbg8noU7VRk1BqscB5L0G1cPXDnOQ16uK56melZ5_pUI9eSllXR4B5aI4y7_B9vGJosNpqDem9k0kTIfaLEgAVBZ1rTPrJ1zWHgo6BmU8I6qHhuvJ4U7El8eY85Mb_C-sbNgFROk8SHP_-gKpWzXvqLBJyEntNhYmxxc_rEzjk-EVBd8qZnIDFU0dw9vs1V4G1TBxIX8aTb9bhOv5I3XRdb7Jd620dPlFZ9rXWIs5fier-Jk4evrIPGGSENrmX58HpYduQS4QLAj3crA-6jEONK7Oh9xouMTvxyg.jpg",
+        "image": "https://cdn4.telesco.pe/file/gqIeMPPXUncziS_RLwRKbKCg1OpTJYM2Lv0E9qQ0W7EGV9I1prJ_VuCSn-G_-uRbZJCkCz_DjoQ2Y2rhQtS6dVQi8dYNeGQ6S4Zm4d3-hw47B8KCsciXX9j2kCD1n_788UDmuy6Pze5f0dD4g_-fK0P-RBO_LgsEiSbFIfUiZNjFyvds0yts3V-N3KszCqRyLpX6utC7EWoDUazVyimy10BBOgoSzK4bUtPXYhTZM37az6QKhScfs3b7xD-FuhDVZUzzwenex1XsP3BpFswq6yE9-7iuSE_HrOLO794iAz24ONt7zAeGBLcWUUtW9jr5Qhf_bgwAFzns_K-gaDSUsw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "В Минске прошел республиканский сбор молодежных от...",
@@ -32,7 +41,7 @@ const newsData = {
         "date": "17.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/AsbOCsUeTQwe-BMqvbTVQyA7XJWWB-3yJ_VdmpoGb07Xska50Sv6if22dmFrfIRwrR0_on8glIluN-0wjO2JgP3ny6zK8rq_AKXnGFJBEPdFDCbgI1OaDw7P01Mt0dsioV9n8XA4wBCWFNLBYfIw07uAhNA7gypHLb4fJXCV9LcFdEBM9ky41-QKOZeYDUEsfBQb3G5uJlnPfUrUIqKu35_qsxz7QjdUEsnOY3GHtYJZwQAQenjdF-Otrpp_Egmw2XmOmTwr_9hAhVNpHKuk40uFHwGRWnb62LX6fm3Uijz2JCu3pKeJ-wB0Wa3Zgv_NZ7mFWSBL-t-b0caSdL1MWg.jpg",
+        "image": "https://cdn4.telesco.pe/file/I-pjKZT3S8p4klJQoBWMtHhgQhN5-JdV92dy2FVSvbhtv2hHZNNfB3uHqeOi_RxfRIQEPUv7JL-XIG0-VTDHK6LRKvIeFFI1DWoCIbJ2IyFYVpNyZaGvhVZHpdbFqebCtn9z34H0egUQVUftcqGEkzCRq9Db3NwUPjfyt8zw2U7X1fn3insjwC4GFPooWzjMekWV8pDOxkveEPP775B7cykSK000Em05kB3DQ7aXDLxAYnwDJZfih11_c4KKcfnT_5b94xid-cC51a29KYEbi4NoN9xmiB4Ci3yFMQJEpguZfeKl-3LjYLzEXn3eD2edofVFQRulxNIeOX7sbmMgZQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Первое место – наше! Команда колледжа покорила лыж...",
@@ -41,7 +50,7 @@ const newsData = {
         "date": "07.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vOhuK1wTnIAAJAy-zt5Qew-fsPBe0W2JJFiLw79q5cPg3w5auBtQaiyV8WpsYWFk-982Xiez2DKPHAQ_cmw0QReKnCW1qJSl0dmCaSlVFyVNk9M6JT9QYO8HnhcHO6jRPfnv1eaQq04MLmAka9dk3NB5iWFRan7sa8SCOWnKzYhVk3FX8I8bKy8jP_hWD1sD_L4tHEfaMWkrL4giIG-Hq5JvkMhkTA66HtFPFYS-9ra58is6z8Y7Kq9N2yppLIO9RTAz05MolmKR7JAEH-DMszspih6utrUV2csyg6R319LGpkF_4EHfpz5tBMSxMB2SKZvfRO_brL0LGe7fyIp5MQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/piYcspnT3FkVnL7iclRVtip9XUiL_3yVxQ31WkahdpFaogWImLwwWQ4S1d2KD7k_PqL5rpbLbBE8D1ulcmpr1ilAYUJTbwKTeh-1-w1NJ-3g2ZnAEfaZ6PDkpcSwjCjuj0DK6gJsNdDkLhZa_iwb10wfYvlfTfw9diMKzO0tJDUL7IHmYDQf__xOt-DghSJOf7Bs2mUpu-51njoM3lj-aHWcdSYOWji7NJ4Wj5iPwhQzJlfQ_WmA5O-7r-bATC-MGRo9LCwFmatY7CG0OkSj2ON0q1ha7NmklscD9UuwBVmxIaPJtumslnrMnm5Eg5rSv-b9soMFtfIsKfoUHPuYzA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Эстафета добра: когда сердца открыты, а руки готов...",
@@ -50,7 +59,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lSBQl4akjmlVKlq5SZxAEPozX8tr2UNmkqB-T0oloxoR7eyZxpNHLZJVAFOWG5mv6mY8qwNMg0PLaXqmO7arh_kWd4wng9eXfGYzbh__Vcb0p6Cumt4qsNVfNKiczGyox0kTGFb4QGlJIoUmX7S8ZrxnTq250D3qTe59JBul04VV5xOFRRsx6y9TEDnSVIeZRBgZMde4l8t8ZrZ9y7st7Ia3TenIp_6t7PFBpEy_rgTArSCsht1gaSlq-nZw_n-Xyg0u8rTI31gv1NiAua2x3PAb8hONk60FCBCFl0YGeUJ3FU_Fi4WxAfr4rdWJ_3pPCc8V3bSOLvEXomSJo2eRoQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/OTzjvNN_pqDIDnIi2xIJuy17wJE2iWu6oEOG0weqBRMv12E-H2-wbJoLT8PmE6O8yk1J1IW-54ndwhnPTTbpkMlB1-Zz_s17eAh1b-OtavpNDij_WYdzODbOdVJ63T-pHHtsGwcnUi4Cq74nQeszEVks8_cTiSc7JKro5EY-0AKxaokGAIOnVGoR2N695NTszAXFLMC2xIeRX8m3EDQebCDxsmlRMVu0oB-gJRRPMXxLlquTZzktyiBdhZH8N1BjPuanpccy-dvQ0Q5lWVth256SIopNJ8hv4LaKnplzK3pXlk8Ps6fR3rITP7-XR8r5nsG5vK8cxnKObUWPM5OP6g.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "ПО ОО \\\"БРСМ\\\" награждена грамотой 2 степени! ПОЗД...",
@@ -59,7 +68,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KwRIQgIl8Tgwq4Qax0GA1JMTTst9lo4JH1v_NvK_uxqIriOuHbesVKILu-9QX3e92DGsIFdbK9U0lv8whOFc8Fr4HMCMrkzFJYyJOEebXgXvzbc4t8rAeQiA6ldQ5cxCMCISR44k7WExZl6KPuX2G9vUe_CNLDJs7oU1rdEwUUcAPVOEsX0yADvpByXByVfb4qsWfhOhlhi3Y9magkK0w7GX3JB18FMIvSamsSbMb8QFe-6gt4YTQQE-rs25Q7KPWN1bK0WWczyJ0XwrOt2uVwADD1dC5INYoHSXnQNWhMFuPaPxVEcgsMDlaMSSv614VchVsrIk63z22swDg6411Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/iAfd-kBSQl1_UjQRDa1VsRvOsptFiwUQklMQQoKsS27zNGLzZJqpJQQ1tiO9fgrJ3POKMgPR8GOTEILkz5SoYMz4l4Y236722sm-Pb-HhYNQ33kAReum5nbNPeOH3xcnrqZ0jnDTnqZULaCpMh3NCZkJ6EZFUKLvDPDWcNiD0T_OAQuevkBAB8mx5bQfHtRWIXPwKTCMYNyQqftZ0ADgJhsLRZ-axHyrK0KmSzls5d0MTBoffweo5G6QLFj-huekFM-pU_wr7BbC1eATyvVX94DYd3dMdLi0Xd4z6YUMKEfyXh-6m5Azqes4l4F8NfbPqParjewFfiOPC6cZBuJ_UA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Открытый диалог \\\"Голос молодежи: вектор на будуще...",
@@ -68,7 +77,7 @@ const newsData = {
         "date": "05.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fwxWWSOOrZKjX0HYFTWcvDPru5a7676dvrKEJzTGTW0G7fo3XZMIqTwFgCYXC6Tjuwaa2ISMNKCOyJTSdfZiwxut-IKv91fETRFIR2h75YMwUj6ioB8SFefbU3pARMhobR4PLKX73gO5lLy-optgSI-cff08lMdNArwbNtPv7kwbFlVvr-F23bWVpU_LRlfhcCUAvdFIDNJp5wYRcqXLrzGcV9LbEFvqES-56zkT_p5kD9C4VpTjX81-eubX86kjDNDUEvp9ZuQAh9R0nuBAXiZ3vrCnIenYkOyj-3UdzzUAa0pv1K08rlfmUHadeaiXUihT3x494s04QkErUi_Erw.jpg",
+        "image": "https://cdn4.telesco.pe/file/uVYz_EeFMkVIWCfEoMI8sa_SuWJZLr0AQQAb0x7B-xfuZCaCGkqzX6pZB3U-Llve3dIgmFAECrqr_WKOMBRdtabuhfRButiWDlRKyyvjls3SSgLd3UqigTcIrNsXcmIJwVIMJ-fj7bZv8ZAvQ50Qh3MkcnFRY2zxFqiKirT50kFFuSwxOYdAByHAERJscoxoou75wIrmf36WSNoGC6FkGewdUlX9pVR9vA3V9-FDMaskoWhpGQtEsiW4W9QgxWnxFyegV2NVv4pvWPYvsoQhHadXmg-qCtDXTe4cuvPppUlFPMltY-W8Ovbq8BC8CrXGX_fwOcd7sMV2TxS0RITqlw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Молодое поколение помнит: уборка у мемориала Для н...",
@@ -77,7 +86,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/taO_TV7v_yIAGxoyTpfEm4Ah9ZRlfnpjLszUExMJjFs5Uf9YQXk8Q0IphStWAZpDSQtGh8tMFrNOCYIdEZ_IRVLboD3pA0HW3kqoUHugNxLE9NehJAMom3SbgUUpHr_BFW-qfRBBH5nYBg0IZPrUCcXKm1fGf_5MTnYomPUhN2tQtQCkRdFV45KEyCYYe2P4JpZLZIyTujblSv5KdnD-Ugk58sWsKn106RF-pp6D9TgXnYajun9rLRbB9_B_qq7mmgI9LkuU2LkR6cmAzyrctDnpo0-zc2tcCZHnKWF6KFdPbcJ31ce0o-CQDMqSZLikvGdYVHccaSy72CaSuB3Teg.jpg",
+        "image": "https://cdn4.telesco.pe/file/WwHiqueAGqhLJZMh2TAakcDGZh3Munr4cg5UwArdgsll7t-6lccarf1o-jfMrj3WLvXmwZoR7oHVp-jUOvLj72m2orvuMlPfchqg8aJ_VfDDYrspHCvaVZ39MP9ztw137i2EsnYRmmcF5IisraOzcflYOv-20vZPl3M7XjJtefz8nCIu8R80u8IPDdJEtY85lNMmu9TnLGuClMc1ABzvCtLTT8BI5x4EYG8p_1KjrKMEKrc5Of8AdeZMXx03fm4M239GWeTxNETJzMVvuK0TgU0CKruMD9rYaeVK67pGWqGrlkxtZ8FKH7LhUqb6z6chgJPMniLfakU81z9n0d1qhw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Эстафета добра: волонтеры в действии 12 января, в ...",
@@ -86,7 +95,7 @@ const newsData = {
         "date": "12.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/cYpHmm8tShBsFIgnuc-aRxDyfje8kEC_x7jeDGNCQ88cyiUzGBiX1Ybaxo2AExiNfYYIZhzpuSJFyiq7z8PKymhIGHdFzCeDIULWjIR29JkahkjsF55P-rFNFZ-ZvTPUnis6PrnhbIZwkNgD5p8FYyVU_BVuAmWAPKN0oXR4NFA-ZBnPlc4kjhnXqJrJFdDiTafq0d4sLA4zLDXGCTmGv-oXgxfkdYlGPZeSPksJniMtSfTV8jzhz86-YPSQcNWJpFwTtp_z9Cw08y6nhHkj-7tN1PCGVCd5ms38J8wuIfjd5iBM_FICy2FUcMj_VkwAawaAgj5kz34S1ADOugso_g.jpg",
+        "image": "https://cdn4.telesco.pe/file/JUpKZ_xA4aypAbpZr8sv5ItbNkX0hqEa-x5_W4307Qduqh9Y5XHgOcMTO3TCB06Nzp0WvUgzAxS2Tq9c5_-WgXvnfZKpJRk4KEbvuBYhMy7dQqtjrS2TJR7Y7ehmD7HpYD4--7N2HT5PBuWq0MBg_F3YHCmRFrVd6hC9DXmf2B2NcU85FidT6fdyO2I8yOhgQ9Yot_3-2VEQ9etThxpArODbusTQdYqf99x1kSNaNYSuKyudEfRXXzKUEajbZdS2oX_5JiE0bnYRDKAaXZG9leclil8oyeG5jDc9D3mc05mxejEdAVmXNfj3b17w8rE3BFcorhebgci2D-SrjqENFA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "ФОТОФАКТ ! Сила единства: ПО ОО \\\"БРСМ\\\" и коммуна...",
@@ -95,7 +104,7 @@ const newsData = {
         "date": "12.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/miYXiCU6TfGAeQ_-fzsno2ATt0RWrGiuvfF6uMcb5TvQfq58fQYVzsiGbAq09RIy0j4cVfzR3gYR0_thzJP9o89HydUT12bF5VxP5CzjrGmefDq8j6zdXS_5JNbeakuS1rXW7vjsmZjBnhUsMN7ARuvWSz1PGnevQNNfAjo-AVKPh1Bbz0kQVm1KMee_oddMpDabEJb_QolwEx_giyYRYsw6Te3HK6tXtKL1Y9nIIVvlhCuzdDcD-OEPAjFx88ERUGM36mACaO2sgFa_uFkypJqwo-SN3FhPFdUAcSUtRk9ZsMCJwaKJopLasgalWBabGTM50Z9_lwRlFnw2V0hwjg.jpg",
+        "image": "https://cdn4.telesco.pe/file/NuuCciWBtS_1LLJbD4vfZdOnBHg89kp2PPd1XfcRDGVJ46FvvlATJCgtmJCgXkJEKidHaiapUxzSDFXVVVf0zvztgJBPg7NcpJhPdWtUbcPwx-oFr-exW1WAXK3iIC_uwSga-dzTk_R4fyJEJPfc2372wzhwHSymPDuWVdRSnazpnKps8yD5OSuV6PDPG2M-WhEwIZTY2sqyytJGkp6nYNEio63vJsEEqvOPdgFx9B7CW3dHXi8ODYPPFmTcBzLW1IOXjQw62cSHDXZpA7mNaYi5OJ0LqIBd2qZl4rti9eioymeqXiaSJXZdSIgED9z8ulT_tI8Q4Sh-elGHRRMtQA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Эстафета добра | Сегодня, когда зима укрыла города...",
@@ -104,7 +113,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/MeXuqsaBQM9Ry4XoyKNuFuzhS34jRWt_HAW0UI-eNsa7CwCboDiVuQ15WFyfGFbvjHl0W7vXOJ1JEYmFkse-YerSqzVrZ9J-IRi222X7lAMIRk2z7FTrl4vIYE8iscQNAZrXj_QChNzcCuHlLL_a02OQLz4Aa6O3qLxeyJ6-UuDzQjPKwBHa5O7gF2BbZvJIe8P-P8NkfxrYDe6pJvckKCvjRKr4cluO05ZH-fVXVA7bu6KFGseykZvfInHpEDnRxI_fI2a_spCAlZfqRZUs1KcZApEbWPzRhHFtKM4HUuzzpR5-62w6dMSwRaKhdkx1HNk5N6BmxFRI0z2g5tLG8w.jpg",
+        "image": "https://cdn4.telesco.pe/file/JvtTcCVzit--2V4RrwkkzQClgdBriVZ69Swz02WRPv3ynV5pjRzrcRgrL_pO3EsqAQazeT0-FlptK8VSTVaNgDrV6omcpkbv8-dm6U772wPVGM5qka7ilYhGYr4s6-0P92BO84_bV_fRrr-Z_SjhBlVdXuQRc3Wjil25NygJBnxrn9Rp2JTOusPTT5Oj59hd8OJ9IEdzqZdpf2YH0KBzu7sW9XxdsvbNXYOgQFr3roOVXancF0rexKyDQEbnZcpuE09rjlQ-GAsih4iK22Ovo7ZWbkuX7PWdS_gl2VVUDmZgD6DVUk0s6-VbhP_VIhi-txSqgYdUVjLX1rRDNnEj4A.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" спешат на пом...",
@@ -113,7 +122,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/USNS2ifJNepEQlMTFh6KBhkFaqyZScJx2qS2qUt_eQ6uo0FcItf_2ZgLPbxrhxpIj4UtkuSjIxG-Lk-KXirgkAMSQ2tOmPKQ1XlQpuGAdhqV9d94e7weZ7-5xKAf_jxNP3Zk_sbOcRoNC-l8R3Xv18PTcf5gSeQ4HhCAFq66PIrP-yOBsPzIaZYbRwRmXDOeKkSqX3Q1PFllgqgfUi1p8V3EzknhYXCNOEPYgc8edx57dNv97BLIth60Paa95TDwgv6XmTyA0xlSR-QfO0UhsE8-0GnNX34HUG9ZK99vSz_MkHl8rdwLENVpj_-DBB91jUjVFSLuq1Rsr-wDogqUgg.jpg",
+        "image": "https://cdn4.telesco.pe/file/fv-rBnkqTYo5QA81G4wa3bfJIQMtZUvdGRBKJQNc0Vpi1FV02_LEzWh5r3iMJwEM0oCt812XaBCqL_TIqQ2faF5FTwE480088IfiUGFbRqXEZKrijX4ILbIsyJuAxTxw_u3GbyvMUPwzx2Va5I4f0lV2Hi62C9ynh2a5TLicRYw4dXqCO5Ra8bjM4gt7ngCzJk8rKk4CoysOyYLRoNUht02qRcfEL3xZG6drwqc6RnY7uiia4sVNYSu58mVzxBHEqxDrsaL_CSADFqzxcW7M0veXhTPaF3OL6SYvS23qBzD-QsHEmcTX9ND0OdUFxUti19-jSCoct-KMmv0plGc9ag.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" спешат на пом...",
@@ -122,7 +131,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/B-IdWRWyxs4ZOvOdKzgxbQD987BVIntJhsiDlYXak7IcB1uXt1q3Ktz57WSyDYp6joRdekz-q5Nkbxz4SCiL4k3qsAV6DW4VVsgNhYRtAGEHnvmSdBpTV6l1IVXK_stDDlzs13TjC1_RPMGvfC5X9Z7uzz9yaZi9QJcViNsWIoxutCdA3TMFb3a9codMQCwRVS8dVXHOjq_idnKuoQZRCxUPtz7MTVocYRe2MiGuSkQlVzbC-fIC-owbMXUM9ZAh-ZhlqJkXyf0tWFdkWaqwQVy6WHN2j-VDNd1fG5gDD0Wc9sbb0SdnqAaofuncbC_okwHi_7batzddq9rtMuX7og.jpg",
+        "image": "https://cdn4.telesco.pe/file/XO3q1VI5xjbfp2iActZmcPyeUH75Ff6hXMv5wVB3bQJRL5mzERnYCmxJOHurqmXkICYqRgn55kZbcI3iLmWk2e30FY2PM2I18Q9lbRSpH5HgM31_Uf-wxPBN9F6LWesjNzj2Q5g_hsHW4X30xz_c6g2FB6ZH2lmx3P6KAswfJKZvK3O5OrmyXz1SyKSCOk45PZKYPUTrhZyPlvQUKHLaX3PCH05XUy5iEA-s2qlkeVcI57Y20LRTD46tJ2Hho-eg6c4SFXFf2eZpCWWlS067fAs17h5ORdc3l10h_FVtUq241zPdcf_RRrykP5qjctIx72M4z3D_FJpwp8cC5HkLvA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Маленькие чудеса для больших сердец 09 января акти...",
@@ -131,7 +140,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Edal1yydpITjhsq4POPYlZGN_vgEMaUALJqIBXO4hnOREMFJ2n2BLalLdOdBDfbIAItKC8E-2ng3MSKb8EHbUHQg2Ok7TSLrFJ8Qcof-OlLiEL_cQnqtbm9tDV77L7nArOg7XZ7uieg3j1VJKhUEs8LZgXskFgoNGSn-T3L_R2GgsQYiJLWDsFErmzBtEcr23GCyEnL1eMm76Vqn9ZJoFDcnAzfGvcZ9E2I9kClMdcfal-REqV0LFO49FJOWTxliBbbK3oboAN8LXW0pt-3FDMoGdnqrf_xngjdCwgYAzN2r_EolqZt4kBNCLadED13icFUzg3CjRY-gxy85cHRIiw.jpg",
+        "image": "https://cdn4.telesco.pe/file/cSfwBFC7FxaOg_thrhGm3HQBfKocCCTsMdRbF7aSSiUELP5pWMBmx1svUWmlfXYBdY2DEO2iaQmwHJ2CEOFL7lZPzxDHkY3nQY7SX6i8ap757_3SdhPfFnEdGxarvuskijZaWBGhLIGc0rkBmyMzws9aUMDDbSRj_Y8M7vglMjfvdi6qdEmTV5R1qHp3QSbWIrs5pC9PrNfHoAg-7K8RxIqpAPYKbwAS06fIzGEdo7gPq1Le3vnVL4C9vq92m7R8sEsHyeQiLTHDmS7zvcFo7yq1juPmtW5gkuT4dOhhFeeb63rGdAQ1nCZGmCdXmWywZg7O2nNwfGhmuJY9PhBxUg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❄️ Снежный десант | МООП \\\"Алмаз\\\" вышли на помощь...",
@@ -140,7 +149,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tAKrnHFi6m8FIkCczIlADEyNXqK9vdvGxbBeQBn8f2o0-V8WMSoZE09Be_3E6O9kKPmDugeuBcOphSMMmGgiXRHgh9rmD88rrZfwAns4RdLAHuzBKhA-eaenlT4M4EFF8FS4kiNNqMQ-uYDodMuBE8iH2jgqU0y0__12SKQNd9cj4BPwiLqEWCc5yQ-YlGII9puL7awzKnw2-f7rYFGs3cJa6adXrOlEzj_8hL9rLBrHppHl4xIouKGNUTQAUn5F5o-IZDCPmk7jZuSX7lkUsOhEFFix45gVNL4yv49JdmgkZeSYn_Np8Q6O0T-zXj1S8U_OcH6XyGVhAg5jdu5WDA.jpg",
+        "image": "https://cdn4.telesco.pe/file/DNduGBCFgSnUOsrYeRXG7H1APKk0YvR9beK-H0N6hEsBiJCZ7f1Iuh7Parq00-tHE1midBoa0bi76Jz9PAjaDGGdhIazvW-ykmtIYD1taiIKIGyhbKuQ5PbmPqmGpEy-cHv9z6ThnOvvmeVbmtIeTzyabxtgNgB-chq2EbAV2WapdPiBynUjeORLnpcchqeCDkl2CfXEmBNl2PNE9QpWSuxFG1ZkHj--64h3MnUzqFPAiEM2KBh3Gzdx6aZkgDke-AZGITPFUl4zuTSM4VgikWUmLuv6veGpbAaK78ZUi1FX9EgZYzS_FPZbgXEnikQA9iYFzFt2cAEAs0vUI-dzCw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❄ Зимний патруль ❄ 8 января бойцы МООП отряда \\\"Ал...",
@@ -158,7 +167,7 @@ const newsData = {
         "date": "05.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/r-oF5kP3E1e0n5ZsruJLOPNQ5UVx6ZQPd_4Z0uUnYM-sVgyAR22nAFk65eA-wT2b-32BKSN4GGTt2j_PM4ojclf89p2lscEf-rNGp4xwpfEMWLu1a_3zeZvnh7d3JOCYwyGbqIFUzDVy6CwKZITeW9jGoodswWmEFgLrC0qb1F0kbCKAwqaSL6yuGAbqmoqk58kNweNktVwOGzsZH-36iIyfuM5Z7jxvvBlyDPuCaGKFc6CRYb3k_6DtPIL6-Mq-5YmrrdVC__8MsZIvRW7v0EHTLw1DOTE3R9GLI6qN8gS8nJ_48eZq4VyLOKNmXOnKrDzMfxzGPoZSPU2hImil5w.jpg",
+        "image": "https://cdn4.telesco.pe/file/j2qb5sZc5q0vbA0WE0zQVuMeyqoJ3wph5k8KxmS0oKgJVkJIfflcrjganbSimjUJce3boeBmlycTtUX-noqpRwomemkwYVQg90PGRD0GlqG9z3Ett5cLq8dUnFaW0AqJ2e4E8M5Nf-Q-Iunn6S91EUzf5-yUs7UPZl68_gWzjNnSvjtFuQP_V0wf0_7ABQHUfVpQRhcQ9hVkDUUsZwHJfHG2kqO_IVnGdkm6TnVJgAYAlo_2lvITEQJXwYED1TasLRABmZjDFto8UcwJMOcuGPWy2r1GMuuGcBIhgqX9Cr8X0mUdapfmRdJ3ndRuE6XjT5VCS7jPCMrsdBJ-UGpY7w.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❄️ Волшебство добра: согреваем сердца перед Новым ...",
@@ -167,7 +176,7 @@ const newsData = {
         "date": "24.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/UR2MAuy3A3VY990ZQY6u1Gyxub-c1lap5cJAdUoPgDUjZWAp39eJ7DNaQ0tM0ogUhqmhB115Vo7QNyH4_7yw-IBeWYl0gZ9RM94FONZAgQVZLpE3NAvUJce4SHF8MMgyyjR2Nu4pjneWGrfoQ4uTWMkdjxw--nFrKam9EIfr7gJcXxXPsTa_TmoqZZNKxggXp-3sl5RFkhxT3Hu-BA358wZweZkZJiBADtwkj9apFyplLamyxalVD5LX_SAjIuOHU8nqMPC9s8h-CZBLtx7mInJqO66EtEzVHFhlBqzGcgr2ZBBLvOTmFWlENjz1u90lz6oOdcoVej5dOO9CPbydBg.jpg",
+        "image": "https://cdn4.telesco.pe/file/Zyktf_J0A2lz91aTsDuZqBAiR6kOG5qLweZmoU0ZFJtsq04cDp-Nve3-gceAqT9VJBYjuiMXZitfalWbX_lqxFl1t2gs0LjZjkfE-7tBtXcJlDyDc0_ZGz1D9_VWZ_JcgiUS1cN65an0_U-EdTNINYRXf0OVdKpGGblCmnKYo2xz7mS0s0HoHXhd8vo6-c0Ocb2sK5in77qYu_-7_ZACC60wLL28fJrvII5VwSrMLgUz6wy84ZekXZ23q6g9C7z1ZiNhZNaAlQdN1V_5-ON1Z-NpGTVL7GDKMrciGEArCyG_dxc4hcPTJc7Q-6mdT3jcE4oRB5LUKZgkcv4SOTfL1w.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❄️ «Зимний патруль» На Пинской спасательной станци...",
@@ -185,7 +194,7 @@ const newsData = {
         "date": "23.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/eeqfrzx4EH_se5ZNcUxWjwLKDXO_Kh0_6v1w_qvfOun314dfdTnD_HEW6nWdNsD02XSdYJpxMn_6wSPjDeLXwunDkmCNJM5NZet6ZUMzD3YeTBJUgfQ8RXgTsJmYfHV5esc6dUKg3f096K4xPHj3qoKkvl0HV8akBBOLeGsGy75Ds2gAVIKahzfj9UULVhebHGyu7Xwaby9pLNDusUTaNmCgu00EXQI4hFqGFFjsaOMA02SwYxm2Psc0n8086Bcs5h30a1IL2RIv5D49rwCHtl_tus3hXUDoXMPYG8Yic0qWzV3aV_3mhYMzDGH6bbcNNCwlxWNfIypUreHiJ8wMRg.jpg",
+        "image": "https://cdn4.telesco.pe/file/qPhPXoboD-SGZoCFBpylaREqNUflax9k28ePrvpqxhy5Yvq4F3zT3L2sXgZD-odpZP2gUej43i6EnvLKBcrSaatEGxSd1gREyiLX5mxPOwYO5NbmnwtVwzZKaeK4O0kL9qwelkLAE-GnqqZKjh6DfOztCSfbkUiXrlU4SWPnt74_HLgPr1MF43fjgxA9_fUbJxeZyWcuGlhhIFF956Txb1ZcgCtUsBt5YWCKiRRR-JoohwgZ-IEjyp9KdcE4_4t5XKEQqxnO3NHPq8uyeV5FMPxtxlVFb4ZC0UGZeIasb544BO_LxwAR4ScdpwWiup1tl_4krw1r4Ml15WUu0zKeLA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Благотворительная акция \\\"Эстафета добра\\\" 22 дека...",
@@ -194,7 +203,7 @@ const newsData = {
         "date": "22.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/nnPOlboMLaSCIVWqh0Wgx-RRLb09Hk_IJ2nLuCnJ1HS8YWUdosQI1RbCbg-LYec_tgkrRUntZxQ9OfIBubshO7yblNRcRytkqMgzT8z2roWOY451dTZFV4gL0qTUhkfUxJEse0Zo5KXXsQ-ncYkGeBZR2GKsfmsQvq4DVshLvPTvN9HrQ-c9WkLKE16WBmgBPXlCbDeRTNLGgVSQwqM4XGqjj7INR0NHyBAaQ71D7rrOhLngYZGIujwTpbarMh3g0VkTWJmLI5sVoZCy_fmU71aWW4pnw76dvfmR_IPKPFlxWyGKQV6DyXep3yalypQ4GrXs22UUvk2XOlfAGUcpkg.jpg",
+        "image": "https://cdn4.telesco.pe/file/gXXm944bTZOD1AInj7Ek7sYVGjzlC0JD16W4VBT9UYhYTonAg6R0TW00nLTqEmTuTkJaawaYxbJ3vXuAA6G7yK16Qb8QCM6pkKL8Eh0hb0s6ztumhFDHLHB9kjCalk2skNj8rHbXxA8FSFjJZpXU2XxHI_TmwDD7PO5nSUTCE85jB8Id6EO0pVTvB8B_JXrUpYRmKgXhRK_S_R8yq8Rj2mENh-hUuX-ZiivkOQYeiSseTCOTVwf8DBKLUV68SpNC9WkQyHk2a_5HwvZPEzAjjkTCtIuBDYuKt5MYDSpo4QdSOBSQcqn-Zin-OZVXQpwCgIyen5u78BjMnXK_ZwLydg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Выбор профессии – легко! Профориентационная суббот...",
@@ -203,7 +212,7 @@ const newsData = {
         "date": "20.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/kVVB6RxUFFHk98p4n6L70Qq38x94-HQyYzM3FiOYBBacncmQ62hNa-b9zTcEeG9aWdqy2BHpfmO02pawVfxDv2vHUpVUxqDxRFTlPJwY7GwK6O6y8oR2WVO1Uqv3YsX96pw3aFZxXuQuSFVONiNakFAHKXoZr3zXNEZBrjxZCj3cJM7IbsdkhwdO6i0GvOMJ2Xg0t6bZ_blVHY57_znfYhPoYR2EewIMLPk7yPvFQ3304FDCetCZQRWRcnySxqHDyYl1cexcxXaSOUeQI62KhFY1w8119-f2PguVMO8fl1VmNaMvU4MSEIFrt8bLZk5gQvwiTgBEtfLZqw5Zo9jBcA.jpg",
+        "image": "https://cdn4.telesco.pe/file/jSnqTrpiOZEhpURWGyLZBBvD9w18JwmxUej2AXmWdJSDygSqkTpnNXz1Pe8EevAv2wH2GhE2HbHptbPI_aMX7-J7ZC0nu9Tu5DSK258XgNO8GbSI4gLZZpEKyMlMcJvfQBTDVeguHcpHTkTAPbBWZsaXc9sJ2VDDwzPHwZvqh0wnp6EqDYsG12lNZ19-7sA-1_FcJxtR-mPSqWzLb7s1G-ik4i0yaQP8dmvExp2FXncSAS2V7jqQ5GTeXvrGNSqnLnq5zDhjEvkDeHU3Rfy6PlUqEj0p_FjDMiVpdSfsfkBnrrSFDJoI_UaUs-L8zrJAEuqSS9PLa332jgTtkIJ9PQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Ты активный? Целеустремленный? Хочешь с пользой пр...",
@@ -212,7 +221,7 @@ const newsData = {
         "date": "17.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/hLF9Agrmbh1fiDf7e4xjGvNMMSpV1AzkV7Yqg_vZt1GP48ixqUhHIv80APAoyReW1gW9KWAS5kVpvX2BmpKM4GtabhAMdMOETYdZHNwOhkuqzA1zivwxjaY4jpanDYdDcI61cjQBKd0YeHJ_QAZprxgd5f4bgqlMvl09d3-lN_sno_vCVucp9Z5szxeT8V_7XKc-4r6q7w_Z7PkIB8dXbv9CimQFQYJP7AgtRujBA0vai7OclZCfGKwoth2CpM09kLy3TqSrWELSO2e07D5NtjoRIHmMuMqWxtBC6BqvM9ZDGdHs5BcC8HTJyYbD6S1VeJincPHTO4eq5QALPgYwuA.jpg",
+        "image": "https://cdn4.telesco.pe/file/fNElh4BbOw-ocGEghMijN2Zu8GSgZa-36KQPydCSqs8pHpfpnm6hVKgQv7XkZfbTm5wko8eFvA5urqLWhNhQMsOGHHrpvJXsYJTkqHVJB50KOnqGzIBhPhEgwJgGDM4enHRtf3Y_mQEUomfRhM_h9t7sX9tXgvwUyTmcka1tpbEos7N45GJeMHgJL3uMWdhjoBfwesSrEAUl7GYzBHAdPvt06APTZm31ycy2j7zq0Su1ItQlZ0XPlgI905v-p16rMLel2fykhKopCQU7yhx_AlJ1ry3JSe8enrLZ1_6kDMgwOXp6RuwtDMdDpRzIP0bHf9NsEZ9A_PCPlySgMRAqSg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "\\\"Служу Республике Беларусь\\\": молодежь демонстрир...",
@@ -221,7 +230,7 @@ const newsData = {
         "date": "17.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/s0nn4Uz22GtscIdOxpiZWVrL1AEZ5T5T9icbZlrfgv_hYX2QTHzk2GX9SVferi3uBAnROqPNdbXnK2cvseU_UbtbEVyY8FqhV4wl2qbhSYmX4Kes4LHEkuAL6hHDDlw4vwLOB8w11ldXV7ZhSP4OgQ56Cb9ccIgju9m1-ro7vF_ToZNjuxzVUHUkDsoV9_2tLqVsHlLKTxSFohRpIzw2dbLwK7ktN-55u555J6ogQUkjEBlZJiEMnQ9i0vJ_JY1Ocpep6SkNCuI2bzPumPB8xKwYc7M9BFU3N5gcK_fdqnks41RUacRexBvEbnAEAbjuVB6Oi2Ku-XXk8QJlFWVMRg.jpg",
+        "image": "https://cdn4.telesco.pe/file/tTZ0L6KP81yQnHKqUp6rZ-KeeZogcB5xssHhJcCDyQUoKdeZ-nrbdb2ybKaE6oPvq-Mh3FFUrJGbABmMx3DirFd7fsdTTEqdkmiWlecmdseVVF-bOKWMU1h01s8h8jckDzsQCA6M_54QrEntIqSMWzOpKVY-OrlUtGQBEK50dx43m6K_9mRarycEsPAc_BqccbaHYQ7e3zn_Kl-yKO7QEmIw0MTZQklralD1stzzw4BfbcHVFkoZUZ3nRubukonni2CR0GEgAht9MrJKO5gvoQDpTLdV604zNjDJzl134jdGRTjSpACT5dFZ1kRdRqpRq-b-Mi7R-hWyGO_aQyALHw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "\\\"Зимний патруль\\\": ОСВОД и БРСМ учат молодежь спа...",
@@ -230,7 +239,7 @@ const newsData = {
         "date": "12.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/l7vAnK1o_h86MxmgWedlIaFcWU9o5zrgG94adUOvD76-OiI7TECcDq-xKG0eRNtSfvY6C_h9JYXNq1vOAJmAaYOdCdmC1p2CAf3Hru9AK6WzM8iVycbv9GhRTMo8Zoj223psKOlrCNI7kEuBg972MfOwiYQ6cmmYlaCUSHr_5NZTXhq7KaBFJ1Aj7vrD_Mt7i9CKbwUuw1iO0dWg256R1ObFUAX1c6kAHcE2Qd-_8OiffT0K07pc-8MN-vmLWM2RQznzjnU0vqSUa42HlTqCeOG0CBYfImfGAjJNGMTeMMGqVF4X2TcmMPbKtvMFx_2t3S9ThdMq-yLj3_fMrNrcgA.jpg",
+        "image": "https://cdn4.telesco.pe/file/sueDmsZtGI6N3WZlzJe9sLMNqbSwM2GdxsrTSUSElk-IraFI_tV5Q4w9OTCUQrkTXJJaOMq2AyUDbw6DbY8U-190myZ9LWOa7uVlJ9VyLBpkBcTYVaIwA1VIkF8LFTkkHe3LkO4A3aB7fnmEJT0lzehJ0-x2vvF7-h0Ja9GYdGCODK7A7qOS6IdfyK2eqfEwzqsGF5-iTSOsaZ1tZPJwm1nGodGfMfKz9BrB72zusjAO9JcvaI9ldunxkx0rfI3qugpYSs53VIOpAB39wqR6KcaYZKanjbhm7hKAnQ3Wfz36xV70xYyscljs-R9gKvzxzha5p1qr9miNxlJxDVixHg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Поздравляем команду колледжа, занявшую 2 место в г",
@@ -239,7 +248,7 @@ const newsData = {
         "date": "04.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/M7YYH7WBOtv5IYRsMqF8a4voxkavyVsqVoOG6BNr4X_tzG3o1AEson7h-PhUcoW_Lj-EVIET7ccAnK5R5S1JtNEMqFJU_ODSp7ZPwEuaky14UqqbvyOetptktK9awDkhIWbp2hB_Zoh2_YiLGC0Q_O1eyyi0KvQIpz-GBVAFqv5jrCqmIyHVTOrkXLXE98xp4Jq_pctdLtbpzrybxB8VkiJ5h39ZZhYkMdv1rjpFVCPJx5y3SZZKMth9JF6cUXS6RM5DOj7ovYmnLIvuy9-DkmJ3wHHzasPSF5QWy-MPtJdFWcqaJa1MklkSqkBFE2K6VjWKtwTaCU6k9JGCV6LasQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/YuR0L76tnXW1_zAg7d53cM3Rewqvem9DGbo6Tz8v7c_6i58Ob1LFdx3rX5HaTBwtALD3a5WkH4yXmPf5E-9tEOGRsX7yJWAtL-0CIs8-SUjtUxBGarOdT_ErgGqfhyjqTv5XBgNyjPkw2Lph4lssmhI-ER9c20wz8fL4rfSxFalEVbtUWjetoZpjl7I6h_dgmXl2M8r5mipTIbodx6aXXhYQC6TJAcgvtlWFkJidtVjfJQUQatQFUJwGIFJvrwZ1Av7W_ilswfEi1e6cVs0L89VSB6bFn5xfQ2m79L2I73urKJTN0ryyyRfvwaDvv7roLvpBI52mEPo1Brp-9Xc9kA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Члены МООП «АЛМАЗ» сегодня обеспечивают охрану пра...",
@@ -248,7 +257,7 @@ const newsData = {
         "date": "03.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/a0iOA5wjbXUfTofQHT7uQwsTMgJjYx-yUgUMjFAignuuWQraNPY6y5ZqUn-M5s4L82Iy0N0X7xjrmIM-qr1FK0e8fFJVjKc9XQ6aHOs2WzkG5vVvdih2J3_PGQ9ELgm_OFhSdBH1pL9GNzF_myPUkXja-Of6JnOn8-wmLwnlR0Qb1ooNOLYghTBK5BmDr63mT95OMONGo6QpUX4SbzrYRSKSXJLjmPfcygDOb0BIQV96D4Ms6JZSfvII5SuVzW51B-uljBtMxg1EW8_pFOgVfiq8KTT1u00X8quCvWwJGOqtJFZ7GSgfOoPrIFUMR2cuFRfsK0arFetC6AWF4eOo9w.jpg",
+        "image": "https://cdn4.telesco.pe/file/H-fpofdccbCgWqxWvRzP4BmOdbeDG_LFOOAhbdIAUNaf9Hs6eckHjUE0kwglH8TE_0YOfDf3qyKbdeSszFn7E7cdRKSS_M1uShjxx8SpMd1-tN9zIBPLs0ndN2xk9JRJiP_-Bc0GhHfHDIG0kpWXMSsxmySbc-dBbNxKHVV-Q7mTl_thRNQGfIBPu5LIAXTba8l3XQdaXfEGJiW1alUaO2u_GwHW1A1zuDtmWzVGwTlGDvJEslfOkZHX0B43QyKQnlVJnjNBA0vo4lZe5PW7tmzvTpX9J2SBvlvoPiOL8cjFdvFT2kjLEHYERbxo2BqxIXPmDcOsFN7Ud2eHs-qWeA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Свет надежды в борьбе со СПИДом: акция в преддвери...",
@@ -266,7 +275,7 @@ const newsData = {
         "date": "25.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ZU-4w9gppUMD_eYItYDWhCcOzZ7Zg-XQLW05Isl41g8UW_rb8Qq2hytIAf9ShDTEbdDxJtuBoprTzE5AQOqxMxL7RerlfEEhEjWCLew9zSvY_pCky8Q5-hzaUF1R-7gJiqabtp3uzF8LJPLfWd_T_2ydw7QdISlR1a2FP1d9e0gBtIJErKK4xNCSF9_CsX1GrN0ZBQfGQD4gkor7qYrAnCrq1ytLRyHMAspcpGFF91L0M4T2x20uUG7yS5TJaJsTtW5G08r2JTTDU9AEQWf0ziw_uwTidw13UT-KyYWzcF0uKR65Y1Qy8suuc9n3W5FxmQQkyphV9Qxf828zrB9bSQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/bqdZrubYKh1_Y-rg5AMu_3QfyqZswq23oeWV1rjQPQ5-mjqPxqlMaE9dS_-DnugvJpXE_27TwXGLSh_ENLZh-zNB8R3FQfgAAcxtnB_HNXIVcxIVhBY63ZmPW-uCX7IMoRTd790gqX8V4vvMSvjkJRGzyWdnxkBXB59x9fS3YqA4Wn--MS1dczQTcKLTkkpN-aJs8liRp3Kl0jwIitx6hXcg6WTpHdC83X7JLq89Zi6jKXF2yNGMObTf-bFUZVqJroonrB78ZJkA1YqU-vgV99acBlTQ_GGrLNZZnocBZxO8YPc2J9FT6dtvvTCTuDxYbHRnVsnM-UkvHnJpYFVogA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Добро пожаловать в студенческую семью! 😻",
@@ -275,7 +284,7 @@ const newsData = {
         "date": "20.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/eipUCmW7lHBCWGT3qBze6UdjlsPXFlkErGYG2AXVSDbj8i7JpqjEfZqSgjcT0rrv8mnI1av7t2xrQVDpsXyBZG-WeUwakfFrIhwtm4i-dnFueuQl4xWuwn0t2kFZPq5ds0tC8h9rTdPaIWfse3Hb8YQb9XN_9YmdPzM8OdYaTeCtZKdWS5xcja_EXFkoACPunQW2EGr6AUeal-ztuDbKukb1EoamBBO7zukZ9oH87FWNVIIuFZPS-RAx-EyviHCbEbtruSEh1cqnz7THwVy4eaJggsJmsX-7G5-1EPQNsgr3xW-sA8icjuWLzJzFpoOB4pFNa9gEOjrDEJh1aeH-FA.jpg",
+        "image": "https://cdn4.telesco.pe/file/APk7AMElrH9vPoCSsKa88mDpfTBeYkPdI85qLRC_XRWCwTDi6i9I9lq0o5N0v3aGQ9u_1mveyN5HwA0bO7vJp2nYJs4Ug8iNPL47V_hhCK5S5R5U9yXzMwg83GYNx_J9BT3C89RSNWy4PS1F75akBlkmD7rEWxVqS8kkSuxhshLZYNTghlSKGK-S0ZIgkeQy8u868uc2i20stVqErtKrDjv4vgBLO9buh0GK1r7TSx7VaUjcQuAOAO-sEuUXa_EYAdQQ0MIM2jtBat-VHpgHuoH-HK0DArkB8A0QnDr6_F6LtMIDgXNhubpZEkD9CaySFHIe15R6DcG8XsiEpV7TzA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Добро пожаловать в студенческую семью! 😻 20 ноября...",
@@ -284,7 +293,7 @@ const newsData = {
         "date": "20.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/l-Q3s2VDrHyOcE1VUqi7G_VBCtHkJ55dsP9PSFSA-nFTwdRDu2TIp5OmbteQ1yz6jEi9BqOHYdUS3P43jTygbtE55r0XQjDcGnpiNqGmi5SKmJ2Lc0hBVpQySvpxTQhmNE9525XqKODldOrUnM90mEGWWYMWkRXT0E_Ruh2a1ykmWPldxMtqvbSDloQeYY9GXD0CvjjJn3QOEdjbQuARICCGlVQeAvKyynbd38gcvd7-hYQk9YokKgp2MqGycppBFTApKZZWiIHXVOXP4AdXdDqBrX6f0MqNpSFR0X-ABmji_aJ9ay7eGsIemG1m-e0zAgSFnWJChUNjQfj6zIhMMQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/r4BZT4_1gfp9R76XJCRn8xM_Kw6Guk9d4wSBA2_nxerm1af4dETnW9N8_ADRhDSSSSCD8AXBn1_5r1bBIAZ1weHIV3eeiyonyUpKnFUjr4N0r9tGSQ2cIZLK0BWXorNTfJtJy31sMFdXjBwCXZc_dbrrEGz3-7wsomGelKPJ9PTuZ5hNEH4bH2lV1GO39Lzm5QBVI2r56CJqNKPPdAi2QyWqV1JQMyVbX3lf9ti2zZz3uhPsllOpF5p4SRZ0DjzFRV2uH5TAVBtYDoPpDkYiyp1B9LYZbupYa93XD8RV7EjOOrcfNpxVkZWq_Gjke6mrEpehFO7fumg6qQDfzn1HSg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внима...",
@@ -293,7 +302,7 @@ const newsData = {
         "date": "19.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sFMcUipSoxOOIKaZh-oky8jvLlmTuDB7KACHoZxteHp5MG5LCR7qvU_I6f1WhlIu6EWp0iqLBFE5z1fDsRpXIYxT1oHQUWph4EEMM1MMSlhhbyPs2gqKXoVxmJnAEFevJGhn1DjmEc5h90n1TohtRgN140z_78fLyfjP4RAYFPvX0x3SEPOun3BrDOjj1QTrKnfOwNoGCNsn7veYJwJnUXFXNBxrRXOE5MXGw-_90qj0oO9gSLGp0_ItDhj-Do6ZPjhrFDO8-cwKs-_MLBUFGadjYIcVZC4305oWdLDrIgGpfen7w6zTHTbQ5TmrS-WEWqwdTBhOKuYUc-YB3U-aPw.jpg",
+        "image": "https://cdn4.telesco.pe/file/Oh5Fu23el26xdvqFOJBItCkl6nn25p-daIz0aU9keo0FJmkMWMi-2K-k4Mcds6y4NtB9tZyWSxYszV5RnBMhdR6OO9wXIf56VZWbpF-ZFnRA---iecdX7iG573GLUsormKsTKnC0VKGzqwox78kBz3XFxal89N580zWt_su2CQfZ-84AApD-nGTBbcqiBhj9QRAQ_fpq7ZLHuK7juk1vTK8-i_p35TY3a69yImo2ywlPfMITOBzQY9HlSg4vdgNSioebmxP88YozasBd6m6i6jhBM4mPbpdgFT6_VlqGcCFnR8odZPWFGrCqDPIEyKIIirJeQee6N2VR6E0KfUdcMA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Уборка с энтузиазмом: акция в действии Сегодня в П...",
@@ -302,7 +311,7 @@ const newsData = {
         "date": "17.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/nW9kUhOgR3AsWOAeRzvJYBeeWpHEjpbvIGKURUhZ75ur_EGhv9BKleRXE5s0fHbv8KFKi8BRmXNb3zZzm8-KqQNPcbm04fr069XSPdtjwxq8lAD4nYiRWZazfDpyb-cbI2IOoPw8bGvUZHyy_7RMXm2DA1Cab7lzltBOfgckOB8UAqsMzqQZxMD7EDZAIA7gcHogXqr1SKDyEP8UfOcopFOLsFt0iC27H_i33NL26dlwTxQ1C3L-MMysdj4SinibX3nSMfmnnIwGilfUGp3TSrLk48FFabs1nxAkhtouCHIMhb6G7Ri1arTZ2CPPogR_6aW4A1byb3F4NwOgU2Idog.jpg",
+        "image": "https://cdn4.telesco.pe/file/aoh1-PVNIx15w06hbCNnmpNwGSqEPE9_91E6D41QX751CzdNa7fA7yda-dHKWqWda7dheupUDlwi0KIN6v4aKChFIP5_X3qzsKuCh8TBuYgKAdYUAHmdTOmEM9hyfi8doaegqlFwyuH9aDuEhRMZAh4q5zG3smlQa-8D7l8SUx-SfN7htvgLpIfd-4ncF09vIxj22ACCyOaeajE6WRkjGYJsy0RbASmBVwamcZJ155EN_tbZcsnTNBZXeX7GuEnUwKw4jaUDl5srgLPLarA18Gygk5T5r6vdLe1ZS8xu96EGQ_-XSssjEj7OMljGzvAVRx8Fc9pj_QZR7h5ULOwDBg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "⚽️ Спорт как альтернатива пагубным привычкам В Пин...",
@@ -311,7 +320,7 @@ const newsData = {
         "date": "11.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/EBHjN8o6TDXZg3F2EbvngE26e-epLvT_vzyC8kTt3l_mkPuS1lpn4MtTsJXeB65OPV1baVR80z6H2oObpw1XJc2NjuEpUFgwcNOgXPSu36Q2GGqWpLSx_2UFgky5iIdrwETpnj0XFKBq1upPEX3BqoIeuFLDwnFXZdY5f83mVAkPqHc8c40eQp0FEYkZlVslGaWNqxOllKsBX3tGaZA_kc0VDLgumqXGMA__SCbW9rRQOQUUe_Qyuw0x-KMBr6XSCrYSBoznjqXtbgXuynf-aoFXWP9z5odiX1yBjY9pUbD8BGMCbfujreSJLRWsdN9Hau-j3C3QPfDMycLjfibOBQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/l0XxWRnQD56uxk9sqXyc4DFWYYpL2oItDkXlJGTTp00EjmokmoGAcUv3YqIOobAOSAxLAYxPFGsJ1R97Wp1RzN9u-IJ5nNwAaZ3Inz16XE54r5CDtMjHPU8a72Thdt8_kNatCzjN2QGZB1GrVAc_d_rygRU5yHjEYPo2CnkMMR4iixvfnFXkf75wVVisCInfeyeVTx7QMvHlQJMpsGPufH1v0CMDlE5izMmhsRHqrAUgHBk3tQWkToJG90u0oOnRLrNeT0LF-ZoOLhWBK2Zxdq8FVQjOZ9RRO2vA0g-27jqK300FdnmY2BR0enFCukvDlKtduP3vfnJ8Nrphci5v4Q.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Соревнования по стрельбе среди учащихся колледжей ...",
@@ -320,7 +329,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/mDU_PiibjZcaeaqhplLAeuuc_p7NfZk49rVRyszM0pGsqjk9NFeHDE5aZF1bZs0AmCNECQfAcZDtiooLM2OaiHQhWv_P0WpqUzfLCx61tssaUhysf6LA47ehbX4dzz-BKvv8HpvziS7jm0yqyEbF8WZMX_ZKCc3kY6ye8NmuvglkAa2doXU8rzlH8sSVpUvPxYMot_vXaRImcRS9UpJMQHD1NSyFR_bppR3Bd4HWLVyyThOC_B81Z0sTfJbo4opS3SbEoKtmJsGmSIAluOUop9gwuUG-Ze0r8rYR0XSefCoz1D1SWZhD865vCI0OMR6xBZ2m3bNhawfQFlcy0KjleA.jpg",
+        "image": "https://cdn4.telesco.pe/file/rkJUiPAOjFbpjW64N8h8_FeJeoJS3vcXfRzF6TciE_AsZ8urx4Qbz1Flq2WNQ-BH8tz2IakvvEKCMzMoaaH6FudwcWxGLuORVCAhlkBgQ2eXbdSZWY2TY3pXd_1KG64A78XM_R0lwSpcDYbdsicpWUGXyDd50E21jnOOgPVdK_c8vs090NpPr9LPcJbzk9wq77DFAMoiSnbOkOhG2wb_E32Qfry-bIBZz0XjqkPwABn-plp68Hwln7ux1D26qQw67Kav_qIhHDIdNfkWFmO096-uL2zneKE5j6qdQSpDG68zOk9zO7W9n_ys7anUojswGLd6JgQe-_CyyKiuju0IqQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Спортивный азарт в : турнир по мини-футболу против...",
@@ -329,7 +338,7 @@ const newsData = {
         "date": "05.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pvCVX5QjX761tzeLVtNBDaR14dLUUGvobB7HXLtRAvpMCeB_w4eystcZVQK0CqRrLioOM4nQxBVUjq3fQh9hOSZhBNX7YgzF0u6lW_YTA2V_I3dyggAhe1hc_4jfrTHzPdaWyTZmlUj4d-YHSahz0-QylCfJJQs3BxIu2ZZd7p4l5M4nIviVF4_0ny9pqeTII7ZO4Sq7InuYQMXqhM4St8Fr8KyPmMWud9FMjKOFDDdE-vI28hw5XZ2L5zrlRXj8MWkhVOUJZjCbD1jfvUIvAlhHW6rWWm6COtPJRQS2DKDGGNGovgYExmCzsUe0Ts8RatCIzbYxyjXGfAckHhyzAg.jpg",
+        "image": "https://cdn4.telesco.pe/file/AJiJ3jYf1t8mKVjiQpo-pM4KRGDjPJifXNvQ-Ra-hEs-WMRjJ9l6zd-2hg_T79lVIAEVQ84pyDOE1MppNYkS6HLcBX5nr5NWbFo3O2enxjgAqjceATzMK-1xSWh5uOSdZ2kN9OoKL2xdlHvhRQyJqzIwIb6blmJdV9lbBVtoYoGor0X0Xf-VXx9nlT71SelpmXVlsQzldVaRK7nEzIFIreZDI82chqcBYcfhtT3fy8RpLpuPe7J-7ua_KzxFD4a3kUAQJKAWhgo6rJuZz2imKpjFK0oVh1eVgTt7OKSiwrsolScAVQzw5i4cqzNZNz88-d5x-rAkFlz-izXuhzu88w.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Обучающий семинар для бойцов МООП — отряд \\\"Тайфун...",
@@ -338,7 +347,7 @@ const newsData = {
         "date": "02.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/W2abR5xdqM-es8r3eTUpLKMMa7ClkCiBzaq4ys2JthzSf28713969FoR5FnkGAkCccp_JsPcuazZTaKotVbMWmYfqsrFAODK69uw-8dfCeyECXdDVJLuRUudnPho4DRqXLyzvceR78-bFrmooc0ZUjn21m7BBOKYdQGAxQb7pKe9z-1BrtI9yG2SKlEJ8BFCKCAK8nXXPK7ETpD7D-amsPOWTnsEl29HpMfwjDsNskcZbQhwMCCL_9yltwCATN_CRW6HCcY-0jr8fWbL-PciMkXdpX1wB_PhYQUhUR8ngd1FjDSJaEET7jY7Ntcyemrg-t1P6YhYk2ThHc-jORIqLA.jpg",
+        "image": "https://cdn4.telesco.pe/file/satECNHuSFgM5aAe2ilYYiyAMyprHBlISvdzPGOX-tLc7JgTG-1e_mJbiwX5u0sIF2xcdIXfAXz2upInBjisTJtuii__Ongs0KQeP6mp0WhFFsMH4LMy59clyX7L0L8UgjMVIwSCF5pmkW43vKyTBDSyC-RMpMR7_NC6-G4wNuGzRkq8ciIh20HAqvdifKuMRXn72cgSX9icbZlWARcVgZg9BKZLmVBfNaXGW_WquZrYMDo5XnXDeuO5227c2OyfFR41n9Tr5ud_gIs5KpzQrTtxDEP6L1wHHHN7uiGru_EkplWjf_BkZSweELT4ecvZC96q-Fj0YxOhs89HiohPmA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Стань заметней с БРСМ! Чтобы сделать наши дороги б...",
@@ -347,7 +356,7 @@ const newsData = {
         "date": "31.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/DSPKbKBlhY1KudYXzob1hl26X14Z1HvkZNtVHCmk_4lRJxo3ncNjegU8RbxT7Y2RbXB1T1Ua_6vx1vcRl8l3nZkeiLNmy6ZKqnPZiSnFx8R_sVcZFVlTqepg3HRktDkOODobFytnwmZsdhlU8rnuVN7Uy828eXDgDTMkilK7J1pDKYU1zKjkKzskCp_ObJcMHOsfpd0VtQerkutEcXP58Qb7OSLN5KFExq042ZebqigYR1ZjUQrZS_30q7UPJZm5r9XjPHbBclhPCWO9zzWiOxEaS4KOMxnA7dyp_0iadrdP9POxzNF1JlbAIIiTBnhFxOjk8JqPtCFWI4pbvmiKyw.jpg",
+        "image": "https://cdn4.telesco.pe/file/PUZ1WAzogkTmEGoPq0Mcd6u1qqF_hBNDPN3ZMIWNG5XyOoY1BQjRRYmcmxvQD9O32QxTFRcDZXhLVOssljj471CLjdzEdrbuKPBG3qCHkxUKHG2lAj4j6e66TEQRmYX2xIr5CME9ajy_rE0hniMhVepyvH-_3C8egdN60HeTgrSdlTFwE-n-aCX95S05yBVexXbaM8toBzxJmH80SBQiTu-NJlnHUQODbrKncTZotz2W-fSbRxkYL8M-ZeeeaF0ChSYc4VdKPTrncO5JADQBNrSZ30TTIT5AJ4d2VPaLesMtNZWryJkUlG95xbnsBDwKIlqiqVQtNHnGKN1_D9rMfQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Поздравляем команду колледжа, занявшую 3 место по ...",
@@ -365,7 +374,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/MqRswoRapL1Nljhc905wMFi4k-WVwSwGkKtGSGv4MmsDyLVV3S0jwxxuEWYjPSJHHWsNA-Q5McLrJDlbnL08lg6htQ3qUNPwEMEdBHcs_FwBku05e0aD1CctRgcOD7QmLA3sa6IRRD1azQlPySUVnDDzS3wgtoblOGMXw1a25jsiop_H_3txChqlm2ADt2tOi7RhLKgghStK7ybmAD4ohpYmrDztD66qHx9N-0EPaf2NhR5OmnK9r_YMjQbfhr_GB93hGdfHvlkcPpu5pR9kQQMjhL-k1MwitL-rjWfglWLnJ5snS9Pju7vUOxbI4VAGeyQsT_e8zbFI911MCX3spA.jpg",
+        "image": "https://cdn4.telesco.pe/file/q2VlxPV_YvYtUgW0La3G89CSzPSfj5wYiwblCYnsUUVy24n8SMJmUVbvEyhVPaqlsv4NLfve3fzCRiuh_AVCgR-VF2Q1rZaF6rfwNpxb3pGlsLXdK-9h2IGsuCIORuqUrYgwbxrXqpKeR6SxUf0CCm83GatCEG5QngdldMY6qZA4HY7A4fll1Ja2Gn5T2e-5loqj2UmnWidiMxBjQijJtJLmrYUXHswAfMVVQa6PxdXhXTYajVPikhF_0hOL-uVFDoicak1ouu8cdVCq8H304ubY76b8gDUpEiJqkNkQQDnfKqt0LtXf_jqMoE5ifZ-3Ywe_1JbhQewYbojlFPGsYA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внима...",
@@ -374,7 +383,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/o_xd4a7ouuxxpDj4SZZLB5vpLuUL4VLAR3AvJN1-m4KA514K_azb143OQeCHbLKQyndLWIbsPMmxcpvNn5_Sr1eYByDUa8IPZclNA158ulNX3jw9mTU-OPsQDpT6jbppnte5YHWvvlsmrCLi2-JTUtcq3jY9NujihGv_s9pK5AHJoDdErskTeW7zw-0lk-VQ7RI9_eiFjQHHVpCz_V3jWAg6fB3ocIwTDEAnTK0Go9UfQSbvdFBf23-Chf4zMsFZ0z4ArxCp3QxTv_-8ABTLPO4LuhL1CyD4BdvedvxEmrhoe9mqCuze_GAJwvmwmq6iuRd97MzIbEYwklwZ_zP55g.jpg",
+        "image": "https://cdn4.telesco.pe/file/OPqcNf52UOMxCeuZVFWyFMA6GM3Jzwqm-eNHyNDFe3FO0VYzQr0URvxOkd7RrmaNRiTblssiaCAp4awLnLtUn0X7hMwR5JJct9NM5l5w3KSpvSmx4WMIOkzKcYeWlIUddA0U1Qnsx8DrGYSrNFXY61maa8VKSnsLHqWZw0YdH3nmGX-Ug-JqH59Kqm6x9pQvWkfFomLglU8PMg0RqqrQM-xkLVACUmEesKCBevKljLIegL3QEE9WmPZxNtmMKZu2udjTbr8FnQNURxKDn3ONrNK8auNsp7X_FowXlr2YPExT2zDFR3747HpTgWTQc7R6L__q_U2ak6aItbJLYdcvAw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Плодовые деревья - подарок пансионату Активисты го...",
@@ -383,7 +392,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/dts7txZRrMnTiiYXUlobDjZq1lW_XaRKpUH0Qy8VzVu3GVXTe50wIKYl-vOaUyFMfUJTb0AFypn0kb8ui6LEPAMUJDnO2DiYOGEEGorllVATl9TKgc6DdrzgiJT8l4a6yTf5f_PqUBnPqpmOLSgjM1J2Eh81nv9K7r7Wlf2Zrp5TeDnjTQXDV4LSYpnnSYHD0D89v7W3x-JoXihjzwGymd2ocCzlLaz3AnOZHtINgtDCUugrqjwHtYOg-PWwlt2VUb2SvYMoYYKRlPG2fAM1G8bjPNng8hTchomVH_OFAYKG9r4hYscINbcnAsjotyY9m4baFi7pN3ltd0ABlCJWww.jpg",
+        "image": "https://cdn4.telesco.pe/file/qJAkYrv-zOCPbdgMN2_ti6R4q4-nypaO3J8xSJXIVwU4666NB3RI30JsdmiPSFhRf4VseGum-vLRh_U2mQaBIJYPW8XISCkjqoWwV8U7GblxY3S7JAsItaCVyEWg9UsdI1JJJDQPqOcNHoogykDgpxSseJISNqBFRFf5pixfrsI_W6fbO_kPIKH7b-MSDCJLtCLMWBNAxpdRfhgwiI87oBnJ8M41X4L-w2DUyMnhsj_SaQSnFgl0--Hnqqd4Tks2KgdtWG1FvN4FQW6f6eVbAqcrHN2BmJISIn6R11kpo0JyY5eZrMOIE9PJbeZOpTeOIQf8Fl_3PqGd57qFZBDuuA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "На базе Пинского ГОВД прошел учебно-методический с...",
@@ -392,7 +401,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pGwDwLnNOcqFyzYUxDqhnt4LH7QKnkrxHyO9PXryzGSiNDDyKorGwFNObnzP6I4R_QPC_P-dnnxo8d62jDYYBJ1TqVuTWcecUy93ze8k4iCcaWCc8vqKnNhXQwFeo9oy5VsS8DJpes2RYRNXW-ywbcKRCVQgHRH5YCI_NKfQx4r3AAkxogFOiL_fkVHLvTDVoludxWxNWbsSTRLtIqyDjXk05KQNBnB7D8WwGdTrOk5uFDWMdDzNDXt680wnTuHlzTk3A7aSGta0Jlw_Q3hwfkq3TwwsbpWbH0nVcEMNJGdECXBgCbry7x2Iq2NYVqBeJuDrwd2zbbreYMDGCRxTWQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/qBb3yKBY6pOOxPAuFB0P7-NXEa7hhwik5fx_HhRCK3Uopul5bGdlu6BGyJGD7njT_iKaW00cYfFwZ7Xj-H2NAm5S5mC6tAdX62o0BDj9-cW9hbupfwS5DE1udoQb2_EaLgL-puA6I69CvfUvKTwZ8jMlbj9ms2VjeoYmNjC2iuBzYsu7H1KevKBhlPp_AcVb4NAKNKEBuWqqGMViiiwfLa3_v2lcBmjbA_mD7CQFOrUzN_ZYzUe7ZenRDfosZ7jFyUJ7T-5w_TmqyOaD3vll9_SY7wPmI_4qg0VsUkqhfT0Q5JWT3HzNKsKntLvP8RIubjH2zoXoZTr0XXcYFyVFGA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Практическое занятие: \\\"Отработка приемов борьбы\\\"...",
@@ -401,7 +410,7 @@ const newsData = {
         "date": "25.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/DTV1wCP11JRYcOkZOIhoAA1VC3jTGjnquLnqu_8pDP1OCg1u3SshShjke1tXDEr203toA5qAvLCK09EX0-jS_GRdegN0M2Av4oVfbP03Sd_hSn0GmXbLWdaUm7vGmi0R6b-8rk4xYBeQwkF_thznnDFIkxjAcyuqg9W2TJ0kyo_7DGle8FMkz4nsbMJmR39wxw5ryg26aASdhjLoc23lWnfMZBprO4pj_GOyQldxqKVzCZymzASiT7iTY7coAlmp2MNodnfBnI7IHSRe0Oq205JeVAB0b8TDnpu9T_V4ZSAeo0S4Yjj8C3jLg1rDGjwEFXq_WYDH_Cjh-An4ZqEciA.jpg",
+        "image": "https://cdn4.telesco.pe/file/MLQ-wQv7MKPBbM1OKMNeszw-VwGY9yvRF_C66_g_7cLYkNaM9Ch8fY7PDem-Irj0Xru9tTz_3AVJLvComvjdu_GoUZ2A5-zs9zA-D8LWrFTku_8ZFvvRgT_KWgHm92gxlmJVgGVCls4ZKyLoznIqoOIWnqhOVrJQ2r4cFCpmOIfVb50TJkwEGZqq7-CLHxqPRtEBHEoo06SL0-TPvApPUL4flqeCqaL8IjkDtDvCdhJU6OGI_tiN4kHjoUqAV-EJSbA3Q--Nw-Oc2UCDwgJ3SbM6Y18HUT0hdUUbyqhrjLovXUv7yniMNblM_3eC2yEg81iqxlL35o027DIRs8JmUA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Молодежь : о нравственности, традициях и семейных ...",
@@ -410,7 +419,7 @@ const newsData = {
         "date": "22.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/jZbeyPygfuZqtMY2-lJoWvgHJLPrsF6uF5WExMciimLYF-QdBakQ8bUpclmDqqMlXj_eILPeFcjNtZ5RADAHjWWHkTwW94CvY2h-wJd4r-7JHV7kVmJAl2l_8KwOlC6jiC5zNoFc4XZHNxjPnjZw4_QtsmL_sQmUTiFvoPh5kT-jvm0w8paGH5AJl78C_O5G4I16XEJaqGe71FuNBmHe3LSRLGtvEQ1PtUyiYrs0G9KwM56k1RQoBJHr0saMTawRKIInp9RK-Pz0yw_dOJOtOv7F3-GylEagtsvl49dkHG5k2M8hkN_Lrpn41rBYjdK0TiGpdW1qk7H1fGAl7ABlxA.jpg",
+        "image": "https://cdn4.telesco.pe/file/DKWzZbRm0kNy83ueBRnq1YpCiXwxXfRBQnQzuBqwSkmPmgOSjvSpkCRigUMTf6BCjVEAQtmOWba3sunx9kjosKO_IdXVAI89a-VWrw2OmR4Ai5GW52BSMm4Dn0vfEfzhjIp_Ulla7fin33Y7_-Tmval93ZljAzWqR1VcUiWdyeb3IYVxONZMMIilQRMdl3vUjdVXI8FZzrphIClH-ySYru71uez9gitqSJ7EntIEx8Vp7SfKGMcCTZQAwfLh-jGpMR_wR1w2VvBXhNJDVJNnOfDqXM4-quTfzh0-cWnxhjO6P0si1_BPe4Pz2CStAQ0xB5YUGLihXfISJxjX-nry0g.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Республиканская акция \\\"Единый день озеленения\\\" 🌲...",
@@ -419,7 +428,7 @@ const newsData = {
         "date": "11.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vJ5hqCi34VzMgkudvIMq5BP9WAvGcelkNGWn0u4VlPoJJwaeNmY4i_rPYS3ASZeNSXMXKERstzLKDaDPTachrP1DuuyMbKnHodrsAALRVUhe_O3do_3qhHsweR0CTF7pbpb_np_wle9niudevBihPo5Ek7sTPEaTp2MsyktyyfdpFMtBaTgtipo3bMoJEbMYbb2Qeq75jkGGFoqdlvGfo0QtVyDcHPHVQR_mbxaHuDnFQwYF8FkZVWoCmQfYnOXun8WNUCNhW0fZ5vnCNEipSv8Zd6P73E_nnrZ9BsTz-X264rWdhbc8XhIiU8y9wVKg7goMeSlX8NrCpRn8CrEDrg.jpg",
+        "image": "https://cdn4.telesco.pe/file/UW44qrAIOtSK2MCPaUEnonaWBCJ9gwksCjoNcWDOb8WQt_7vlwANRiRwusmkdvsXlU1I7tGQkIdpy6ikg_GylB8d_RWw4o4L_VF9JbNOQ4BAyTetdw06pNQJUT_gPvB2evTjXC5eHTFakphaqUhgK4hQ5BxS0mJaRTCEvs5Cs_DpVRto6g5IjB2zaDym_gE3ZqYa3eTSCplY7qyZ73fHvo4dYoXljCuQD3Oki5xDNCMOCwg-RpqfJx94kOoSuUHHyQiRDgr_YB56dQ-Ukjg6DeI2DCnYF60gmLDAry4PfnPt_ETmCnr4vlYKQx69pftFy1mZ-nsDo0nuPF7s4484qw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Столице Полесья - 928 лет! Сегодня мы празднуем Де...",
@@ -428,7 +437,7 @@ const newsData = {
         "date": "27.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/gKfs78zIjDKyZ6Ep3jaySFBVaAsY7AWCpOipsHdKM1mgfMK2zsWAMvir8xXNk7PdDJ4NQIOvYwv4u0UHxLyD4YlaDbnBuaHg0uQNWy6L3qOK5Jlbm_0i2gi3BMfkrTSsbvetaKJv-jswdEmyahYmUcq-lLt63qnpHjmctWCrpptYbvVtRgY2-qEg3iFCpFXfM5mFnfQtje_ZdKTgS5pnivFemy092bpl5zCBzzVWAIzV8D4yxR5IFAyU01EScTNuijGgOFsvPi5qS1JHWN1MWjkZVoP2za9YB-Ld_8t6QO0POqwgxJdOlI2E7HFED70KCMjcYjFdh_Kp7xh5awBPzA.jpg",
+        "image": "https://cdn4.telesco.pe/file/afJc9R0LlHoLqJCFVlUoS-Mec0wct2ru9sG5kx4d-EwgT7rZ8I7b7jGoibBcXm5SpFONvmKRRf9woAltf9MECyt11e8fqkxgOtUKwuVYIEL9YsZJDoIedZMHmcDZJl0EjgDBj_YYd4tLuY8ednoYyjjj9bX5Knnq8pG1qh1m3eIa4PyeqQcAul-IE7MRCahQnbqIDZ1KI2DfiK_FcisJx8u6jl2Yeuy4c-MOfSqVptvZ7nnJIFEPfaO4VYthkdkuH-eCFrmemxdOBtteHVH6IXmpoeFZIznZwZVWqj8jOAj1zk_R-RT5HRe3Na49NLvVez_nl71UGJv4TZaJc3wEFQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "В Бресте стартовал республиканский форум для обуча...",
@@ -437,7 +446,7 @@ const newsData = {
         "date": "26.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/avMeYC5LRQaN5uTJiKlQnrtrr-Xy6AuF43xGDtGsdnADZdCQ-94OQA5lSJfy6DwkvItdl28gSwACQy9DYEuVvlp6Pq9JscogVZ9TYgtY5M_4-CccU80OQslx5W97TCxVN5iJHRY1uziUmSYSCoh5ShHdGwx27EN_YTv4J5KAtDanG40Drxc5bafpItV25_0kNqbalbuxZ7hmaXmXxOFtjFGMDkEyanQ_VdjXg2pFU0lG0mYs3e-TN6tBiHGrDtoqwwHf12ZLKhmxWSNgg_jN9NSZJx9-0MLmUo556CR44nX1GI12EjL9tkEhgaCE5S0DpkfzX6TqjsTE0tUpSHG0CQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/GblstZZ1iA1v1JObgFFetln8fUZlWt7FbARJ8eHXYtwFkpdFWYY_Yo3piV01VjXJVhK_dKBAgdGEeCv3nkLkXEEgtf1yP9E6EtRQt60TYpY4BraSbf2EXcF6GVep5zG4x-ecRSLReio375iguNBzmOIrwCbjKjstJ0CCz6qvcRqaZnkW666KTrUWferL4UXG9iulWfw_ralfSQp4ETX-tUCW_VnL9L-pzSeBNple8sJEwEHfDBkmno8KQWscpNfi7U7ejBYJ34ufTJvLR8wRELVnKq0QanuEmKs4x9cAbjSBOez6BMdlG8Viu53suAKAyra9lRlQweC3msFSApJDXA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "🇧🇾 46-й съезд ОО \\\"БРСМ\\\": диалог поколений и итог...",
@@ -455,7 +464,7 @@ const newsData = {
         "date": "23.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/kdfdpZZZ1QjZv6TfyOr2IFD42l4ztJVDuBhYVx20alzODwDgXIIUmHqs8qFMv-CvS5Ln8ODP3LWRqpoWveULtB4FSn0ENfExlZg5lUsWvYlAYITQ_14O2zQFArozryzkKJTZYR-ITI2gcfm_gN6B44OZu9mMcPb68akbO7oQ4eBREgZ_4CR6F4AduojwXGOLAeVF0TpEH-C14iEP6YqpLX4wfsxjoAlJZPuze17GowgkywZsjhetlk5DiqfTyrsM0qkoanbemAGmbBlLxeJeMuC7-ziRFKSX8Bl5eVUeTUmW5lacIeTS9K7OB2c7rHxg2tK6ESpaNEWTV3Ibij86eg.jpg",
+        "image": "https://cdn4.telesco.pe/file/mp2_uTYxxxVpVcH1FaRKdCQnVhBnYuo05eIXwWUQCCYQz1j1dPfQ_6lLlb4rm2kvdrTJ9_FyXfCLZUpO-hwh4iIcVz5Odb9DtbEc2_HgiOa5XVl4AE3d5Hizgj3nrkhQ_lVW_AK2nQIbDaHsPY4NweauTYmkEohSNg6tsJBAyGBlUa31XBcNcSfcY6qjC76yubmChAG4Q3RbcwQEUgOAL5ITIURdLEq8K-T434g2iSJwUhOfJQDOfreMb7iZ5eJYGZavp8x5uuM1c7pMWqJikHwWWjDBzU-YVzdUspb5fEbvoR-SfvVOfWG36p_iZwlvEX2tNPsHddJSHsflxnX7eA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "🇧🇾 “Мы - Беларусь адзіная” В День народного единст...",
@@ -473,7 +482,7 @@ const newsData = {
         "date": "06.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/R7GMgL_7OECvKEEaUsql24z90NCspp-kwOp7uZBhqyW4rdCmA6Z6SZTOUjkCVcPNmFu7_ecRHC_kc4SmgDxQJbSTKFSD1XCcrgm7YalKD6J0Yu2wat0UZQzKuvwxEb36dpi_61KIBS4KmQB3qu-Gy5F0yb75PYwspbZlrWyirT5zMZwq_M-XZQ8fjbpnBuhgY_o2BeyRF7E7jay82i9zNnujtOVOlN4T-lhNzktYLJO6LCbryrcZyYXkAaBOX3D3e4ZHTIsgDHe6T5jDohfBy7OHi5SPyzLXRQ-F8rI_geVDQQI8KqO7AW84iNVxFN4fZmWyeQecbFekYcOuNS9FIg.jpg",
+        "image": "https://cdn4.telesco.pe/file/Zdiwsqw7DEo5Gs4I4gPd2vCImqApFl6gEO5WumP3Tii07_NYhpBY0rFdcfewWr4gRedG_ReAk7tBHUkdjaMRT_GpQ9piGw6IBvFE-Yd77uzQmzvTfscHumBK55XkOSaZk6VqGaLaOJWW8sIqm5j9fEhsN9PPh0QBSaaq_kiHDyn8CC8r5xU6bJgSXDqls54NRibjE0y2X3HKFpuAStkkIhdsdjqKMTom4BiSmzmjU42oU_sHvchnHIsGOCiwVo7-un3-kTyh8jDJ1nkKbxLi2xBnCW5NyQWGOkwU2FPy6on1iR4wNVvKssQb0_67g-1S-CEk-rqm8fhGTl6zj3FXcA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Награда за вклад На прошедшей в городском Доме кул...",
@@ -482,7 +491,7 @@ const newsData = {
         "date": "05.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Y5RyWCq7t9wW0pHueVdmo1E4EGTE4l9Odoyqo9xLfsvJubXXHCfHTieJdQhqmcKk9M2pbTqIRHv8Uu3bEAko5CplwomAKumXgT__iMLGxJLQ1ZvMRsAuFHm8fI9L_JwGqcA6bTelTLLf173_nCxkv5jJFLwN04je95N0f9rm_h0CcXEvcaP-cQzm_urrP5_4mGqQkBlpBOSESldSB2CSdsNlOAdgBNI0R1Wy6hhrDUQMWbsb6Ad4t1AZcWwy7LAiGCwk43noHshg58mY5M_xjrFvcNixVVKf_RPGNTpmHSQytShbXyssJDka3yfNxefSSlfY5hI2mSgohSfqLBBdlA.jpg",
+        "image": "https://cdn4.telesco.pe/file/nNEMLTqsaq59kE8oR83W2y0OYORhJjUllwYgZJ_kMtVornn2RLRCzdynG23yxVTmanOdClN3Rg-v023vyhqx06_2TnqFtCX6MiSNSirVI35pMAPQStzgDVYIXV__whXPsQI9qSfEgsRgUG5wBQFDqC7SG0S05tbWb9XEaRBIJo-Dc9pAWAqVRWxCqtIR-5gfYr9LhYvt9V8CtfF7uAK49oDplDetUMvizJsHnIFNIgExtB-Eje0n57TZIZyIV7CdDkNaCJJeurCcB9vzHp4tpnFuni0-Dt0GUZEmrgdF23-9xPts5at3Q0cmsU7eke6BLXGrnIqeO__sDRknH-sf7w.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "👍 Готов к новым возможностям и интересным проектам...",
@@ -491,7 +500,7 @@ const newsData = {
         "date": "05.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/it3uMgZnxdIH1ldcbqDY6s2mXR1K7l_6lgOFSh1mERES06SW3IoGJavoEtV-YJHHFLMFgFlNyjgZNnlD234N4yw7bVNsvLX0UDTON3-LG1zvX080MOZlsaeNlkAcaz00D2v7lKUF0a7abPV6QdHrtYrGvD-z9xgiPdaJfA5o85_shJ2mluwTbIzpFcJvovUDNBmF-177Sy6kfYBwr7q_HBuKXV3Xw4Z_FXVVUD5SZTLnpFpbCdpXGsJmy3GJgrDzH8PjbjHvDr6ph38wzfxfCHafvw02LEHp3SrO0ufR0LdLjU-l96gGnpAf5neMkdNdo4dFTa67TDWHHK_KvPjsMQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/JVoUBK8XsMIzucVVBtiXP3P8wX3oR1gU4a3YynFd8zOX2v3tR0KcIMANhyMGW9FF2_l6TLeUc6__ocGtlQ_dOebgWNigQ6yRIYlefvcEDXgcmdwKtDYEgRiu_HWl1JrS3dNQRKz1X7iGtFqXa6m02DKmxl71Oxp3N0iITIdes55CQ9L4f1s7DOL0QYyruIiB_16t0j155n05MxIUX9J24KISihIXWX31Jhz4lPh9FU3EZyLapHjGRuG4XjRth_asMuPeaPQSqWh4JSqlEABEObVH9N-XwIJkEFe6XgtGHYPxE4-Rlcr2zQsYrMBtc20q7TPbLELz_B7HSRl7U8tbWA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "🔸 БРСМ и : вместе строим будущее 04 сентября на ба...",
@@ -500,7 +509,7 @@ const newsData = {
         "date": "04.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/YJtqK95XXFdZb1jsF5Yxe6xLbNyyi-bk4CdW6sDfiqXvI3Q0tXN33EtxLn42JHE6sQKdrKyX7pLsZ24pmNPxZy4qbdztkuBmihIzX2ussyG0flKhxUkZ4wBxUm0Yl370m6RgkGLVYHWOkM2nID4L37eYVmRp1CGA-taQ9he0f2j3Z9M_JRwaffsRpvL55hr81sPkPS7sVzSDMY8HckGgjYXuMaOPK9nDppTWCx_azUezrCH6m7h80TE4gkwZox2UC1kl_LVy16UbRSxj2HkbHJE_sE_GPKncM39hh5DJYi7bfHsl8murxMgFafKVbftCbNOuIGKabLvf7zXuhl0mdg.jpg",
+        "image": "https://cdn4.telesco.pe/file/PgiJZ2GOSkEHGndgeHU3cpGo7Mg0Nr3NET6IBy8yL9GsCOlX4B49ilMPiM34bI2S9G49t4If0L_qKSXT65nu1ShLlCLCH5fwuNJh6wY--XnZt0qCoJzjdfpR2wUqUESevzfC22OfaPKcMgsIspn00dYGb7KIURJ0jMxs3A1ZPdoIVTxNEQzwoIIPgkchitWZk7LQNvcMImfXMV2VX3mVytUmWuNdx7XZ6EtwyAwfhvi0OGbvaLQvJEgXrVs5mKjRO_u0gEJDc-z5K-zbDIC1z-PSFgVjVTOtBiLCENDa_ShqwNduCtypSMwh0ocsVlIDjjD1U2gMjFet3iVTuZ1hQg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Члены МООП «Алмаз» напомнили отдыхающим о важных п...",
@@ -509,7 +518,7 @@ const newsData = {
         "date": "04.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/AQjkJUbKXbzRc_nYKcKmlmst5gMxZAmF0GwZ0oaJD-jjDbmU3o1Y8tkg-K6BQJOqie3WS2OqUVBZaFOHDonQC4w46Q4PCARkGBlG7E7a-d2wspWlu52KLtH6TCP9qHNrER06o-Up1uuajg2EfAGf9T3-HU6IOd2Xfj6tuFH89FtUQ1Fs3LhkKDQjvUAxZDlP-V31x9IgvL37lGtFsz67wC8fARA-1-wWkedHCQKGi0Ub-3_BCqx89W6FJ2eJJZuwRO_AF9yiEKuwYtCB_H7pojV3nCDf1FIwDtJFxO39aZwFQzfvHV5mrf_HLBOu3Igfzd95_XVLyuITmv6oqxfKjA.jpg",
+        "image": "https://cdn4.telesco.pe/file/TNaf2R9pNHncaLb2HwWF2MpYLDoJp06L1B37Cs9nnAiQynbyNi90HlM2Z0mgJL7cpaqCCghKcG-CkSS7zSD07Ueh_NgOqV2epl5dVd8E07v4SpJqQ56PNLFLzfE6OeGLTJ1AH1nT87jerTkQUxwyDaBop7q-8i4h1zMKP6WJd5sRM-yTXY5amFoCjJ-padcS-JAS6nl9avqw2DKNiuQoYoO9yi9AgoCyC5X4MbW7NsrQ_GHH_0Jxlupx0V_SAFep3YDqDdGmb0vVLwkoEPfqzxxsew-dhUlNwnZ8ssnrDCnbcOW0b0st_BwcM6jxCCjT7KxxWfJPKFVwljprdIR_wg.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "📸 Фотофакт",
@@ -518,7 +527,7 @@ const newsData = {
         "date": "01.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/W6qE61GipRLaNYrShZ-yiXxuz6VGfIQvGxEA7FWxNMxG_yE5sGri0xE7ODqTW0f8UdeOhMoDz0kuNst89silQ0HETBKNHY_7NjI3wZTTcJG2TtuQicyZv0KnPtf5ldEnCByuRuiyEfsRh5EeJ6NVWzPKfmvUR-t2qlXH6abPHkp7qreSwlUqN1RzH9ydD3mrAFKklcSfQycAs10lubTs8PHOUD1p13Er5uAlH2AAfYvrCdpLaFlUnINVMupthrR8ohvN6rnmmi199nVSTnXlPqCAsiHx29757KkyUNIRfoWplsJFLZKn2zdeQhRyCYJ6WwjinI4gb2OGF1-HCnEsDQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/cZ580nuaKp9ms13Py-UNH3ELaBoKwAFDPF67qu7E0v4aPrJfAQT6_4Z0gLaGuEy3F9Fj9tdamRJ2y4c-4jNuLPPctnva50hglsRy2Xo298CJQEt_tHY4jQt3SupRdjcfedE_DCIuioXvtSBj1WgnPoDqBgK-3_z4T_ffOs5uCJA1pl3G6uPfMznJFkcwJmvQCzEkMx4QYA32GXW4bx6rd2VIq9_kJrDBZi7zEXxPOFSsg6DmobjF-o9ibUymjqBpl-qw24ahWHRl1TKhkPLxz9UaiNGby2yjDA-TcY4mtZOokMq9TAGRdsPVZUUEDX-oXYbHNjgPiIB6xwpXv1cnxw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Торжественная линейка, посвященная началу учебного...",
@@ -527,7 +536,7 @@ const newsData = {
         "date": "01.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/F_ydCCoyJ38yUGuaZ5bo2ukYwsg_OOBv0TSpDfEY8YiwXaNSXv82ADtH9obTjOBl7dU1sNpUBSxGmTxxIyCIf54z-BWsLKRRikH5tWILXL3LrzovktoADFs5YjRngmqo7axb6TQMm8NoO2_RGhS07skOVNBUv6_yh7XGl7Sz-hoTXu1qCeL0hcPPoEfSIEJzA_VwUp7Z9_P3LcHX6ZWR0_AlCbdcOIee7-7PJ4ScxWBKRopJH-CRaA52zjwqi4epa3-zsNmgMYyrFix0n416YFabM88vK-58c7INMIDiPVkksfVV_fB2ExepBQaJOd0JMQpki1-gD_3AqQJyru6_Gg.jpg",
+        "image": "https://cdn4.telesco.pe/file/ujSgM4HobBCke0VTCXK3pGFqcWZgeDcf1lvm3LwADdY_mI1F6JSU0_y-UipK5XpTW1BwhHHkOlVciyMPRuI6kzHz7Gb4CYbecjIGSiCkbucjLEpzZWRu2wua97hc1ZY7YkWXFJP5jtc_xo8EhZKqLDgZRqKa5rnVEj5QaJusNrUfS95M6q_L96YihDfXMnhHD_W4orHkqUM2U5yPcFnwPmSwS1laC1JSiZwEPF13Z6j_N48tU3PKNxXUf14hIGC6B6eiIKfpOc5bnAzW62s9G720sD10xiA8arA7MiBLhY4WbWwhZGlC9PXn5IOoyvnEPnKaFO-rZnGUJfL6BMocMw.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "🇧🇾 Республиканская благотворительная акция «В школ...",
@@ -536,7 +545,7 @@ const newsData = {
         "date": "30.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/I3vhuezCm2EFbVtLrCo7tMSDoesPK-tJpd-3qTSpCRl4ipyDSah-jTDyBLcEEe0busnboOWh7WC0PQTH2zPP80iNzmJ1J75ZKAjJ-XhRMx2VCf0TMJRZKAOwhOwZ5VbQiEYIpNm60_OQIrdenOHPttgLdsmCo7AwdxcVxXY7VgShNTuVePWpHzTVvBNMRBG9yEpRiHxBJi3sa8tcD9v7Nbkaup4WnUffzH_o5rJ1U2ZNgrMTakSRyVc70X78Vy2-gYB6ypZqavfKA0OQdV7AB7xtzVkTOfQZdhKZ0uni7KccWZqaPgfzA9YlLASDUgSwCtu-ccaCXQ4i7cSBOI9p9w.jpg",
+        "image": "https://cdn4.telesco.pe/file/AuIGmndkuHSt1alJR90xxrNyOh5zkeNVXkb2sJei44RtfmjYy9OTcJMFEx9_3zb-X53LqQW6Lb88VJKLoKAilqjs_hGAKFTDTOVcERgqP_qGy8fpCJJl4tLGpLZi2SeumYQFFbSJJ7HVX0DwHDJhroAwBaG0lEc-ZZW4xo-mNCTGx1TnzNdtriIwdsT1TyIL7wzd9RG-YItPjzYN35KTlaDmX9M7qLRtdc_ltztrIkuceOIwznGhJ6ZLfB8DTP9pImCBpaBV9bwkD3hANCRtlNH-J_fC3iiQPiR8T7LorNKh0Ntc1Zu2artl6hLsOAwnpqtBI7Q8d87cryodVwIXqA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Отличная инициатива прошла на базе : учащиеся, МОО...",
@@ -554,7 +563,7 @@ const newsData = {
         "date": "23.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pFoeB8O-LlqjEr9AEpnmqGs1pxQcq5m7awSAAyF3rAlV--wkM-fSWbxfGEL_BNGntpMaz8k3e13YPeErwwU3Qg5oyQfIEwAwAGsD06fTdWgB2WN6Gc7lUf_c4cKItYNS7twQH6hHAQIRYOzRKzYJx8mrYUZf00aTqYV4pZC6NbiYtrR-Fbf8_C1N3us4Aerb89DYblpUe0VPHi6oaMWlQFel-pSW-OtrEJNbHuEMlJjtHyAsQZpXRgP2lzWo364RLFnbP6haACoNpPBZHVG2ohYyZsVc0dAdiSNJKpnri1o4i6HyXtj7v4OeB3AKuYhz4hDLOFlsWISqmsZw2YveGQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/A1L12AQ4A550MzPQa24NR5os2znSq7Ku0uVHYOTMdXIjB4cYO6EF89qMj6-9plRiemQcn4pw1f2BfqPla31idiOIsGLHQdJJS6tQt7U2mxDlf1-Yjsg2CEIP3EakRP-Wt-aCD3vBRHzjC8Neb0NP3P3EvnhUBZ_aDoj9-D3h8FuN7RbSYTZLpAVbIEclKqOEfb1kTkNugn3zxYoMSB7gXqmbr9LsXz1K3FYXUs7LgCZ6NCpKV6pzgMfzrDUs2s7axm7BkMCfq0j8fS4WxWGPfXjkkNW5cnAya8XzitLnFaizO0OXKhTiDODRt8BDTTgqGiZ-B10KYyIUjnYvrBi8eQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "✅ Завершилась работа студенческого отряда «Партиза...",
@@ -563,7 +572,7 @@ const newsData = {
         "date": "22.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/PRTVAzjDCZwRpUJoYkDfrFKNvAMKc_iEmk65Ziyu6wlAcj-lTW3kM5z8KMdALKdfuG51QMWepNSSnEWMIl6AbWk5dl3NSniX5k-uL2FfgyFeGa-_cnJ7v2yUYCiFhbHyYGhanRwPlUGqYz6TW_DjErRuiadgBU1Ag_MLBhnhqX4CYlScfpEijmonH7VBWw7brpo_2_ZB7CJvU4UB0b0ZWtko56qvGfmoRPCtmOHsAZCQZuCKGQMsog-GF_9ZXcgmYV4p2fztFav0nvmP0PQmacMqNlr2mZ95Rx5aEfpTGdyvTD3NNy62VwWfqU7JTBTfeHQFN-sqV6CQ0JYRAAzNJQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Ft_OxIfFgafj6MHnCYCPos8OAHZpsVyxJdt7GXHFCodC3vkZ8DGDHuk9jeX03n-mHJHek5JbR0lOvGNQfy25YOuvLVn0oHx2nu49mqB2Bo_U2s0ImI3NKKmD8-smrUkm7g5zY18cetTSKBsnPmXFhtZsJzo_LFJ2vqql7MuN6NadzLOb3l523kVkG_d-9ym2TUQO4cE0bF7zbqPcazPke4JAN3Sz5dqA8wMI51DnI77SQTYG_r2X0IuOwqeZGMjVBwL9ApyHGdCI9vLlgXTJMCJDoiUgzATsmftPwBZuold98l2Vxg-2Xsxlj95JAaWxRfnl2IW50c37xAeh220ZlA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Труд-крут! Студенческий сервисный отряд приступил ...",
@@ -572,7 +581,7 @@ const newsData = {
         "date": "16.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/QEXJIL3g3Qd11jpvZ4NVadM6B2ApjJ-yKh0V-Of0_hJfAw2YkbK_yeIvDDD5lYRVTACh6C6q-jloIwXaQdSsFHlO-nfi0Dxvn33EImsI-Szsvo_a_xsxHxu1Mpvt375hCaQAAyoVGsq5JMdB2TGvTmzUDeKT16Z0rISkXq9JHtRjvpn2Au_7TB2AagUOcsWbnNKB2-jScjQlDIkdxL8nAgGvoobtGlnrEuVJ_uudwKh262XOJJlsXe7T_fec-mOJ6_bkKcgi09VJAv7RhNZ-2BxGfZeZG3U89s1Y3y_nHI5pCFJSvYpIJXAW9IvYNbLHZDijt4okZsXQ1iFc_03x6Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/ASnRGyOFQpHkTIh5VF6F2k0KYrAWvfARilBE2Qylu6IqklC7DBwEb6X3iZ7MZNI2wNXmS-XGulE_QdCKml309Dvx4wV3GZcwQJiv7VEapnJNJqEYD_CrrfMmOsnTzPzGiu-vRLzWS2U6A1zjMf8Us2BtgfQjnucYtBc4NR11NJKyBJpPPm7UE8cIPLbT-7lBcwZJJY3XFoJ0HspCv0JJYkKQTtGYLz_0ZHVpS_qpocSXrv6vC8Y7aSxr_5pMfhKp35PpRgO_c2EWYbpuB_BdxkwnvmOk1Ns_QpiAUT_ccUd5gVVEKkCfULmWg8o_xoENDHrkiCsBU85KndDSVmF0nA.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Сервисный отряд \\\"Партизаны\\\" имени Алексея Ефимов...",
@@ -610,7 +619,7 @@ const newsData = {
         "date": "28.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sHVGSGrlpXoUEKbhWj52OPKQIhW0YAWwIqRqM0gEUg-UOUjen2BqZBKkhn3BgaTDfJKFir3k9VZ65_MZ23M0leYM9ksYrduhS7Dq3L-UzEUeqoX2GesW1ncMPIwwqRqZ3pQdWZ-Qmhe_Kqg9dc-CPn8DooQUDsmt0pCwQOQgu-7cRSMbJPzJe7aVcWlHxWzNghY45G4NP-szAnu9yE3XDR1kTZyKNTg1MbFNjOZuZAhAt1mj1sg8xXK6MvRwn5H14xndkn5vI0Wxs3GxeKw1akmfpjkekU1J686Tlcr5AGKiKz1zESOxeooXOUI0WnXuGeL4SDgB-Fp9WBYnVigJow.jpg",
+        "image": "https://cdn4.telesco.pe/file/iLzdxAgcA7Utc8npfBsi_152YmcL0npW-4XNN1a6tGE8rOq6ZT_8skUJuzB3UmbHsm_6XaQkNc3mEFl_rbTNupo5K_TPkyhj1aGsYjZ3jlkTVk4ixUaSR9NwVWM7yAR7mnjdAoqOGFVz3KlT08t_GNac81Wuka0qru33PJM8V-cXjk10wdZoN2q4lPTITRPg1Ji54idbHBwOi1j9-zP_WPv24H-BVNVtHAeEdE-GxEZ6FCSwiU98E0n8bamSONxuJdT2TYhvT7ZK0bpLTxfXWWniyfCWikGvPvEpMmSOyh3qNJrpPcarqm6xmDEJ1QcCrvt66YsGXo83U3gn_DbTCQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😍 ПРОМОПРОЕКТ «Выбираем студотряд»! ✨ В преддверии...",
@@ -736,7 +745,7 @@ const newsData = {
         "date": "19.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lAOiurH_c8m9Q_QpsOJIc5UdQHAz3qIuC3fUhkAYhjHA9-kExhy8ss_YXEZM6ZVSOWUZyqrN1hT31trpBEUroPMcMdRf291cK3RJdqXrcnCYAEx7trcWv7nHiJf4x-cEkIeNvA9689LVHQX5ZTlI3inHh_MDX8sYzV2NByloQywWB11HhuzMHCi8e2xTsxiu_ZeyKx85hxJh51evTL6PdY1O9TZrXD56WiNqjSySc0gAI9IL8upVoDk3izD7Q23I7EjJgMgm-3J2E0NuveFPW2GbEdqLa5TFnsWCFCVjm1eFbK4bjvgaH0bq-eFyll9_hgzeD2XdXadyr-tmlMWR3g.jpg",
+        "image": "https://cdn4.telesco.pe/file/dvb0cLmE7Gul2WD0H59UWQGeUa3-1jYKaVmr-UUjd4nQt3TjzamSWu1LrIujhfzNVkdxPChCvAD3UArH4wDdcqEUM56lBMQxN2JpA-0sHCMGMv2JsSwjqj4mFAEilyfkMhpQqKfsCalkc6AO6KqQaG0s237IAECwnzWGsaZIi2k8vM5rahnOn9ufrx3fm1Uf4-5M3sySnAHCRUi5rkXzG00vifEIcI6lojyEz7lnBCwCX8WoL2NyY-EU35dZRsk1imx9kdIxpHGjjaJvgZhDSqCiAaNIp44jYegPgw4jLgKdS2j9spBFwoYcHPrw82_NUfS0tEY_zcX_EU0Lwzf9lw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Новости города",
@@ -754,7 +763,7 @@ const newsData = {
         "date": "17.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/GWCNoQ7H9TO7bL8-syGnr8qKt2ZrXeuVXupeEfoSRmsxIdaJ50nuBCj8Cji0bMmv8sSvVkc-cjdW7bxcvvAzDWXgU1OMzdHS9hb1wJ0-4HOax99bDbs7_cyHRC4Ckkt5MoYMD89jqnGhya3abCggyYWGTIMg98Re99eQvvhkThCh8g58RBasGbdr6EZ-0AlYUOs_yW3b6K4hjieuRdlG6tRW_e2Wu_yAwWuju4v2tZQnZ8DT-FvRQxaBnXxAgCBdpyqPRa7KdHFzVzVDT-XFL_OZvfyBRtsjQJ62MyF5VNXm2G2WRaiB19ZeUpujf0ej2Sqn06VgtvH7w1zGCaqyLw.jpg",
+        "image": "https://cdn4.telesco.pe/file/tP4soXIIwhZbQUkX6DVcf31PQuL3eWmtyzaKv7D_-5ac2Zwd2kWQ1qNz1BfEhZLWGngCpulivEWvwCa-XNRlVvKhhkbhO3CFZxP23MxJIU4dxwiIyHfqOfnsaRXE1Pg2PK73vxmaMpwLQ6z5AAHP5HxqvETz8F67Ouozdtofa_4Cv4Z6xhU4GgnwMkWmBelbrmeX1U-Bt8ImbpoyOQThBTcCgbQQiqXjcZQ9uUxGY1QIFkVk0QnkWDrIqvIpXTTDP6Rq-7eVj9vzW8MUABmC_HGIVTqO42EyrgOODC0plkvzJ_OTNraGV2imxsri_3dZcAheZLjm9qQHNyyW77EmWQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🚀 Вручение смарт-билетов БРСМ в ГУО \\\"Средняя школ...",
@@ -763,7 +772,7 @@ const newsData = {
         "date": "16.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/niHDmTgacmBcygjNeVFh3Iis0yInwpBQAZAZDi1HYrDJRD4nKXjxO7goCgGiRpuozyr5d04X_w4mNtmsnxYu-NWaOtaGEx4KfFcuF6hny5nbkjG9fAjrvasNDjkSrBveFr3g01jKg4ytsp641mAhWWakCmm-4RheikXV-XXRnXTyo-Dk5zAHwHDz8OB3W_X9-YLcums1Y-Gr0I6T5ilXkuJkyKkzJVxwIRwDJ5emx3TEN0cAAvOK2ULB63QUd_-L4VW3t4QrJJGWuKOcYLRvrj4uYkbR19BALAE35ig-H1BF71KSR86YXMkgRFMTSne0HY-YyyAYXWebWU6xYUuJHQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/JHCO0jm_jIlWOKVkbDTnBVabxEJL7nibjII8F2ffhSSKoXOQdsJNUgtAzFExO7nALLn16LAgK5MSILsW9d0Vt4epyWY7LH2vx12OCk6QxjX5W-GVH8AsIVuswgkwNQz9g5O__qg0cogKHh7hkYhHtGtoiJ46hawRDXaubUJZiSLO0_nf0nrcXrYCb2Ytm6kr8e93tUDdvT1Zrjlv96YVZENMomlAIPw0oExT5vVSHETLzuxM-WkCzHjCc0V4RuHP1uOxwztduxKTevZosy_z1FFnH1l3lafxJNdGwkkCzFD6kK-S-H5nRpYgZcXkaRPJQTXhrwzbUp8rsB4pyad9pg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "15 февраля в парке культуры и отдыха у памятного з...",
@@ -781,7 +790,7 @@ const newsData = {
         "date": "14.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sHUSvbqWgCFT1aD7APF8C52WKXBfjkjmnY1_4dIXVTIh5_HdelbSjI1IeYusm9QnQ44diYHqhAl55H--6OAOrkfuMm9oAAVzTpbxt--TkX3-dIYd0TPbTLCOGjtizSBB3pRkHurXhMPRqf9nmcRMWaT_wic8h6HZKF9pKQM7gg4EizKe_kVGwbILztSwyJlkJwmcO1nHv7hBXiNXJpV2qmqbzHk-LWnF4KER4rvG0h4T1xmWdeYfOaZGtcRWUkC4bbvrLZh6hn97ZXkrLOhV0kW8MMbJiAVoDVCjm04cQuXn2yLoW55gC_CI-C0A9AzOvcO3f8W5Y53ELGvr9wes2w.jpg",
+        "image": "https://cdn4.telesco.pe/file/hmz31_kq4crGAZWIuaLTVswmgVb36ovp2oYK_oYWcsvw_sD_g5rth_Pi0S_RxKjiO0KkZlgu7x3q4zWlLDsctexgb2YBnCla8Skq7AyUIUcYOdUszuRvYf1_wtKOUWi5nGTynEzSH2eVzdJ5d4lbjjB8IYx6leCl5HtfOMYFm743UzGCK2UGLfNqPl2WofA7eekEVHVOjG3wXFwtmaexzAwvlDp_Hc32R2P6fJUiXFUWIb25hyPut5KF2tr-98h02rOcEhsDr19JM1wlbS7F5VwUfnJR1IRFfUFzCrihKrpYf8czrJ4-sPaWi4N2KLHMCex7resBDiyA3AKPfx-4Zg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📢 Вручение смарт-билетов БРСМ! В ГУО \\\"Средняя шко...",
@@ -790,7 +799,7 @@ const newsData = {
         "date": "12.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/EuOUyNj1YWP6ZRqSOOP8QKjiwNkL9nu3avZiSUnjAlT5Pzw-7BJKAWKj2RfAnbF2m1xzUQRx2lMuvR30KjgmEvhCuVHJ3SHHCCp_33pgQWqVujMREEptcQl_G8OfcdS_QxK8eKNehHxd4gs29Ofse__LckKU3TY2DWk7CNM1UDG-8EZZ-fiB1QspZx-aMttE3w1Kx5bgEmAk5UhsVKdIgDGM2jcejRW5a-cPBUvVu-poXjt1TgftaDFO1nlt1l7AXI8vXWKTgWFDLyx32hn65goXycwyFXlC2pZrKwJt6yMLzm1MAb9P0tCf_VgH4FMROU70yWAw1S9UTL2SQdKhTA.jpg",
+        "image": "https://cdn4.telesco.pe/file/rs6Zlnf9uI6jiX-WcoS5aOFF7WEdl0sWEd5S2el-UBTJDVqTAO3QjNZTSJNMTeP_Co7Q-SbG01JY0DJ942pWesgEbo7FNjWxRjBZW2rFNtS7_HML4Qs_Urlyur9MJUNY3KmgUkzWQCmkCpn-di9Ahco92-pVJCx6C5r-5EdhcAuztLKmjl7NCG6jijdBviGa4ra6cA3akcIB2mXRQ8bxxs0WJDaEdZsNXqc03X67eadG4WzPGsdfXmcgfge6e7tkhkF0pXum4OgOXyBTfl5JlnmprJ9lPGStFUFGizOF7gd0CFz9VqbSI5unNi4p8kxH0p1fAns0M3WrbdnVDR82tw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В стенах ГУО \\\"Средняя школа №3 г",
@@ -799,7 +808,7 @@ const newsData = {
         "date": "12.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sk2okASlcW_F-64d6I-mDhBRfm-RFixtjJ2dPSl0bcNgQhWKZ6vjGqvFFI_aZKAjJL7figxXcmMUy0lrutqz8FgLzseUci9Pd5zBkGL6yNnb62uy9wUGCkgaemZG6fIeR8WNLRx9eyaJON-QGVNX_QcH5iU1KpywQPiR6wOZig1OPwjj6RqxMBFmzpNYGmrUK_pOcGKusyQkpGrjdaZPreJLN2jh4r0ixS2jmjwzK96LNna7IXB2IrcWOP-Xx_7Ybp3SVhtwsTa72mdJCYGvjDJ0cO0ke9hht18Pmi5jXfiheTOmFLjwIWxh3KItSdHPrp2eNMcEyMHISTWKgfcAWQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/gGv0sO5CZIJOR3NWMwySTH9zAl3esSkPWAzvFMgiP8Mx7w8wiqgPWWWt_hYGLnYmfko61i-WxGLXj97pe1aMRRk2RUqPb8Na_rOCEp4bNO4d2kF7sM52jiGsDuMjI2vIxk9u4y6NHFT9GB896Q7XqOVUWi6LiZMnBhxRNIt3YpHdNe7ko1z6GgSpyDybaG5cTymOj3S7nRITyK-p3aiZxSjQWhGBSxHOEokTgqFw7xSGMiRrKqWjUm5j5xTNr99e3F2k6IlKZEQ0iCCXooILNLtVX0X6skV-k-PeNqxtXdUoNLB3PPSaBPtQMgBpsMwQftS9JKvC1GCC6BohKdyMQg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⭐️ Дорогие друзья, ВНИМАНИЕ! Специально для БРСМ н...",
@@ -808,7 +817,7 @@ const newsData = {
         "date": "11.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Tc2RCNexPpx67k80rTZnSa3oa-EW-YJSQk7yj7go2LUP_w4-1JRK9FUkXpEYTZc0wvhpXbjYO8NHOg_BTrN35ukzukXyCtdwQFOP205z8_eskuOsShhYSkl3OhuPjaWS138p8pLsuMWrqfqp4k-WBhr5LyDNFWf3t_9zvIyER8j2IOXv5xKAv8tTttBIHTT5K1PrEVGfe0QlaxKw2kZI2xFRg4XbnZghrT1bEAw8Dtw8sodDlXMP1Ktl_JzZ0dnuO_M4mQBAOBsveA5pNyqhehWttcWBfBzH1ohviSyZTfsB47DVC6hlY9hn-CIDA-tZXyS3s57JnkLKbx78KxL-fA.jpg",
+        "image": "https://cdn4.telesco.pe/file/Eomfau_kCUZy9T_YWbAGc5-gkdgRyP1TFrbT3s7J3wMaXHIIItrmauXFe1_kg9WRkGxaPPxN-ipYz0TfzwGYlsBSBbx4dB-jdCdYqNzskA1vUU6znenODAM41lZeJaZcJgX38SGmhjUzqxl_i0WF-Cvdmh65uXCPJuwbGGkyqdqP-cby2kLBdmuotEzci47NRyE-dFv_IB47lMDiMIUnJU-2OUVVK-PY4iN432Z5hmUzSfvx7VRMd4H4DSpgWhd1Y-wuT83T9FBr5yqpItP7WnuIhcmVpfloLYi-9MfP0bHKyzHvMCjoGW7fYzJrP_bx2PCpJM8ORjuo3WufZyRglg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Эстафета добра В рамках благотворительной акции ...",
@@ -817,7 +826,7 @@ const newsData = {
         "date": "11.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/hHFWNemxdvQv6u7fSj4of4PGsutQdk69N3ghVOPHUS3BogqxoKxkCaeJoO_o9qow5aT7Vy9YFqrevsqjcOQS3YNEF3hdPpxNiFrKVvSWc6sjjodxaHJoM5fAZh9oSaw5h5xGNXKuRFqWDLV9rWUIOnmgNoOnVlqO4YIcSPgqWhPE3cb9USDUc2AXHJXmNWxZiB_-xqF804dkoK0pddindfqaP8lx2Bcsqe6FDg1R4pllocxe5jKlQe-SZq7sdGFvIMcnagY35sN3vGleiYKooTg7oUgh5GrE1kA-h1IpyCzhdCuFQ08bBZ7P5chCC-UXDl_QHb__c7pfVWgDzaDOpQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/fgPNkc_8Ma9GLCOirJ4DOZ93o3fO-umP9Tv8BzRBMtUHVGDPuLInQOcpXBsfcC5T60jamEETa_Msd3rAeFp_tqnD1B0aKHo71LyMQ25OA0d2i8C0qFmZi_f4cIs8nFaRpMZ3Mf6HxpmccO2oOnHX1N7PWpQN5lD1lC3OGOxW3_5GvslQ9gFemSkI-qhPYhScSGJU99hrsbPp51Wb22ubdHkuosgNsIPtAsUoN5twGMlAnwLphfES1FsaKp3tuBTJGiNzDcr4hZeCYWgFpuP4TuTNcuG6D4F3t5to8cMSuKui8loeUrlyLzkt3XuSID9OqJTGmvFa4jGtWWhUuNHhOA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Волонтерство ❤ 9 февраля члены ПО ОО \\\"БРСМ\\\", в с...",
@@ -826,7 +835,7 @@ const newsData = {
         "date": "11.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/i9pj8inwu7s3Zn0cOYcrTpQs6-u5c6lAhwgmX_LeN9-0ok_tbdpYbmjZKAjd8L0AIzhu0a8X6P8Y_0dKgySBh-E7BNLVOu5iwHTrKNRvkRXomcadO82BRSQUsX5uwh7AJu7tMWu9g_nSGSOvs6CYc7-jcyt0GaOEijCvO_wdvTAS2CJ62OfG1-d9RjUXlcPVqX3vp3yYactNbNjGY0E-0KEQYfv56zwXurv1UAJOCH49XNbKuvxBC9-4LTf51lmU8hXZKviwz7SWenZKLk2Zg8vhbHNSJZ2jVF4wPir6PaFktNcqaeWGYU3-dg9NGsytlRqewB9boNIFmGxV6HY3cQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Wu0ByFnDN1wRckHC67qGg-rhtcHAVC76KYEpnRH69Cv2vV4Dj23GR9Zgtjmbuu_FGX9z5zmUCpYOcIFEk1fYARF96xT-DVxfWg9ufR64M7r7gJgiBCCA93YliTD-dqJIQnxTrCx3ntYgWsQ0EXggcO0ey9ssPJWn-_1D2gbye1sCLrS8wvNm2XNSq-GKHIA_3QXjkWJyuf5pVVd4AwBSA3_7sBnhDaXCATGcjOq_wjqmGtXdjZclDwi8YL9o7cS0XqNXagx6HrCZn3_oizUrmWg1oU25cGWpNteF14fiB8bEPZfAYXf9BuW3Rjm6lc0tqMe-c-WzKNDNjTnY9nnczQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚽️ Воля к победе, упорство и боевой дух! 💪 В атмос...",
@@ -844,7 +853,7 @@ const newsData = {
         "date": "08.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/CnNyXCAVKdizt-xSmw1wHsC8GUoEk5uYVCKToQkxsxU8NhmXm8PBiSXPSMfWhfmuTfqB88vruVNx7a4npy3J6mLA6Ue4tmbHjSiJPwidFUAhEyGCf4lxxejmwkFVs2tj9nSMNoHF2DsfKEHTmhohqLU2KB234jURcyovrrQkXfeWz35iph0WrFZBZDB_G9bejXpeGlS9t0pVW49-sqE6YXjoFFtdUAT6o7o_Vty0IU6uU4o_vE4EwoqVwZer1F2q2NOLND_yDVWn-cBVpSuOk_NaeUNTXJZQg70S5LLWqsXNVdnBrL1_j-YX5Y1Qhbu4AHyBgb90CR8FLR4JeOzVvg.jpg",
+        "image": "https://cdn4.telesco.pe/file/E7S88Fsj16qC3a5KGtHlnxu_Y7RstjPc8YJVtJ5W-P2zM89AkgRSZRy5b3kUxiL2UKY4BnMq8nMUoCLVE2eSg7R0_dw7ahnqrb7x9nPL7TJYmjdGUwu-MSgYipZOKSCNNRIA1xn9nOfrb7U2AKUW_8EkAy_YqI5VIe7PYvZS2immB8nmsmkS4dn68ah0wBDt5xWMjwBoUMnujmbyuYwXUEPcg7nW72GTZONqfwIQDeFxbRnmPhD3sVpq45vK0wZOe5XVGKi6IL2PaDQB8dNqihMHlaNGmIHeoYOuvKf6X2DoJG89sZQ8MS5jLCCQgLMpMEV9z3r58QLG-tUQ6GyIqQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Эстафета добра: когда сердца открыты, а руки готов...",
@@ -853,7 +862,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/SBxYAp1Qso5Gw_CVEdgEKCofnvM-xDCTPzvgocOL_XOE8E7IRrlFLizEWbcPxtCgghvB2iq1cB5Do1rKedXAVCyboi2GUzdf3875Q4kYBK5RTdXgEkmAMVN_RbyhANhMXMv1kAWXT5e6zXKSPJhWBbVkcdiHjYE5-5KWKFNq1PRdUfTfrofOeDLlNwRevgxiX3kSQR76zxCex355k8cZBl0uqy2fUg9Vd9PfwQQZv_QYJPR4NJ1uGfiJkIJn-NTtqnob58vR5i39yzZLouPVeLQz60WU8CPXWlppjtFA8jfe0q8yeZi8Q2kCVACVOfym_ptUC7_bLHDs8HDcPC6yHQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Vm1gkNyJjxgRwfq2k-bMZLfemIrG651Nn6Jdqqt6VqC9jm-j5m2hlACQqmxGPMn3rDLxaAuPkerVVLTs_jJNfbastzYndEis8Rlg4MhDNpG_GjFCB9WQD-ICHVMNhUtMIK4w4JSNvwEX7mw2adhL8oTQAj6KhqvHewAKrzeiDeEGyY4zJcr4DC_buaJr-5ge8eLJb1oaomqLf-SyodwwcSOY0vrfggHXQeDNtTpHVnaOlSsxvfLiZtdXEC3TNRogym9eQ0CWqcUyfbKGMUV93KCeNP-F741e1j98o-_U5MRyobOKWniFLmTW4nE_UvSiNV6LMrSdW1IDTDQaV5jGrQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Учебно-методический сбор молодежных отрядов охраны...",
@@ -862,7 +871,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KL2UtAUWRhFGIugzUuxckBBFYuckZaziBaOJgMd2n-6_6RKduRJ2t3pReALPDrvE_bKuOObXdt3QDjMXtBtsC_PJh7-Fkp6YlKXkL_MtYo-nYzQzOThIn-TNR8Dk1yDib-FMrit5oZMuH6X0SO1toJDD8NJCRfY4CBTYU1uGfFSyJjr16cTYYCp7E9ZLbnsMK9Zuoqdp4-uzJtb4YMkFeWnL-FIpTrHgYEsIu_eRYBG_QLqas7liJUDCt5S0SbT7TatFvqH8t-7JGR7qtZYdfAa5b0F4Cd2hakCN4aeJDpsf8xST-fTwHaBc0D7aLk2qzq9xsTBdhDkp5bJYl76DtQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/YxFu0fcSDQSqa1OJ4kpWiSMY8FS-ugj1FzDUQApXA2A0_ThuvDyCNsj94CqjBJwMrMzPyQuR5qmAvt2-GNa4Z38UHDMw7jqrzBjzj2Rg2PP9-goO5_ddxui3OWZKj7C7hbfUbgCOqwO2Iu_JNwtvtuj3ovs5Xi3pLYyp-ohuN1IQf0PBGV4ttOVkqOC-CzHhBc2uUHJDzPew_kPT-DqDlC-LkklZrxz3YFOgx63AjUviD4jW4q--IJ2-Hs7kfxovVaXOOhGBXNGvs0OhA6T2UuNyh00NA2vaf3AUaGIfiFIxBYcApm1z7CkX7mX-LjyHeL-vXVfZMsn9L-_4Maws2g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💥 6 февраля, вдень рождения МООП, состоялся турнир...",
@@ -871,7 +880,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/X2udtmxZEfYD1gm9JGUlxMm9qaEseFaT8XbucDfqRkaJ1721FaMFFLdzkItRZbubukcqmVdJCUDh7Li9cavrcOsrD4BrLvEkAIdxXl0B1oI1W9j0MBLSFs7wZyhDx8Jjrnr3hw7iuvp_iOaIHLd8W37F8uXVI0f-hJdPl76_3tIi6t8S6YUwlbsEEnnx9UmMPUByCCXejT3_1t4zFoWT1ID61L-2wBIhoG-z0BQOlbH0K5y7kRrNUqvwIO9KrPGqFWtZq39FRCb8EVgxwMViBna-wOOzFmBzECroAQabDhPZ4qaxHokLKwS7u9KC07zFf1wmQGSieA05robe2ygThQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/gLc31M94oDuRCqNorqJeyKkgfndwLTng9JwO1mVlDiclJOCajFZ__ufS5mvqTgecxbMI0sGFLak0kNFzQhTwHL51vAMPUZFCNLDuc9-isooqSQA5DpPtpAJUKBLmjaM4T43wGQnRDmaPKsUx3sYdcBhuCZML1Pl7P6cMhDwsn7k8y6x1FHs2uoE3IjBW0_0H00GhYee6ogbJDPKROh7I9S_ZpcsL7ll_lrP2bY2uyb7vff_pVhDGu_7HGCxBeR1vx4yLpP46Pp1WSIeGewcC8XJ3mw6bLUEmiWoX_EIGdz2yMhNCn1bDxkr7Em4ThYa09GPKOBXWXK94P5rKmMDKCA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚽️ Турнир по мини-футболу среди школьников На базе...",
@@ -880,7 +889,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Krzz3LNB0LZwMTsMc3g9LL2qwBz-_rFOF2nkK4MqFcewqq9jPO2YfrvDbL3yhZm15f38Kl2WqwbHQosX-wPbIyphrbga3rwGrzaGQg7lKvXtW9n8gfmEnnAu0ulJo_BjREdNV0vDSavqYTk4-ZOzyIhHQsod4Gl4gFwTIUyWS4IrWjCIaS6_uvNj4jzUSbHTrMZA72hXwQJLhsy9OSNHsAF54ayoBjVAaEvYyOQzeIwnLLwqhgLlE6hgjSQmeqNNT3d-doexCgy7LIgKluCghMkK4kAVFncDG5Q3tVv3xgkzbitRzmeQFSMbo9DmQL3LieakBZ25mf44uL2wUp0i5g.jpg",
+        "image": "https://cdn4.telesco.pe/file/ZplP5PRS2CIYPzk9BWOELtaHR_rW0rgmeHCSjeU775DnezXFczTooX15hzCIWStYW5a3omCuDPma3e4YQEbh0bV7cn83RHHg_7MI41WMVcyjXGfImfd3lDrxt3KHTAeQyEcjJrg6G2LWMDp-DAM46iG1jZmL2YopzjYsVAmGeAczb7sFdkV35W4d9KaWsuCwa2xZm6Eipg9cfwb_HbGJMQf6wLyiEkAZK5NhrbgNRiuCocxB3AasMnf53CAR4jCenimoQ_8yz_iJ099BQ1teIMnkP1ebNv8zbrArUah6N4hxKJdlCPvgWvUjHY56iF4Kak405j1Wwc1RJocLvOc0aQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Сила, дух и лёд: отпраздновали День рождения МО...",
@@ -889,7 +898,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/H9dJw5JvP1B_H3vlB6TzhfMp3Z2dbtFWfqCFFYPckm7QJf8dUx-a9xWgneDkPf3ytPDVk34sLWbPOwY2OmUkIHPsgbbEhfV9b4WmjTomx1SjPwOL8gbTRB5sZyiLBOWB_kHZ08wQ9-TIhuySofQlZWWe3_ZZAshmwr_6TK2UFVwJLvuaY19sa0Xq_QwxSKX9CE4-FvdzW85Ufj0GpOq6WsISoSRF2i0Att1vRSwb8SzrvSHJ6yQkIUAo02sCKWKWs8L_wZsG7EF3tMc44YKmv6Vbuz8gYYGqyF_THuV1L3DIgN5A1j4Vg3wTE-7vfUnrt9nLYEY1h20x8Ea8zMBgcQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Sd4l0xzCpKpoP7uFYwj_8pUfVjXikvjkVuoWLOkIXsAtkaSdROktOnsKtqyhLFC3XirMRYLUtqisDYsOuDNCbgwucBxgWVN9GrqJJFDkBDjlDc3mW4Ngx7O33AGBz3EH3cIF9nyjuXSucPSi8pAUuPhbn7NSI31ehu7O8IlvJsTfZ94AE3_R5rVcKypOHLivDwsxKx3mjRzV2lOaMEtroHHqFO5nmQ4oJBfarE1yGmeMWMKYhKry5eCbWyB719PE9dN2ql_ux0Ed6XsWgn4mbhRiemVsZs_GGac4GAMxRODpWm-Dk8JHgvCtuNy6e5OuoE0Z1N82Xt2wFl-_Nt4EUw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚪️ Республиканский учебно-методический сбор Молоде...",
@@ -898,7 +907,7 @@ const newsData = {
         "date": "06.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VR92Byv0iCcMIQBb6QEhszHkN7OQpKBqdnjf6nT3JSTq3MR_s2WrrpJXf1iIgzfkbYkbrGsXaYT3xuK4vMTBIEHEhh0wVrccFxf85mCtlMT3WjrDkZnCYQ7PLdDcSBi4JARN1PzuIMhywQoibKJky3lY77I2BPO--Hz_-DLp8GyCzIbMv4-gvi52yPpYPxl5HayBCAzjVOoo-5L689ynd71V8JI84Yo3UZkB0e7nQg040whmN-kdTfX6fBfccuIERnURxKoKK1FDSNeGVWJ5f0NmFh7ydde7YtG4eTZyQvCWtLnnG3IX1UOAvG_WMOXzI-4GYNil3mnfbnF_eDi_yg.jpg",
+        "image": "https://cdn4.telesco.pe/file/Ap82uQfgHNbEFJ01DkWNryKPWhMKLZ5kwm8LHnhVaAQOl4RVo3M7wZ4wWnTlmaMZGkRFfp-yuQJ4d2FGAx8Zxh-k4CkWuKEN0VQzbsvDe2nXAdnGULvA8l6xJKnP6wbsLOV3niJpX6Nmzd-TI6sf6pNLfOjJ6vpQO-RRD6CZ8jAP_-39E-izb2ngxiYxK0Pu4hxtqKJ9WVRNeFfuh11T4JFtXfqsbPw9UD8cThr1Xz9eVx1Z2gqLa7L70ucjXUQGTF9DM6d823WDtFK-VAUOMt563cSKTNRX7P0ou2VTlkdHDm23Otd4m14-bGIQi4YRWqAO7odunmCTWGKfhHp7ZA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🏆 Бойцы МООП «Бастион» ПолесГУ — среди лучших в то...",
@@ -907,7 +916,7 @@ const newsData = {
         "date": "05.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/MThY3YIDsJnJh3tD1Y0CPZTF4DPTc0t6lR5yI6HlyP7tYQK06w_JjJgSKyt_5Y14figPaRSdrbOUvmsPQfJqft5fYcuVxr8yD-dFOFm_y3ZKDTKZ_dB8SNvhVDihGVbpQVO8MZw8gJ3JR-K4EsQ1t2TQwsEKoPZFfUOjU8Rfkd9Miwygc7Ny3FnSKs1i3GyxqlLnAMeojh4qhhf08Ef2FZZC3pKdWy7LQ1wrjyErLeUkswxWVmIjbKQr2x87gyTYtGDyvPdI-ycU0gPGDpE3Fo83YwJ6r0VqwLy8BAn7q83A5Pg0gvVE3FlFUDNB1rCLvTt0Rh5fd5mIqo-Laa6mwQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Cezq-VhMks_STBW93qhX1tJK7uxR-iZsXXtUJmxyIM_TfbbnikkfYLG4gssOcv9JFBizT72ENRWGoKnEf0_rWLkrgOYG-eoDtZEQEKD5os7XJTMOsJvTW2lpuK0J8IO5XGfKRa9u2VF7HFUsA_MUolDM0OGU5ghMk-7mxOjKLwmIcFtVNpB7BFmdNaEFOzhpz6w9A8AzywRc8qH26gwIngBQ4MoSnqnX6jefgjH3YM2AriH_IwDdhdwbIpNpiMIVVB0L-EwAooSZrZYbep4GbwABhYvqU4bsLRgkPpX6GVdQJKP2PrIbbH8-aa2gwMihHL3Fx44TNqghL40ZS0JHow.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🚀 Вручение смарт-билетов БРСМ в ГУО \\\"Средняя школ...",
@@ -916,7 +925,7 @@ const newsData = {
         "date": "05.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/cH8c-uYaBAtGvkj1AsoHDJMDb2-RFqPP28-CSRhij_-k-pAE19UKnvFXz6zFxke7v2_HLc9l1JPJmUGIKpqQEEDX0WYb5fwBSF4LRNeHdsXUWOGpCeJ0EFMF7WP975qzKe37Ltfj8pHvfg-ZeYU8wHkDr2JK9ijOd1jPxSAnAE39dOLlKNqPe-drTs6qGRPMA-Ta8bJfXQxPbKUjFk01U8BNHADRCYphxF3O5hS4XcJObXGwW-aia3CMTJsUC8Vo20tPBaElH1Cpjph9Z6LfLTjUFlRtdjX27FdPCnG9wf-Dta3czMXuILq838GISv93bP9D1Z1KqIGniPwvdR2ATg.jpg",
+        "image": "https://cdn4.telesco.pe/file/ervwJInJiIe4qp5gtZFNuY36Rkc-9zbNeUTUzEgbkAszO3QM-_TJ59EcUOVxc9DnKIpBfQI-sN4rVZTWOo8We3kVfFiDHdN_l6bTWTPrrCXsZXfh4_ZV4Faf-Kfz386JM3rk2h8E2mm1mZPwyMd3Y0-GQyU2NgggpVzL_fhYKAWUIYxYYvyIHsCLZx6i5HM_eQlCjI139dQxQaKHdON7YCyxoPcwWHGVK7OOcwYhmgV5yi37YmIR6wgNBjPq-38llMLzB7ZzQ3ysLqS2ZI0XiGKVUSPpjbBJWmlbzfYPSjw9lM2FZm0n5IrAAhCXdZf1xuDtQ83Tn-aPgMUsAeX0og.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"Голос молодежи: вектор на будуще...",
@@ -925,7 +934,7 @@ const newsData = {
         "date": "05.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/F6Dg4XeE9JsJ4PAlSKLyhTCfwSKuZFMYgbjGLGR7bBLJ9YotZMaPZMPyVkUnjtfXnMl4AQobXMSmqNed15oAapqjOsgU3DBET8pGeaw4ODLv8VIAJhDI-ACjv6VY3UHDi7YXy7-Xj4t79iK9pWthAyxjODL56k2ExyT_1pThJAMJVDRMYN2rWrucCRQNdxzDgM7XtgvDCz_OEMiKxcPq1GFt5YnFBqS5GunrTilew-S2rSUrvrtegYdP5kNgS8w1OxgARShWPkq5CyV7UIVFAqgJvpdDt3ZxiV_N4vC_3-HDvRrvzawTY2zb_1s8wTAcBiveFbIQkILq2I7tJUo6ug.jpg",
+        "image": "https://cdn4.telesco.pe/file/bU52XYv5nkorDS72hXs7o3_fDLrRJoDlvm8oIpET7p1MuPlir5AVtebCdLJzeLj13GGwrv2nxRvaeAiagscw7uO5SMmJP04WhWwTHWetGbucFR0ZLWNze_rPKhhMB5MZ7c2t6IyeOsw0-O9GiQOWm8nkd0K2y1jOlMAWFi4ITkOgSy2lyoT8rmpuksFQkiXpU9ku_xa_V3unOYnSGmCQojRXGaKQGpd7214Yjk9-yjCT3ZeHaMzWoI5ZuONmr2HjGykv93SnX6zOcSN9oSN9rRDxmfAyT-KHIy40_vLYKumhnDVBFjFg4AUYUD1Hm_wnGoTdiJbwXCQUeFCvk7ncLg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Эстафета добра 03",
@@ -934,7 +943,7 @@ const newsData = {
         "date": "05.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lNdZBkmhfJm6HW_pmSVXj2vgZ4pOq4VbTG_LRwdme4T_4zOB-kNDafiTGax_wVWQH5jEvxNoJTDgBkMrBBZRuxGNOPwgCfMzpkxdxlaZBAFzYxQ2vDB_XnSUXVkInBGaI9nfujwvEkNqUOlZ-XiafKt-FUUTiZzYcsAKljLXOdXKreqwe_xqlWs5jo-f-xFCtu-D4yqQaaKrj2qI2D8SJBPEvkIPRrDEWkXq6syUv8OA7L402X0540IMR23BxQV9EDAXlvIZbUW7Hwrf4jh1DlFSQZnHKFIh1u0vf2i9ya-Vv7KxeVbPbdy0MyDhs21W8yMqnVc8Q1sm4NyoyEslzg.jpg",
+        "image": "https://cdn4.telesco.pe/file/BV0CEeqiqYd4IIWsrgh-fVLvdrItLjxlNKND1L5IoZzVY_7mzHbiMw6U9pfV4MXRLePbm2czNqTKRiLvj-wvsURRBytJyvWsG6lk72JB-469D0411xMEIaLm17eH-t9-9YDMODif8H2sUooXGSzMkXfXm1V64HJASs4VIM1DZk5J0SxGxQlZBDbvINtxPsaMZYCvQKOupCCI1PwQMy1yasnGbZm1ke8dkTnfl4Jc3qPgC7lsziSF2ookHa0q6kU4lqP5NP4-eyVe5vy053wn8iLYv0BIQ2M48DwPl-TMXT7Pqu228H-FvBbQoUdmrtQiZ0O7Ta_I8j68tQouSznA9A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⭐️ Дорогие друзья, ВНИМАНИЕ! Специально для БРСМ н...",
@@ -943,7 +952,7 @@ const newsData = {
         "date": "04.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ZbJq3TpytSycyI7CskL_uaQpAE4lMI7HWUEzUMxhFNBUG1NYcTEmCYZAEJ9wWxVcbyRKkf3B-rrH3Yei3yqPS5Fn91uC6m_L9hwHCb3F0tXty3EKJgSeb1ydYgccSdkosUSwqiCbJWiNDGzXwfSX4fR6D01P8h9VYVK6fT81XR4m3IirEN-Z_5dqld1u-XkKCK3iqKTMY02TT2EjSkLwcMIStLnUkE0k9tu-h5bo3jeHePMbGqQ4YXLaJAVqCKYdRy6GfEuHtiwKzu9YmH58Fw9c3SCy1EHRPwnRitn1ZmRGMROaH8hg7VAoUQHEbPzihaupL8FMvTtzoEW1bPKhTw.jpg",
+        "image": "https://cdn4.telesco.pe/file/VW04-y1pDkVxf84rlMDUFJwsFtmuEOPzkzFjY-UuEeRH-dlTbR4wLLGOe2JOzCdp0tgJGW3CYtqJ4qr1I-1CAwGoOIcbSzXySCy9XJCFz9Hw5JvmmuHNU7MAx-x1k9jJR32bysvLBlvAwsg382ZmxiO_YyZBDEW-zUeascfuwtPdlUaEF2AsmzsieKMfQFt8x7oSeeXDJwN_ql3bK_ZejwYtlAd2mgwhRdEp5N_js4Ai5l1pAT2BR-qfXn-wzgpXmhxmUfqiLslcKngiqFdHl4a6TyM7XnlvIj66KcYhn42g-WR_LZlC4jH7Q5Yi8mrqe8GDoc_jTAxHdzWYguPj2g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❤ НАШИ ДЕТИ Благотворительный проект БРСМ «Елка же...",
@@ -952,7 +961,7 @@ const newsData = {
         "date": "04.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lL-R3B5qEZSCy2ZON-toRLR9i_TRsXtSEM9zRFT3VY4B9Ee7zoogy5Lypfe1agfKPqXBAdC1N9cl82zPIDQuTOTWoT86ZLw6ZPy68pros7R4LNJZTzVOg-_GrJkGeGQmeCV4TH2QbRR-D9864InuZbvBPrqWat4kpaVhVKyghWevePOJ0S3YGiDvnIqQKJU2Hz8v9CPJAaS9tPs56RQsAiGPFPOHtGoLJpVVdv_EF6cakzwHkSe-MJUDYNYHwRBDdUD0WC0zJ7A1HoOJYANLuxjBLkMiVAUN1cMVOf2rUqh18kD-SvAjhhLl-rEbbg9ShO5uRA8R-4XXDMmoUfn2ow.jpg",
+        "image": "https://cdn4.telesco.pe/file/gsBFTXboxMqq0jjcX_1-pQAMRtn_6tHdrhUEV_SX_6v_dMslOpTIxfIZHpy3oztRGmnY8RckMfs2v2axKir6neHsJlRHt35vjich4yjslzqPWlOfy-gG9FBMEeHKGcHQA1Gk1JUCE6wxneO0xL64qomSCIQA_xNJ6GpWnUp5uKrzzbJ0j95ikv2DhY8HPfkA8r_B8RyNHgQQz8HcXwdP9VmqrNu27Kahoc6WtfchDZW1FJ5XGN1zGlGR3jTGx6fHRjfWVuKpE0oYvw7rs4ELiQKhjIZx2Bx_iDkfDHlJqH_5mQ2SL2FrcSMLbDNisoGU0BrbTsetYgcqPQvl5RGWyA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "VII учебно-тренировочные сборы отряда содействия п...",
@@ -979,7 +988,7 @@ const newsData = {
         "date": "02.02.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tMvQSRZVwQ6U7dwwi-zI6Ja2MDzvRBprl16JwN5U1ftP4lSoyd31KwBettbije4AXzaSsi2vIrCOJFWf7G3h4nsjMmkKhszeMqy7MMZJgoBIdZAnUpt4pwqxFVeWRDpCypFNwR8M7vL_Agj8Ca__O4dweUbgvi-c9-0Ay6GCxOWw_ijsYb3Z3F48V4EK54qzREDsyniFzKCs8zT063C_Pdg2mSFr2hIgxHfGJKUM6TUo7XoKyGsSiEyXyaj96Z_PCfPGj7uj82GdgbCgE-N__a-hBfNvN60nZ6ejspWNwOsWOnsXHW0P66Pndqf49Q-7jBlgLJlmXSJGntIUWvuzyg.jpg",
+        "image": "https://cdn4.telesco.pe/file/NeWAoIfNAJXj03xVy5zYQvfGaXUjVaJth3r9nQXI9sJ-ARPOK79oo4pk35R4k8UdAYAOhyrmqQ0SvwmNmlDINPO7aIoS-7veVjIFaTfNbSRzciwpBH4LHyKLiNLju_HPlD_kPGMXxC5ZMBlbHgS4TQiUi5MtWgm-acYzT9GG7vHjFGOG9ATJxGkFAZpU5821m9py2Cq-P9nxYNfr2T-VuQpw7AgYFgNiEjkeKYyPs7J7dRhLQzw50KKnLntG9m6NK5rs1p39L6TY8I-34Vzk2eybNqt2D_mBfQXbYfCo2LDbT0Cx5HzVagqY0ZoP42xivr_lBPvuFP188wFzDr9V3w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🧩 Итоги Брестского областного этапа республиканско...",
@@ -988,7 +997,7 @@ const newsData = {
         "date": "30.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/C1KhC4mHMaP_q067izqIpoihgeCNMUpJIxOg1eSx5PI5K1SwL9HQilhkV71pvCVKk0NRfVciKHqVcFzy_zFoTi1lip36RDoW876LOl626DWocV_ZCa9syKv-h1zjxfsr9lpE1SRn93nM0hHTZ7y2wBQQY-GQjYQ4W-fAhKxYONdajF9u-xhq79jvey5rIH-whrgMjS-Wpj02m-zuigH-Jb0cnshgpzPz76cyNVtj3GhOCXJurF23NxP0v4mBh-kG404I64AkcbeLt79r6_rCnkGnH4NJk2-7E04gLYzs0qf5_DfXxB_DtY5VA64NLyEGCbEv9UueAcsqBVYvDkEEEw.jpg",
+        "image": "https://cdn4.telesco.pe/file/tFYlWxplF5TG7wvYFepHaNQED-sVsfpxgBD7IKjSCeqTLOVx0WvAhZg_rzVFZBRBq-8JGp0Q1jrkoHjK55iGlzBfSRVhXzvc0DhyHSZRZzUZm-sjwqYgAZMJMonAxhc3de_Vwl--PuKfho6DbY8--Thc9Sitm6osSeBYfEs48sh6-hBrQYQOQwIXu_HUCcu2KkWUPVs_aX7avySxN-fCTIo5fAftx4hDhUSLiM11E54tcQ2EPwYCtqwYTkLAnlJCEQwbM5P0JYz74HkIEw3sRCvxF1kxekfIUfk1BYVNQazX2R45nh0ZjaJLqSQn_vgtW7B__ddH59yPk1FHMnaatg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🧩 100 идей для Беларуси | областной этап В Брестск...",
@@ -997,7 +1006,7 @@ const newsData = {
         "date": "30.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/X8RANVSzLcviPAF37g-6-XJIw1M80SCWmi7GRWF0r-SjgiL8fET3HSajvFmx2F9BDQF65B4VAAW1U4EP5CIgQK-ZRZAV9_6qFuoCVfg5VddQGiLQrNANH66MhyWg7f6uZKs9IiBKLKoUS_yaaLyt-h1LL82DqYlJ_O6c1g362KIQG6jnXWxMd4HHpSGKNxtAwCxPEwBZ8Tx0IJ2mtOwvYwJfcEd5viP7gpUNFYfKHyxJBIwBcJ5efL5zgL-pLvam1_0I3Bqsly-qYdWwqQmkmtjHP2KdoZjDZioV3g9z6K6YAkIjHo5o5P-cQERmn3yPZ7Zpm8TN_GBeV3BzmZ9HJQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/mbV-wgV_VpjVe8oyy24akq-0Xqb0Bvf1eq7e-_zuWnA1T9iP4krPjBTtarAKatAIBvv4qlhqv8UlP3fhJvUVpcKEIN1XpyKTroab94pC3liAGfjWIbdR2zR41nM3hjapst3V73bTw_PdMVGAF0Xjqj9vCy0VPhU_fL07AI23Cg3Ul8UXGh7SxGE43bKBnigMwA4y1iJJetFvzw0RsSvNPFJ089gue5-hm8V0Ok69ssSxv4maMU_DuddeOCEOnGlMqzkn-7gPkxWxKWmziss5ATJ9qZKqQRkgfiQQzgVygKa5SbZwuG0lHOkR1uNOu9jgkkbPETCLikJAPtxXd6VwhQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🚀 Областной этап проекта \\\"100 идей для Беларуси\\\"...",
@@ -1006,7 +1015,7 @@ const newsData = {
         "date": "30.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/V9qZYD8uY0hStBXH-Ra9o16rMyno4h0Q8vvw0ydWU1d9y5iqGx4LczEtv0IL2KcD5tn8jjYYVEO4jQpb3pBW7n10koyHVsl8r5Pbur8gajY7PM_YABOvv5jsMMg5usA6dkMZtGPDPXOavuBdQxtTNDaKkh6aj1CWUg1-PXGBrXRGgFuaJt1HElMkYkuhQXYA8B0k5sCv3ROg3ukv-EYsk0zwEiGBSA7oW0apsdQplioAerZefaK3OpaYpmiQjE4_oRYeWcxuoXAlmd5R6viEsg7SVxrol8qEdv8cJ5-8ki6RKxokztaofluEH8Gqskp0Zix_UMzSIauxpXUNUe9AXA.jpg",
+        "image": "https://cdn4.telesco.pe/file/Nm8ae6U1Mprd-gIe_IeYVdwAOESDhre9qZUY7LCbRhlIGfW5zrEhkJspImZe9PXzE3kW3Wz0wPlvqnKNUvoUFnk_-k7V-C6DI3dEgFNWHtojOxQySyyPhsrLB3EUzag_B0ZG8RsnOUzOy-j7myuVh2EM8lpIgrpsF0m4NYk2LLszIpw8glhm_NbRAoTmfeygc_xELS_XjdS3F_Ia9Ur5hq49bXsdWX2dS40O1mqxdM4D5OqV__p8B0SUmflp_hhJbbOz0H14n5xYlIJAwZzeYOB2pojw55ZO2zLn1WWQAREMxRkQ00LtyaoHxlGdW5R5BpiBB3hTaTUG8ZFvUI5brg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📢 Торжественное вручение смарт-билетов! Сегодня в ...",
@@ -1015,7 +1024,7 @@ const newsData = {
         "date": "29.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/YjMd0XePb8__nbhHroA5B29PMCqJum-nWx-pnv1kRXeBdcC9zD_DAp0mfCxu-DA5-6JSWqHA4IYRafAD2Tnzzr__WOvwZDOjPHaXlom1esITT9DSZ0JI2FVr_v-5EK_uyZLcbrFPkFUeontHDcyE7L4sYqzocTQTbYfKf5hufllGEn76-f0XAajaxbnrTciy8oqM2hKfL1q0rm3otBZhYKcFzu_OKlchcVaQ0pjR6oi6OWDX648cESA8mUOARHPeAo7H0yIAMq0ZkgwWumsbsr1jYQ_MR0xTk8JSFEWCp7NQ457Q-lOK64B9ubOdU2kUVjvZQ7q1VYbvnqsPIq3thA.jpg",
+        "image": "https://cdn4.telesco.pe/file/dsNZpyTIakGblqLDB6olWOI76l2LvHTkHof3-l1ILQI5XP78697jG8W9M-e5pEjl1mgEcbH9avaQTWGd1PfhaAZPgUIXFgKh3lbyuuwgSCVyacAoeNFKgZIscT5iWdb74pUGh9ud8UDjProXLPXzjq7kUkbxcEmMmSxQR5jgqY-xHiJC3f-6J9m82guJPAdodjDZVhPt-gVlyfLAC5z8d_PoqVdZq0hoOq7twgLCm3DBMq5Ekoaq0FTRegbLTt-w-9iajLxHu1khEB5bU7Cwuf9Aj-vswBEkkU8PkEWiOCEw8YQ5gkAWJ7oOTWiJEHLIqd1dF92z_THY7Fq1CysyXw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📢 Вручение смарт-билетов БРСМ! Сегодня в Пинском к...",
@@ -1024,7 +1033,7 @@ const newsData = {
         "date": "29.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/HaGuQb_nWJ2rn2LSR6sjxV8scKJv5fQ46nSDTzaRzysb871wzxPfHEdHzHCv_s8a8l751ftntG2hirmMXNYYA3nCg3UR_9CWxQdvJjEIskET-9clgPtzl-u7KpO-WltHZ2KxM6STJP721kiaP-JwXOt9B_tm5AOiBHBRBC1LXle2pBbx7GiIZ0d8-S9kBL8KCrQZtcha7GeKBeFzWgTSgMgWB5rlLHk1bbtARWoYgPlD4d6FQuZeqV5Lj80qNABFXmHITZ5HhlheZ4d5n7DS_qKQbIqdIqrCIW2pHFCd572hGPZvUEc69HGvWaUbXKRRRHiWomP_mS3Mx_LJD4oxhQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/omIRo7wPD23F6sSOt2OhkSIGXSODON2wpuV5rFaydSOIvYT_cQ3-VDmQOi1YP-SB8wKAGwUWCGxLVYvnoC-33Iih-qjVnbgXipYREGW1peVo4wBhdmlEkMtMr33eOQwhqLyGPf6mW52zgu3nDq0iRGIXxH_5yNdGSrdqtSZk0PIB8WKYmS3N_JVIoFTQpJKW9tr-QuFEPHGHgMDUZVG86OpFrCykDnL07KoSPGR8gTVZf_RDuoJ26S0MNbxpPhACLQuvB74USMfvnTJmijrDFtXlyyiVop_e9_DkOimG4vFYZuotyixXba0fZsb-9EW2FmTra6NyM72fdLivvHr8ug.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💪 📢 📢 📢 📢 Семейное право: всё, что нужно знать мол...",
@@ -1033,7 +1042,7 @@ const newsData = {
         "date": "29.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lssGfQUgJxXoBK9TdXdQ0J2YRlLj-xSyyL0KHOBVS5wGQqQuG11l-vK3wybyVC1CwULdqkKGrKKYkVbwTrrIOLbLS3StcXQFLV9b_ooLCFgreR0xSecHlV6pEEX-W42Ihjrbmv91EirMCXBRHtHnfv180oEKvVntMpLUyZiNhAvwjhj0syGrRjjOTJ307sZ2q3YAl0GlCvC6XrdA-byqZT-UCf6vvMUO8MDmuFI-aSc-fX1Fp4ozWio22m2Vk7S-nSJt_wa_UROul09VlvvUg2ZYjD2j1kXAI2QNDjOg9iX7w2R-9qeYrbcF4FVWw6ZixPtocBtjJUo4PUUEFXY9Tg.jpg",
+        "image": "https://cdn4.telesco.pe/file/X89duCEYnw3BKbJqecqxcQYsvFCD2a2Af6q_ZQipJ6uFNgTvwLYCh-u1nvUulJKFS1Gkb4dBmwGpRk0EQPhn1QWyo-7KDRWQfgWObWGqMAo5yW3-lAWQCboj4Njg7Pj3z8J5GY-D2_ywgN0Jp2J6Y_hR0w5k5akuboUpzy_ndzN-p8n0p6_CoJLcjAYQ-Zh56DAt5ODudNo8EOXhBxJGcLxxgj_Q4Z6eMp14FCXFzfR8xIAXg0BXtxIeu3x9gxviS-vUe8vJdN3ravXxXIlkcZCTgrIz3DSE1_NfB0jFcrQDAl1uVn8Z6AS1xxJsGAIjwampyn9OJnq3zmXkzWYqKQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ В Беларуси запущен новый IT-проект для домашних...",
@@ -1042,7 +1051,7 @@ const newsData = {
         "date": "29.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ILIx4JCrUfmIVu-zbVL0S_vtC7UHIcek9mZmj0-wvVPapHJcGg_YovBSwdWNEiZ_LDTtiaIEwTZ9-vuCNhLsyGTy4pepp6BDAFS5_qQqqYTT-NaCueG5qCdROlBeTUPUOMEPMNc54FHKdMS_n4gLL422ulMRFD3QISLWtyVIY1s1bQ8NgAOfdUfBGGR0kRqW4yJl3gIvqkasj3i21xtg0nhHWvc6tplqY38rxO8eNaBg1sCoXDc3MN3i-KV7wP5whxVNFTK5tSK8fNH19eE9SoNJcY-hDj3yA0ls0VMHTZgzOUxO9YS5A_Ac7bH_55BK3PjJPIW0c68UiOvDWS4wpQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/BnzFsf1EkWGevs7ytoPPGfIXTxhZFf5O5A-YPXZgtEkcZBw9OUpRGcBp5QnPIatrdUXZiqbVX3M9J1Sk3QoE1FD4fq5eWLQqum2F4rCdvnXZbst4d0Y5w5HwIq4eDj_1fUGPyE0VICSdJVT4VoLbhXh3rc9CTIYe_A_rUxblQUXaTdWqe9JAPFwZkVkTScNOjwN0BM7qyHVi3ifFO83cvjIYrKpSkb6niMBXNTyYD2MBO1JDGaFAR5h59KZb-gTD8JChKuNrFZYXga6X7xnFJsBvqN1t1MMBukH-D7nElrbMVX5a4xwaYttVCqff4-1e_xmRRTzKcB5CumlPpCXmHg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Сказка которая оживет на ваших глазах! 🪄 Представл...",
@@ -1051,7 +1060,7 @@ const newsData = {
         "date": "29.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VHV1CjxxMN_fgBVjaqswwzMW3Pk8spnme67bKmgulfG5NGzT90FXK0Bxh_HQY3TAPnoT_Bzmn6Aed1FdTMi0ez3QHKOOzzluzje3W6OseAI5-KS-gH4iNwZKhk-Hg83Az4GJ-5Xbb217els0HObXZit-VAx9WZF-TtNQuHnNZL4RHPgrzYelR9p2bLx0BBNXsfP5Rna1J6GupsP6bp169dPSr1YFYCrvCThBO1VIaCkZui6dw1SPYavO33CiBVlnzddyTkq9X1Us_p2K9lHLmsyswAQQVJwv4HkYhIHshZzm5u7LIKCi7ZFQuHWmB5jmzilIEyj-GTxaN3QLBx3UnA.jpg",
+        "image": "https://cdn4.telesco.pe/file/kWVAFL8mHwnxwBWLNbE2QGCvSQdGqkm64FR71M54UkT-SZ92aGqrjxMQyE2m4Zvs7pAnxU0p0OZ9NHWZiYAxS8wbbv5FdjaoGdFZN-aIBSDfhQKh0Ezrw5c0i2WJY3LfYXw9mdVaf97WF1DF-bfpTn4hlVNeO33p3HNgnBJqcMnkCGK_4fsHRENrg10N763lb_QWXsc63Pp22IZPyN1OQGEq_NibMKNmrvxZftsyU43AQ10ddZbdF5QQhKxdUQ6z3AVK4L-4WskY2Ub6YLQmlGG0eQb8cok96vDnv-t6SbwaOJRGEchh0O2Ux6TqcB3sknblC2GVMoaI_4g5JTIo4w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🚀 Вручение смарт-билетов БРСМ в ГУО \\\"Средняя школ...",
@@ -1060,7 +1069,7 @@ const newsData = {
         "date": "28.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/bhrgyPmXqdX6h0De1mRMOLRPXKk5cAwodTTuK06IXpOI0_A5_cda2AsrCkU2aZ6xk-G6bJkAzN5UGL1GXftfT0WoP0GfeaSchymq4KUEL0uvjw-B4KeG7ivlsDRgZwans2DWCZ5pt3yCOU7zgOmGfIBFhDZzYSiBt7es26jom9G8Gcf7jsHYR4f4xo06M9LHst51nhgu-kbljgZN5Ge5PylFeMD59CRgPeY5BwHuOUROly0H8cvL5UlpCcuKlq_xMkXGUlhVsaxQzNJjZ2KY8BCSxD6LXlCEZv0lESn5hSvmWFKipZ7OwLltURaSNlOgrISzfumBhe8HlU1iwnOt5A.jpg",
+        "image": "https://cdn4.telesco.pe/file/qyJwFNloTHMAjJgzgqvctt1eeL1eetl5oy4nP9tK1oQ5CX1d2bbBeg2dkU-UIfv56nzUXev43uONsivGdFTNrvxD3qqDNFVZfQpcwCDr5Y776CdX5HxeaDUjdEfMHOr0Z_CUQrIYRYQ4V7Fi5MA3PYRZdgB3WVPcU7Lpxi4-BFOaL5gcNo9BhfptmAPq8cUcJ9O8sS8arwIl9cJuAz3Qbo41KkTBOl3IodPcJWxV8kMp5XTri8RbLtA90CnIGhPZjBer5PUDWPsAeMVoxZPbwJ6ZLohuhH0JEkfeA0ZYvY_r8xXwWGxggTwe8Qg4CvsJlpfQbqv5ZK5g_HLAW8CDTA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В международный день памяти жертв Холокоста, в Пин...",
@@ -1069,7 +1078,7 @@ const newsData = {
         "date": "28.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Kb4wijiT-2Ue890XKPsPzYkop6FGvzQRUVgGaeFIVevWV8ZtGOIZIN916EvMB9mjLCk8ozqgFAf7q05fFbKqPbD47RohZnFUnR2P4d6AOM5GNPFw82VIaDxUa4SUG4OuDdoYEe4wbh0BXLinwH0nrvbhUIo0fpVas_fdnZVhxnIvPuM09xp-9vyJcVVGeummRFTyUAS6xZmZLNw5sNdLymZUpgOqSnn6dcUZ8jbsFQrs5nFtx_CK3ftQJ1Q_oc7KipKO5vEVgyMtiqP_cWye71n4sNBBEszHXfLBgiCi0hetB6WroGiySwcNHY6A_B1s8hbQoSYRS-7wAS-JQq3OCw.jpg",
+        "image": "https://cdn4.telesco.pe/file/PabNZGqSjrkwbgreq_JJOlcdpaVreBgIcG9yAoPDjeFIbXQvyFIfla_TcGYZmyyn2RaWhP321B9mmUPr832DKeHl0EG0vcMP35bhG7571jqB3wpqMgmE9Sj4XiuQk5XsaHWPmCwO3YRICKB1lRPxsEbUERUc-txx_oZmtohs3ZoR_26CMkr7xAbqBDzPmt0VHJ2IPZKeS8O5YKj-CNV4X0Wx5KamF_Zi7GDdyS6wW0ooSBwZdZRkHfNDi8ZyZBwhUAxHuuRb_OiPIDu7_TE5ovQBGvDW3Yw5thw3gWaEOQhAR1yq9z3xRKST4d_UtRxTKYR_okmYbvR7eZMW8gvmfw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "смарт-билетов БРСМ в Пинском аграрном технологичес...",
@@ -1078,7 +1087,7 @@ const newsData = {
         "date": "28.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vMDZVhbZiNPpH0eFt5mPNVQ41BkFXXRIZKcduUVEfkrtIO3cWUDlD5OG0zfZH1Y2Z87b9RRYsjc7ETSNmzZYA1ZMdX-I7I468RQo0Y9qCdjL4XX_P6XF_tt8PfQrhHu1OG4W_3jff_A0QFl5j5lVtzalSKR4ciH_3lCnkrQRq2hLmWsaxp85P0saQ2y-P6NF5Mypb2Y2MEvLjD8awiHgyONQzaXmvfn0shB666vEhVHKAWkZU2u36mFYp9GqEOTtQwAdvrsE8F5FKxXFjbnitE17Vr0Ywzy3b8y8bnsJrI8Bd9sHTp8SZEGnvnpTut9ODWcBrOuO8A2i6Z7FaXunaA.jpg",
+        "image": "https://cdn4.telesco.pe/file/VFSb72qW8Xt15auAoULUpy_H6CxtLiLUDy28EqOe5JdiuTeVacLdNb0BZoQ1Bcvu8t1JM1O9fV0F45wY1a6End3_-xnSeA_tULebxj7L_2I-sq45Ava6AmnOnSA2FqLCbSdQ4CosIH2rbFceECIIEY0HVdcQ8fnckDQmxB3_9DD0nQEjw_4nHOgYgooFsllr3MxcF8LzBENxVAFb0T7M9mBOMo3H2SNKlUdTI3ic0aQbilNb9JNBUdSQhwoAlGvwy_O496E0xA6IxY-spziadnHeLhLlpJmRd9CHJ7YRBqObvenGf-iN0JejBDmtMMPCxzlAU8U6kekkxqrOF9hAQw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💪 Роднае-народнае | Об отечественной продукции рас...",
@@ -1087,7 +1096,7 @@ const newsData = {
         "date": "26.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Pzjo-TEmExUKP60zgucF7lL-Qt_t9lEfkADUOa3549dm-qLhC7Pfhweh-vCU_NRuym0aScpy4f522cs6vcDFC77Ey2xkOCOTHtR7Eav1VipS7NlEgzbUwQslpbk42Bm3odZUlhsb5OKARoOdrkd7UpUMfTHzy5FdSJdeUOqSbpw3FSmyEuVmlV0hRxmKZCW1RERXnXfMtSxaNlM9Q3qEfOOjrPCgJPQMySPAQ7gg2kl4oucerOaprCX3trHrkWhiShtO0ryB0hBogJpWmLLVpxy_Nwt5P1S0kBlkrOf5AuNBfzswXaClSq7pOLQpDOJDCKuNygfu32obGmUXCHI3DA.jpg",
+        "image": "https://cdn4.telesco.pe/file/CTGX3ExCRgLR_izTyYarD6BWIqz9huQgyO-ncqURV67seVRZmce0l8kAJLdFO5HHNvuEl6z1hQNIkl8z9Tf2SFxjS0EUyAta2lRa98Vp-MZJeut9OUKsiv11P_YnpHmmg7mMk3BbVH4FZiz_J0UGTS6YkrwrIR4J32X3DbZZfsujZ2GX1ZFHgJIAbu46lzi_PV2fpNu61uaM5iJL62iPbhEj1vQ3cKoTUNVVCYZrSsdAolWeaqbXWtivUd2rqgrjApUP1AqXNH5SKfwyNB0ZtAKZefzCr9KwJ1cM8p0Iz4mkEENab8Sq1jWDHy1jj_dB2X7QvbvrR92Fs654oUuzXw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🚀 Вручение смарт-билетов БРСМ в Пинском автомехани...",
@@ -1096,7 +1105,7 @@ const newsData = {
         "date": "26.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/iAOTi6f2zTCDFjGpIvb_kd8S9FxetRMZDR2TuGMhP-wM_ImQj8VjGKtcgzSs1VE4iiynG4emdxuUXYu7dsoj7x9NPQtD83TNWpAMmXuEUIEHuaaPLqud8ci6UBnJkMbgJ47giGWQybT-K3u6f-_YwY2f56xJg4Fb2uVD12fkPqBsHycn7ze--8IzK3LTscqxJnZRIxzCEic4NXHNWGVjLG7hYi5Q_ZL85inleLRoOc5_yID2t3rMawtKtMQr2aSJndcQp_07zu4YpwnX8Y9Nd3Tm0CtwL5LGDon-P2buYOH59mJRFSPhayI9g6zlwGFXU3Sgic6ByyiByfswEAs_TA.jpg",
+        "image": "https://cdn4.telesco.pe/file/SebJtNfjs5F-b0xfcRv-KrRZaN4JGpqYIL84kC0q3dQtSBm7xLVdUIBmg9Xe2L5oC53AQ4qu1SVVBUclxH44NlOsSw9K96gSathcXg_fbZZomFNiUrfxKBjXLsMlyc1Y9YK-_RNrBaF3p6ONhkmuvg12dzq9WLw-6Le8N8crJiPlsZgz1nhgEhye5xMGENfRuAqHkPs596f2DC86gun9XNYQ8yCmrh6sJMYq4_o3ErpJO8BpQlYeEqxnFHLaSp0pr5j0SGp3rTK5Uc1BZVye5V0RiNvGqNo8YJ5iwEIWyQgmo-tJt2VD7RsgRerJkemRFxBQUtMzoj-v9kbFnBz8Ng.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Сегодня, волонтеры Пинского государственного аграр...",
@@ -1105,7 +1114,7 @@ const newsData = {
         "date": "26.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/AyTcaG1gSICdtgJf5_oJLt_j15w4R0EkKGL5eNLRMVdktCSYmTShDcKPZtbXBL2RRDtWgznN3r1tKr7UmEw17U6rsYypMPixOqRJIuuUp4QHiBYfRp-lF5VArXdqrD6Yy3tRK2FhYXKjdC69Dc78DvLwuN4DKm_-hJ4AwB4kYonhGY_u0igH-W2dLxdv_BSMZv0On48nCwA73mLgDCNY4q8v8CH5VqKAjTQqrSK2HyolTeh-7J92-4m3k5wn_Abw14qTG5j7biP8Iq93kNTDTaZsvRU6VjqrTIm6UG-DmRgJiVpXb8FlDNp0Iu9UqB2w9zy8S2YEKB9Z0GQckIGHKw.jpg",
+        "image": "https://cdn4.telesco.pe/file/T60xKbIPK3V5X9kdwBGfSFaZnLCN4GQaeQJAPfnhksewoTRP9hMdJ5Sjthw24pECCovkhG2D1IFTMFYEnOrS3gXjqx-aIYP9eEP6BuL2eCtfg6yZoyQ7AXkac_m8BA3blAfeY0eCeMbuE3Ao58SJr7J_U4GAX6Fy8PTpFUytLgm33ZeWYUBZmMJAmNQ5TvRX3V9vmfkgzxDszs-pryxr42vH2LFp6TGioF7puVcCLat4LiK3wv3eJl_JzjCw065cFFNYaq_6juTa6uvlgexHgoPs4Ho82CQg05x2T-FV2DHP35XOEV5JKmW1vEdR-GNMmsTAaUMLXseD0_UrNRclqw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Активисты волонтерских отрядов, молодежной добро...",
@@ -1114,7 +1123,7 @@ const newsData = {
         "date": "26.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/MbbPG1OQAYacqbVDUHO02p2bH0SU0oxxvjLDzAwoAurACtL8uOZK_iRCXBT4sBO_1b4CpUJc9d5JjVnEEArmJthCAi0HINQYdDPVoeb7EllXW13DdAgExmWibmnZqefErCjazQD11GJ4ScD_rPD-En8nabXwroIwjVbWYHp_cpQo4rXhCD1oWNcbcTDoAyXFdC3Y3zEsedoNVhtxWmKpW2wNYv9GtceKJqQmpJ15C8XhkDAGFElJZKmwLvtR47nZNqS81b67S9Ng4NR-fKDu5vXYyfXW7cxpn8iSiQFCKSIQFQEIP7p49Xsuld9XGadV4M5DPCvQYM-s_WQsjkHt2Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/nwNrWiU4YqCOV8RYJCWKFb0IF7PqnoyPTwv-uvNpgt9_sIbmdNBqP0UROb8DRrVi2w9BrvS_KQQWcF44TxaSDGtN0HfINGGBejgR7Fz_dUdMLIOjK0dHLwQ_pbUyvKF6qP0UPh8q2RzMKyzCL-NdffQJ9KAgHd9p2vhp3_PO2yqBAHVBNo_rgHtYpnxXegMhbjHsPujCmjakeXNYSNzTutmZ67ApY6UlBRs_0x99Wi3aylbmtO8Qbc1F2U7zpLI7wOKXp5g8DLfYQGinG4QW4MtgQvRBWzxSuN1c11j8ES9PEWvxyQ8guPyZjVyzHiz_r0OH_4AOlsQSrkQNz1YiOw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Волонтерский отряд \\\"Доброе сердце\\\" Пинского го...",
@@ -1123,7 +1132,7 @@ const newsData = {
         "date": "26.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/HSeRIW3oeNTO-MPnEpdqfuwQM30IPPMmoDLIvRb63iXWjqaThxHoVz8-d5dVe81Zs-EtlrAVW3aztIf5LJDeLajaETYRA42BnsEsWB_F6ZT-U28x7UfuWS2GHmZ_li7TpK_j-ffUG4hpIU8w9gYc4YID3qNBC_pA-NjIxNUlHK1QelIemNZEcwLjKiKkTEvlgsmQRD6TFarCTS-5B8mRzjm1z38lnjjXQ2MhNbkCUnLnKnd0_Ec99rNV-aiu0xYm5nnxXCNrpVRwbkXW5ra5aIr2vUeG6p8QWyb2SEssPfgTU_yZI05NVmwQYnueBUVf6oPTcc_-w8BvuVuPTv8g_g.jpg",
+        "image": "https://cdn4.telesco.pe/file/kHiSxCEBmU8NNIqfbaJMcFd5Sb7aI0QaPTkz5rp_NqSey3EkrBrCgrf9M0GdF7e28szoJB5dbQOrs74vZA34XIZZ9-cJMx_xFp4s8bTkele3wMHtEqmL6stsnmhZ_2WutIKrgEjXfFSzmETsgQQCcm0g2QZ6-okSxslKOenluFcnxBHvatnRiYqlLxxYWuJwEsXjHdMd6XhQnTVDwva6ccV1QrqpCDzY95ZQ6CD17zz_gxQfHUC2tfPJvw4XOCNa1rLFI9X4DBSHfoBE3zWPsmvyXVc05BSibAC1N_OPS7rWYvb3RmT1kLzbCod6bZJs3veHiOijv00drSmxw63bXg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💕 Ко Дню белорусской науки БРСМ запускает спецпрое...",
@@ -1141,7 +1150,7 @@ const newsData = {
         "date": "23.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Bh6qJAUOP9kShrnAz9KvTRk8RJKcQh10JId3UICLeOD_iI5In5VwiuBoiCuE13HEB-pbKwNniPwhjV1eNvh1fpqIhU5zXbzk7k-4kF65FukZPglpnAzBHM-oV2_nGW6W7eRZCwfm5koYzoirVRRBhlBvFmjcYD8WFKpNKKZ61q_J-fEEeNUEpCYovB9U9mwGQD-ol4QyUPnb48wudAQHuw-uoA4rnaLZ0QeiO6Xt9GP7-xFVclRT123IRn414xa6AM2Jfx0-oUyzXrquSPNwPSwF2oJt_qk_yw2XyNz_D4a-X-5ErRAgF6SgPbXdvRb8xGC-acvOPUh1E3wQELJewg.jpg",
+        "image": "https://cdn4.telesco.pe/file/AQalryIO7fbUouy-_LJeEP1iFeoBthTORF6L7c1whP0y7H4N-_PmGS-aJSuemfWEgOjvUUj1SWpoi2N7zVoFhYxPt_lbC_i368CuMUrtj5cudo8AWCal0FnHb0S8PJfm0Fch5oBCyOMYoUyrpVNvoOu3uRBSIqSh0PUT1cRlLt5lZfSwb8ejLoAZeNzZqUYjLdlMWDHS_5I7PCCR9yAB_xlyPcqpUu5jeW-XonOlYTgTPIp38if8rDPQJIkVS0GU1oIkdaX8C08TFSaXcoElnmiwazq_BBcXDpgI3MHJYWYqO_9NDQqWNAXsmG0isNK_bHZb9B8BcVwjALbVueHxvA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🚀 Вручение смарт-билетов БРСМ в ГУО \\\"Средняя школ...",
@@ -1150,7 +1159,7 @@ const newsData = {
         "date": "23.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Gvmnmfayz8h1bSgrYEknSnQ_KhnW0VA_TPbfaK0YlwjHsWGmchhHwTcLwwVvM9GYkpg6vqpSD5mFxRBkzHHLfnFkOTDZBN1wR1s6Qp-qIAfEmdavKuiNzujPSvedgkEc2uS4XHtZQGLQW1VOUZc5rk39XdrrI68ztO-c8Ckon229UzTU0JJGlsNfegPwHuO5h1VFDpopUOgAyC5qn0VP7SPzD-j31maXcUgQb-ZWdHQUpHWjmiNaPoqycVB7SM1eRDWNEyZGaGCfvQUO5LjajVEfmB_VMIga5PP0nb-cI78CzcWlI1FCbNY9OpBa4669v1hR4XcrOPeb0KmRs_Fh2g.jpg",
+        "image": "https://cdn4.telesco.pe/file/TUls8-eElAJltFR_oKOFkna0K8_uST8EguShmqPDAN3GPRsv8-B4OfWu3Bv1zY8HRzxhby567CVnR0y1PJuGX0XuX7Irq8NzfGG9PSesM0qFYF7hOFY5jAO7GDfOIL580Rork6fEfFimLOHBjgK4uODWxAYuAjBiUaoVJQDMopsWbSyBkksh_u8rOmdzhXB4dvDjb8nrnzY05y9_dYQZXs97gvP8q9PZV2nfpawTMsh8gBp9pl7pH0I_OsEgCqVXcnuftPZHfPTDEg9k54yroULOtKfuQQ0m0kvJZ3IOr74-ThiPSaI4Wqi7awT_8hiLplnPArtclOKNfugBeOXC0A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💫 Благотворительная акция \\\"Новая жизнь в обмен на...",
@@ -1159,7 +1168,7 @@ const newsData = {
         "date": "23.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/R7yIiyzr1ZxS3xoKtMKEor2WqTZfVdGK97sXEjOzxb5AFuNErNf4KIPti9S3_tXq7xdnhp6NHmOK7y36eHu9vH8KbpW51jBNGhpp1BI4UCMYaagu1zDZNn0yR-MbIMesIYm-l6-M327Ptm0NybjSEw72EeQneYV4chxtqhUJPgN3miYMgzIV5sJy5bWTQXBXB1k6Y_IDFcuMsb4A1brUrKlX7uWTp4k_lrqnAk7lFmzYHRkyfEcR4-gtMU8LhAbzxLtHBce7sbQ2Faq2qPtUHJMTPag6qs22QffOAGRLebRbWbmeEn8xy_xONC9Vo5vbus1BZ0pmvQfUkp5H4LpH0w.jpg",
+        "image": "https://cdn4.telesco.pe/file/js_7A4p84APqGlVRYM9HKhBUzCzAAfniaKpy1v8TEnwhHlFl3VNvzgugEJ_NCR20-CYcMAxZAQJu3TJuM4oLS5KUMxK1Maz4wNool_IImn2YIEA1P24yzjwDLGWKX_NWhJgHSeFB7IOEyfIC1y7qmS1cu7CaZLJ3z91qs036nUx0Yn6kueS7Eb-NG_SDQ5FoewOm60Sm6fZZ4oBuE6xhQHW2T6zcvzjsKMjZYWpnu6I7836mECApXyNCLkWS2lr8Dkwy5FInOKiwpRdKaHlo9-2T2K61EzgYipTWiEZHz8KOlXGbE2NYzys66wpubNO6vzgRMMHkY1500KiRY5P15A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Сохраним память 🔥 ✨ 22 января 2026 года бойцы МО...",
@@ -1168,7 +1177,7 @@ const newsData = {
         "date": "23.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/BjiM8Hu9BGDlPAeWWmYNR_pI5x3Ma7rgNYkLuu2ZK2GosyOT35-kk_n0Mrs46x5xhKdOB6ODjAuY5EU4kGe2m42wLVM4OR3uS66a9-cdWHUJHGczKz2Xk2Q2-76ikMHo0r88rxJlH2haQ2bopGVo5CeAIhV72UiTaDTcqp4e5_9yColHG0EIFMGAYhAHoF9tHPsk_sYwR7ZiwqrYw3MbajsSGKdMRDFXZXMBfzSokTykJVxEh56NMxnE_BwI2BDpKea4er9nJMrxuB5j4JyiL4PDzeBmFdsionVdyXSn4Y3NoQ3GOzH7-3SJzmuJu9mxmE0s9lSI9Ows5c6wgozEYQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/NWOn3JihEadyjHF3V4FRAZD7FAicmGg8IbSYPlZhzYVMhozAKQe424yZLn3O2q2_xdjm-_szjYJaBxhmCsO-n7Dz_jAFhXwYKrQW3emH5o8O9aYfDS1o51uc0rlabKqbJ-A91AIHFJCSSlTiU-mk4FYUBzJUEZoaLmqNLL-Dm07RMfrChaEH1yRegWPSSkozMeOdMwNN03ReCjsq3FsgSrWxYjQ-VNcotOjE9Vfs3JwlQ_O5xiLgOHAZHQ14sLKU0Bx23wE0hx0Sv97i_lEFs1rGSkIGO2EIIV7CUZrh4kSEOFSBBUQZ0EdjFRnmnIvXDjHFWt3ueLLrktXVcqcBQw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Новый тренд \\\"Ночной посланник\\\" Погружаемся в атм...",
@@ -1177,7 +1186,7 @@ const newsData = {
         "date": "22.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fwoKpd4h7JtagHNRbcvfaOSx2-89bYXsxf0_PmXsO9vnlyN5SJuOrXI9bhsNQJ93ZpcrMo23Rz9CENEjcHIF_fvC2ieUCu34GkHDiSiH9P9wFlZsy0N__EepNI9-Ie5rchpqmwnmvcW_ipNgZFCgNLcgNn11BnlEcGTTN68BT772eL1T-g0fm7Ypr9bkF7biOxnVRg_x8Atj2IshAZKWJGO1XXzXg4_8_F9rIKixGis3iN56MWPPEwgqROJmSTvaNO-0Ovl7-rfu63goqNzPe1gI2sM2tg3gn5XQj38uEzNwvigglVnX9ifmSP_4qWzsb93cXWI3IuBUhFZJMv06gA.jpg",
+        "image": "https://cdn4.telesco.pe/file/gTiEema79vu5pknNeKzSVxNSS__VVZCR_yBLER5TTlf_vJs-KaclA7olcrTsdrlcEbpdUwygiyEPDozJeAYY1uxt_vWbHsK9FE-NHIB7zaaQXdJKTJfqSwK8eBGg0kQT7cOnv2CduGbF5Ufgu4kY0rT-4n-cQyTeThhu4lltdxA6UdhXMoo7hnWqpytPLmMe5IAajuJ0dv6IOvEWqNK7Sfs2ncz8Z3I5v5kxxluPgQwTXydAYWcoJ8ojAziw1oJ7MDYLy6uQhARv-4Ko3-qvvMb7tsjll6ePXMF3LyrzrLO4VyFQqTq6Hc21q_VAlTZhywuUaYJ0SBRLduXzqt8gUw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Я выбираю помощь пожилым ❤ Волонтеры Пинского колл...",
@@ -1186,7 +1195,7 @@ const newsData = {
         "date": "22.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/f8D_zYZZ3e8UV_xmf-O3UMvajB4lOCUzlmsL_kjVBTPtAQTryGiVsQZXAcl-_83Vb3EeKzmciPuuR7j88uM6pU4rwb1vBpMEi8VQ60j6yqFWaMNOK2mO4XyUEDTDZEtkvPyeI4z-elFAzigR1GT2oFiaD4ClShkAGqdauzBAIhzs_eXywr4f0V8GddfrH5rxJpcVt_1nPTsqMx3V0_DXrFLRrk8nzHAAPeBcfrG-7d_i4Ai4vzhBAoMTnRCliVhGK9dUyfl7EggtUIXJdrbkrtwr5i3RWNzg8ddbuilAM713ejWzqFW6wOo6fsQriW1ggc-7gEAQij66WvYRKwCdSQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/M2g-5ccs9dYdKNMhxVGVKaDLhegitDcszA283319kRtOZR1QCBbgIGcD3_8biAMNwT_jwLnvtmNPyTdP-y0WaUDgCBTNUqObqY5sspc-vibyMMVy0Am4x7iOzmoepHyoA7XpaDgkUn-DowT8Nr5yETtXCu9OeNv71xX4WDZnFGaJwPAPgk-1BWKZrH5eUYNEavEIUPEXR8xlV7xwdMM4ha2EkRIS-hrIZa12fFb0eX1QRvj_eQwW9FpyW_UAKEsAoK5hLW3TO-UvkMqAcZJ8pMa_lIQ0YLJQgpTaAz6SVIcDALbSANP80MSl4TdyNpkz8kHBkjVp8qWAlZ3lrksgIg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Снежный десант ❄️ 🪏 Сегодня волонтеры Пинского агр...",
@@ -1195,7 +1204,7 @@ const newsData = {
         "date": "21.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Tky-cnMZvKjB2jufiHFkGkUgcuh-TtyeFdWDyUNffZosI3Y_oQExNZJspBAttY4MGyhgtbCBq9bUfBM9I2o_sCa0aPDB4Het5V8mjxWfOKFB6vk3I0wad4R7kvy3QXLw-TqnYjjEzFS55kUIDTuMAfDBSNQELEKRIsCEMO2djZm_MKdVxE6ApkhHVkCsUfzFkBMQXbPW1XkGqd3rRVOW0WfxhDtmP5UD6lnoszxo5yOXmP5tB7jvdPiV6pQRjITqHteO8Qrh6TmGy7PPtWwE2k20mEpbkvSXKhziEEAPOvRdu_T1tc0dwrb0ebcYVpF7w3YZrAqFx5TBN9ZlGD6GxQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/tL5aR-Egrq9njQbpPUHUPIB6JbjAoBhgO8_0hQLccw5VuU7Lo9S90GQyJEyVgNqwO-SRGURRRaHbLy7qoXw5E4VfgP3QmcNoLibVMwaQkMGoyI6fnMl1jRovNbwmQSVzKT17eUZ3RtuTW-z0xQFucCTW32bnQt5f2i7U3vm0dqYkbzdr3BcJp1ZZqgMmmiQemEwLoJyP7Z5VInsFx6Uxsr8ZpmoavgUqZOAbSn83MNs4evMYyetjhzda5bpzrhbd-KR7rKbr-obfQwJOjNeWsQCWKzacMtM5f1mnpCVVXqjmR4O49WCpoQELqZTCThwrkp5stpQLKS8JN0m-DmdssA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Этим утром интернет согревает новый тренд \\\"Ночн...",
@@ -1213,7 +1222,7 @@ const newsData = {
         "date": "21.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ulJRGdvF9gImnd5PfXdldbeAHGYtidjWWC0jPI9veYNJMoUYeXPcUbZaBXC9mlJK_C7EhdUmA9GgwnKVocaVCq_WlVbEIZB804HMVU_mR8XZ4Krgkm3ucsqLNemtX2Cxa6VQe2aj0aShxWhdfVPjTN4oZtBpqvI8UyQb26TxINuddzJIQieUzdikYcqAs2ft4iMbzicWAhIXRbBImXxUPcT0NlnjgOQSoJFY20cV3K2gQ3T0wvJV59ONlZ9Y4wPnR8Cz3BpIIcQHcKO7Q17XLXTAvq3Y_aXFQL-1v-8MkOrosOHYBPEcHNroYjJx3gHkZH6r0ZR8osdrDZWEGpuZ4w.jpg",
+        "image": "https://cdn4.telesco.pe/file/p5oaFaT89LjdvOA6Zt_pQvnm_6rVyx8X1IFyHCEE2IcPzEfTOxW9rpsTIKKQvGHskOciub2Dy0Nsdullm8RDgTg4tj6t0wR6IEXBHcvQ1gkly9wIIU0XL1HXllVKHl7yfMo0KPy-79GRNejp287VvkJoH_EzPbsyVdNWLCMJdgm2qr2X9M2SyCdEMCETCrUcxrbmMjwlcoNKiyq5-GH6xP8HT22XaqZe9xkH-Ik67iAnPbdNtm1MF85c5xeMHVXdSl6qgqK4A4QGuE93GepLg8doQW7RjI5CiY3KWwxAOApM2t_JlrqQbvHuD0MGbZX7pJ_SSgY8k373Mw5iMkOUkg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Снежный десант| Бойцы МООП отряда \\\"Дозор\\\" ПО О...",
@@ -1222,7 +1231,7 @@ const newsData = {
         "date": "20.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/QwKdIDlR28oGVLYsuWyevWCKPy2LbfbueWCWI_bcTEqI5LPbnKVt23nGYoeoey85HXUEwTVAJeHnnjT0iRmgThqcH9potnq0HJCClAu275sKsKi3sd4rUWqJvIzh00irrMzWfRptYg-ju1U8MPibKygR5jQpSn4fKDvA9jMYNF_itHR1RIRdOv6erQ2zXtbkoZAhokdhlZgoz07nxi8eIdV1PAOnT4p5y7XztzxqwoXZ-SuXw0n8VelIIJaeAE7kuJIAb6Do44mimcgel_TY4xUWUaqLUiQ7iNB5gXlsDUePKJr6SpNynKmDXMaLxqo1jiJ9CYggibpu4fKVKN3cmQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/KaC0K3aKTakc1P7jNhq19TqJhl1E68f58798pv588AGZC5IEARwwxHpLOO0Iiv59cDiLHO1Rqk0m6I0PP3cV2A4wCDzF3LgS7VvQAXh-GwAeM7ylVjA7CT_P-p9DoApLwva0FW50SAmHfIhiwmFMsAFbYvfJeEWO2iWPTZTG_bez5w4RQmhlkEELK-n4YDQaitTWMregvyJRZS32dgDgk8g11LMVfhycOXK0FUoB02mDB-xi5ynoKuXthnUrzzflWHIPEMRMkpkXLEzSf3E0mqjUE2unmcboMDb3A7d7as98ogObogfP5ER-yVIK_8Tkfym-9VGXTV7L0eR3JvqAKQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ С Днем спасателя! Сегодня белорусская служба сп...",
@@ -1231,7 +1240,7 @@ const newsData = {
         "date": "19.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/NILlDE7sUNGiYxQyXqT21kMpPUpeK9e8BJW5GkqXGetxWzX6fTBEMTvaGvHCLEZ339FCdMsuzcPDRmNbYyE0G9ykh4DhtFhkaPsfP7VNg6qGNdWLbCtJGklsViCw2NlIKmJQTTjHy2__9roE1jgsar8nuZWfsFNJeVTLQDu5rrDW2p6dmS9Z9zVu9TJCSgvGa3ZVOcpw62jRrUZCp_MijxQgpiRtrgYOxuDDJ6ucgsCGZLuqMLES7HDOskiwEVIBxgZXLxPsYxHYgcd-euvlPakXx8t7MF_ve7fZNaMnau4rftwg4mX5mjs3A7G4gVsmBvN28edKB9-SUS7_9hUZ2Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/jCp3s8C-_vmTlcFXCzXAfNqylaSNGC8-kL9dwWsSKkwHekoq8nYMSX8Wu1DI0j21gRz6tHdcBnd5IDjUyjkgMRMi1C6-jJuCMVZh6ZPni3-5bmnbSp-XFS7NJWbXnodQhxASi5ZePoYLJpF-gkglMFxADX_iGceGRF_TOsQBwEM5xHXHyByd3jy7_BZTgMCMXLROgZES_3Xto5CrdtLB16iDUbI9erQxWfLyM6XLEBGI2dnXJ7F93UHGVRs0HNXVyPvyF-gwATLjYd4ZU1JkXeHO8vOAWoucCWyDsMNK7xsK8Q5JpCAPghoQlew20eRibyULqy1Aajg9jY4HZ9o47w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Смарт-билет БРСМ | Активист месяца Ты активный,...",
@@ -1240,7 +1249,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/bezAXzMeSyENcGF29CfaU2nt1LHsK0nJqsIxTaxwBAcLVx45PgOod_r4nzHkwZNXpVAUKBcTQm6Ec980xsmW-qU6JuOrWZcoXVRFqq9_i0blY_NFRvcdxQVL40xZw7iLA2zBZhcwp_0n_cmzIizEH12MxQ7i5s2-p6Wjm99VVaOv7j0jJ-ro3ygIXHIySVZRUqjGT9T9jC50v-uuYm2kNxjz9cTBhW7knK-moKUnkZrU_037YEKOQDozucOUMUwPuvPb5p3HfqFGD6jOZ8pUFpp-fgE3P68TgPAUQHUhpiec3ovM7FVKNX-MIaHA1u1Xs-1IZnTzrrgl7pdF2WOBpw.jpg",
+        "image": "https://cdn4.telesco.pe/file/dLHEl0Mii0qR38d-jZqPlyjYKXLEE3tCtUrgsOJnqqnVrNVPOZq_mgxMGuGj8i4dR-98grhD1ASBryhlIMcgZTkeWz6j-7LwPM0Z1Zq-Ugdjh6VpUy07RLlZd-iuTecXv6UOGRH_V0uQ8RmukSM0AKmGhwhyi2FZQdygaq3B5I7F8mkTgIIkySOJTNQwxgygZrlGp-kAZYGJ9mPhVCrWxEEWC6U-E7r5i2xtbxs7yQn6tyagZycPtl1eEUeALB_FF7WhU0leFCVoQVSqHUXglHOgfnjNyLAjxZjZTUR4hg3jciAT9nql653zjJeHYB8qGKDxs5rtF6P3KFnarGe1xQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ - \\\"Молодёжь помнит!\\\" Память о погибших защитн...",
@@ -1249,7 +1258,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/erkSm9SI7XjWi0-FVDo3MtpYUG_LLzsrfxWWRAMTwSHL1Fc_8WjxKj9cjVv6jzYWSdCPpskLxTzNsTZ77kVhTJtszwLa8Jj5WBnALhtfiPwWoYzWE0G15PVUoyPL7rp-d-QlFyyJHtU9FE0i93JMwbc45_WgppgkCAY_bxvxlTFw59Gy88us_vThGHRHEZUiJVdThynKv8KK7OzUIXdWrgIfVmrXqq9MIZFJnUlycEpPvURrrEwYx6kq3MRmzxKOCnbtltwRmDaOtWAnxrW_Y0GSmbgwIHWJkDCB-uMczAlbJ5u4-al93OQJGoylZFxwG6nE7HjjOADh_yI_ZQmqrQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/T-UCBHhO5wRtAbUDiWfmgwaaZ7SLdeFR82Aa3eQQbxMjjKh2ZA-ZXjeNAbDN67yNgZNIRhsVprGytKGq6EnUQLAxtsCCGoIEuON7RujtjKmKj70YxGKAvVI6yg0U8ALJQaI0r8M5bmgaVwMCYkwB1-qajC_eZvaYrb6HYwDSgi9T1r87QeyuvqAG8RCTNLYtmo3NLuCmRMOLHBGHve-Zfs8rCkC8rLJPDUKd6oy2hcd3FjIyDxOADK81w2XZ-LUA-VEVwY-NOZnTOd0KKiT_w311s0aENUOg2vsrt7BgYqj_KodcT5YNsaGYUcCeX4HkhA8N7rUXQHQ21FtHPfBGVQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительная акция \\\"Наши дети\\\" ✨ 16 января ...",
@@ -1258,7 +1267,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fyJEe6KIu6KnOELJzApoHMzs98suP6kRIajDt7mTspjPyYzgu1gsEhY0dP_P9FeIaKHUj2j9jVZpl1l0_XuZsilCW62geeplTtlC8AjL0eyXlV6OTg2ur2fsp6PFdsYI9sQoYqgsZUXqpEUQNuJAYbAYdAB2TKRlT3Fi3OxmbPYeZqhCz4gQjBFJkUEnkbyArp1-Ln0lOkQrxe_vMBoAzTHh_vIjlYdulluOtyY-lSDNdHOfrhwJLtjeA6S7jjvghojQ5VVcJ9nfUHU8O4kygg53dnlEC9taiU084a3MFKZbwRQW3YYiUJ1G4ugNYsIbn5hEbN8fegTi2hn261HgSg.jpg",
+        "image": "https://cdn4.telesco.pe/file/L9fVQ-JRVxFTV0Ci1sHpz_nfM7CGkzkXOR9QiYcYCAvuLwgnXZoRMIQMs8yjGut--bB5FErQ1aRC4CpUpbdfXMVtZ8qVGQCviLlXfrjUnRH19QZrPkjG-JVg4HZFOKurubKo_uzmjtNCENbkI4wuDFjgnN6zBoAYk9iWL1kGLmNRLPShdqZJOY8esF2vbC4ipmI-KmMjUphzbWTvzPwvtkwORB5MeI0I2ddHxV0g5xfdiIYqx1zPvy6dPXCULJjs3sXtA0dBvmHVPMn2tHde-0cRl8ZmUODTQa5gg9Om5l_v_47On_sl3etGshaaejA_HJATotqWGdIhw_yzKmPo4w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ Сохраним память 🔥 ✨ 17 января 2026 года члены м...",
@@ -1267,7 +1276,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/EM98QKmGRMLQZP4-V3W5BgLXDgY_K-xp5BF4ZWC_NPv167sSow5VU5lm-BvDeH-x7J9aZ0wx_tG76exEXPRMH87P7Pz2cgxU8nqNwP69aZrCRCn0mM6SqxtctvKOjZrq6dCETIssgayaEsT93OQtHNWQwGyQ_5_bEIJgAKXz4EfzwUkP_4yjti5Z4E7dHexmgz-M5dDFoPE8qWp9TLgjUhqw0Dj63LHxpPKBgG1GFyQI0u2tYFORcHQFWNDTL9532fDJqbfHisvlUJ7sLq9yjbwP0jYncK2JNCcguHfpWl0pxNa8ctd31whLzgnGZY-4uVoXQevJ5Mrs2o3k9t7o0A.jpg",
+        "image": "https://cdn4.telesco.pe/file/fwYfEL8urodjEgHDFfhrfKxTViOuNUN6sb8WTGi5I0UJJsMCXTAu4udaNpUC45tXNK5wg8vHuL2wqGlYq7x6LxO0WNaC-N5TYW29_BvGnh2qSUYjM9Kktms1ZveJYVwbGknXjy8iXim8gf_vo4PgH2l1tjY9DYWqSNwFZjWLOOC-XekK-Bbww3_-NWhuL9VM9JGli8q_aO1jem20A_vG1vL5HFRqpGIlc0-UDj59JA248NHKW8H03ONhFObBtlrgeIGS4iWvxpQ6FP0FIl9LDSWdoIlOzOLsdqRtNrE3B8qB5_s2c8_-yMj8XgnYoFdBwFb-KAgp5r7X6h3hd6lGow.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Молодое поколение помнит: уборка у мемориала Для н...",
@@ -1276,7 +1285,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/iNva4_O3Tvn360yzBKO2a_pg1X3P3Ao5BYo8nyTDoWj0vAww_eqD37_Ui3FebyEEnyZGioB3CqUYNXzPwwSFN2sgkw3F7IlWfVecnrBqiB5wYZR4wizJyFh15jzAlAIC8d8yceVYjQQALzYj_KkEYTkx6gIGBRtM5uPqYNqcD3Pf58SAfTaz98dcqv0kjjwce78i_vhX7tHCGC7LChThjEVvm8Na8kvjJMgciVe-FbO7yEihy_Q83VUjS_fbEolGQGEaFoe3PEWGehtDvT34XR4wveAjRAJzk3YmKEW9uciA14YW8BnaDN30fYTnQSQ4e59q7m9omIWB5w1Ulmmzog.jpg",
+        "image": "https://cdn4.telesco.pe/file/mqn3-OSgsryI_6lDZnGb3LEJ4d5aliaAycnwzz6ABsQMdmPV26iovctA605jE1-KgeSoc9YB3UyJxNct0-s8yRrZg-_qNl9ofnK0oqX1iD4YbfGCmdEsmPZdp6vya6-lGfMEbH2xHySxENk1PNl_JK81bska1kOfpITCeMWI7UeWyUAZxVoLm5uT3xCcir85ZOG3rCpf8FIApZXlXl2NzAObHCDcEtkhHYaG7oJUowzW8wLMSp9Bwq991RJYTHTKrhMICcOJ4x7P7PoD7iwNp7HdnL-Rl-NasSDXOanhUZrQSShGe_TvVsCet2d6I_sVq7bSy9vqS0XV8B8QeoLktg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ ЭСТАФЕТА ДОБРА | Пинск Военнослужащие ПО ОО \\\"Б...",
@@ -1285,7 +1294,7 @@ const newsData = {
         "date": "17.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/J8fFy9BU708iZST919qufimp3z64t8iNjWqKYVawBeozPngeWKQU6QSjThagGFbdU9-krgfR5ZVRItnaB_rBMR5vRuPZtRWQYVBusbYvoNSq7ti1PThaEZ4n0jixEoVrgQF9F85m46V16xzY8c4vjcAYbuxwoGtO4HPByAKcG3vznVNybOqvDu4SzvjvEarkvSmuqWfUDdqSGUYI1RcOgjdB64LtJT4xHtojxUMVDsZOmJdBwPvD8VKoJuAWzop-JC0SBPx_l2qYees5wytBBVtLwubFYcqc6Luf_jMdL5l08ktSONQoBTCZ7gMrnB3FBBr3IWLuPqlZ-rpGOpi9zA.jpg",
+        "image": "https://cdn4.telesco.pe/file/L-NVB6DDdJkRnoDpBaLqZPvYze-EEs-E9Jm88GA51rco5pz37GacxtViK50TVc2lBLAQA26hjS7iA_r40dKRPM8VJn9q66YKCRxX-sJZnivv8tnw9ApSS-ImHDcLgshfFzwOAxSM-TzMfUJMORdZoneS5nW2r7XYSwjFA3otqToMUh9Tqeax5t6P0TepRu1uqRxMwjUafuAXR0ZhXJa2dF2qcqIlGrMBhPGfIqQQHoE-M3awcdL_tUUSwvsY8NYF7JZaKpUJwcDofsd-o8TG_8JLpke95XcrQLY4iqFBTYizJMwExIOLo1CYqzTnxnlb4HC9e6VIc5-GaP3dHsaH5w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Большая молодёжная игра! 🏆 Мы это сделали!!! 🎉 🎉 🎉...",
@@ -1294,7 +1303,7 @@ const newsData = {
         "date": "16.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/rUcLBwxtmJBYKw1CNHAtDlcVXAT1O4AVyqYKz9QvWRaLVr7aCkHa025yUKP7hjFxD644E4pPKPTgZDaqhKJf6XBoMmxer08cugLEb46UMxK1A1L2MWa1ZsiYsX1t3HhweNXX8IYUo--AM9L1_gI2wRf5-rn_AUcSLXzECg4LOwD5sJ5Ka9mKwa0ySEhkcSfH95mLEodBv401qZO_cLIJ88Psg_mWwRQfJEMqkVIj_U-eRcV4wVBXdBvhSqUay4l3NLwWOEFvcc3cuzfwHYgVX_g4iSRop7Pmlx8tEwO3xbUPoyCmnmQdx4k7PAViJtCV-dpXU5x7ZgdD3_oOuUib0Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/ThGGhGy4Ooq_NCTEQoiKx7fEZ7Lku2pD7xjPDmujRFKfgqyxUjL9UImoInS2J6HkjAIcBt6a6HtwOXouAPWUSOUf46iJqnUMJdLavI9QjZn2r7ZHA6x3xkZV0XdP3kBq_nu8cTqZc8bBdEFjX9368f0FiUz1QgBlwIiKtO3Zrpgy6QyxxwHluVncwBpqcfEXLxvdLikpq_m7vIBeN6e9nPEEw1I09C9LPRNjmscJhqMyxaIaYsrDmbW7du5QCHwbO-DWPU96F6YiYi-NIcCgR5k61Jvr1fAEk5rLhnNnDDFbpeuW_km2nys-yGD4vb8VZfpCKAXQVEBCXMRqZEAazw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ СМАРТ-билет БРСМ - новый этап развития ОО «БРСМ»...",
@@ -1312,7 +1321,7 @@ const newsData = {
         "date": "15.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/FhziaL4jXcpYMXCMS4Y5svJljTyrfq-6Edn0nNBuhzGItPBE8bs2tWlPY-MKi47XNHexBlVlzLbKStsnlvGafJkyhphsAHDmDlFfl2dl_L-tSHX1tlOzhH8DCHsyM9x5ZQZNcIFyCUqCeGXKAFNTRau83jJXbBPL7XSjx38ISNl7XS494otQcN24rR8FRGrQADoWRoFv25LwbPQuAX3PRVjdgFrk_COWpADHHXoXbUt1jYKfu13xyS3pS5ZL8x0U81NM7Fo6aBkLGcvSrioHuGsNFPMAEStzZvPn9ZhwApVMVPfEETKrz5vcvkbBIh57-DFmK1MnfC-kVFuxqrzeRQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/GgJ3VOU90JMPWnhvxcjdF4H4k0tuUKSj4Tb-GNdMdAVHIm58OxcBB3t1CAPZgWuDg6U1Ob5EreEcr7td1m532GBvi9dsFJ3Y9nd6lnxPT8agc5IIEJaNfr_2L5zGGvxWPCil1VYwKFsUi-5C5e3pxVUPbfMicLFOx39K_XXq17XCGIsHxZU7Zn_6K2Gi7moiqgZv8ev57jEutHXFdYf8EwZqLPZJ4moJELCq0mOVt68zsPYU_VN2ZU3zkzcjTtjYTHAuXY2yLhO5yr915hYPlE4vlZ4qzC9ZYASD1dHwsPdW6be2DHepf1_H5uS1HJRLL3ikbIB3qSBrrbnLpvQW1A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Последствия снегопада продолжают устранять в Пин...",
@@ -1321,7 +1330,7 @@ const newsData = {
         "date": "15.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/QPpUpmEn5IexsQiSzSyh1-paqpVAsRcrI-aiuoCVflaOKvRPUfeHuUGxXfI33T6qFsXo51cWk4oes9riswDODNzLAftj9nvKFWzhgerPwq4cgDIJ_5kiQkW_tkAm-6MSq5VlXl3P1nb9aWtbC7Xl8rLFhCgQ7Th6fW-k0OTak3Y2ld5pLstgEZYoVNKMYZrK7iGa43SaNYC1YhcguAnj_TT-2gmzsF4kUb7oJWWKKvp7sXA4sPByPaQRnYLfI2xGBsDPsRU6D-JWDMcorVRegkGK_KcvC5-88wLYM7aCWWLp9J7MN6m_LQ4S5D3BzlPy5CFDOGofysZpTbNRnuNdgA.jpg",
+        "image": "https://cdn4.telesco.pe/file/Xn9IlPlbm3d1cgpvK2R6fTbhOx_heEpIsAOgiwcbQAxNBcDXG2etmfxcj92eoiD60pAnyCK1CsK9mCN8hKQxOHvc2SfAPZa4wrhiFjYaXqXB9Lyx4OYf4LWeHGkfyfkbCzg0ywlpcoXppEhYNtYa4P_nW7PPqw8vSPLto8Xn-UhcFwJfGn-e3Lgmg9ecHOO7kBX-ov846474vrXQFjwNY7UcG0X4ITNawbMx2VhBCO7iBfFGwLvEpM5sFIUmb4kM_-E_U9B5mxrOUL0Nfkmxben9GKfGvnENOVHdPhIkmFyXxU_S9RZu2-pFDiCNVxBVEHCmUZ1XAsl7xJJbVr1X0g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Новогодняя благотворительная акция \\\"Наши дети\\\"...",
@@ -1330,7 +1339,7 @@ const newsData = {
         "date": "15.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KOAKYmYEM-i1ynfCJXSJSIWtYRGlFcnh7uk11IXHs3M5LnXa_07pzOvl5d6nBu-F4eEO1BXDYMSWKPwUIM8_eqabQ-5h0mFpiQL4vQgJgoAmlcMNfEIBj21kMw2TN9y6rp9znVS4h6PcyV7kPQK4RZH_IjIsLfoAPHIr_1kutI01yMGVfntSNreB-d7ONDNQ4WJ38IYXKVB2aWvQnN_Qb4FfEPsfRPdlutkPIG-aReeqzKBQOSRGHWcULUboWca0iY4wmRcmKMor8zL_Nm0d40obQC8fYLo6iX7-aspTJ8HpXKOAhIDRE7SZGAawigmuRh38dg1NAqJYMRm8qbIEVw.jpg",
+        "image": "https://cdn4.telesco.pe/file/LQxhDAiotw1mapTsuQtYqg6I0A8G7ALvOfONseCf1IoCrfU5QKevwroLC9OM06RvHXRlr34xXj7oBxRFnH1T4pCGOmejHhSwZ3x6Mv2MK1AavPUnn69dPnqDzu2ITjLsb2tqi2GMXlS0h2IJ-riwrXHnzak0EV8Kf4q9BIeyTv7c6SWMlcatBDC1av-a4mNGqbQULo4ZN_pRd3EaTNRPNUo1qtjPrQYX9vLALAJlxDjqsaNhgvKZYcRK-HWtOpxGio_B-11h1hR3cIlC42Ckv-du0fXlPYV2ZWURAjfX6FeuQFBUuaZmQXPbM1BdmTKEio9FVjRdgQt93cEf9aIA4w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Благотворительная акция \\\"Цепочка добра\\\" В рамк...",
@@ -1339,7 +1348,7 @@ const newsData = {
         "date": "15.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tnDcb5mBD_39R_B_w01bbeZSHiAmCitOP0bbo5WJ1MHRzoROfpGligTPuepFlik3NJ0dh0uy4jDbG98xbWeJZK6B-3hxhzYRI0e0-1lZfxnwPAzXeBFUyodNNC02NR9yYY5ZZ3q69PduGOm_V_00buO_DQGIxatJqMi4M2Ylvmkz4f1ynSlqHOCnH2V6pp2qnqZOo8o1xUldhPrzo3a8x7WkvBMuWVsfKPqjmcq5w0SIiHs6Grd4ol2pqN7bowRkaYLJxU4kBYD1627zb5r1I34b2oHw8ez2kuKutgudbbNUXD1gUJvbqvXlyBKLJgBc8JN-qxrwg_4VZ9rBy_28jA.jpg",
+        "image": "https://cdn4.telesco.pe/file/CV0-u6SmkdyiQuUWmbX0uPiOWmiAnfUQEsc4ZMbBPMx3X-q5xCpAz7a-UVVrzK0pD54bt94t6GfOAqMXrMWzPyUx8TB2arYRvuJOo_fWCkRae_Not8LfKydsV2_ti8rcYo0e6_HYonkSU_LDBQ5Z6wJG_3tCf4ubvb3gRzoPCi7t098d-WzJIME4cQlc77JGGMDW0A_CXeHnInS8qDghmWl2w6Z7LH9LBlKbesuO5HVgxJjn4Guqri0d_NRyi232XSgFjXK-U787xAOWz4BKqfqqYp3ImV-XYx6gPvWoaVuDLBf9nk-ainbVbhOEnK3Go6_ZMpEy7qKUaUlYVrOFPA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Благотворительная акция \\\"Цепочка добра\\\" В рамк...",
@@ -1348,7 +1357,7 @@ const newsData = {
         "date": "12.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/OC2KqfI9phnmhqnP8hp2VdQE_c_n9KYWlj1aWlzXCjHDR4hgtSO8ktCpZb_0wLU_JajVWViHNK_tFTqBzTH8YswV0m40oaNI5nq8POiam_7yFwr2mFZSL2LtGonZ1MJaC42y6nN9su3yNr_lalkX_gBtM_LfpUNn9MMlHcD1uRAMR7RyEYRwxiKdaor_Hb1bKqjEceLOr4SttZfgm5g-Eh5-VrD_enEACX-HYTmfSSQR5w6WHbTfLOL8Shtki4e_IWWm75uQetq_bIvrgiRIN8tapEQtdHO3NyV3O1fZXROZhifuPklNSqFK7OHvhZyPZ_C9c4q4grOJkMgLP8rSCw.jpg",
+        "image": "https://cdn4.telesco.pe/file/UAANwZxHLz2SrP-oxCm5SiviC18cAjdDCEU_s7yFGquWVRwtIc3C-zPkJ3JjVku9ZZvzjaCqhoa5_4bUhPE1hPSoOeW3D-YQSLEcJblK8ZBh9fu5zly0Z-UJT__HHD49XUvdqKpFi9MWwQ-h92CzrR1W8T4f_QEINk-OlRltyotF9Yg0cubGZKZJXT-QnrNlk_fMQGGaYDdrbDvd2vEmQ8eNFSVxEtPApC7iMMAHdMXtR3k1rSxRAmMYFLoATzcORDf8RjQW5F3RVelofx425SU-z58h0gJfg74FqCsAaYZiDMVDq3U2_HCMlem-buAUcSJvfFKmwF4oNMi2ogxmlw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "ФОТОФАКТ ! Сила единства: ПО ОО \\\"БРСМ\\\" и коммуна...",
@@ -1357,7 +1366,7 @@ const newsData = {
         "date": "12.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/B5ZlANLms6CqCe0XCXVr3CssUwHCD0qABuVg0IGymo3ctLzx9R1l5kuIHAMhdWxd-tn1-PcQWsJpXwZPyZ7t0tukcKAYtwzhJkJ-wHO2tAzNVA5_QSvBauOGWpJg4SGjpyeaWXjBllbh3SvGIUUZi_DJwyksY-lQXWKorCiCc8WduySmUsf9pxpPcPrEh5uLX96MlAHqXLLtTsZcdc2O42fXa50bMNySKSCjW7sYPj0m0cEhxGEfFqA9wCJVkGCQYkTNmBGoy51ACgH8Eit03FAoY-OYBen9klsTPKQ_dMTU07hVV0kDPAEK4B16KGJnyPEoOvqoR6QMIv9w5KOuBA.jpg",
+        "image": "https://cdn4.telesco.pe/file/hcDX6H8HBVoUuNF316-2fYaKVIlBmpJWNk0ezz70w7wfn-m-yPVitPePH4ssroRvWF-TJM6MbSEWRgSosnOvtInMDWANRxiAWU9XhY8kD-BJYXTLv4clvMUOT4-gwcLtVwVRDjE-553JS2DIZ1wiZa1bABq1kt6q9qqH7y2EZoNh6GU8a97BAaYdtmMqKPyqIFxDlb2sGj-kkM2IAtBuS5NZKtUX7aT6rAc_Mk8gdnMQwWpWDmHa_Z0Z1DS5peeLxO1qu43boIPxGU-dwSLLhvq1nMTnLeZHvikYPBCSCYOpu2Ypa9NXggUxXbgmBirdLJ9kW4vB5aW3pF1AfL7z9A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Благотворительная акция \\\"Цепочка добра\\\" 🎄 🎅 По...",
@@ -1366,7 +1375,7 @@ const newsData = {
         "date": "12.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/o5ht_TmZDMG1efebkHoRxQANaL4sGDhOfjnV-hdggS11N7oNWqdSnfFBtqQnnQwP6A0q4AO6Fp_lo9DZhjOAmTUyi0INQc5_8MyCu-RKKlIrvQSZ2Q3yN8N_6WxqZZRC-wZDU35bRtcAT8FYVWAMqxCE47h3Zz9jAbFgOkv5-rVuzsPMbRU657J1IsJ3UVjCcq_dQ5gTQWadEJZlVCby6a9XmxNYyxdhb_BqxHVCFAxU8xXjEX7M9JIZtdglfPvfipdpPOaaKX5Owzz3iW8cXozDg9COwGk376jWrJVpXNgs6o4VL-mxhR7S9Wj-z3me1W6ES3Zjcw5F4UgkA8ghiw.jpg",
+        "image": "https://cdn4.telesco.pe/file/UgJ3ykp45bZMhU-xCUzxgUUJSWx5HYnzjrrDpRWzj7IgrT0nIA4lXUP_ytCOdo2O1PENTA_WHYwIk3p9E4AL_BczraiDu-KSLiYZmStgVANjq2oBgLJVZSx3MoSqdf2yPteSWtpYY_p7djWCMy0k72NnPC47oStLV1PScALMSJOH2AkDXs3-LB8rEaafXSSOFFa06M7RYRzO9RTuSqE23lVl99z1YJV8qXAA27BOlwhRy_Nu_OoB3s3wMO5xrQuSOZDuUYy91WvteFEwXnVTMBXRiyEQkcH8aLc1kU6TQXLh7N7QDFY3ySpo_-3LGndH26yUANRyf5LncwBXIap4lw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Благотворительная акция \\\"Цепочка добра\\\" 12 янв...",
@@ -1375,7 +1384,7 @@ const newsData = {
         "date": "12.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/NC9TaYHpsUR7YRd-TYCrx7T129n-MmZnpAIrFDC3L7X9pP1SAjTqaKEm-hl4NN8WLS_JiCjN9Kcvcr-udMHxW-uBvhl-k8Dt6ym-Y-27v1FH-68TESqiVhFmMjlJZzxsmm0JZvBlYVsJOzVEJ6VjE7Z4nDRbkl0eiFPT7y2xoUF3LpYkmD8eWC9RwSpzA3kk03HB2rrXYclNFt7PjYzXXYLDaLHc7QWBByWCTOl0N4lxry5Hwm4AzlzeXfBZbjL08j-tz5k3ozNYyCa1KQFq8Acz2QzHQbzNIebw5D3OMZXSCnybL-ONhs5UzO2gHCdFAraeqdcHKbK8MIY8A15ACg.jpg",
+        "image": "https://cdn4.telesco.pe/file/F2MJdaxPIdkc6yBvxkl9z-vT7DF1kZ17kaDz4rP8HQLg4oDhI_NQYTQp7cneF8UmFwGbGChQCuWVQrwhJYZMsTn46uyun_BHTQ4du7vdHauuZdSM3Oe1r3ayjX0rlCmLaqIEFroGphhOGVmXWHDLQwRa0QC8uaio7LmcuRG3fP4Y-69Rrx3unR_tABJXPZVdEmSIawEaeiDxHmtvPXagqNQ439WcchumkG8dzf-F83NrYpH1rpMGnyEu91ZCMitsgn18m3R_ioXBUm1LRZNpcJly7WTfq_RCeXiVhJRjMEtu_Lq16VUm7Lm4pjikr5hpXDoQFcia9KRnc1Mpjsq86A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Эстафета добра| ПинскБРСМ Волонтеры БРСМ Пинског...",
@@ -1393,7 +1402,7 @@ const newsData = {
         "date": "11.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vePLGhFB9L7XMxUImE_jY0KC3dwkyGv8NGO0_WyIOL35tLcw2NpaHi2ONhnFEFCjTVKs3v9QolcRtEpHW8AXD-WdopZLUn4blZwvuznA1tVjoF8KdND3HyJRvTYmvgD1rO1g9o3AQ2Mc3s2b5JPWnAGkT9KoyjAtlvjxf2yDsMjPQwvjhoO5Z2hoyCOap-Fj98QOVlr7p8pbdQz7cMijs70jMjXSfpcOvOT6V6WZfMOxPxbWwqecirL1matqTqLAIo4nu6SKyfF5Cnc5oV7Ih8fATBTkzWEdxTG9EiIPOeTrzJZUFID5kbaBiAw4KkPfENkopfpXqHGN4wiN8xb-VA.jpg",
+        "image": "https://cdn4.telesco.pe/file/KABolAxVr5iUhPFAGbNfcGBW3yU-hTxVQMCVFEKsxzA4Z2mW6VUnTa9fs_Vjm5xQmeimsdt-FMfot5NV144tXjerG4x3ZhDl4h9SKRIUNXCIWmU1koynhB25CqK_V6OjKIijDKqjnr58jtuZLvuGlqBoMnt1KgRnAg1bh_OXvzuxlj8vxhpFi9ufYBNN2ERwxPmYf40Hz2MVKHxbxDK2VXbzWMvRDXlCL1za0HK0aueoPcFDquDqEiKG1DSwtuUdTvgYffDbr_hrulSLlU23R1M1bKfzz3zEs7j7HeJ3MkOgavrDS3tky1kFFXkgKsUzhQzaGamjbf0lEOAYK4VJtg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Смарт-билет БРСМ | Активист месяца Ты активный,...",
@@ -1402,7 +1411,7 @@ const newsData = {
         "date": "10.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/hWeMOl6lUHBgxUwrO0KT_hlea9qnLDMdhpQW5CtkeziBPryn1c2K8frpF3eGnwjp7Ci6WfVKn2iYOpYIqP72eKtiq9tytL_MYpH-h3xZUe-YsTu6MWnL8sVULzgfXey0Dri5Lt-rZV4Cgvvdrm2qvpxuo5lndispilG42QmTciWNEGQTLcLbA-knxxbpXmyMtk6jksq1GmSXTmdjNPS0YN2uXOHI2jz0rzSzrETLoi7jOS_jumM8iklRYHeb4F9P-3DxmskLuwkNM0szisjTbSwYPoKqudRl3kaOZnnY1WO_mrLKWlswhoAMtMJqziKKUfT4GpjRhzfHihjrNGJ24A.jpg",
+        "image": "https://cdn4.telesco.pe/file/SrQ_EfT3QFyrp5QBjicP_PkiVQbWoJdsXzdepoxVrWbz50lYIgm0udBzhhQRwUN5xsmTquM-sqUI5CKZNnj3doa5aquqpDfHKbkfsaJ8Go0FmSjsF8NynvnkeN3ABOghbE19SNWI7wiZoXINt49hSmUD2ZH06gDSOn20fuIrSQZF--aUAzz5HAUsPlvCLgP5rv5-J5EGEAgUcTTArFRO10onONJAlxreexcXCjmBjTEV7u3iwUBNG1pp04sPeA-M4f1DXeidgJsdXec2eXJIryFvDkDR32WCUx4vRHm9lcw0YM3o8oC3dlOUoSQg6HuahIZg0hVXso4kNKE-ddqr-w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ Эстафета добра Волонтерская инициатива: студент...",
@@ -1411,7 +1420,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/A9Y9-eIes-TvG2bqjzb0zUXAvVrWBxzLCe7qD2E1iXdEHeHzjBht5VyyGz42SW7H77aygUMOtpnEPhWjoBlLQCqf07D0uRJDvwnUFFw5B8cPCFNnb86gpbI_eTDNO_p7IYE4tiXd1D0Gmpd4XPvSwMKp-YEpyeGsecLZbIg8DjOiKgNnRJCqcIaa6bRlU_-0iQ7xensZIKB2aYb9FQ4J1-YRqgqFy0a6Mtm2qSEVWKnqCKhCZ46AMfWI5LfWC5VSHqHYoC8vR9skpzbnwklgjDEJRsfclMIOy8gSONio7-bYd4ngafExQb_j9irVwmsfQMhSokIsg8hMHUKk2g3ZaQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/eN2e4hyhJPdDEl_Rgb2e52RuxSU01HyeYnxpszWUztNUz07vCA7I8ovWqyqXt2ab_9q9thqc2-9N25Ehy1Wo-Gd7OftEXAbekJU0oOnNxhQBmt_NjYrCsJcwa32Nkk_GqTpH-QAaFhacRdc9ZC5bRhr2wCtV5jQUsDb5uMt9A9VSUp_omE1wfPHqMFbWR4CSR0vs0_V4Uaz9oEjZz7H7LLlLZrqtQQHSmHZPkOA4S3ghQuvZdZKf2aL9iDVXo8HOzwrP9RtzYUH0G1ThzoGpN9czmZ09082wSWTb2ZaFKmTWSsx9kfiZUya8Sa2WOWt0ohp6L5NE10u8DDmHwPX2lw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Снежный десант | Снег - не помеха, а повод размя...",
@@ -1420,7 +1429,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/FYxKbmPlebMT_OMSejSuHYGZfFEbSosnrcwS9INj941cElySFyXjmSTZXZR_uTll0iWnokHyIFrRnAz6LNFCbl4Sj11fX8F5zK0nWy5xLbQrXRNsIPEksGHb562ByxgG2BP5elwGqmFP-14PZ9qODY8SIlbH37XZOX-3_MZkjev4MKNl3pnKpQ8GA6Je7PUtt47pv7bcXYC7xjCLnmhH7C5mRmZZ3jxvVhxFD0wjPVraLvTLAwz5PB_WFkVuNCaQm1UhH7Q8aRr7K31MxyRrUh_aukQ9WEeUAg8CvM6BabDaQCip3RX_tokBvjb0szIwqMuji0k3q1Hjwjb05FEYOA.jpg",
+        "image": "https://cdn4.telesco.pe/file/sUIg8d72A0filGjslW6KQ1Lf7qD4r0cRbja1uCb6IbxB3s2x2kCkcdJwuu0ftq9nnhLbD4qxAXW3qJubowWBAZnBN50EuzEGEC2lDfgLZY57JDUX7hiUxu3nIhmD8rEJVzRFVGPshB18eDci7Mon5vxFfLvDPuSqMB4ZwJBwX4m5NhUHLamu3FnBzqOrhbbpM4nKvnY3Vjf04v3LUU_T4kSqpNxZ1YvAbX1oQ5SiJawlH-KFP3IEbwPNaV4b_iLwddtzQsDUX8lGTAoLvTvb7YeCkglk41HudFU_Va2EJFt84i9y280DK_e2McTDO8Ym1jgV86iQYE8Xl5ty1L1r5g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Снежный десант Активисты ПО ОО \\\"БРСМ\\\" Пинские ...",
@@ -1429,7 +1438,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/GRB9Hh-TtVRspfNtMrUtAjlt_tsgPgGiDiJaGhqUH4PvPOL1yjnJQ06L1RKDJ4TUuOrDH4i1CCE7lawRix88RF4fsN7zwNdNCyTqEXTjWv_6L9LePuWT2Br4i2PoOTOvZzwfVW8QVDrBBzo88gNFPkYcogJFiHkpsbPutqgqbaZkpyJcEs_Poc44bD0_oMcIt-YjTZQu6lkF_aO9XM5Het_pdC26wpsVrrkwCCx7vsoRad-_br2Ml9nq3CFq3unlpNSmxlAmk3PPd4pDJTk1rdG8olrqIIIBR_u1c03ONyrdNGItyUttyBoi5AwQOGMuJgxiJYYczj-7awWdlNbI2A.jpg",
+        "image": "https://cdn4.telesco.pe/file/bYYEg_SPKogRqSWR9OuLAZSZ-M54tGm7-VeTn0Gub8GLDvy2bks1SKg-NyjXAWTp_J-G-arIsVhWDSj4J82a1K0FF2VYMXaSr3KnzsDOULv9utABs1dxqUgWk8cptqUZwYuChAK_vzWwKppCTWbrGkmZFo1zBuWDiXwWkjueGcjnqjCsJc9DEfDhBD79lTIwy-EymJ10Ye12c4GkUgpqWf-ktdHjS5XdjEhGaqk4V6vje_z2V6TprHSjVXdRvXuPvm2D4CzxSeirrh0TjpeDStCyn_rPF87mc5m6CAQ5nQ-qdgDAIfXdyPwvbDpyntnM3vDv-SNRwdiv3zvfc8CeWg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Снежный десант Снег - не помеха, а повод размять...",
@@ -1438,7 +1447,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/OxSGy7-YwypbLApWzUOOo189ZwvNfAeMR44R5pXOdm6ziU6nzMvBnB-mjvz-Ui8zUVCbZ6ynbV9ckDSwolHdFeMjdEV-b9BMiAeE1we-DNQ_eY2VDiVHfJGeM8O2DQji0wzuCWrIl-UMA6-8e360UbibZP7RPXTfXPAxmAWb2hDqkESRp76i9nXUYDt4IiIwMsxUChGtMESqwHzytkyCeTmQO2Zj8nitLbOnda4SC3jZP30SxOBGNEijSS-dpYfuC-FP4khtR4q-ilAiMPjd_NI2rk4Pv9FR6upYhP1p2VHMpan2YJd_qmIyIxxGtA1w-_Tj7relJu2e0naBkYmUiw.jpg",
+        "image": "https://cdn4.telesco.pe/file/RAU3cIIYpBPanhwRL5H_4wumjmYFtDJHQdyIGWY1BzCWnhWdcICtnl1EF-PGspx3K0ggHGjDZfPltes36TvFDzpuXSaGLs7e6r4ZVWrt0149_LwhhzOaloMjaQ13ykeCjSARANabRgEFJ9DrU_OqEfwDcK7GKBqgRbiszUwzWVlq9XI7eNlo61E1Oclfm7PWhrpW2T3vIDMBHYQaPmPzehLLWGbEtM8IuJKroi3Bp5U2hrOArB6v2bn1bDzAC0fX4eAJkAQu3o3FrUXL0Lwh9Ot5RkseeFww55JGAlGGDzUUw9zchBI_davWPJthq-jBsYBrXEXadSjZ0J_AzEnGpQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Снежный десант : военнослужащие ПО ОО \\\"БРСМ\\\" П...",
@@ -1447,7 +1456,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fQbNwwK5eGTz7Hl_efXJP1ZBw5I-mCT4xkdHlBUxsWPitORRw0GRDp4XQKgU9LLttxznHAUb1jheSFtS_eaCXsiwP3gFMJiL2xEWRQLbeRmf67kx8KJ9wlMOIh0IOI_kAG7MuvnygWGPcUmx6rEt8NuNOGc2RLksDTsttxCuWsuqmjHtLGxjKG5BQpgd-A-Zx5TNdypQpMDD5KXYXSnTEInFmPEKYvNGGRNFcL_wSKr87gUSwVHGwJYLF-TCTnivH-BkTTu2mT4s58vSAb8xleyDJhyZo8CnJu7yxNWjskAeABHMXUllRmfT-Oet58H5g4slGdKPrnIUqnOj1nFjSw.jpg",
+        "image": "https://cdn4.telesco.pe/file/Obem97J5elejcKFmecPEirPHUHktOay4aO7qIthTIyB8l4a4gYB95lckXycNt8yVm6c54WMgyudQ5BKUCEuQT-eIvOSbx-IOTtPBtxpTWL4Fgqtt_-dm9OJN4IBck0UIgcQ8jJBQidvpcareGYt9K4Gz6SJW0AXspwDcEBzEDNQ_acH13UrUfK_J291JunllTK4nb7zGCF9MuWJWSgp-NWZDkIRxjMrqKA5TsqhX06PP_q0oRLJYdSPq2GbEHt9g0ykY9PH6oixQBD1WxG3OWY-5OKoK2UPzX6Aya5hjMSK2boy52txqc92zh5hCOpmDoEovk4GpaC4Gb00NwwMBvg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Эстафета добра | Сегодня, когда зима укрыла города...",
@@ -1456,7 +1465,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/UFSsvI9V_jYsgtg1UHBosIl8gzzM8Esblwj2IY87MFWcpKf4OKf1c3m1dOJd3RX8MRiKjtU29H_o2Epm73WtlBetslr5NOefbid-XgXD22p1a0Wmezmzotpi9uqWCH58niFWX2kVZN-jdpRUngQ4aNQu-Yt2-Uyi6HbqiI7h4XW6IrZoIuBA9Exf6n_CFHy3kLia5uOkVBMDUeu8EKwMPQ3Mgoqf3cH2JM6qMITTcPWY6viARmbzjWqnUKRH2rtA4ojiVfJofiGj4P0nzkxlle4OLWr_sF5NwrRADFArh0IxTCpMlmTAuZxjzqYwcINgkAq34PdkOHTW9tvaA-qitQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Tkw_Xo8bzqpvO_4WGBxmxFhrJQTtqdwBFc6gB9rSG0Ky6fbnizkL2XFYBs7xpIaff9xTDNrEBJUVpu3qeJos8AIESjvnISN0hJJjVvAIXGKWwwAHwTeqQo3DPsKgDrbJNqA8JDDqv_maH_laxuRdf5xCd-rhUMQWwugtjqA9xMK8cXmwNVOCrT3QGIcl_2nv3-UO4Tkn-KnKSxWigquAVVKZ6yYvdSf14Ba19uDx3jk3vRR8p5N2Y1jbm451wBmhIWrS-esSoDyQ_vBPD3MLPkA5O7Ub-AUa6xZWJfcGjJjex-OkXvIe9HrQu40qZFs4K-zX8d0Y2vzO6g1yhQfq9g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" спешат на пом...",
@@ -1465,7 +1474,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/uP0lbCJ-tLgZdc-YhDYSSP5uWcPHBoo5LiqlhEXfceYCpqZLnmxrZfgNdmaMYgGNJ3XTdvft7mX-PIRipKXAncUVxT1qO45RtsxUsw1_sndJ5jpppDnfCAEqx6Orz8K86-umwoPm-47CWS6XLN9zz-rAijLHO8DZP8LFs6-17Pkd_J3OXNKhrYSHy0rNMwpEMBrmscDAn2Ne1JVb6wYCDmLuEYbhEcM-bMzL6pQWY93xHgfvCvorrKq2q4MMBpUfLoS4uyLUumTTKEJYhpmIX6jMNIH1AOHCp-gRZff1i2PhSEvCbQDNFm5I1LCbWjiC4_h6IyIxDNZTEpRxUlCRUA.jpg",
+        "image": "https://cdn4.telesco.pe/file/OOXIF-5V9quQcAIG5X7ZKz3kTsig0FxYnOFiuUIWw8vJ_Qu3_ij4WtnzvaJ7HPfqrx3iH9zSrlecWRtkxRR3npKhmLuJL6nVrDUKf04Xd2tMOg10CeZ7FJSmskUPAAYTn9peRajOKBxhvr15k8afGcgjGPnpb1uwSVxjVwGvstONLgOXxgBtzc4pwrHPGdi0lGetVjtVWW_57U7oSvAheUhkzip6h88dFJmIhgvzaAyOEdDykSyExBLoTqYTBW2ERMoOtKblP_AWr49uwWVhlcqqnlKQHqZE8fXBnNHfippkmnxkXUxkE_bQTwjtCaYTEXUOIrwwGVrn7wi79PPdOQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🎁 Чудеса на Рождество 9 января 2026 года активисты...",
@@ -1483,7 +1492,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tGWBjbZe5HKYFVvcv-V6Jn6cLMf-uMe_4kPVRSwh31Gx6pJpUnMsX0x3NZJFAu5_6yO35VUJWy_h4Ne5o1hHzkfqA81TpPwUCJ92XNq5nQdXDNxfmV-BCz6j1zkoaFfj4xHfmY2mu_8yo7ooFCpnTWmp_PtekXvKc_ktD4u7wtGabLOQh7-KM1itmq7TwjU43C-WEkrMkyO2gQqthl3bfUMwKDwMjSLQMfiWVCMQJPlIKpJKP2EQhCizGK5Q74zTazm1vC7g5WkBsM6po9gx_FsMSR3BlUv3FoUV_-RZ5SO4v4RfvyM78kNS9gUEPIQCoygb5u5oJxFxY6SZtgKqNw.jpg",
+        "image": "https://cdn4.telesco.pe/file/DuMJ8oupGQjiYlfy-PRTGkfarnkEDDkuiDHvCdalnJAF8E3CXmyrS1_6mTyxhwq6xYY_nad7QgfFsMu2Xi35VJPoK34uSx-oUcebicXunrnTDrNunVrxUYFf2ZY4y-yW6JVIe1Mm4loprqkNQlmq7jtDeYlo4_bfB1sp1I3l3e86LKbM_EvPKNC-o1Ywym6uErkNqmEMB9dz4MKLSwhQNIL1KqeRQxikMe5yrln6DAxoxZcBi75WOtAhJjIqbhUhUYZF2AOpHXEGmbfncrIKXP6aOgRRkiv03wnWrojzBG2KJ6M_LK0eTDtuuNJ4fltnS68sYY7Y1K-TlmtIo_kf3Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ Снежный десант Учащиеся механического отделения...",
@@ -1510,7 +1519,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/HVEsydPSUPDJYhdUQchs-bXSae5UakC2yM4qG-oBfLYLtzKzfBmCBHEqEPOerJjpGu-ZDUQ0t0_RrtMUdViTA1OSkWfbwYh6fFSTe1aNrZrDZAVVjaMWJFzjgsi_ZSj15cGLEQbTcRlDetfArHoBpG07Wceu8bpGjQUrZcrFQKSPYcA139RXQKCA-3qFvhdmpTHEXvYz2B5-noD-2-13OfQaPCppbRbCYAHo13G1rSeUPuEt3JdAtQlF8FnRZMiwOVa3aenV-_w4dSjng7HemPTSokzD2emUur1TDycr2W4tefYb_BsssgcqSOHx3ATZN6uJ_abh8SOx0Daj3kP9cA.jpg",
+        "image": "https://cdn4.telesco.pe/file/WlxURwd5dUf5KJiptaW7H90uYIRj3HMaXEZ-JrU5E42AtXZozPkrXS33-a0FcbAqbwi-Bl5f0O6YeKMrNERjwocgaCuhwTZzdxru7SVftfkhfhMOrMNJg1-vDLg7AI2-Hro-27hzHSd8YzHaYpyGiFOn6v2gQahxGj-4ozMCpswv64wPZ2RP6wEPFvJ50pVe-uArxGlpM1Cbc2v_GD3XXLUXAyp1isIPaiGZy79bpUlcJPSbMUw2XSCu0tItGMJjFGjYYBefAOv-J5Eux9irVk8bAWUb6cOLHatn_iXgaQimoxxzr23mO40MxLR3sELbd0RhFT3YZ2i_idRWjMtLkA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Благотворительная акция \\\"Цепочка добра\\\" 6 янва...",
@@ -1519,7 +1528,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/DqqqSdd4NRU974TIOdA45zIsWJDERyJdyOSWHi9-lsMu_4EItF0wMSenTtaV0xCmPWQj6m1RxqoDuXHeYvEO8vkbnjX7Qe_0wG-UFWT-yCzJq1mjNNEElf4pREyImKz8Ep6yhe7WW1rjQ5ULa1TxBhWKxUZvsWm_c5RiykJFvE4OewHnmyCZOntrG1GH6yR1cK-lRe-2j7pYTrgbN9zDbEkz9nExLQkwBewEB1yXaDrPcPeD8qCdihaNb4fNMa01UP0Av2XNcsY56xn_5FMdznJIbi-yOJGepNHu2SWniW5SGMG---b-uN5ybMrtrXOXSV6_2rrv3R_uGsVmF1RUOg.jpg",
+        "image": "https://cdn4.telesco.pe/file/oPIUvKOKpS5xuNV5l0BNyBHaRJ-_FjNv95gFiGhhoWYSuwHgIV0xqZheWvt2BEWSpba-4WiGGthmmAuI96ejAdfD-RVp_jTLKvmA1F8cD1iM2aAq-Sv9duR3wo6G9vMk9isMDei2Ej28DouQzofEIZhRKB67baLe6i16Cmmw-QdI4MhLVWuJBWNrkGnTp-F01jw4wj17Ap1mRTTV_J7MleGv4UFf2McQAWcVDhiG0vwTojwW8oEYM7EF_7NwjtPxYoMMGtdb35qiTZyndibHHoWTDC25KITRXvCE63uE5Ffjbn2hnMOBiAD-A2pNrDt2D1T_Wbm6ohNoGgvUnBmEAg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Снежный десант ❄ Сегодняшнее утро началось с лопат...",
@@ -1528,7 +1537,7 @@ const newsData = {
         "date": "09.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/DqZ-lCROgf_qui1bsqp9_ArzbdJrbuaNewBYCNqbd_evEG00VxHL9wLZbYvPgWJcS3X9tLHvytHG8348d6NXui-2RbOupUWTVoH3DB1y8hCgoBpM4d2sXALLOKZ5GFhRCN8RWgjNmVgN9cHJoW31YtrBbNXo8SxeodeBGfEjuuugnmtRui46nGdvRa1vAD9DwxlNwkK7R0TrkUg_wBSoZN3jphXNkhqjgfx0pnFV_4tmVPiBE-49xEdHexKe_96DEGQB5PFCp2pPlGOEhbkX9HCrbT0s8f0bbXF4o7100-2Zo6XXioTm_YMdkxWhHrmn-BmxKtctALSALBB9H9Cxng.jpg",
+        "image": "https://cdn4.telesco.pe/file/KEFK3pWycGwtHWBJFARvIky-TYWh9w7op5kv7wWfkG4tzKfFkGMeT7TUC-YhlQOTZ4YYfntQ9a4NLOJOe02u3kDvauPdX7mhBRQtotSJmWTg55zhdsw84x-ijtXcYv88Y8Ert6ZgVSa8vJNxc3m9Ia_TSXYzcz6reOT1U0cZvkJKZ_7ovEEkYV51uDMJLkzl6SQLT8dGekKbH7HRRPMOzI7hdkDmcpzesfNWjFAkJBecdc1Bz4-Cl8iy1xLLnouQLxX9QthrHWwPsMiW5J303c8vrp3U19NZum5-PMkTaZ04IDHw0DKzyVbgts4G6-vDF50aEHXAQpchSUcAA6j8GQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Снежный десант 🪏 ❄️ Доверьте зимние заботы професс...",
@@ -1537,7 +1546,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/asXja0vk8_HPnCGKuvIjIfM5OCE7u95LOcZ7IAItrMmcTR2nfot1qPJfTcFJjEMw9wm1cW9MXgSd8MZPxglWja4gfWLgrrff0qb20pJCn168r6PDC6qUbX-g5v3QnPM_pTYHxdDbdwzNkt8bVMhY9KcYKWVZLc2Msx1nfkG1K1HVygei-mkxnXC3pbJCenz_J2PZ-Jtv6fJn0rq8PL9FQ2u607GINrg_xCCxMY6dTfHTZMoRP-sSbZPS6zLrIFjgiLMWeQmIca_lkNykim2A9sA_W6NEXVYG_GjQLqr1iPVZzwQBaxwadmeG3WFDk2lst9KqNcIQmaDw5sOuKyTDPg.jpg",
+        "image": "https://cdn4.telesco.pe/file/obgjXBqfOBUMSkZ9z1ngxO1ezd_0zl3x65hCAzT2L0onH5F1YBbsRnnXaBwtPmyHEpmPr9tXJsCAjNknxCC-XPQGDJhuZ4pRixbJMd8XJ5GAJgZ99AjAeXg7di5Bkc2UZvcVnwkL42jN7ZRSj0HO9nGhBFxfqt4NFxCxKLB0L48DR80FyMAf_dPer_uRtiGtb9E-5MFvHmGeABrhUDI6RH6_c6l2B_kYXYqshQGdcYlb3kfX9YM1wLH2_Mec1Cxk6odXglFfyrJzR3w09qLDzEtqc2AsLl3OS92gcZQE897ct2cjH-mZ53il-S8PkGGR8zmKIpJSfOpqTzdRmpXLkQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Эстафета тепла 🪏 ❄️ Волонтёры отрядов \\\"Доброе сер...",
@@ -1546,7 +1555,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/V11cQ-0kHV8eI2_fFgmtY0hlR8V16NWw1Qc7EyJK6knImGp1ezM06Vh9ii3Uzun6ceiRn7SG1yHPhTjYV7qsbqpbASyicvvUJIeLnG-pkCtlsNFGz7A4DfqPB89Sgk5-GPjLCxmnriYDy4Luu4QR9-15imGWK7TqMsyy25dLRymhfe61mnvbNWEGXHYsZqBpOWar9wOc91TuRzigHsxqB7zGG3zqwe9vmRIz_g1DIlLd6Rapb1S7QPmddePj-NSl4XbeMt7tasMHnGYWQpv8d7mpGvdvzeNwdR8WfxaSkspTFyzyaFIeyRbdhvtv10NKOsFU3kQ9zDcD1aJPxbi83g.jpg",
+        "image": "https://cdn4.telesco.pe/file/vTad55GgILFAmh5vHd0yctbDLYOY_rg6EabkFX6ZZMPajCnoXOCv5STTXzcjJa5orGKskrg0nzpBgXgbwONfeLSPCE8g_j1klauSe4tYSVzrPrTWpabutgBywke5Lk_BCSUBI81TXX6xpEwVTiqwOafvh3hqXs3VUHBW_1adiH0QMfTAYuAQYlL3yzP9WMa354jjlliVL-m7BjKNs9YiAom0FSeq4bZ7g0o5L0xfBh324u0LeprW9xYcSlQ25jwaEgYb5pybyNw8yZiMB6tl4ZZi2kSFeWRmiMjDtH2qRkPpVSu4CZ9nPhJwn1XDTrePryy4D6mCiFYX08XahlQSpA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Эстафета тепла 🪏 ❄️ Ваш двор замело, как в сказке?...",
@@ -1555,7 +1564,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/BiBi2ATRgra2Ph11HfJnZj6xGKkEiKC0ajm6eXEqBCmW2ZG3cYSSkc4wkeqkql45sDrmr92h6vvmGlqgwFvzsIRqvCUOJUgJcC7C_8iYOtuLSQAJIf7Tx3nCKNbUNFRVKesLMr8LF_f1dUJ3FuDHLSS50VWgrNykdVo64Z_tp9mLSGFkvxio_pahV_NI6QHDtukmLWuKxQgypfZVYwal7p5hJAHoTK7OcZnqihC55dhQIkA0CthMCBJzSR3YXgnyU50Y7VVkaDIKGhEs9vGalVxbiGHMFBEwdTl_jl8x69GLBu26FMXt-3pjGr-tet1yh4i-yI_2sEcx0Zyc5_EwYw.jpg",
+        "image": "https://cdn4.telesco.pe/file/O_MXgrLErVMNObtngPprXPg0RQShJ0UihAsJHTPcvgVCthGPytdBo7xfd4oVBLRTPz4JrHg1W_vKEs46NhGlwmiI0cQR4v76vfmu8CR_0qSVgF2MUjZyc4EBVWhMk7Xtz9Rcs_kNkd_cCY8Kz5xVaaxpBMhWVPhFfLRIb_3kmMyPMu1syuL8MxRLYkltkdgvXuvP10MEZPK5A5TNVFo3tuI_pBru7-nEVGn4LSVlQZYzEiZjmlB83QaxM0DekDBRytD-McYuhBxDnIoHADTin6IEQEk7NLFJ2fXEYzWDQWtjtLxAxfCKclp4MleVe5PZU69NEqIGjvbdEA3OwjL2Iw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Эстафета тепла🪏 ❄️ ❄️ Снегопад — не оправдание для...",
@@ -1564,7 +1573,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Yy7ZDsGJnOW2pklPFrQXHT0XGQgKN3jkTq3xvE45ir-z6otQHNfvQAgWwAKq2TT71BM23jVeWA1PgCb7kh-0HpgZ2Pi747Uf_XJlfC3KyyIrqcEmFakxLGiS_H46fLwANOHxd-LdgLepiHIJ-RDVvORccK7Mod4cZwR-tADaF2Sc94Kh_mZwQ70PXWMfKN897lMyxk0heljXdiCZ0VFhS8My5IuplcXNzhb6tYx_TRE1ax1MENketL9WTLIs5HqaODt6D6WwoCzF4aZ307idVyIqyc1HAv3gNiP_Xy80oHJ6t1UZlh-OLdjiWwurs-Bdlc3iNoWXmZ0V-ZN6ZaPrYg.jpg",
+        "image": "https://cdn4.telesco.pe/file/W1SHXHzeMqWNazkByNnI21Fx8DRm5HqYvzP8yWXFrGmihhQDAdzyuIkGPBXrkdXhNqg3Cx-yy7fCJ7xrEU8vAY6W3RHeUWRj3cnNxcj2EXxYmPm3WGySPQfvn-YOD7n4hvQY9MGHbf3n6u6H1zmGbROueBk5CI4-Mo4wuaHx0f71AhAkYJzBd2kf2GFrMeTd1OGqUSkR-CvkvwuSAOHrMKZsfGh-e7mixgTrqlCkaDC8CSmE5bQbValdUPHEnHXlOV5A3xQXzmXATRU40pvG-ArjEHRi8Wk5dQ_60Wx1JdfcraW68OVsq4jjeYK5yWTX0T5sCQdLIyeUFFpRc0BNSg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ Снежный десант | МООП \\\"Алмаз\\\" вышли на помощь...",
@@ -1573,7 +1582,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/cX6-iFKj3ELJRjYYj2jTsbA7z_nkpl0aA0vzJPN7a-96QeAPcM12hgqA6lQFIGykodDiN12Z4SXoLEsSxDQTM9abOCJoOjiW8h9Bg5jEFucBP8e6z_9lo7_Qxp6uVuTPinFLg-Zd0tZ6KxhXlkawBfqVkly1tgVEVs_OOhuZI9ylVS-ZWeZmVKXRi9QawYR8e2ohySivF6LjOyWJ98WZIWqLLjDpc_006HuaZRrk8p3SZWyGCeqNq9FC00IwtjBSa4McX-6LEHGPkshUi9wQsTNcaJErg0qAZ_rDHybcc7BpOkGlnKfclVk6fNaMXaxcqio2QBgkT80exnfrxclSKQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Nu9OU9-oCIY1821wXmIgaiCStoeAStQxUN8C5T-eeAW8tqcANZwdmYkq1_gY_nrC35ZW3OXU6R0AdUs-jQg9sJh0fMypDmC4XVYuaaxdOyHdfcNsLw--f8KAtHh23KPD7G9C_CmpsugrbPB_oP4zugEo6A59cCfudBTVEtEkFA5sbBjVW0J5LdWjjUkE4FaYqbonpjK04gFI7kTlItsyinNqqwlsj-nyxbowRXogc_fqDi_GdP9mYenTulSkSqbepnb36ybPEPehKoNY3xh_F_tNP9N8HvIz6RRXtOxLMaQ-W-IsxVE9mEZklmwDcIQzSKW3WVQCTTyg2uGI9FLQgw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄ Зимний патруль ❄ 8 января бойцы МООП отряда \\\"Ал...",
@@ -1582,7 +1591,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/aWP99v1FBXkHlYVF8bKynPf558Xt1eaa4Q5z8NH2pBUwAQQQLu91oyzt3iSmiO8_iB2Z98NUP2CZyLII0JHYuUVDIV0SG_apAb9_x2JIGW_vKNshEewJE23IHSQ0LmdQ37v-Qa5tgsIjPcExMxAtE4sQS-KMPJWCzoJ1PEpxb3duzOfIrTxwPlasm0UU2B7xtLPVnx78jcL11-6S_p4qsHM6yVPnQehQq8qiK6TfeioBajmJbhy8bOCXEysu0kmFtEoqTdTIzWOhLkdMEM5dC8eXHyLawAtltbnPpAx8a9F_jMgGVx32-eL-j9V9JUN1opUHrqJqiSWR4CbWSNgDfw.jpg",
+        "image": "https://cdn4.telesco.pe/file/O5cn8OOcJmMCqb_aQhiXcBszc1GoKg5KLvLlgu3aCiAHctFY5KEarqh62wXy9zJPllz-4EbMbVq9_VSsNcH9QqiYOvr56sRVloiszJDw5CouqLX8QufGMcYF8pdSO35ogvzV3zaXrr4rlAGOvExb8OU9kQ-Fb_ZaJXZ9mg9pdy_epSW6_P_F7klhoFEvdRTzvlhgi1PqQ0TBK2vGVXBGoQkEZI0UQkxbjpfxgPAon-ZbiFUHbLCSBaE89LiOaKy_eAwDZaK3WfHMrgyABSryric-eqCM3vdzwh21YEWY0GUXx0vTCEwNyb_SYpxthBoC_uu75Jdk5BWbknf1Mdl-lw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ Акция «От всей души»: визит к ветерану педагоги...",
@@ -1591,7 +1600,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/stXq3n_MQ9_etUxH1fh68SoRHIoj4C9SKqv8-hp0SXI8JK1ssXyLsmV7yKNc-xWKxTyGnkERfFL-OL1jAk4FirneyJWmSXWS0SYKq-buheOz5umNJXZmVgEMy8Dl15PmNhWlfD09NSfaHPrCRmyd2LNuyvIFkmY7dTK45T_VCQLlDbcyEewsBYFhe4bY2EbClEWVOT7BKhxTKFhxFNVRn9JASEWhYHMuviSL3dhiQPV95FewwcrrDi1QxJ3Opsi0E3suK-XHfdvLRlAMiopwUCMK9ZbCPoha_69ngJ7L9MS9MP23xa5gekL63x1-ENlmUws8L7fxK2TXQ37wSIOkWg.jpg",
+        "image": "https://cdn4.telesco.pe/file/XHDQzL3srdR8hi1Xk3ASoMsCaN-QGKGxVOic6r7sJ7yOpbwHVFHTsylOGoiLgnKWIKHP-HYKRmYG_MBzrYa2v7V0XO-eXOwV7rH0jq8cSI6Rj-wktDSG5niUBG8BgVQz7CFc10iOVDBVuZWqXPg9kFTP1m3R8Qj3N89LPOoDOCz0WXn7VMz16Wye888feGbGY2Ueng05dgkuPLa_aeilAIUQpBcnrYaTEAr3SqNh_N6__vVs3opMX-hMGEsxPA4jNabWelJBqY5vHapUiEI5LtGlRkDg3wWxoPL9NdFb8306x7yMD7vtlD3Ps2Yw3_LlC88qVYIel3wI_RkY5n61zA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Чудеса на Рождество ✨ Новый год и Рождество — ос...",
@@ -1600,7 +1609,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lC4qKWo-37CxOSOqZa4VZ7QRBwllfEuPwHKbyhXoLgInARUkra3xhzCyFVXkvN9f-bHOxcJJPSE2zHmx_CHGGUtRQPIABVMLrGmxLkIhiR59tGV0CiFI9SGlyPBx3HrY9hFuH6t1Bb2YwWuI3AvpmpaqzryFEgGmdTUlGLpoBfQP8oxU6RA-PRP_y3QuI9Q0yQVlIFrbfb-ZmR4WZjPkCLt5sZ6hXN9hJVEKEnUyDL5ZhuFn_iJdfoGtNAZi7O22wDsT7Mxo9pos98RmWRF4ET46ZFNfem1JH2oommqcCOvDl9Fu4yr3SGXX8oa0MqIqEYp9p0euTGKBlVz7YT9Jsw.jpg",
+        "image": "https://cdn4.telesco.pe/file/MYBppGs0TAhskGKj8B36jS7ErWSjyXqOTeqd8SGynDU240Zg8LwNF-L9DfGAfA-IN9D0_rTWRomkqUy_mVHKkMMVyYGJyj8nwZ9b9Tm9gIWJEBV9WD8fXvgyK9JKZn2mqncc1sBk0i3YHSLAkhT9iJIZp_EJ-yZRSJvUq4ui-fiYZiO0veXgkqF2-b8e2k2ELN-0qMqirAy93Mh87B3FGa879aK3vMqXf_DKpnVN6C5dZz4YHWjVDskudfQgu7dT3DSHp_yADfIrnjnjc7CIZLkUaY-IBaSJIsMy_uJVrsLXvO3FebqOBAT1rmqK4WLWbQ1GgibEOE686Rej-tLzkg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💫 Благотворительные акции \\\"От всей души\\\" и \\\"Виз...",
@@ -1609,7 +1618,7 @@ const newsData = {
         "date": "08.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/duFrALD2PfV-N6OQ27CVtzHURO3X-Ayxs5B_1E01AaqiuhDJQd0HO_9Zc3LJXGBdfVVSMijhCJ_LwdGB-XD7JUsXcs-2VXzNpuJJnI2ZtuUTKukwy6SVNMiclz6gtc5G_-3SpzB-THa1_CKCEZcCHNU-KTG2SHAF9dyE-KWw1EtFkv0eEb82wyylMlwyny7xhoWJmkWmGAzEIGqXP0esFkcJpEQzGo2OlqUNpaiTAIGg3atbq1EFI0Uh5TKJERJ85PN3p85w055AGN4gNJGX67oF_fw-q2o9-EI_iV0ZhPOHPPrhRrRF0oMPVxKnuklBa5bJLTIwC3ghrABzupwgHw.jpg",
+        "image": "https://cdn4.telesco.pe/file/HgOwz9lFnZ1nTw-1gV5A9enTRunHiFWCDbgFWbrmEDzqIxSvDJeqG6ufO_qkroD_RbVYBVF4JVZpfcYbtb3rHzWZVjdxQ7JUankKqz_YV3EPqCeFIFZKUxp7BAHArSDPY7RavQvwgwoFMeKc9J8ohxzZ5Xx62zK-MgXu0APDX9QiDB57HR_6L_zWz-4InkUhZhhx3_s_K-i9mVG7_heJgNoaA0FbffVTEQ8VjSXNHcX8fCLhmwQlJDLo-Ec6XpOOLJ9b60ZBqMNMmVUCiToKLBTjf2SY2xwSJ_VvnWyfmGXGgpetq56cphFmKeYGBTO1K7W2d6PLRvHx8u7yg389Dg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💫 Полезные каникул ы 6 января в ГУ \\\"Пинский зонал...",
@@ -1618,7 +1627,7 @@ const newsData = {
         "date": "06.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/uA4NUtCP-P1SPNm5EwkQDGCishvBAs-gnIuyiqh5bkPgKL9MA66f7KDu74vum9HxStIh0tQZRhyTaaMvjQjjmGlE9UjOR7cySD1mKJTrwSOxW44Egk42djRwI0t1BHcyMSIiPrShw5KWW88wqfE3c9T4Ldwk-TmyYFy14V1QQ3M4jc7kF1s1sGmn8AQDzxQQ8QyXxze4vxWZt5_B6yzkcowVplvitc9jf9Vi6f8mhemRNcSS11e-icVc5JJjc47uAmuflDdMhgK4mQ2IKjfdT35jmmMjeqn5ioN_jymr05VZ_OkfIBJfMmuX6GpzCGMsQbv8ClTxJkeSCKMXxE2hLQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/vkSvCv2Nhc9lyHbOOsAJPnpY5ohRICsC4gdx2xVtv8NB41HJbrjERD5PTmZsL_RHrUAFk7mU4ARFoKNsp9qFm0LqOTs63_HOd-GLjGszn5WASZ4JnCioCDA6942cYwoFQdmoMEN86dGwDd8z9EXT5UffbTBuWPTZ7vVSfirQiQL397_v52AqKBjUo4cG3-KF4ZsMcJGTrpnApy3s-0oBsLa9EFLMLOAzV-KYt39leB7hWpSNwnrRc-gqiCX6_laNODV5TSxbm0bwqznxqnezE5UJOd743xjXWqEjsa-YOfoKhFpZfbhAaU3-wMdhypB30dmH_hpd-sxs3Ru-CSRzeA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💫 Чудеса на Рождество В преддверии светлого праздн...",
@@ -1627,7 +1636,7 @@ const newsData = {
         "date": "05.01.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/uvrnnzxWuE5eAf-vaalIOPu1bWBoB7_eaZw-epmHfRFy-9-cZyL11sqaKBDPFXlKtP0vKV-87DELcv-dlfiEAGlUt9hb_cSYod33GC7bPWDC42oCTN61BYFqaPJBAr9g8KQArCg2Sn5zFvfn6HbOqHv7f8GEJr0O2aZ4ju7BQ8lPgmpnfbZFQLRAOySIBHuiDVNnZqwjKwv7WkCn5HFmJpRA6iHcIpO3NaXd-kzyWzIzRdQm_B_GwXr-I7TpSzKuTOGdZkzQ7K8J_JeK3uhdC-i5VjTiYuRGBn--VWjCaJnzPJC1o6QailXtNhFpMFLrcpq64aFYwcZIT9i9jHEcBg.jpg",
+        "image": "https://cdn4.telesco.pe/file/AVBA6ePo1z2PFznlR0bVsA6YywijCIwDoNZJ4r6UX8z9Jx-Hyh6OyvUIJOEMuULx1-oiaMxslg9IpRUAdWKeYWNAnS7eLSNM2JP8j75ANYEpLEpr3lC7Y_B8y3eTfRH_QK3kT7UlgpP_4DcTh6RTu67G0ZOYrQXwmIihA-KGtC6wK-L39ORQh-z0irH32rSGFhnvq4nkFyXQfp5AkECT6aZe1s74dNo-cCjAYGQSRvUC4AjryK1_FzBzUzJc3awIatsSmchDENlEiMRLGbHOHbqbvkUwRckfIXuq3ig340Fw00FKEcxPl-mWRqEmvpUpoHYULJEhjA4Yii0mvCR6dQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💥 Большая молодёжная игра Этот день показал, что н...",
@@ -1636,7 +1645,7 @@ const newsData = {
         "date": "30.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vCCEF22uGlNOZFUHd7eB0k-TK7Z9aXLg02SwjeZlh3qMlL-yL_vOVoT2uQc07yFSXsAPgjgVsz3HXzXvMB6Mou5f1_qoJI3SjKyLPRnFHtXDn8XGzQPJnxOKKDDkEaNc6vAJ4hWdHSSQox0ALQEf_3cWHXU0oW8cSGVpAT8ImSXCiHEsDT-ao0YU2lmeBgOKt80sqZJQW6oPRa2r8kfnxLk7HnLMu7BPvQyZUbVQpjDP2B1L3lLmY_GjmTMbsws6lVi3DCwsXGKuAas_pB0vnwNTahNXY7wCLVnw_H6S7q1JphD1r-Nux3xepXl1gOhYui3fXlc672mSrW_u6xdUKQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/SCbnQvN62e-MCExGmqZ0htQKftKhi-7uwUGqp6EmkXSL-VQGw8LeqO6xQYXbnLQSvXr3LpU3_fHOs3PzFPrN5H8ksEioQPfw98d5VA6w97Kfhd1jTtavOeUudsY87WQNvlteWyON34zYPd7twFIInyCWtm9hLnbOC8hXTl9S27reiwofNfccKAbXm2FHjgm1j3WOykI2LliTcLrANuSWDSGROq7U2NwhQz8V1NXB1QLYVgcyu767TVpF6SfP4bm6bLegQBc1dDOeruG5LWyxlZJbaUA7S15oBOQBmxZg6xqYPliDcwknqG3kH9aO-9tz9QUtTOg_Rr3NZj7VuFDtZw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Чудеса на Рождество 🎄 29 декабря активисты ПО ОО...",
@@ -1654,7 +1663,7 @@ const newsData = {
         "date": "29.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ojPUcpFAtatJpwNHdA2rcbBjyrgxHF71Vol_o8uVV6qFJQOtKqXc--P3qnMyrRHXz1eTqg3rCi2ahgBac3AgGlQCJ46sw2Q3r021x9PUYj5inCtGTOSQDTD4BCHgaS82qvih_HI9_01YIejqsHH46m-A8wMCPuz2pxyijGm61he5lh6Q1nQmNJg6r8nkvUcCTQ3WFUSoVmcdw-aaCRKB82TIkWe8NGCX5oVJ2-GTSDMK17C413ACAxZUKR2SnFN_j1PMmoQb-kZo61slja5sQgkSZ7lanaKMDRI_1ipwE0xaxFCxrJsw3eGG2hedmNpvHivhofblGkC8H-4aPAEd4w.jpg",
+        "image": "https://cdn4.telesco.pe/file/k8QBxhHuQY1jSOE3m-HVrwd_zssoQ_xmxXdnCZC9fviSapBjFeyvYpUvvvKv1nY3cNfLINHq_Mc4xFZOzS8E8L-f97P6rYXVQEF4PQI0riZONBRXT8T6VWujDIRWNaPGgcxhfHKHLDHmbIH-cTBfKllgaR8jHTK-3wrb-Afomzyw7e3Wsaqf23WkfzfC4Q1HXHvSd8MZZKHnPIOUg7_IJ1oaCof09gMtIBGSp8iLHf7ftueVKdCJnPzq7ja2Kf2phkkzScGu64PAWcpyn2WQpWKCwXhfF8uCJAimBgYNoJWhLlnaIRd8McqnP5pB320tsbYw7RzQ47Wi0ks7kLtVJA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🔔 Поздравляем с католическим Рождеством Христовым ...",
@@ -1663,7 +1672,7 @@ const newsData = {
         "date": "25.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/qXy9veOxotXdONNeLSeFoqxmxUBl7vEVa5G4elqPUgAdMmPSNfImNAwER3gaFAMuaA3mcF-9w1XodXr7Zneql7DtwMIavXmd_YpOqg8fXJ4Rrh9TVKcAO7YuYkCegfRGICHDN1O8DQQBzh00hPCE4yMlcACXclFEfVW8nhw0u2Z6VRshVxZG4aq8PfPeXyha6JkRjay4W7hR2YLiEtH-Pwo8casxJqkckD6pIF9aWyN00SRt5_MTI11N9nyv8s5q6NKtONm0x6Ms9IfR85E_9ahQs1GhDsSDPjxO89w_Dy2Iug4KdbLtgsHsZPgJYAAv9o5dNwOHktwu6E59ey_RlQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/lNzCNxs4JYQsON6y7oXbsfZ-6jcpKOAvycgqDGSE3IcJ3z7fUTbdXTpfY02Fg3ami6oe6-KQGakpalSF7mFUkQiKhZYh0pTbKOHcJ4N_9H6MagHJj6EkAg-fgCEcrvtgFfOtvsQJjQQeptTEIiqb9Sd52BMs6rBr89-1o5g3Pr6yRgKaPREbyQYkkr1zhAYEy9wWdeJoEtiY3xqKCsdXj_sXxIDBEaxE_h56dJIuU805QYfpmm0RA_Vq--yOLNocrY7udW_t5r6LbExVpE77dPMONy6xOxMdwgxf7x6cqNc9VU6DAPUuW9-RDBjF9ojplkThkuTXtXGh5Y-yrLTicQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ Волшебство добра: согреваем сердца перед Новым ...",
@@ -1672,7 +1681,7 @@ const newsData = {
         "date": "24.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/aBmrSAkxyVUc3opDfgFWsZRzbwqX1YnU7Cxlf3WC1S6paQngH5H2GCDjoWmDW6h4TqpshgmILXRutWMFvGXBTyaSauvNnKjc0jQij-aEKCSnQL4RnwGQR6g9uWG4kWHeYGIV_9PXkjAYos-VtGqOdLW1yPWDgC4ssuyYgzirEK54c1qsQ4KC3sVzsIH7sks-x7a6ZOwt5qYnCjT7ilAhNMBrc_Ja-d2V2P2D6GLun6W9XxKVLvxmDNHgp1g15a7tbQ3nvjBVXMv1DWLOCapZWjKOo6G-EpyEV407afvi5eWCtwRWhzQztBmIiUxkNUQSqaQm6jKEk1pPSx09F22aOw.jpg",
+        "image": "https://cdn4.telesco.pe/file/nNcSZ40DybwXNIjxNshDUHX4tu794oShiRsTjOUJBef6e8_I42NZD0pv9x0aQCcyaJa2NEua8OcG1dP2w-1iw0c-yEcRSPfWALvr1B-bQXjXd21JjzCwl_1ORlUMsIHk_mKbs917Mtz841CxI-Gkjiz1AMzOGtwq7AlHy7WxH77E5v-_Xs61ig5O3bkCu1UMi0yF13I-TSisrJv5lW2W9EFcBGdqyrBs0SATIhIP0Q8HlfpcDHkuDqEFWd1zuKB5_0MhDdbCC7e3cbCuaPhm2GqhBKmc48WZr-PM8TzXboGRpgC6FOpt-ylsGITM2v4_RVKdoUW4ZjCG3ryDJR3l_Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Благотворительная акция \\\"Цепочка добра\\\" 24 дек...",
@@ -1681,7 +1690,7 @@ const newsData = {
         "date": "24.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/XbK75sOp9MBfU8OOrIjJnZINgjSHF1hPO9bYKmoxRbDolA3eMQRWk2DAdbFsRAHIwkzlxBs0DRheaj8x7Rwqfvo0XxAhIQ4hkc4hTR3_r80uiRE4xAu17nEoBjnytUAEcgJ8E3V9rVXE8-iDdJv3Cwdv7uwTPKg29oW0H-o28ZWb5CIdOvejMa8lEsAEetVfCBjaVhQSe9SsGfVwi9mONKvsHWwWVbvXOYt0MQ9SAG4NJyj-zCjZKxOv3dzvOPh-DRvvIFNwTs1U87QcHgB8XsG9WkG_dIo2vdXdKd9jmgHOzf1AbjCilW3Ky2Xic03tt9T9jI2QMFdHj8EF45PYbw.jpg",
+        "image": "https://cdn4.telesco.pe/file/RdMCUnBPVfwZn3XskwfkQM1oMw01artJL2IM9P2zCOYt6gvqDWwt9WYDvxlNbQtei4DLna_85tHFHr3x6YQ0DyzVGOR-4PPMFAbazEoDeeQJkReMnbSgOoSThtVYivP57Pb0sZSVP0aazu7jotTb-dd3yExL3TRTKKfrz2lQe71OQRksFRZK8x7rxKf3JOTAovATIYrhS5PZoiXTg3QAGXOQm_FdKtaoXg7CL5Dap0LeDf1BwPi5g-kv0bg-zkIZrX5UUXScn_AJEbDZ4u0RIQmAtqya5LAwwqhKAb-MH5re55KvYDv2T8Hxier2uWByyGzp9aGaowZZ4vboxts04Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🎧 🎮 Городской киберспортивный турнир «Dota 2» сред...",
@@ -1690,7 +1699,7 @@ const newsData = {
         "date": "24.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pbvpTQg-DBKtLvvIa1eP12NLSBQ_-aOcA5MI-UDmgqEbh2JO3RS-8YABRmXAPxqRGPSPOJguhjsjh8uBvVIcJtHLtiA6nY7AZz9ZrJzZ8CBhqtUn4STxs9br4AsvE5Q3PFG7ZEDEHi2cGcdfSOqxF5zL3V8yKTc_YrAJSeRt6FM8aVzchoBbpPh9lGk_CHtEDKyATeJYfAqkiP2cvdCyNu51Q73p3-_HIITp16-BrSE0dIhFnd5OWHj7ix8updHJA5pftg-1FDTuaZ6TTqGQ_VE-RFviL1tvcHZO_w1Jwc8vG-EfttfREc3IYXZIW6TyMtViLZoS5A-a3ahPiH3SdQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/SftV6njK4ILt6RH_xGugvseSU9fB6nD2GJHlPpEOOsZgAchBbHwfjapnE4lB0cBppuYYtbBuvP4yhJPTRetp2NSGk4ozEBl_OlNpMl2GgvFCTUWDoH0UFOSia-VXHzm4e3UnoHKqjlObUJxziZNB7Pcp8mqYrVOlx85Rz0aMFmbwXgwkaZRVYwQG35N7I3aJ0eG_Wf891VcXovgdSeLURUIXm5poeaSYruJ5Of6KF7dXTSx776TTByb9OJFB-El0g9o4DndwdiueLWmP6b5-M_AFRjdmfLN8f2NtMJCBpGdmJiyxr1koNriW3KNND542_JAFCEDqYU2NmGJC5LvTEw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ Новогодняя благотворительная акция \\\"От всей душ...",
@@ -1708,7 +1717,7 @@ const newsData = {
         "date": "23.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/kqLElLQpMCICgyy7MohiSrn2HAPLT7Q09mkiGO0P1F6sB6gsKXYokQEiwvYbIacas5y3eXWGfFshyLw_PgkPgr6xPcwQYqgK1v56k_Mvw-VBVJ8NO27KUP48MuEJJVHiwQJY-GWpWR2Kp2U1uQmoz_mVrG7HxiEP8m8siG0gPtKIHGfnJvtzskd-T-0vnXnr-iiketMj_L37ISLLabRGnTpyvEJ1zn6t9Ps4cTCjPwXWiyl945UwweV37wKc1mOzSVjjFHHLTYmBIlxuAqYudSFLOih0fRTc6l4ftIji_fYllBotuIKtHhDQnM7wIXSr2We2MftEwaz-ih_WqzOvVw.jpg",
+        "image": "https://cdn4.telesco.pe/file/HVUPVsUYIUYADau3DJpTsGrsiFmXG0BYE9LLeBn8CXbZSlJQAlBaSFCKe52sL52QyUsPUaiOcFlIXVZOVhiueCU5-H5Q737CbuUjus2qoU6_pHvjLRV9FchYpyrH73Eufm1_l8gAvjAXIFA1s_iPNRxS9uO2BdG8tMCrD-C5qSEgedkXwY2VCcQnWGtsuXyXYw_gJ-8rB6tc1nzRA5erJMKxQ9io3m--xtevcFYqUkn_1ZEcwykhlgKUP9j8Ehcq7OBaiUssS41BhmMhNZr3dURdWVIt86RIxaoVL3Pq_jHQ7j61PwMwEkaeBhicr3AItxN7u00eB1M4WsmGBiIHlw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Республиканская благотворительная акция \\\"Чудеса н...",
@@ -1726,7 +1735,7 @@ const newsData = {
         "date": "23.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ChuLuX9A7oqMgXicmhENojFdrJqaVQNZZmqOGT_Z0Svrff0yPiKG4Bs4PH9W6WEBsMcEeswwv_JXGunI4kpJgkWqIu6iyIys-Ev1CwGgLO2y4ZCK-j9NZLnQHQLPrN_1gIJFp_zVD4rda7RN09xgUgfhE3bJ3uk3S9pRJ7FBmW3kSqTUcQBF5ZWJ5ZXachKuGzQiH05e0wQTQIoiqtB_IZHSCz-X0NRSwDxHC0yE1g6ktMRPKVNDLbt7-qAZCUVY52MiaEpMMSwQigfv01LZDiaKPbMkQuxVwmPbwkPsmRZk9pMU5ALUl1C1yuWMM8EiH0Ia6ods1fJPdz-oophUlQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/aYy_mgwr0wYkweQ0YC-H1vFZLVXIhZcr8gJD6z2QXe1H3CrDKb9ZX3ReA6bX-5-9Mtb1iOKq3je7q_8n1ef9Bz5tm660YW4LYEnDN8JNl19iBXkK89vEnfwQW83ACKnF6nUHb3_a_Yoop8GIxsMlmyKFjqwJNacSI52uuAL0TPvTcKXZF1edCtNflQh19R81gYoQWUFrFuOi7rs7z7zVK5IDWrAhCZANoV1KLSPu1Ebg6_Krc3MNTHupb9esx1mo3AkKuEz1nBI0ZGPmKg6rxjp2R215x0G74eJNbyFyt-754W_x_vBx3Y-jdyLz2gIioxfCJ6jhjoXI_JjMcFiG0Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Молодые таланты в IT: Минск собрал будущих лидеров...",
@@ -1735,7 +1744,7 @@ const newsData = {
         "date": "23.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Xm4eu0tfbfwUS86ngdPEcrCEgs8sCEGfUWvHU-f8-_hdowijN1fq7BLBzgBMdFWgelM28rzn03f3gwFU2vucd9aQkCIsAL1FK0kchYvonB1EvJQ8mLwqzH9q2Tw0zq5QzgxguL_PPkb_u8Ax-g_O3xMjbd-GGy-ERA50Y39DJLGJMKFYsvyxJfsmdwN2lCUsvg01L3cUKNL0A4dddwWoVd5TqANPfx5D4NgPXdI8DRl_mIP7bZ8RB3afNvmozusq39Em-qbbgbweidCaoulFxsOGjPaASDHuxdm3dp-zMD_P-pXFOlYzg3BuQALbyo-GxEt8AzgnenOlh-On3SFDOg.jpg",
+        "image": "https://cdn4.telesco.pe/file/tO8OIS5NwQ39wJqKS68rqrCzsl4PDgYapskin8Tct5T_OtmFfiWxDtQ3FbuuczBkyQVOe-t9YopjFrrBudKnNLcrUdgCiOO-sKrbuQjoSsvsCII4cEayp8UB_yEz9NvVkDu7VTEOR5xcsauzyEa3cyGuYAc1FEG1Ir0RnFDLXWNxLHAtUGEAQw8O2DudMzS8JUO4H3C97wMAEld0N80YYrreJb_uvgK-dWBQ8beoK6O2-BbZsdZNUyhFvPmylHNDVkY9cn0g_3cmuJZz9hZtNXnDwqhCDF_hBZef5qlh694iuQIw2_mtQ9y4OysNgnwmJTJz7OPJQBMId9_56NSjLw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Молодежный медиафорум «Войти в IT» | Итоги В ко...",
@@ -1744,7 +1753,7 @@ const newsData = {
         "date": "23.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sptszpDRD_Na-BcbVkJiw1UR0U-DULpoxoKMoLrDu_Slansq-Vxbx7i4gX9Zso8421QQ1aZOYD0sip3199llQO8RS0ZZuVVwR9rWq6_TVBIn48-HI20GuXZWdD0Cj-75OoBk31OMMxKsdzDabPBue0140ZASiVUvpT2dDFE6yK1fSXTu0X8I1k10zCPjzfeffQr_YTFo5e_PIcD8efWfelgEL5Voaay8WBp_q6QdxhIUEKxeCCEUsQESn0ucM7Tw3YV9RC2hneZYsr0qis3dC7bAP5YcmS5wSUAFVjwKxTZA2G2AqhO6PRE6W4LdClxLLQtCellOvDxdNBUNdjInpA.jpg",
+        "image": "https://cdn4.telesco.pe/file/PNYvSAf_PpegVW0xo_IryFhY1Fs6QJAclmP08-tC9UTKrOcU-gVMcmQNMNBnPTN257qwoLq-SNCWm7MIQscOfjKUuAD0Oo3KEBLJKiDvAp3IHma-6efXsx4e--UANrRhEpo7_CdqbxvYqgFluImqPKj-3r_Ad9MU2dJGzzlziMe1U3k6GUgSwGA_7D3b4jCady7CViUFNZfQnt595vF8HSDExSp8fpsUzdS8K8QQAKwpQerEJ3JEkbz9QnljIrOAXUl3apSFm6yaj39oXdmgcfhF0T5vrhsr5OyujCS6geptduQhhHuJbiEGCF8ikq779SY6BG7N1_zXSAAcLEFYfQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительная акция \\\"Эстафета добра\\\" 22 дека...",
@@ -1753,7 +1762,7 @@ const newsData = {
         "date": "22.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/STyS1h0GeQI2obKlMrqDLEuU0uIql1h_vYyc5kdztfQJtNKc-F5o3k9YmYjJRmMKngAEECmHGbG4mCoZEqcb6cVo_xFqYyQv0q4B28aCQRCoow1TYHE8pQSsAaFg4ILmqNk5UPgyLg4C9ScnSeebl5jYbqdBiFOKaqApIn4DPymHVTe57Z9H94zJBmnheCF8T7gCc7FqJ8xJcy2bbqCYOPF8WZxx2j3S8w1dKcR0yM1sLphXNp4_ZU6wQu67QlwUt7Uoq3qKbfWOAYX2vrYuua3w7MZ7S9RkXciomLN-Kkx_H34bzi73IXQxJTfS-dpZd3gflo146kstOu0pYpOSfw",
+        "image": "https://cdn4.telesco.pe/file/XeMvyFegWn4VMVTWlXyPzxghmyPMGd6n-SJ5SWEh7cfFhP_sMGgzBvyhgsgppvpmMdhxWNiV9JlDO38KtuynT2BH5HyLcl2wR9gvkSAPdAbTY0C8-bxG-NU96MMSiJQ34Fgh2KjGNXeSA-uVZjX1OemIbpn3zSbm6lbAKqWIyYtKSR-wBf90PtGWbcEderv6W3TXDt-j4q56JZiP38JCIj_vt7BfqBQ834wTVUsZr0mFpN-AhrRqXvk6ZG9hM9Z6sZiXmFNNkVOjpPmfIhM-BY3bmzIC0k51Z85CHz5tz_P2EA21M4a9flsFnhbSfj-zZgQ1SBCC7qLfJ8WqvwRA9w",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Молодежный медиафорум «Войти в IT» А еще, уже с...",
@@ -1771,7 +1780,7 @@ const newsData = {
         "date": "22.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Dthp_jQBgyncTmqfV6La-YtsbdJOnEmriA_RjnJKzwmOfM-nKDr5UWVfpNKE5zryFsR30VillupZ65Ej0nwVDtYPmgn_b9sfeTTBXl8kNSkasgfkgxbJ9pCrq53pHjy1HFV2CA3umnodHZrcaADvVgxmj1VOp0hU4Sea8WzAGzhr1k5m-NhU-IKoiTTXwNv3ed6957zilw-DhVIQhNA2RSdvsPKWqwnRoo2-plwf0AzeFYnpYB0NK66FdMIl0Av7FFVrFiu6SVmvEoAl_J9VNrfLpnIPRcfYTuw2j9BYdippssAWiZfrbKICgcESiHLwtY3cocs4CgPLyN8vBvUZmg",
+        "image": "https://cdn4.telesco.pe/file/YxBAWUItV_ObJeEJHG2odpgxKBdV9suhVbcY4ZqQ_TzJtU9Te6QGclh-P4rUICyXA9Zubt2nVp1QfUQaR9rzi_rNKtTYaMf74taUPqB6z-3t5sZGnnJmqMCvBDUs0icPJlgrqUapVUHrc_ghfyvDKdCmSGdoUvmrtVuxgDunmIiq3VPYMrJbD_nPa7xYQV3cfYQlaChDWDx4RXtpnxofdCPZZO43mfrKs8bA-RvTXKm_dFcAf4YVVuX75uf0EL5BkB1c2wxTVeIdMrEIKnBtF3QzwvRIaPzNIQZqGrRoPcSg-7kotveBfcrErzHxMmcx4yYdAbW29OcSlHQHYPwhtA",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Серию открытых диалогов «Голос молодежи: вектор...",
@@ -1780,7 +1789,7 @@ const newsData = {
         "date": "20.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/M9dhIS27KAbULaZR08hEfPMq3PLvnG6Vt3HSHaalgISbDCs9km7ZQqr0Otq2iZqBnsLKTfrueXgu2a20K78T2gM2g2P3XLeLg6M2_u_LsD1PLxt_FkIkg64e1D2vWSRGCMnq1US7EciBGUksQJsDa0LJChnoC5ZTw1S4oIOtiX0JVb9YbTluNgLwotL9tCTW3yQfjw5SVlT2_3IIjVwyWsFEW6Y0sX49_d7mRUEl2riMF6jC1Kq2EoOD2FQt2h_oYSKG1MQwmpEO0FrVqx5LfQLguAAcDhdwmbyiopoKqwDJesiLt2l92cHOsMTh-_UVJNizqWhcrekH4XU4vdv_Zw.jpg",
+        "image": "https://cdn4.telesco.pe/file/to3EztRTOrBiQ6UJGkRtTfVFgI9aWGamrxEs5N1pNe4H8NBA-Mk3zG3RrG-qp3fQXQS58Wa2G4UtQC5B4dn8XEyVRWGr--JJy0CX-veqQ50KfSKX7v_Yl-qHixMUVm7r4oUtY0A0W09h-jI9mVBsFHK7z4XW_afMecBQt8RZ2V9fW3j1xy4VbM6dOlVaD4OUf96c_ze7LeiKTW-uFLqitW5-ltxdygkahhqZbQByCO309j4L_-urz5WG1U1wn8Zcr7hFwT4fRzSNxxWpWWLXxwHDI3kov_k3gEZui6-S7gbN-1EgV9I-ld-7pDX7A8CtJm5uqhuuW7Mr5CrBy_QTEg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💡 100 идей для Беларуси Мы поздравляем наших побед...",
@@ -1789,7 +1798,7 @@ const newsData = {
         "date": "20.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VZncyJTbDsCa-iW2sGKv-hAhVTGO6bvyKyYzFhZwR6Qc7G6sjzVwLXbb__FJLBb5HRGhZNr07phbPEnaD5ZyOwjkGNSwbdlruGT-l9qQQ-vVyq_wYn-5phuVPAhKjguxsl2eGM3BNT-Ed_YmBGRkyvruEvZ6RZ2eE_c0UxXwTe9PGJ9blJCCTqXBnexcX70ZhGj8BGYSHJoPHawX74i6cHfAZWG5b7fzzo6oS-nYZyXLkGraEfDKvjNKh59rJ1_hWvwUQs_L3DK3vYiQXRXgpJuFtssDVYz8Dz65y7ExW4WREvQSSSNz8OoAOT2IIxQekKTukF-Byi5dibBfqAhpaA.jpg",
+        "image": "https://cdn4.telesco.pe/file/dNZ2ahndGtM_olO1MIcAWBFWsS-88T2RhMx-gxW_gOfW7VqIFAIgBRLfMeO5GNQ8Km42Zqb-lN08KnsJWxPf-vK-jQT2QusMt16W6jZxswdymYsvALyQHeyqd4pA-raIOBtM1_yXMXcRlmYsXeT-3EjiQyqDfJcvymJTxN6udNXCl16tt3Gr9MHS_3qekVJzJlZiFarIE2Z1SSDTfTgeZQKPwqr5tALOCxy1n3YQqjb1hPgGN9ObGvEfOF9oO5deRTtD2UUa8G2EkCj97OyvN01wAGnEAq2R_veLWKjxnN9PQpdrVYMLo1yYnV-2Qx4c4YqS2Kxyg-Blk6MxRoRqZg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительная акция \\\"Цепочка добра\\\" Волонтер...",
@@ -1861,7 +1870,7 @@ const newsData = {
         "date": "17.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tTbrd9CSNJikwUH0DFCYxb6hyANP1fiEIT8t4ZbTVrJACYeW2qDxYl7c9ttjEJ18XQoY2DgUw3DDSMcFODjsfBbd3u63HjJLN2ABy-QBfM8ry4KHVfnY2Oej_EqWNvevQU1a4ENZKZ_Sp5yEsNuPhRwYFaiUp0zEPd01Go2xHbbMQaNHKHgUgdzCl-4fmmrn44NiHapHN6dX48KBBquFXVkkWszSmM3X03HntGCr4Sy-w7PV89tF-_5Q_MteWjSj_Qzo-XMtLyvqWvJVTYBtIScQLEDUuv6u5KPNAxwRXyIS1ikqdjVfkfI_TpDGnrkpIU6l-l1-UvPHUGAgh79hsg.jpg",
+        "image": "https://cdn4.telesco.pe/file/Hvam7S5zi0r3aezdUKOmwHlINEL2LlgcAB-FSsliCllqf5IWa4SiVV-n9aVyMrA-_-NVK0BVHCPXqulWrJ958x8XQRGEieYy2ANpkQdvvnaYHM9yhPmxjZxxwTWmmxUhgEfiJXq7fd1hL8jJwgM9oBxmJifmS4y2xNuDM8FOVagMYZPAtmHIxPInYvQzSo6Dq_16gn1TroWhGhxUWLl4cnKuk9fOSoi5zET6TKGJqjgxr_gEq9sj_IBY7MaX4jZe71bCzE4UPjunnk_YAsTAFMiLkeQSaHVeDo_JtnjOdjMeRR_HRinshsEbZl86LSEP_NqerIwNuzKSKud94cYmlA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ ЦЕПОЧКА ДОБРА ⚡️ Стартовала республиканская бла...",
@@ -1870,7 +1879,7 @@ const newsData = {
         "date": "16.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/HKaLUH_UvF0dj7fYGKacoN3JNHlFX6sKA1DX2PI9XOrV2uHFAle19vSC3ZU54fT4WaG8EIb5vZa_Wa2dD_SHzRA7AJee9MWlFgy7HlR_6L5xR75NM0EY7wghoHDnltf1mXSbxGE1uKvFeeilO6uqF3sFMWpm0jBlKDZRVptjvqtkZaQHk0JhKGU9mbJCNrNVKk4A6I6mtEGoXKFbTH-ig7c7RqEJxqSVfAVJ-4oJu3szchkH4gRvSAZYd3FQBOvgc89mcPG2rQrP9PZT9rLY4Fxy_qtuWvWysRkZYDgMGui3yuHjSoFik1zFm7HunZyO_NyqpfmSqwCI3vgPF4LNHQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/uyCOTIKPh6XdIYsrSlfWC7rkzmEYU6D5Blrik82khhal7MJrzFcRz5J-BaXjj7lOTbGSF28znn4XDVZBd8xddF2s5fahx-a_tmsUKA8WCZ2lc1yJXURa-tXEB8nClb2aCI80sPOoCTz4jTu6B1d8WndaOaoa-zaj0aLhBqBEIMVVzJiV_W5YAKFDtYEPB9PI_qNy8IfNWqXvlie1CQsIpB1jxtYlZ419hg21zObvtHUZu3niN58QzWaRABnQiJJd2bjubY0ldODXRk-JP5EhAdZYuS0bD8dY78SvOdKbekXqo9_UXsGI9KDahl8bbw5KX_7YNgVrmbKn0ga-JMr6ZQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🔄 В ГОВД проходит 4-й смотр-конкурс профессиональн...",
@@ -1879,7 +1888,7 @@ const newsData = {
         "date": "16.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/EAKiV5s7IyI-Xy0wHiqNZLWdR2-V4PUFU30DxOJcIbOPOZTcqMHQL3ymrlRmkrFqkOe_JPnOIlmfuBu88NTBKr4daGSeYqdOu9siYKtMUftYQ_BUHv6MFABVZbtfUb8pDvQj2Y-M6OH73x5QvEbStOJA28fd_Ry1x_97n8yKFbsotdf521klHgQtkmWZUkyF7jPpy3Mmghh49lSEzh0MMIKrqDHQ0Tdh6fEgaWp7FUqyL26Mp593K9k2kcO3QW5NS8a3FWmW0Hlr01fuKFgrXNEwzWravAGgCG-55hmbvJ0yCHAxEBfd2On0ApRv0-g-Rrkx8VLi9BmmXA892SltkQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/hUMjBlFJVkxU5xxQPWLK_2eh6IL8p8XWWGaPNmQbM8IDrvGuY5_kaNsQ6oO1VHcb242U4WBAtFhYYfTRHsu1BGy9hva1lrkptBmdEZqa3RZVGhiluwJsPSNYxiStvMUrz18_omB0N2Br7VXzvDbtXPSiJ8kgpn8YbEJQY1PYv6ZzMosT0MDl_2WjrkeSiqdbvZ72ya_RinuSQhNQp45dRjR2B3BqlYYC2OchdT_p3jR-RV08_FuWhOY1qzG4QSR91Ee5ypvz5gwUcqqJBt314faDJJLEnrPN5YD0Erip_D6-pVF8RvV_7CKpeAZaowwSKGoxUw0R2InHlxRNItqHcg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительная акция \\\"Эстафета тепла\\\" 15 дека...",
@@ -1888,7 +1897,7 @@ const newsData = {
         "date": "15.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/U4IRGMCtBwmvxuRbApDkssz4xLX1hTBVFTqqAlp4GXuGCBGOEYp23Y09-TJl37vh0XvdmVXJyUZ451StFbT12lrzH-UPrTmp3G5TmwQA-5pba0cjVJoBsb9dvnQOJRpnVGfhkA6b_lwN7L6S2mIjm_PVv3uXstgHGfalEsJQTUuwfn8Vft0Hoa1v95xFIsu7N6Y-pMqHSAHWQUN1JBan6di1Jvyps4w5iWodPf5Ln-n2dZIUbHjN7wy6N7RAP1yeEWCavSTpALFfb9i_SnjY1hrGtabTxxlnDZMMZT1oNM0hiZ-dnTXjM8e9yEDp5ybmrzEmwUTB8K7gbnLWMdXngw.jpg",
+        "image": "https://cdn4.telesco.pe/file/X1Skz7c9XkHSJwAzJmZ-W1yyzv15SomFjxuIF5T_s-R45Jrq5GbqNNCTmAdOILIZA_6TI635zreG9g7vNaYaDDINTCO5BD5R9CM3-3xeXJcY648BZQkY4v549gh_E9c7dDaxLNyslepCaY_2FiU3ZOWJHAtMz0xOPCyNStPOonec2jT9PH178ZpOs_OCpuOwGQ-Wzdhpe92BKDWWGT8LSvBALBZEO1nwAhqy45rwZLtia98Wj8xsN9nkSS8saShCTbhnz9f5mra9yRKVd0J4rDr1WjAiB1qz32uak4JVGp7vvs5nSvnL9c2r_J_HMX1IEK5lg3VfEWl6Uavlir9tsw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Республиканская благотворительная акция ОО \\\"БРСМ\\...",
@@ -1897,7 +1906,7 @@ const newsData = {
         "date": "15.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Ib6PqLz7zkJDf-5pU56kK9ZrmZkxQ8n8TY2EThqTICvZAenrEm1q9Bjrg9_ixSimy8tJ-_Q3ghpV6YAP-KEAVpLQA-IzW_RxdRP_8lCDHHe1zSldjvkcKSaix2YlQKrEt5DlAyk3_Dqo2jhk5A6H8rG2gtHhLmuz56VzMVRGVOByvCddoa1c3HWa8564Pw7lFR_PNpZZCRiaDi7ekEsZT8qrDxUs_bmc47Gfyek5RDIXfLe9nygoqnfNLLMX5RZ-mdk3TOLEYx5abrpS_sml8riKFOaqJQRKzpmDMBbuzBXZFJQQLRdfSrbji_bHLN3wROAbkxIFZeurh5GhTT0zwQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/m8lrT8_-QeisBDDBfzJ4vTSZBGtGvyX7BGo27VJndU-Wsg5Vu9WgUfoivHpxII5_3Te4ZKtGwKRddbxL23zsRGgcoiMZ9EPn7zbWr20D-9srBvCOxHJ60VMGFZ-90-Azfnky_WylbdEan1bZGn5vYxRXePI_S5t9mzdE7HI07HV4HS-PR_XZvF_KWqluRSgbZCMpdLm7mv-v3PNgzbNVWhLs35UTSY0Y2aaaoB8W41efvcoLa-yMxIzikd6E8M0Ym_gjVJhST3VZUIKCTrXOYOd8suOnAmJ7zatLrb0c7XcIQ_P6MIWxzxTE3OiRz7olWp4mK_LrX4fhEzfL5du67Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Новости города",
@@ -1906,7 +1915,7 @@ const newsData = {
         "date": "15.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/UeRu6oUiUkQCGmthOIcxj3u-qPvBPNPtWG_PlBK3rGxDvDin4s2dVaRdloJ-6GN5G751cM8Lgn8rSMrNp7Pe-vetgetiELugDTKYwf5g3jPg5pD4laZZBXYqF4VxNMjDaLgy7GIiQNQh3fPO6d3LHvm2q6Mf_6vuKYCk-_CPxL_U3nK89Iwt3dVWb8DwRF4J7vud1cx3cseTL45yRfnG0r9PMtxhjwRl3ZgaiIRQnPz_B05Hk1_jD0PCt-lKkG-32e24G4JlU5uAJZfgD89NLq7Uh4KlxFPCp8vzq0pS4z6V2j8i-tMdXuj0-HGRD-XE39-nXogs3UYumRTq9ScKpA.jpg",
+        "image": "https://cdn4.telesco.pe/file/G2-AClfMsNZSrzzSoRCT8tNeV_Fs2bLGNDslyd0oyRcb_5SpZV8l1gdbTxM0NT1gEWXdcBzhWbK424j-feILZNhCzAblndvT2dVDmD9jqIYtDKT0WfSDmxZMyy827zsqsaqLTy4FrdKEszES3ckIxDM4EGmCNcqJUMBs6lU_qCt2qu_iOpVNa0PU6hbK9UROeHpjYoogqLAzXcc1fBSZn-UFuCXiqSgyWh3IfB70HvCGf5csXXfobm8p76eTQo5Bg_3tjOUk8Ikxs_rPC6TgjT--ZzQL7xx8uQ_6_-8zjkENqYkCebVtYnl9hxw91JDMBpsk8B6Cr_LEH2HH_uo_ug.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Новости города",
@@ -1915,7 +1924,7 @@ const newsData = {
         "date": "12.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/PWtoTk2AcqIrYpt4Rp_oC45Pl_W4WYC2PQTqD0Z_iBZEoRxtiPTeh2iDhBUQR_LTdYQQCF-MriLa3uEGCBK6j0bYnGvOCAJ1b-XU5T9NlMLHQs3ykujbL9kpwUFzzEZb6dETpo3WWqAMJM1Mzhb9bvUulb7_i_HU_zE7yYKdE0IJudF4JGVVGkPksVW-6egw6i4jVXDkgs5P78EGp8lLzDITicmeLX5UrjVOYvrMZVWJglznZoMX5Qe0Fbl4jjOTVcHIK4xj0NKG9xXmsXHhbozIrlqnw4Qxr4Zst-ZRRNA7ldIpBzOI4W-8oBRCSuN85euU4YIhc1lCyEQlWoy-Ow.jpg",
+        "image": "https://cdn4.telesco.pe/file/BBK3s-SznUBg27iBbIr8sd5OPAAOP8bqnuPYArSl4cjR941M2wH8qZUchd4SflzmYr9ctYJIbMBReJnJW3PNo6qVcngUotZpw_QJUF8npGqAM6FN4dbQwOQtlUFEaWazGdFppNZYlyxsy0hgN-HYyFF_XCul6HU1Lm2s_HKj3zB2qFSdKJ-e-dKPPy_LCDWXwwyW30K7ALXHN9ai-kpL33MbPiTQdsr2Zo08EqjmPWuEj_ggwREHwh1W7H5JbjuhY7SgpCv89ODRcNhjWoUdQSjk7kC_SIDleO08xx5d2a_8WAfzMmfRWxtWxBi5ED8G0sNN85Ahzg2Kl7nDE__c5A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📌 Участники областного обучающего семинара по орга...",
@@ -1924,7 +1933,7 @@ const newsData = {
         "date": "12.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/L9eWJO_9sxNIhKQbuGAxjfarL36eRxue-arvQqPPWwnQJ2GgctwbbzF_j-HDewmZAIwSyqD2Et86y_N3lpsH-r7QPrYXunl0t3Y50jF3vHRgRP5v2PvdlseLOPyhvbDgSYJTIlBXcJ_Iiquow1ig00KRNQdTGr4hvKLmZXZfLKXfE6MU4Kle3gOz-ZmsxPLtlI4w8sa7Y8gBLqqdwKDv6KZBiCfflh2Cx_GgL4tPdtSU5bUIT4YzMG7uXMqHOKyXZdLQ7bFMyaJxRhmr3PAMGkBfYdJ2dOL8a0_OVfc6OomWWkgjtUfnBDKpNzpNsWbdRx0hBFdf1Z8MryoUpr_B4w.jpg",
+        "image": "https://cdn4.telesco.pe/file/JTexVBJAhCRhzECmpPskfK40B4yhTp298pZ9-6xe0q3U74QBTy7pC3_NtX-mePI2kigekOzrramdjkjGb_Y1mevx3vn0X63KONaxvh6_kdLkOvYir4STN8gWKXGoYgwtMGlcNSzZeEQXeDoAffnL4TomHSAJVZ0Fvel44AXJCVP-v9kFepLl8vGxpNSNSZLNVf90EsOVIuWjArSN0rJgFyzM3MDCGv3ybbyhrDs8JsLZCTA-PDKbeAQMO5PvEhwxCaQ3swzFz5vU_T8A6IcbCR3QdUTkictrZvo67UW64XOXTVclGoJ1vKE65-GXRIFgkXIPytW-MXpIhE7hrIa8bg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В эти минуты в педагогическом колледже состоялось ...",
@@ -1933,7 +1942,7 @@ const newsData = {
         "date": "11.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Zqr-jpve9l8p7y2KahwdaRIvF6oyc2YOnotbMwwPACxbTxYzVZluHzARgjQsHYGTP3C7cQj2ipWHdA5MzWVIQ-ItzIMh2XrWkOornWWIPvoJt2ZxdSs84ZHNbR5hdc6NZDCfUyQjy26DV87E39li3gczrRUT6m2CI4rbNFFqCdA5lMQZKsRjxFrU8zl7X3ZQmW78N6iOCGEANC7wzi32JDMde3ikh270evqreX7oSh_jgh-J-8nqnn_Ogwl52Us5VPAuQnWuVGqcefkq1hWCGPGVLW60bV-TICaHsaopVlVJiFQSvgSOOkv1RjVIDh3n6JuABxBSMRfFe5w7DKGa_A.jpg",
+        "image": "https://cdn4.telesco.pe/file/LaXGy2qys-GgdGPvebdM0VKmvK_ygTwTSBPZrJfPJ-l5l5YkWTKr_Q03sKiSDnf0Z0o_7Qx52hq6IuR5ERUQiPzBLBYleIcpJL35Y1zHUrb3Mi0cDija5qNzKIQ7VCf-ufu2lh8ItA9dR4s3WgjBYdyyzGJ1FWy3u6StocGgALMfER9dj5VYo9OhXo3Rsc9YAppnuwjo0jeIl4wdT_XqKddDRz3xxJlIidRvQNG1e6RtBUUHFbffQ77l8rsddIi2MtUrIA-D7bLTjza7info3Uy8Z5_npiXyEVR-Di1uNjLQbVhkLOmM5AzXMI6Z0W2rTPGro1zZe1ZChPauZ2CHXg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📷 Фотофакт Мы начинаем областной семинар для штатн...",
@@ -1942,7 +1951,7 @@ const newsData = {
         "date": "11.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/GRoxUYCX9E4ajNlMtZT6vlBzbSudaNBODKfejvm5pMVIqU96FY6Npbx44pFEpxez64k37-aWEFTRZqLj2gOuH-1jBAUlT19hrjv6wCFAn2lSoeWPPp2KpGacPeNEItGDJT_VXOI1bsfbWIkGcxcqBQG4D1wrAS8xij9PzoJhGYksAdgOCO-_qnt8DsP0yc9uTfyDwXr8FYJrYKZqZkVpM8ETJoTJxREAxVzolAZk0jxf0ESANVYX_pHWjPAYZGawrYwSxYPNLkOk1rIrllFzLTuyHoRRIX6NNWMsIl83nAxL-SAWjgAOkmkNlZHYp8U2YszrJhq4o12bbKg-BWxGnw.jpg",
+        "image": "https://cdn4.telesco.pe/file/MFKPCgA0_1f6e0wjlryMwCCs0wtX4i4sfw__k0w5_gSCBhIgfLJA0V0QciMwcc_U-ODUpa6OWXSgeO7zI29CvyBs2muLDCn6Gs1C9cFZcem5QG3ijsi0szMqh7VUBzKhoCoknA5hnwmyMmw0rsIMcIuaGfzlJXDV3EsHsarCEqMiYjnyuArnJpKwN-IGnheQXMchQulcNIu34hF5PAcA-elX0ieOQ6dhrT5IF5w_-ircCJ_Ip33s8e4dxDgABqhk7KUlCvuN690eVZBHOe7-K0XS6kjw32k_on3vsOWs60cUaMhBc0Gn4T6iNneyBoE2_OrkCnj3mdJk3PPrff7EEg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "10 декабря в стенах ГУО \\\"Средняя школа №6 г",
@@ -1951,7 +1960,7 @@ const newsData = {
         "date": "10.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/CpfEIK6l3WJCl1XiuOoA6Kq8zAYu8u3i40anmYVEU6H8i6mV3e9edG6sGBprH4h-kc7W9WClgS2P4ZZu39nXXJXh3-wqVQ_pLUDGjbTgtu9jz8zAPwkFT3lBIdVtDYvZMGE3S6RJnZ2YexlUzOLYXmtNtdJXu09S8GS0j5ohOzqkplxH9GbHgt7ZAiMsRsPvFKi1Jicz_qRMRwygnCLeBooya1-3xh65pZz4Vx1xGQghxymC5Najo2BbSuzKeLn8eHjsSu4e_FzoGLm9WYCcSRRjpLUEiUGM6Bc7bjxUer_4kRJFRkfbTQJ512sEWKmgIdWzFZK_Qi5hfw5KOUyTPA.jpg",
+        "image": "https://cdn4.telesco.pe/file/P34qNXLiKMuDlp2rgHDrCyY7ZB0EZOMwK7FMXBE9NecrZIZEiclGJUfT95TceP75bVwtsc6U0zkbzu0x2apWyShfuFhMpMuJu4AuJc2tF6qqiGpdALnt6ofc9PEvHHvQGZZ2BdBxCQVsvXcxvI_WGMcfdKfm1iZQPph_4inkvZCcMsCB1EvrRNEd8x2oT6naryxsxU_4XDPZjq8AMIqO1AU-HrCh2ArGfsBs_UCdfpqisrGQKxdGxP5cBMbuiLLkmXGugNeUUy-MgeWYkByekz5pTJMYoeu9Nbk9OiRoL7MrkQxjHbAgWdNI7s-sj6TC_BfkblFTnNBZnYACB5Z7IA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Новости города",
@@ -1960,7 +1969,7 @@ const newsData = {
         "date": "10.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/E3FqnLWlfDIdFaA_HteEcvXAuIz_qRifdU7MRey5KKUs7HIOlOcAV2xSWdE8Mi6Sku6mt50nfprCbYy64PB5UdASPZJ2mIo0VEcx0clYaIZY9fKinoHtFVV6Pr8DWUSdaiYZeEcxnLKaZBe2fkCMX1MC5DogHH0sNwN1Wd503QbHpCsE3RhcpJQzPuZhCYiSmY5ldFGu5g0tvFe71hcGsGWQ2PHgF29U5-UxE7i7Cpc_LgFyjYoOZeaK8e3x7ST22CANi1UpIv8T7vdvgBXu6n0D3kzn9GNVWpmG_hJTHGctks1A-jpq_S7xnHZIgQI_KnzftIuz6hRPQV1kT7oGBQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/QTfKb2hPsu0CQ-3jZr8PL5oemvv7Xmc-AYmggOS908pJzvx8V_IIGM7qNgY0H1Y6hJeFeCbx4DoGLdsc7BmY3Oz0sSIP8EmjUtYYDDaU3XbzJTuLCxQPIsPXF7896tbrAEjweFvoe4wHmo-Fz7t5Jv2GdviWrmy2QNU-Kpqsz3iffPspQq2bnRC6bUraV8uUNsu3D-v8uj-h8MG3i0qvlZUZAyR6NOXA0Z0odqzouuB8OdPUWrFnZ-XAuJYiXH7jeQ7Q0lOOm76KrNnShrB03Ci1tN8dF85GJ90Tzj5If96uAYkKm5_VBHl-V7_rVft48eFq1QbnxuXhGVp1gv_8Kg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Торжественное вручение молодежных билетов в Пинско...",
@@ -1969,7 +1978,7 @@ const newsData = {
         "date": "10.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/q9473d5H-GDPDxdO5_Mc5f7GD8Pj-pu_cQ_EHaUygNT66Fy-3OGt68IC22nUJbasXAdrb-NXRueTXmaiqWeCAP6todE63kxDxSsgcilP18qBr8rHBo5nb8lTT02QQ4oTH9t1OUSkoEHGf-Ik_5xlmP15YDk1IMlbzoz-BXbDhRQ-0EPlH_MGGgR4CweFUWqE5SOHoSrhCoPy8JaA9l1z6BmsezIxpPpKXZXd1jf6Wp-aFJuZbpRCcRIKcZ6Kbq18AOw4WG191Tkp_WPshrBt8tHLkeMgukIXnEXfS1J7NPjdrqFtjKaFbkBO47SZLiVOkGlzAvVF6LL6OYWGHF2IHA.jpg",
+        "image": "https://cdn4.telesco.pe/file/YibFyjWgEC86kwaqQyf1ffy7p2eiLSWd-2SD25QbmGJKM_jbe0l1cpB8hXreZ8WeHRNj8Cx9WJXxMPut4Fys0b9f4RROnJMSRFOp6G1cLIu0DQAaT3oWN4j5ABLEYRYMms-c8ZM5sAjsxw1wH9kzTvF0_6HxdzKdEQEqrjD6xoPyqI_JnqA-DZuJUwncSHc6_-oe10WGaxwytXOPfEal0MMKf0v5oTJF3u3-jJKOBS-_0EzzCeFSmSylzrFdTdSz27LdK0VFTMGD-0iVrb0_w4BgiBGfMWah1wczJPzAaAytnPtO8kNWFIOLpTsHnz0sJvvWYOUPTIBHet-UVB269Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительный проект \\\"Елка желаний\\\" провели ...",
@@ -1987,7 +1996,7 @@ const newsData = {
         "date": "09.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fP6rwKUCz50-M3v2wFejkr08n_DtY270tEhdcm5HPIU52QnvS_XpylqKmuY0OlRim8_UzVnmhfCXaEENC6_lS1s2Cvsp1fRwiKaEQ-uwjrHyKRE3oitmw0hweKaWyEdTg5u9s44A06D1iYczeBzRv1HEh-HxQHFwyadcKbyzELgdgRO73a1QdOLuejRQCOb_IlnclD9mM0i6WVoEykuW29z7QSRYTo9G67jJ0FMWKKRUiXfMyYg3Ffo0tVfViuhuC772onWo9XOhhB7q7hFdAjmVrFOdmqIZ9wnj0EheujfyG1G7skYzbda76QPkFzTXQqk5cZVUb1d82jpPDEmybw.jpg",
+        "image": "https://cdn4.telesco.pe/file/kaIpX3vIaCkZ_gHuD6pk6cWIJEvyYunRpZxK51gpJXXLcO685jX3UNxXI0ZUsPr25gR7QuMIhEFXWTw0QsSXfAwU61lZa6VjrSb_5Reb4g-z3sDmJ5lDlWMGThwTDIJ4BJa3kfU4-a0RHvP-gnbkxPHQ3K-DEWx3tPQlf8nkwa0VU5nzMRKHS8wZ7yBvF-DvufTURgxh9fHEirCxPV3dpSOnsz7vBQCNqgipcvYWkzN9QymXQ7P_1XI1aovBVrOXl6Axd-4rpTyA7irofsx80eVLj2_ot0cukpFzu2h-3D9GUo_nOXryrRVrhJN1wwEhtzPwCMk3j5u-hPX0PDoRGg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❄️ ЦЕПОЧКА ДОБРА ⚡️ Стартовала республиканская бла...",
@@ -1996,7 +2005,7 @@ const newsData = {
         "date": "09.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/O0He8BiHPBvzWyuXqnIYffot1J2MgT4I9Hl7B2vCorfizhFM1FQYJBZQ2TFYa5z57r3G3vbnyZQP_WLMdAtRacIXYf78AiF_1A6pTuQ3eNhsNRHj1brkaLkWGmiMLKM9UkGv47QneEm-2zziwxkeNGvkdj0ix8mBx8I3QozYt0zkon-fcKGBNrkYRY2gI9zdr1YTi8dwdEYCyiy1zQGUTmN5IcrKaM5cv4Cf1UvGxWaaFvX6K-X5rkGlA0yRk3GpdJnqaWAhA2KMHBWD8UTSCBUCkeMQOos4nWmjNcuKAQrF3aeW42ilbFOpWAZ1_LB9INZ0XiRMZs0SNoUaiZzNgw.jpg",
+        "image": "https://cdn4.telesco.pe/file/V8cNw5jB3X-TE4FCD14ZK8QvYnS1oUslfl6IG3lF_PNqm1RuZi2_G1zGzbACQ4sYmDtvSB05O0LHmmxoIGMWz65qujkHGxcybvXZo_LIq4kclmkWdcjUEhTlwYu07IzwqLLfWH6YAE0sZaIBMw5IDMdSwSG_n5uyxql0ZwsOQUKWpPgieoMiPi3D1GeVUAiEXD5XLwPvnju2V1tYJaW6G0v8iz_WlMVU98EZ8Ac44IhO-MQsAWDMIXoaEdVyPZbl0gO4OHlXJgq0A0I2gyY-NcAhuTUAWmgSOIgdDPetzxwVax30yfPhAJFhtY8FO2_VlvMEMOWVj4RlvmRhYguf3w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Пинская городская организация Общественного объеди...",
@@ -2005,7 +2014,7 @@ const newsData = {
         "date": "05.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vyqo5peqtQxRJ6dKgo-o1qoXQCNyBIPWtiruk1KieZNfQKc0l99g6AexQttwhwHVOi0SM4P4tnZcsQROT13jq0oQhyh6b89Bh8p5wT4KI2JSgKW2TRO61rx1CTEaUfEPqIuW8i3qtpt6KnTN_eD1Ard0jDYu4oT-sOKFSGDQGgyFmXjMtiCkxtUy00EM9CLe5PfndyTLELH-1UBLn-fpzMaEcohf-0mALmBIVkp2sWIJivxfW0NmVlzhVSGTPh7DM70__ln10KdWU0zXpX2pYAPzDawaTHUNCxQ8Y2G-h3TjS9_wJ5qId979-oF7kdjCxxHLwSAb5iDKGpep0g3hcg.jpg",
+        "image": "https://cdn4.telesco.pe/file/A44kjpa2zGKAS-3a7NEoWg5yyrbSF2ktMHlFGAzuxr9poUTBDQy16FhxSWcOw7AHiZEF5VSTH2pai5kOmvOP3Vi2sqUvLOm2fHICrULHT4JyFAH4BcgrCC4-JzeuAmhbzS6IB2fbeRyh2N3ZXwAoCxXFiRT-TK9_YAeUx2pkf2XbHmbSGcf-3EaAqL4kSuDunkGiS_4s--3kD-CP0EU6MpUEjsdMtwcmGEXa-6RNQNAa3jDiipSxEM9s0UI3zyzmQtEHIPt9RRP_5AGtO05X1W-7s6jbEJ8aCr-FL9xYWS-a4ZHvV_xR410SpqzGXIigMGfG1BkGELK6aecPU3TZ8Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💥 Яркую концертно-развлекательную программу подгот...",
@@ -2014,7 +2023,7 @@ const newsData = {
         "date": "05.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/g8sg0s40B7ggmSCDHHJ5oipgEG1AcjT1EC4imD2KVyAUHTIg_GSxWwYO4Es11DfijeaQI-nN_BKe2rUTSprIr2V9NChQhofgkV_drkVxBecjNfLNqSx0S0JZa8rJzpc9rO5ZIUvuuUogHpMvOeHoYLZ9QzK0xVMQVOA99QuL6NLNdv36NYmkLjNUiBaJI9Dx3o9SKGrFjOY7IIBDd1BmxsMKJzfBRlALSo6kdz1Cy8k4ije-z7-gRGt5urMYE2xhB8E1jlBWcviVh96mu3ukeF9o-TbLAewj3536XzO-4pOXF0LWGTbhbEhPkIHLiuF-432U7ugdSJKU8i1v41BZng.jpg",
+        "image": "https://cdn4.telesco.pe/file/r12h3Tzc1bR_M69WdRr8l94h_GnSWSO57h1PHexif4DvNIVre-HtmGcvXCpjHc9lOuZj_ZncgmnqXUAUghomezhQyrd4vxPR_U0OyjgeDEmCJFU7BIGAU9CkL7rrKoSQ4veLOnevxKAyHR-5Scy-VPf2cjESD0KPnsqtIKnCLrb0LBktAriuv98MHi_XrPlk8YWhmyxBuMiRdWoX4tdFPydDlvmPa8SqK-ZOKVlZJvcPn6kVlaDVZI7SfE8sX22F220XTprmP9CJB6_5n1iWLDaCSbo0CMam4TOOuB1TJJ1n1WGfxVG1rZ93naTfFjXa_zfVzZahfpmn0sdqP6l-PA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Магия там, где есть добро ✨ К Международному дню и...",
@@ -2032,7 +2041,7 @@ const newsData = {
         "date": "04.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VLv-FQGbuJ7WvafPw0KJvQg7NW0YbOkA47rI3SguLEZU2Wt-sf96YRFdya8eb2foPmlYeBv4trVDRu3K2Mtr3yr1ouBIS02PXOQIrVou7rp2RiGvkercjWG6r99RHp2ZjjDovBTO-iDdDEP4usBk0ujwQXDDTlUBXsXde-OsqxjigmbyiDbP6XRf017TYdDGcPo-dan8yKMbwjnLWdZiKDeQf_glCvmB9XBH0iQTQlRAJKTH7d5DqCXsq4dvHlNDIcO7S8Q6f1NK0pIV9pSy4pbPt8HgKErd-n61e9Qm7kgjU-z5MG5QgrQ7gceukWo2eIMVYEPLIVbQro1w1emejQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/nn2kaxLOKX90V4HCuQHtS1VvGkWb548HKtL52r5LxdeCXRWKmBaX2fHGmr8lptz1s6ao1XCpiowh0GU7N24V07_IVckpKxDGqzfWbURSWW8R2oX0Q4QFhNJwdmi94W3uG_nMux_u7cteanw2c2e8iaAk5Qf3ljXVmHVz1km1YOhTNxycMEKXyMDsYYManbJGgeg6nuSudRjyCwJiL36T4xFQ6AuysvuWqXO_POmoPYIDcjUde8QI-uJuh6nXnTLD3Kx_HieiBxpfsTiHWw7tRmNZCqXQE7C5IktDS8ALTVLBnJipLPXCFcXl9iSfrhMu7huWu9K3V7rx5mdjjaFxlA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Члены МООП «АЛМАЗ» сегодня обеспечивают охрану пра...",
@@ -2050,7 +2059,7 @@ const newsData = {
         "date": "03.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tw04i-Iuth7n-umMYwc-Bl7kfUVFx6QIVHaa_eeo9wIyVfWV79jYYOTUWJJVaVET0pbdHiRPHhNW1QinieyHivpv-MZfoX9BxW6taJ5YGxVbrekJOIvlRWwKj5YIr-8PPFZ3CbZWiVNPmv3-C8XmUr24Xj8Ri63DPxU50DQF4ZWewCvXAECjUj-geNPezQ60B6xSHbNHJt3ziRKYwLjw32DGElsG4lLwoQrH1w1fc9bSKj8bnICh0ORL7kHrdMFJWRDqbTlvccKYiTNpJku8jDTONwYgeBR2CnrEPmqRwxxOqtmPgcT2bu3YdQAq-JgUcGbY3JzgY6SSAKQWp7nYfA.jpg",
+        "image": "https://cdn4.telesco.pe/file/hfoN39MqcSa3amKb2cbZqQSvpduCl7ieeBWd9yveNoqb4JwsbZ8J2NIlMSBmHhbT6OgdHNGjLpy3v-A_dGSc2D4lLr0Tf_EilNiNY3KJOg6YRgZiUzT4yAyR26fjlwvedPrDF9I03i5438NAUXwEYUdVjy7tyQz35YRrijGvssHCSE5oJr-h1c2OVzuPZOiee1tvl--Sr6RABo8w-akzF3W2LnmY4doXzjtFEQ3sEFP4dOcbiCJw1UZr7Ml-0UV-YE3rMQMDPaYM3jWHXCuP0InSYdvZNV3G2dhnjUdDcZ9VeCH6E35X_XMMJfkrIq5zf4VA_0__RV7XDBBGsM18nw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Свет надежды в борьбе со СПИДом: акция в преддвери...",
@@ -2059,7 +2068,7 @@ const newsData = {
         "date": "01.12.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/SAfYvQWi73Qmoz9WuxqwQr9NgegRNNRbCO2gsZ4UDtzV9tzwnYXneeCGjzFlKf5qo3ppvkegKDIH031Z8-QlTfmei1B8PFRiUN3_GxKU9tEecCjZsg_BSo6HnpiN1AQrSPoDOfyBNqp6T5d8Wbsz0MgjPcLRt3cOeLGCbXoHzpoG3f2pkXbYJy1R0Hus7iAUuEI1Go_zVByX-9wNUVCjYSHOoTp5YFaBUsGOpTV4lGSDavMwkXVJDiT-YwUZ4R2ORLfx52_lz3XXysZqT-Se43JuPhJ61xqGbukvlQVMUcU7sR3ikSeYstSkT1omYxbVQjeif4v3YY555sEH72erQg.jpg",
+        "image": "https://cdn4.telesco.pe/file/DfhJcoBvA_KwaAuHuuQdI1ZDvlSWVJhf-Xi8Oy3WFDlWmtQrNwMrTIqY7vi1GERr8pQLbUVseO42retoTeOeCHlXFOGPQZ3FRBcpgPRhMYDtHFFNJ70VT3oLz4YpxOoF30h6LChfxatcx_CNh_MIQSVlNMhB2OAMADoY2_fZdwSUSNsiZJHSjdQNHF4trRfQOuAjQ939q3WPX5Xv-s6Q6ElRoJTHjS2NaDEQnHeiotelS8uH0bn1nDuYx-bywJNAZPfH7iATHpbRfBd8pBt_fQ9KVwe5x67r9E7mFRSPVlpcnpiCqBEcU_tlBJmEAeVw2nqBkTd2_uKdfZYcRjuHSQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог в рамках проекта \\\"Школа Активного...",
@@ -2068,7 +2077,7 @@ const newsData = {
         "date": "28.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/YbSqB4kpiHLrv6_CU0xX9SNXIV2OUNCwFNMJUpZ-A1uIa85YSRCVN_1hIfWV-0NYq4xp-D8DpXIuaa5Zw5BEw6Dd9mUvd7caDmCTyuix8jEa0PQPs8IuMJv_ACLmbcvs7a3R2C1zHz7uGnYIzgwnvqfAsDLj2esnRA5GD6-JpZb94hheKdJSZhhTNznVWLvJcVJTOSYrjFHavpY3xYumuqEQfdIK9e8JDOH77RkAqKk4hnzxFeymnp5T1ZceMM5XowHcssdF-5qr_MOUE7KNfaPG_G_qVsAGIRcmNBkXky3_YwlzafHKY2Xh8DvAd8Yf3K-CLGMq7Q_xhyPlB3PTbQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/YdC2owhDERhQpubnH0z6QfhioShDucSrf6k-7PRmj1mBWE-Il_uQbxyxB8qcE09oa6DWK_HJPV0JaWZ_wyc9bwjLjKvkcGxcJg25ymLB5lQBUymhNes5AmjmrnEbNuzV9PdgcObOrhYr3V_Xi8dkmpAQ2Ms6Du-34FlBa-bss7-A2yG1hkKT3VbtXIqyNWncMAJISSInqpD77hdUnZXyF7EDD69RftfdVlsPbbQFJibT8_PMdwEzxOAx0LUIKHH19EUYc0zchl0lqbCMKN7G4-ps0ZWsXDkzaADnjotqe2hzxX1_106nljGU5YV5rR6ST4cv8lg3ItQ0TWyjxos97Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡ Областной этап республиканского правового турнир...",
@@ -2077,7 +2086,7 @@ const newsData = {
         "date": "27.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sn7WYmo_yNKPC5rMLnZ-OIhvguq-mLvQQZthuSwIHVO21k27aDTotc_waFfwru97OoDGqagurcCe3U-4TB6lZd_IHKMDa4KfL2KzOYosQORqigVFfCj_QGBWYFu_8bYf-0JgMnHCM-Z5_4Xx4v6gXIIaYiTe3S1QVlJupL-i2seMCjUUr8KuEeII4Ibuce74k18qwjpBPqmadmDMfTB6IEieN73NgxqyqN0icUg8_7LSgFzfSoaxGaryBij_JwONOsOYkkuVyPw8cvG0aHDAgUKfE9RzOLkASYNyUVcoCN1OTsBP93Sn3hrxkNKfWBh6sR95t0HNAR6RUpSA3Ry_Gw.jpg",
+        "image": "https://cdn4.telesco.pe/file/l0VRTTgJGIU46a8xwLcwv5NsVNGY8g8xKNZFuAbdjMD7q-If6Jog6FuNzPHZQD8cdDAIrJfl5YEflZL-L_w1Qm9hdNci2oHScD0GYD9kJJo3zrOWwJwLzSere28euE-pAXN0COuGMAdNeHO3lP4VMcVp_1oTdiEtwfTELCcbvWtvNo9Ye76BoexWsa3iD-PcwtmeCjdFkLQe_KbkhLyZxD5t5lLDqeb5MORpx-ibI8CwGMJwOcMgFDyGPt78l8rVvsYyT3bu1l38NGw2Yg5tXZ-V4cpGsOHo6bz4A7AnipKhS4HqeY7NRwiARlWv5RIxPzK8FLwTeIn05rhANDoZoQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡ В Беларуси стартовала благотворительная акция «Э...",
@@ -2086,7 +2095,7 @@ const newsData = {
         "date": "27.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fUyufROFCvsZximAHmKsxY5H4jL48mW7sZHij6yUBsUdokIqptu9tIxTtzdzQ2JALdvI4iZy7DjbtzRG0-GyTsYEa5sZHQtHEN6ZX6eHyEviepRS71qlc6C2HuG-32ffWLHg5C9afmw0TgiqRDhBVzMc8wC49cw64MzBP2qDKa_wdm6iPJi7IoUWIT40Er8MQq3feGKZ7AEPNMYEq_QOhZ8eUopm2gTBuQ8gW6DUo0XAiB84x21pei1vVrx3ns0D27KyaTdsoLhXZN-M9jHAI8-FfrlRlU2gfy85N96VeCiuz0feaZnSybgk_GWdTOlyziiBK1ACtsPIXMKb0RtS9w.jpg",
+        "image": "https://cdn4.telesco.pe/file/NvHG-Iqcd7izPg3j86aaXY3e46cwyusS6et0be8pOOF92HwocIhCdBYuNcLLVfrOwpnSgrmHUTwA-vVUSTq7MzNq_R6iinl_wAD8F4B_Z6dgw8I2af824a1ckXTfAEHEtAznuWQOzWb77iWV_TLVlZnedI92tDbMiQY49FnWmzUgwMqig06P6aoZxkSgS4Q6VoBhpJ5UZh1y-6II7sIVu9muXsAEm8JWWd6zMe59i5h_Opu1ANfRLPfBLhmhCURq0o3-Ei-H3aoGLarVj-Mi1R1Bobix3rnuc03xd-hq88qEZIl7eA3XFtm5hZRPH8d5oJA08G47-1QiFuEtUea0WA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🏆 Городской этап республиканского конкурса «Волонт...",
@@ -2095,7 +2104,7 @@ const newsData = {
         "date": "21.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/JRRqPkSkrd-N4_zI54_ZV_regUB5zJayJMss0VjdbRh9vtxbzYlKecNmTgHS6BnntJBbGZq9eleAa6Yne8CkWLnbXeRf5fsYt6nrGwzhiCiITBSnNGRvuD6ovJgASRkn_WPHTAcf5DaVOm8M855wbfWPcx80VsVQ3u2HJBppOea5Ountid8va5WWTEiqCRfdF1v3azQtqLvwTBfhvv4A47KudItOo03G9vt_P0qKKtcJPbGlpyEtNxZrgMp0eaalWCRt9w7cb0eUg3swbuMus_o5vY7T8JdpQzSDEDkK-VwuWwEkaJZHnGmYzIUdtJRA-4YZ1Iu84r5wa4X4VFYQvw.jpg",
+        "image": "https://cdn4.telesco.pe/file/T3QqFMlmn7GsMmbzpx_kJ5Lh9rBsoriEeFrKBr9n6-6m4Gadb9EWZrci8V2aeAjYzsI3HWXQfM1GInpkIab71c4gUOImic8YvKt8SrdWt29EoK98WKF_V0v9zzjXK-pLTmuqQauV826-Obwv0Z_w8DMHePZU01Z-8MPZzfqOguqj2tRSoggqOjXIOzjR6hoq7jctY5Oi8eal8lj7UVdttG72a7CfPG7W-oFgAsvesodgOiokmDOmPXxQ7d_H34Pog7dZORF7qBFQnorHCZc72gusL8-69Iv7NLulVg1FwVSbRqTAn0GZdDxHDquYycna0aU6XswljGdPAP5nCS1HBg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Пинский мясокомбинат поддержал республиканскую акц...",
@@ -2104,7 +2113,7 @@ const newsData = {
         "date": "21.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/QFIxyepLvfmUsyt5SvqqdcMFzHe5T8OETYvmbsboFbII8APt2k2RvyeK_niEmgX9ovAb3kx3gUZQPFgWoJzPOxDByw_fuz2VvTnmsyatEaP_qDKi5rXmyUjfpXIszaQ4Rj525uMJYVfpQTAnZLhsPYZX3uuIeEAWwlaNMWVUgereLAuLXl7uaEIySFrKmKbSKNRlCx2CdLkK9COQt61oVjCnBpRT1Gtj1QaUc2ZN3AhReB0sJdai-OXxj9ZbCYH0XelfL1z0BusIs7Gp-N47oUYfhIGvak2zkWOcpnKsewWxQ3vpVggXO8tdSKxBopcyYiSa55jO3v4ahGvXA52n6w.jpg",
+        "image": "https://cdn4.telesco.pe/file/mP9XJgDTPYibgYEfKtF4ujq5NDf02kOQG27iE_WWoMAFR9frwBKzUeseBZreOV-ihaljUxHPvcS0wAo_ESuhph3zmRfbVotnQVgrJSyldxap3FPYl5KrcJCBsgEWNSMUDwMs0hPaf7V39Yn4G6ZdVGQsSxwCpCtmXP8MCH4SHmQkKvujpDHtCvwCXyA74IeivoWHPVGQX2IzUiYwe-_ymxSwsUxuAdw2HP0ZOANTcFguvEMxIBdBcxb-BEBAVk8Wi5GcH3C4gaRpwydgC0eRNJwJvp9-wv25H8AnY2EWsaXqUne09noZhXtUZWM2HfOeF50cQWE38dPIpoR34WEEGw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📚 Правовой турнир \\\"Сила закона\\\" 20 ноября на баз...",
@@ -2113,7 +2122,7 @@ const newsData = {
         "date": "21.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ew573-8771yaLb6FNAELEgydu2i2r4XVRDvWuo5XuHs007fDMj1NOUQLXfenNWITVlERB0fZSkq-0YAkVs51WQDQbr8efThYJ9M2-DZUR48DsIP1s2Bkp17s9Wt7ax1nd9RO2mke8iV9nYK4JaVp28cM9zFn95wKl07xhb3vN0MSWtjhCXVbgU5F0COcuNNZI6oL6Uc_CuHm390xVjlFowKJUR_Tp9G9bCdSsQcRFzQhzEvv1lUej3MeMfOUuOJry-osBOcP6Xh8EkdStTOPNGRVHpWGjg_g9ylvaYKf9KhCd_nSGbVA7qPddzdJUm0rZgyTCGAQpCNAwX2fKAwO5Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/t8CtuWARun1uQGbRz5pLL4A32I-Qc2P1w4BQiZMYjq3cpR2KLzRGQKX7pLch4KFjqP6Tch7UbTSVlFvylfEMRgS9NvdykwEtOTJ3f1A2P-tHTJjvXpwxdz0LRMs2m6Y3QLvXi_UKDkT6bVUtaIKHDRWvNipExWFNr2s4M-RFcO6qvJBtYCAMNQdQTB0YxnEZxXPhQiyJjEuinU_chhslm96bvJH4b0xS_OuD4SnNtYkpk-mJKidSEyz2lu0EdSnuSC0E6boZ5rSlcR2sbco5X9M5aXN81RrDEpeCZ9RHimk81TU-RiaD02Bsz-oQExhgRlT7PzqkvOqeCPA_ejcUgw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "BRSM I Закрытие третьего трудового семестра- 2025 ...",
@@ -2122,7 +2131,7 @@ const newsData = {
         "date": "19.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/s4kg3eLNVhoeo1VeS4TstbsRPnC_56li2SF3qtNk_YJg7Qjmii2gC5cdlkqS1_bWEKbPSJNYNyxGpWgi5QrBFlOcPURqu63cfeHR-3QOEVd8kDviw-r8H4igJiEW7Da40Gg-PaZuXfJTagHlkTdog3jiJvmnVWF3tga8Yo7q2zXwsjn_MbSVEVxMgXqOAmrsAKb9kE6jlmXtCfClSBQ3QwciRMxL8sSWef-aUzwB6azKS8qwzN4JxOCR9s-uI3_8ie_TRyNRFKUsNowXHBE87klmXM_hrOykoAlAk93ohRvp2KYEJsAI3kcMgFyNJzQtdzaOtmoB0gtkRrq4cDQv3A.jpg",
+        "image": "https://cdn4.telesco.pe/file/cK5Fb3_fZmQu-kMOdNej5ELcg619Jx3_Qsnj-nZ2j22cB_k3QZQMGX-jhIO6339L77GY6yBJcxwHFLM1xwX5tYkCZkQ95e0r7Pl_E1lqa_0x_CEdltANwzVhxmgkuvsG4nu9Aj3ZoteLLB9OgLcbldMJjot4DKw_Np-bjAmPaRPIOW_sf4XzR_7nkGZvrI_skzMXvlo8B3mYj10RP_FEa4fTFW7hr4DO0xtQhEpe94BRmQYiBgEbJTD65Bz2qUHEZ0qMQXOlUW4MAcZsaeNoFs9tO5UhA3nSXCZ3w6-mOVbK18f_2TBAiKcZ2oLEU53QoLTr9hDgDRM74wCU2m9kfg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🍂 Республиканская акция \\\" !\\\" Пинская городская о...",
@@ -2149,7 +2158,7 @@ const newsData = {
         "date": "14.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Wg8v96fnly6esHrwElepWOT-8lzNt5YCXvBz5tEx2tTcwGsHv3ZFJwaF_pvoPn13QymqeoWa4WMuUjPj67FRSChqeQt_tXRI89Ve0PVTsXfHWhHDhgSAA_P7-UH6AF53g7nIbgZF1szNKm2jiSK9C3LuzczbGbMZSis-_lji3U8_iI-PDLh3xThw1Meb-l05_-iJyYS_H1gO_UU51sWeetkT7z_gCOY8JOQlsBaiAvPLn4jg42ArpTiV7u68cBY2KUq0KQt4COZwb0kO5TLkTBI6TZquBCFfSsS63wJ8OQHcf3LEmMaxEbeXlcWLuAp-zf2NL0xh6XqwAFZ3WRRt6A.jpg",
+        "image": "https://cdn4.telesco.pe/file/icNJL2n57-nhtYLsrMLwot-7y3eaMcQ_Rcd3r-Gax59S--2EWH1aTueLZuhrBbkaglGOlihL6NyXdvKl4oJ_QKuwPRzyW4aHaWF0tth7SH_KUshQbwWRpz5VPnymM7zXIaw5DqM5ZIv9bkTNbbQceUCKzxTyJ74QJaEJeD3g79wUUPnAj9LftOqqMBVydrEsM61RjoOAdatYMioBM08AzL1WD6zjRT5Gv1x19DViV_MXMornkKi0rSf05SgARXAQ3wuKSSyn3TqGb2tl-cit5r6F-ujDyseYlF5VbGn7R2KmA2Uy0yR4wYIGY-hjdiq9ygZZegOzfTBYWTLgUAVx0g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✅ Второй вопрос на повестке заседания Пинского гор...",
@@ -2158,7 +2167,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/qMJKiSEV6pKRvpT-kr0d2ly5pgtzhTRK-C3L_fi6jcF0dAOvX9MUjUwAtZGAD-zJ8oV_t0UlVVhhH5xQcJ-agMiwQEVdBfc8pRHqfweaU_fWytjio2e4Kwxq5MBovpTNy397qWSxX14YaJGHjWfkRMH8cpdOjlzDL_i5rMxuZEXu1NKqMyaSDGD4ZSH6Wlh-wNLBxvIr32634YX9ut5axr8EUgeh3DYOoe84zoXMA8eRw9W3tmLSr2LRBvx75aHyZVelCSAJfCE2QMiJk1roOrd3yoANUc-kFKOsxQ9T0D9iejHGnbPNUEGSTtClPOaKv9p7mk6vEArditO8rSOrsw.jpg",
+        "image": "https://cdn4.telesco.pe/file/wCYG9Y6eSb41it_QTHVyxEPo25hr_1avcZhiM_VN2xmhclCiIlK4zVEQ594WJfYcw34yaOWPecsAARGrZ5yrnEn7Syyy-gcTMQF3hDVwqhVdI-JlM6EEjRRd9SjRWxfdcppkfnFCkkJQBrgqGm12n6OTu-aL0Q-W_txkhZzak2cAuKFDKmyLgXs9BR_GnybsFsrVcataWkAmeOKdM3-_Ak9h_lr-J2SnK-7cH5JlUyJokUnfU1C-abzTLaKO8c6jrjEnoI_-BXnnwWPj4DyrfdXl_NotT679JYG1fZGwV-riLWhDxjZ-653sjJKhbGcxE011fxLhgJ6zDJaAF1rJQQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
@@ -2167,7 +2176,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fD7b47iUVLAD1Ab8TF6zyZ0td-PHh3aIcnpUBX26ZMD1AaXDfDW7aZU0eTcLXZGQmhpFW2xbNVDlhtYwZdoAqqeqP58plB4eO6KRPyic9ye6qkYWMpEWXLXDtA8ezr-8vS0dxfVi0AaPBfaAFCHEf4tHfoF6td5vUtniIuQQew8Qgl7iQYvgZxpQfyr3tPR57KcHGgDgFIDl1ieAK_LldZpemiVKeJ3b85fkLYUv_WeAaBMhR9Fj0BxLklJb793Rnb2opE71h1g2tTy8Y4-DQYI9WDfZukjDnp_r5JvkUTnSFv8CtACnI582IgrN0NrPRMJFygKvX89WRlbrqs2FHw.jpg",
+        "image": "https://cdn4.telesco.pe/file/aMJ-pVdS6uMKsRGuMr04Iit2KNLsDGzQXJwMJrsphZEoxJeoGIBCSnD_22mEwARjt_XeEGYlwLfuY1hCz-DpfZ5GdBIV_H0CvS44f0QT4R-XX6pTkXP7cMXuCT7HbG-zqDYyw46sDhv_Uho35dAn1wGNikZ-elBksiHTj1hlLcmVDmrBlxqejARocM4yf9E_iHkGU8AZbx4zqKKxQgpJQd3HUt3MKVXlIrqYb0uZTNf7NdoRtAOSr7uyFtfu6vWupXk3QXhFgFBiIPRJ5Ej6-Gi0Wr-phtBYk1fu4jSb6BH2EqHRqVdfPfCAVuY72qPl5Pu0hHSaa6I11bHlSz35kA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Диалоговая площадка: \\\"Мой студотряд - время с пол...",
@@ -2176,7 +2185,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Cda_oL7SIwaqg-liVmxuKMljKz28QEjgEEm1Tf0AsF1JL8-tgFC9-2kN-e9VZw57rBboc1De3Mhuy4ydyZ1MLtMJBTiWEnXg4FHWfngDqQ_klHB337nKBfBL_L9dUJuaLuVGk3eQBwj0HSZ0UN8OAl9PtpvQxfDMPUZB44mhf5aCeXdpyU7NaAjYHqMmypE_pqbWcM7mBQV_86iQaEWEXGVewEiMHq8r0locIO6tF_ssKF8I7E-utNvScAWMG5FCI6QlrlnFJtX9PgcaZ1ZvmqIVbb06X7lWajOVKFaoj5tuSpVoi1b4_Uq8hbJu9qfjH5LeRuAhW9ikc6ft6xZXVg.jpg",
+        "image": "https://cdn4.telesco.pe/file/VYEJYFtqCzdrhqQGPbolYw2nNf0CFuEx6BS45Xg4urG7LqRkrxbaG50bfCCeLEVXpYPrK_9qY5vtM3qrqKVM7HSkBcILQih2e0xU6dUhPvwffwxyC2soIigQnyF8iB8FD-CW9cYY4TVRzMG2U_DfRp3g409DfRR_zUQ4KCQLnJDGaX87UwxPvAcLdzMcccLNUTebFRpa6ziRIcIGkYJivyYRgcH4pTXzZCV1o7piQvOFwCUA07bZUI5pxmajTvch5LIbKilN73z8MJ_lxcvGlKmokb3tGBYVKRxIBMl8KmQviY2JqQfOdVSENcC1dvccnKGlT5vIMtodJYjKRgWvcw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Молодёжь против наркотиков: спорт как альтернатива...",
@@ -2185,7 +2194,7 @@ const newsData = {
         "date": "10.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/NKMNrUupcE6HmdmNIThZl6PDRa7DaQUSKq6s-XBf_8z4rQJfVMNTKQCxMiVRor8Hb7XBE-5wW-HPHk4z1jy4eX9ZAEsbi2LtS6XRP0eymFGClBfeZsR7aR5oybJe5TVJCO3mh40R2Pe6Y6B2SMWMvvEEH4ERrol4tJRxWZOHIVe_Wq6I8uOdaDmBASJaCIWkgcGEh1dhV64CjLhLwPh0xOo9MNkLqUZ1NSumI3EcxgV-icoLZzTTw-8qGhdLhdKYsMU2gCoQsdP9kXEDJJDSyKCKrOCnMss1B2ksvC2K6qakJzQeosbpyY4wJ_U5oXTB4IcQme3ewIOF9juV7EBDSw.jpg",
+        "image": "https://cdn4.telesco.pe/file/RjGHoKQY0U2pfnG9riUMKkmeMZ8n-HGniExKVDF5B-m0Q5PknwBVFKDgqdQmmqVwau-EvgWoj0ijf-bUfeZseEhgOCcmJVgp62GZ7aLX-DpFF05-1d1bj3vxwri7n27SoWZizDMmWNQ7KkD9oUk7E9oQ0QfRJRqzEv25FY0cbreBr86ZfxQHeVeW5RXdisV1Rj-qiTSZNTsTP_2ECP3UEEulYBTTZ34VRckI7l6dDAuuV9zA2-Cf6V7s2cXwcFLJROsjznJURICIP3IF8DS3twhNk36Mi8GFqj4hivbg4DYrlpONrzZtRCql1ppZI8_cbSSptBC2jKbk5upMJdjKVw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Присоединяйся к правовому турниру «Сила закона»...",
@@ -2194,7 +2203,7 @@ const newsData = {
         "date": "10.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/F32xqtoz8WM7jSeNXlBrV5_L9bpC42HJaYDxrWGwlSkjAPfxaDcrzGfobljN_VMMziUp_20tPIvrL2o698g0orrJ31AjEV8ItkTlJv06Epk6gxBgXicZySIBD04MyE0EHCwTJis8BFP45EVIEYvwT22Ik4WeOSTUbuxu3Nlp9R_yTSm03wDMJuhKw_PznCDRR-GhUx4zt5leH0XfIEODmij0NrUXI3BgwNDo8Olz3w3big9qIflYCETnAnrV409puDOeIwdtOURWpGIK-7qUhoS_8wutdcI5TqYgqSTA9e8S-0ACO09YCadpKBQYBoL6WJrzK6d6nc84qnbjbeVJ6g.jpg",
+        "image": "https://cdn4.telesco.pe/file/po7ZNcVzDDk5C0qRrDTcbiHljoyhEWcrzkMS037Ly65gXOvCuzMDYIh_hUqqg4w4SankFMd39q_ark8N82zza12jsTaYglIz2BsU0zO2IkWZrBAI3p37zrIQ_fMDqcsqrG5H5NNEknXcdAj-E81iLDEVl2cFAao_HvnQNTj6x673l0h4bQP8MVKnZVeASaUP1Ad-jBvHOgKkRucE8FRqnUJqN_fdVm4CQPTiaPIPv8fQzzYNDL9GC4mK-ZX3ix15Q6ScvZQhVFDvglngP47XCqbeO66tS0K8oA1MNVZvvQ-BpDBk_2vD088VHdGYFdr7JJe0wAmK3NWShZSvYPE1jg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🤩 🤩 🤩 🤩 🤩 🤩 По многочисленным просьбам мы продлева...",
@@ -2221,7 +2230,7 @@ const newsData = {
         "date": "07.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/YfHDXHi2NX_KRlppArZCDlPk8Z0P0EKX0Pg8xt-ZNmgnb_-WXOrLjJ_kBkQPuk0uRS2fdSbiU09HZaAvEVcg4mAX0v3qyOFFY1jECaJd13OKllkCX7u5UUgW4E5wShSPP6MLQN8x9uvLXwbiHqO10VTKTUJWpPCIGveiwfMvUL1ZdXqeNdy4jT37hYpWqxnkJM7oJNjBQGoysQeI6yJikSuLInNE7VE2AhJ40UbIN2jUGgTdgdgyt5RfJPlXXRFwKwvUaxH2vo4s_3B5rfwKcNy4_hnuNDb5A9r0U1gzqZgAbkgG7Z4vsArp-m8Pr12INuFfSM29HecRMp96LgylPA.jpg",
+        "image": "https://cdn4.telesco.pe/file/GnQ8ooF7VFWa5hpDuSfoeUIDpPbDGaR85mpr1aRhgUCxsfE4mE4mUJ5rhN-X8O_qareIDqgEHJaer-xS2JuEd47_gjarLpBQ2wGF5yGbE0d5EfPnb5L3_BKTZQNiFMhVQmfGDuG321YUb_bl1NqSBAQo0AC47PJjSqIEw9sWLzSQdImrfn4vnCd03FpA3obfM-4H2_VcqFhUAg9S58g-5BprggvgX3JSAq8DOeVLdk9PEHKFQkPwnxrRuNU-Qj6L0BnuXR39EQCTDaW4SzR1rGZ7f-ZX7pQkocApYXlFXxvSZ-ir--lxdFdIx8QwGU8bF-bMfWvjjiVeP-6TJLpd5A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Новости города",
@@ -2230,7 +2239,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Qu03X5yo3nqQUUXLLndQnJerAlqMYqdA2woAVSHumS2gX7RVKxBRwPl8qSQnsLVz_gReajL60TjJWgLHSmgu-9oA3Fk636yp0yVwqdBqs4PUflKO51rqjcFyy9pC8bRsZxM43dtq5KzLwxzE5AYmE3tT0oCy4pf1bAgsFoHHenTykQmxV59GntbxoxtJdxUao0FkV-nuff4ScETgcUtZnMCUkg9v3VBimdyzTA_mkq--njZwIbxqFYIH7WQWB7GkTGPt_0VJPlbZdFBjdVBU_77uLAoKGwILthdot_OMrGrxNKDiI7ph-yCQzQujQqPSedn_reRoEw9TlYwXoR1ZvA.jpg",
+        "image": "https://cdn4.telesco.pe/file/vXrJDbH7qHH4yXE3Cmw5cvvup6SjtBYjiAtLhZyGFyqJY2MnZiT-y3Gnr0y6JUFK0rQJvPYXyNRzdTISeNLNqrjO4qtlwJLEdGXjL7c1lUdfJjQjSXWO3pBrlDpxHawCONDiAAfB_AsLQiSY-gTgIrC949NAbqQUyuuYb9TsoFL58mjh-6MO9nkwr9yNKM2gJ-vA0V1ky5jLUZM03wJMxd8yWlF4urAUkuwirLdVv2eP4r1HaMQZIJJQvHUMv9suLEe4yfcFhDhKAZpA1RksSC5hB0vLlN4nq6wyu1z3peTL6wPJVTTbhlwCeLwfMTiRo53cJkjmlW0qsNT27dsQ6g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Стартовал проект «Молодежный квиз»! В рамках проек...",
@@ -2239,7 +2248,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vb1wMDOKBpFXW8_DOw2fcaW1emUbB6fMkjnfdMD9-QMUCGcAGPWAbh_xTeTZ1bXJleLart8WpNSvS_JV8vCQYAGljPQxCjXc3Y6kdAZgTY26y0c8KBCI76tqd4Yy9PYDyikpzUOahHXukWcTETwpAzbl9mXruEBGHQjNmzuLq4hUEFjYsDKyFjSd5NhSYf4naH-c1bUlQ9rPhhrm85-OpTaIfRc7ldvjVcj8m4zXa_bwMqqZ8sEFoCQwLv4GV1oQZjaXFv-rGEbXI5OXodDEskOHCqolnC2IiOLH1aVM7n5J5ml4Hv77o0oOJMx7tVidTKb9I4wGaLTltGg1aV5UPw.jpg",
+        "image": "https://cdn4.telesco.pe/file/GFXWCXBCQtEYJlwjn_V-GLSCREspzdsh95VklhUALZMcjssrjjjysjyAHnp6YySk7cLIWSs4GLJNTLJHYwzsw50T58Z1M8o-6ky9ie5BoCcYdQzYu2FyYEmZ5GhmtSctLdNTwLCg3FuzwAJsi-otdmZK2mkdMwc10obOAw95nmT54UmcGachqWXKrDB2vu86PxA7VMkDSdVRnIrQzXJbtSXWIAHfXLNUTsN_tYw22hov3nxACZuhCXtvKmWaTmU5JlPId4OXmqk2vI8ku1STd_hql--GfM2lzmhixXV2Cn4VGVTBHBX_vlbJHzY_kEyeabQ9Vg6j-hwL93_oRCeLAg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по стрельбе среди учащихся колледжей ...",
@@ -2248,7 +2257,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/W23Z_bb0cpSNlKONe6yLdDIiav0q5nkeKlXJhXdOTqFbfqLoHjpJ0OY4N6qGyVcRKu21ZPvx5WClVksTKjTb60TUtIGijtWWaUWDSMZXar25BHde7_-jbZ4PJXUo-yPwI8bTyDwZ8w6iN2uZpK-ZbSNCtQ91ocr2N5JUw8hFwpA9DEiRKSMYoHazHEQoXLg9PE6U6ZUqqQeQHcoqJmZ_8KngunCipfaSH8OVUNG4MTO2Fsy47nRNkCXLuwTXgrF5bSkhukginIDzDMGaeyaPuBCX1bL6sSuC5UMgBCXLoiCXVSiyUT82dLUk069UXMqVdIMZtbDN2BnXmHe-hSMEKw",
+        "image": "https://cdn4.telesco.pe/file/AYMu7ss2UFv07qhFNTEtw4H7hEXvejV2qWhXIMDYjs6TlX0ZScuHv0yrViVG2XLMtGgXcrmJBEB7yg-533gV7-wVz1N8O12iEqqggNDAZwXe3hu3BGNw8D36Tp1KaEQi6Fq1VEyIvFHZOCwigD3HnNTv_FSRAlL6Zg4sfX4lKMpQEOT_9PwHQTYpm12mv1CAiXqgOROjlXVnfUuw8wb8hZV1UOTyxXJ_Cb7Pd5FbA_AVSX2o4D8IPCZWkk0kGNSKhlQfK0TwFEuRpEtnpnAkBIp7wlP8uJup2XsVaasNgGXCbC91h1qxQIAR3uoFQQChewa7TctgxahwgFqiurZdVQ",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Успей подать заявку на участие в интернет-преми...",
@@ -2257,7 +2266,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/dbulCoKTiMMGTx70Lxvm7V5hWpM5Df28FEKQfBSxCuc-1p6w2-nkqKAAGgZMz9SHJIIVz64JxVQofz2mhBLiHO6Q9BQD9ZrTZZ-9wp7egS_mRFPGfBvrrr00xy--hxTWf5PUbywR4G62Sr90df7fqL6Iw36ou8Tyx2c5N-LAJ0kQ3z2JzvFivFKrDZIqi7c7TY9H_N5axe_3LXtMkh-m8SbJDl1xLGV1aiW3-lq3qttXuiA48EU8RPfyWGurY5VrYE5csAGU7KWdIMqSdeFfe0LBW0GVeDUvCMCWtwyNJ3ovPzZrmXJVSsrd2usE2E9OUgivg6kl3Dk-BpSbfG4ldA.jpg",
+        "image": "https://cdn4.telesco.pe/file/Fm0TGvp2-t_qMSJP9B3UkmPzr89lqVZL-n6-Qo4TZ2QG1FWqUxLVp112i70LI2f6230WgcjYQT4FA7Y4yiZMrwW0sI0ccc76qu-jP7_KpxlNkBrf5CwT1UFwXflKxhbaU3r14BbT1Qsxxi1839ERzbpCHM1eU262iLCJD1PgcVToKPd91zBUWWIRGBPr09ccjYHyK0XJPZijW1syiBRmrQf-h-JVee6m8IA5edjHy5E2lsoBU4pEApGqeM9wbsQyEZmYbG7B3nqzR8s2Y3I3y5u5lcjtThxOk_4aaH_0IPZer1WMuHnjZTMkLUAUPT9oZp_v5V8eLW_sCeZF_MU3_g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Кибер-турнир по Counter Strike 2 🎮 5 ноября в комп...",
@@ -2266,7 +2275,7 @@ const newsData = {
         "date": "06.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/JNgHpykDHGL9CdwfRvueG5Tq6F6kkx7SB08w6V_a2NAlTtl2yVzOe5MMI54fUSk2czpbycXj5U8jHvUe3yp_f7FsJ3fksEFQn2alLMr7hOmQ6ewEflzmLEUYdTMA7Xwovd0WWAXobnWoWEeRkThv6avkOxZ_VlOcMDSXI9iSdVW6Gj0xEL4pkI2pS4zwhLpS8D-Pz9ph2tEN3fVNw3ZIey6-voZgmef3A3_c7zwft_wAZi8i3CjelyZ_4pDe-mPsa6rQ7cHpxrkBNYL9jQi_iC1TGyo2bGcM_MHkzbIUcJpXLFlK0Rxcqz_5UpV85G7wmL2LIqWR8b_0RUqrBFMUqw.jpg",
+        "image": "https://cdn4.telesco.pe/file/FMPldCQ6EHHDDiJ9pYZkdTvjLxRGyMK2XjFW1p5TSNuXAGSAqsqVyShDKyHUhE4EDBVEsEgIXfYy5prHo6uac_LQzOnywRyEQoyPPtE9EW8g1FuZ-Yi57vd6utF4ekKXh0563Rkx4lGfOnvJEUonXchxzzzrn3KnD92VTO6AFfycroollFV4M9BfWxD7qkqF_YJvsPJ_O3N2aamUY-cTnPgYq9RB7xDvgG_j6hYL2mynFmoytx-3QELtpgjJZX1jKLR3sckUXByox8PfbGRAi_FKzaELrqJZqDt22c2MeuAdBwtXJ3Ut2hdQnXTwS9DNlN9qyfEKqXYBWcOcPNjezQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Республиканский правовой турнир «Сила Закона» Цели...",
@@ -2275,7 +2284,7 @@ const newsData = {
         "date": "03.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/FgQCduuCTNB3EfW2ITAEQ3erd52gb96asrU71CMA1A8l-D-JIf7VUdV4v8ftsUfobtiHHyDo0DxAE98XW6OaCId6xLlCdUsrN27pqeHPScBOoA7Sb8TDod4JhOTg-elKqZERxdjiXcsQNAqb5qv6r4C8_Vy29ER_R8G4OM937W4qdbGJ5DpTuVrOzUuwgXsXsOS1xK0ORoYVfkHCXdhyqsuGZVw3vqcnKVVutqsQUFjSo4Xksz9mwfHw6rcxTgbMbInua4Yz-QVr4GE-8rVVK75ozcJ4V_Scl7sdJ9EmgFo3cGutqU9iUr2cDErqxtafyLmwtAV-3GC7GBuw7jFoYw.jpg",
+        "image": "https://cdn4.telesco.pe/file/kmgZukDH7NarYIxlJBeqstth37I0LS1sBANU23f_37MTVyiW-LsmiQWWH3xwKq6D5BJNH4B-H8K99fcMABDU1t5d8LwthBWwZV7VbYQj7PEk2G0ne-pvMQTVIJqYjVVaH5cNKlu8Ojuo1IKEZnPz8UvcBBjJzhQfSucZpWNaeG3JCj9DTrOUucaygvPzN67w7tNq7uq_pEyoMxxf5wElmpYULVAngTrzM_MDzxl8uoJ69EGN6D7HTiYOL5YgntBn9d6_LRyc27tPyY-B9d4EWJTqmgbRQXhoQRK3EWDR6CrNPp0nsGvJuA-dj9rN2G5rUXxxStJUcVKdZlzGfFtHHQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Молодежный проект «100 идей для Беларуси» Присоеди...",
@@ -2284,7 +2293,7 @@ const newsData = {
         "date": "03.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/kTlsA0UAS5pfR7EPfpygQBznzqsJUjryLlkADUnXHrfXO7f7Q7FykLSXvDj7zBKzJ9bpvGS3ZMv5JYpixmiHUP039sY991SVBH4S90XMxk5mFyTOq6oXAoLS_c5oAJ84YpSgy1q2fbmqvfBNMRuQGJ7TZHFcUms7tUbj1d-Pvqua7DVJWj2bxGmXyTxiA6mitve4RqKNG8vzolyv8LPOfvklrdda377Gti6VIGmhfpQllFgbEXAjPqrF-PwL8c36srazf5BM-bcP84k5GfDKFGmfuLt-ZHv2_Cg-DwE9TyhqgK2UrHhJsjPkFFmvEQVt7Rr7LV0Lf8DWAg6VuDC3gQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/lJg9SKbgYZt4AMQEv73ydQrssZQnL5M7kEQMnMvdUf8IKMlGgxiSzGD8rMD9VK-YTPkJ_SH-YHkjoMnagEpH_TXDNBaegoov2_HzTdK7F0hL3DYpUAVFrU0oQejtPYrRdpsWHWE1kCJE9UPjK45fZAcgCQAuDzwz_caFiVpi8bbNJ_U5WEts0HHHLcW9qADUeH-FbD3LmgB4DXc_X-NFo5BNEOwcqnpfAEcgMM1NeNRMySVhVzFfgDdE6fhhpT7jwNAL6hcOL2iXh7-brGwomdJ_jgS4AK7YRvHli4uZBBf0oXsFroJyXB9Cw6D31DcgX23u-rD_VW-TwsOhAwgTiw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "День открытых дверей в Пинском отделе Департамента...",
@@ -2302,7 +2311,7 @@ const newsData = {
         "date": "03.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/HvZy4qKmDsmM-7GcUMTgU9bCnRDyciEyJRlOfZ6WBlavP9x4pxjfG7HW2zoCams3dNGMUokRY9fxAWzywUAkQ9RATYgqoM4E76JOGPJ9uYCYZ-R4xtEzGZJw3yZcsLYmZQg5N7U_FkxMVV_P0QUjU_SqsYrRB1UMkniF6yhpV2LwZhuBFccLbhUVPmg4x7-yWichxs1VN0bIi5-zBL0HCgB0gkUC7zXwbS-zR19am_Lt8VpM_ml9U-J9Hsp24tMubZf_vcWVYT-jYzHqwnUG5GYdv_HZBkS0n52YHQdsDQUiSluKGWbopPlT2uXznSGYUSJx6o-vpp8CW_yAmUq8eg.jpg",
+        "image": "https://cdn4.telesco.pe/file/J-oYFL2B9DiV8awnE5zlFcALY8gtfvjqRWGA4D4pW7mPpWeWHXbRLDl0dkrLtWwYPO1NsLb0jTrlZiKGkULspza7j_NMCd368bdfhcpE_1xnGA6j0Or5SljPyNsOnVORuPHABTNXaoIHmNLJ93KS2sQq86U9bcso7wuZA1-zhe8wj7HNRIQEcsk1liDaP_TD4kPWx1328mTh3v0l6qmbe5Kttw7UC7gSZB5cQZqooDYaE4LBVHUC2fCJoUHn5HtpaH2C2-ewQerLplsfKEDPqlo0nJ7l8LEVHre060jjsFI8Gk8cq0WSzV_fLFb5vc_suCPqCeqgkymYEXIpnkl37w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Профилактическая акция \\\"Стань заметней с БРСМ!\\\" ...",
@@ -2311,7 +2320,7 @@ const newsData = {
         "date": "31.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sMNMbTBtoYbGJQKUFkfYKOwtTkOzt3kW5q5SkW_Cj0NNMn2AA3WnrMoWKoTiIJ2TWaBvSdooFR9NgvTPq40AcXNOFC7_FVAPS5AfKhpxHIqpNwbIsInTANE3Bz5KGr03UzsNfWVU7rSSg7wMdjEoK10ETCiEwnnC2QOLPrQpmtKxIXLMIWVHRZGE-4jiSfd641SXNPcWNyLt6dHAgwgrbkFEiPsovoeHXGwSE8lGPbSGyJqGD7EO3MQVYf6wJjuVKPMULryi--XQTSbh-fIQVGpHr-ZcWdsvUNVZhIBZnG5kPP4ofuUvKprDNh21PWLF2_BvwPyoQwCEldi7vSWnjQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/dkslCQwbZnj0fWbyndCImwkJ_LvqoM2HPHcXC_1aP48OxSK2T4S8m4yaozfnbiv3CWV6H4PPyBU-XV1EUdHfDKSvSPDX7NbqWauNMT4esraQo6AkHshvA2DkJP4S-EZHrIPFJwYnTNC6vHT5036CYyZK7QB8dWuQGG-CXs4GFCcmpbR6RK9icc0zD2DW932twVPBWToCVk3cugS6q0PGOyL1aSQ2wRARAejD4kj5A3svq6hNPbEZSlGzNPdwRg4iTShLd_whryomWrx7IsoL8vYZwrtITpItRgALToRQRTpE5YDawt6DH9qm56HQsI6IOo0tEg2K-96daWKqY-WwyA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Стань заметней с БРСМ! Чтобы сделать наши дороги б...",
@@ -2320,7 +2329,7 @@ const newsData = {
         "date": "31.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/f8DVITj7j9dGWhztObuRJHxWESWGs3pYM6AStlDzCt4b0xfvS4t9DIsDTVMyeItWyRdrx87Jfh0pKUV7vs55A2Ra7HYwsj1AYL4WDHz9i0GnWdCKTmK0icamevZDAPMFCux63v3lyddjXvrPcanjDOkDdhJAs-_PCBHJAh35qxPtE143uP7TsQCRYlGEVCribcsi5_quso0_p-5GrosxDpxWxw4krNvdFkWEFg1NmlWwrd8JywS_AxCNy_W_GpjvW5-Y-sXwPR3wM00wQ-bUxF5akkaApFdUWGdkbgv5454yQBDG7oejsuGZP8Q-MP6fVIYZHrzBnqS0E4r_ei7uwQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Y7aevxeYDVWUBCoOh7UlmlrxNVuL0-DZqMfkq02gOwkWXlHRpt1QR0swUuRr1vvV8yCgsfCwLtjQ2AWP9OuW5EWNQAhWr_QNvaX0R9QrhnFeObMFWykfvepU_OO4fFzmTvVZCQMKq_q3Vy_RH7ePjyTo1x4l8TPyA4bMKNsLQP2wrZyakj26JLuWjocplJjo-Z1YJQ0o5TCI0yzt1zWO7T3kwoZAjeALSDouvD1bkcYitxncamjvXM7xYzB3W6y4KbWaW3AE8Mh4zcXGd3BYu9csOAFtYAMENQyE3mkFiOm065fzU4FovHNNjueHGfOI8bUHlymnynltSr67pgGFDQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Яблоня – это долговечное дерево",
@@ -2329,7 +2338,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Oqnk-6_lhbxr-8CMm-p3Q1BeQDXehCFKe-NEYxiKQfOisJRRGFCcmHBnzUU_waI7_QFRgl2h-oyCc9VDz8EO8HHcPCx3u9K54ddoXAJhHtrJ_Pqwl-EHo2F1piCEP2lu4jvsCz01vs8DkpGhAwbobc29gDkFPk96G22sGJv3na8K-JGTbdaBbjwD1p4o2JRvz5CUzuLrepqXXUBYtPuS6Uu7ZAYoAlV_fpjE_m3IzYuBi37Gex7lTyBdw1xphRNjj4A9rosE86xgD01jPn9i6XddtOH9iJTkB9m_gsLjvHtuUNv7bPn4eKssrnLQdOiGR7ziFj2JDW3GcBqKV_m7vA.jpg",
+        "image": "https://cdn4.telesco.pe/file/HlFtDZ0vL4dA80ZuO8oof_H3WigCj-Ei6_JEEjEbPq5akFvPaLoqfnl6lunQ_LSVyizZe-YIB81F0L2UsiORna-LdWvlwhQr2GFcurG-3EtteFhhUOxW3IStREYCrhthuFF-m6w_r7P5-Xx-5iNSYkmEszj3o6uVfQxdBKV-pdDeF1Xiaql4uvfxQhD3jnL_gVlcbW7J_CYqLlZHFZpIlZFHQOuZ5qtUtRtpucvGCyjGLgQCVfTDMrHFwd_-NIzU8MS465krUXFpvKr5yZoXpFWVv5nibiahKhtQfbcAtB6e9CvDf5Isw3ezMn_JVoLU2IhfWBz4IjCzR4rrN9bI-w.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Плодовые деревья - подарок пансионату Активисты го...",
@@ -2338,7 +2347,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/hgJmpYKkwbLb6XABvUAZIALZ2uq9D_wNKqupwzHQybIaxJm1PqDJQeU26Y8esX9MFhMgCVs5jlN96-GvwBcsU8eP4w-Fiaw0EFKiqmN_F5cLZH0_B7PEL_xX39SIRG4tKI2V4cIZjobDjbZWJPczk3LPIeZVVvizEf79Yr4jsDUG37IOcxJ2PtJFQF8n2E8F0wVLATVd1zWwmkv8pAILMnOciZJmxfYknEWFnz0mqHMCPiWOyVU5z-Hqfb2U1Dly3KkHdZ9XyMXYjiYeqwhnvqCXUEz8b-TzN2kLZrGsXQIFS0dREgQGpDTr2mAYTcubFOa07ZJMY9wQi41uWY_dmg.jpg",
+        "image": "https://cdn4.telesco.pe/file/E-jsg0x54XyrJuwfisCTvLL-FWZ6fRsXC40iqTTWpu_V6BI7tABVzCDfd7RSoJAUysponWgZjl4zYn6yBIEYIq4B4SFaOsdTKIMdxtEJt3GgYOecTKS-1UuS-xcv0dJQc6ggarSNAVCKeAPIdykIZRoAdqUOHX9KOGLHZRaWlm-A16SO1YR12t6aBeOFu7o1NrOowXmMYiFFAflPXw1VPYYovuakjy1vk_S4gMmMozwUpK6TE_5NT3DdV0SyJhdsxCKF4g9-_f0y4wcB2TIVDPFCchbwlagHg1ZZdRIaUAYYu--ZJfo8HZiidSaaI_4r1pKSOJC-MDFY2T1VsFK9rQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Сельскохозяйственные ярмарки 🥔 🥕 🧅 Ежегодные осенн...",
@@ -2347,7 +2356,7 @@ const newsData = {
         "date": "28.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VxmKX-y_BkTDicCoZvgNTh2xVXXSKGWzV2eMtl-J2RDROx1bV-BtNdQ4J1WSlEPVQCtr57Ya3YNhSLIjr98dBbQH6Uo-hk0O0S3L0YWhh3mB9o-wpPKdeLQQ-wT74GQ1pgimEE9bq1AA-CrmjYKP-DRcVE9rwNgAKxGPquobg0MLPzELI1syz6utNaYT2Tp3PZrlFfK-nb0EbdS1faJk_bSxZRYqTLeUapQLYLJBoFSX9ELqKYwAlEAZk2n32qf_mgEOyBX6ii_JXFwPVIOyeBLy2794hckHamYXmJqfk4QjZ23p8ciXh0uNHNSeYpf5tT_7uhhnysa2HE9FOKdKcw.jpg",
+        "image": "https://cdn4.telesco.pe/file/k4IukVlnPWe8eXrz8NGkzjO9-Jy5d0EPrcbwD_mqS_dSMq9kM0mVOPewG2C6i5rO0SV4mFTbP2IXKwmhtV-w0xZUNVUJEdli_l7Vv9hyfkR4fHWj796XcEVJxmWSP--L6FMln_EcObY_DZSUZgtvqoYaU3DIgflFZcEiq0QlSCfZr-JWs-nSPPtXx2TcbNy6QFrPAlMzJlOr_W_uFDFBKjVrVvgxEk3fl84Nr3jjD5Pcm7ZaH_3g7YNIVkLyqc13NAa08P6nsMas4Zk9Lt-O1Fe0Kui4Nqb-smJKNNcWLtIjFDqY2RAeCAqC2rA6m_dNWrO8k_xQTdQP4qQVpKlw0A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Практическое занятие: \\\"Отработка приемов борьбы\\\"...",
@@ -2356,7 +2365,7 @@ const newsData = {
         "date": "24.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ozOun25_wgIsns8Z7VuRm6a0rrYfZCs1y73KHiXZh4gzsJXUZPWpQP9AgJ75mFFIGgqBMMxHit25L_g4apAjoR49HnYTmH1z6tnJnk3J4o7SwBWr7PUiUTajh1_iXsMIYY4oz7LUNd1fhBNe5IxKmkVMjqmLaJ9Px5U7RafvLNrAstzyiRU9emXiqNbxRM3SLpwjbsUKqoVHAWWjPVF6aBS4QMFBedoBOSEJD5B_Ivzr4nPP4PwLZKui8DIYcU-xP21pDQjd-9CLP1b-DN16xVl7LBQYovDK3Z3Q0mIZ4--t3boWVs5_4hwBES1qCsJk58dV_Iu-KETTLWhuwcXXwg.jpg",
+        "image": "https://cdn4.telesco.pe/file/F-tSF-a3CRAuYxA1yTD7zhL1e-MoushUp43phAdTvcRMkdFJznUwRP-WpFgOUUk1FzYQYkBPOgdn24pZwh_RLPjhguAHn_eM2xf8t7_r8Lsb2JEwAkKTyxiu6bg8LDk2p_QniTr3K_4A9q9rH42qwzgc3tET0yI7QeeXhHTalbILH6Bp6-ow2MExx3uQkWFhUVYxaehc389JRkDUn20mlT7CTqCXLS5erGF-7WlwGubPcpP0vgNWH2LNE-WrknxIfhpvpUE7qMVFw9rSgUxHeTwJKRNvXXH5pdCopeLaZd8uL-_eEUA8Oldw5YNrtm4q6VdpsGd7wJUF9Pls6Q-3aw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Стань частью республиканского молодежного проек...",
@@ -2365,7 +2374,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/T5ECIB0mVC1457lgEb-A2JT_LofVxV0SmEcm1HfWyh49Bevd90ywcIedwl70mJ5n-sYvXhFHSFb_Rr2rQlZlSbvbfT2reQdbVUHZm8C67aZdVwa_iGl2WdkZ-gTXMLGLgOj6LTSVMK4bmyy6-mYGVW_GFB8geUbHteS-rCq3DjsIxk3sqaft25Bq8V6_uLYfjPS8RDLziSVBnFcBuXA0N5coP_MHUx22FubozSbk5EMIhEPSTJJsaUNHRXKZ8AUZV3XXE14a5zSpD4EGFl6jSYToQCSrI5H2DPDbofDKvTXU8eeduqXYofj_YlB7_TcLQKLX71387wg5LdgimPeP4A.jpg",
+        "image": "https://cdn4.telesco.pe/file/NMXlOdtZzAf--RhsxToB8Q6t287OrXxGCi8AHs4W9KSC9NxkN5nZZU7KnHHEKqwg1A7mehYk23xe342Hvt40CPZihvKwGRxKyn8WBmweCmuyQqLduEeH9Etq76PCg4Qg81eDkXglkIXDsibIMxS8tu5KT5O8RHwwMOJ0ZhHIEF3lVdklXEOhtZzyWxCUN3AJzDEoT6zZJY_KaiMrq_ejiq7gfZFnp6vLu64gtr0UIMKOgrWlFMTtpa66zhFJHN7Xezhko5qfSSzVCgh0z3gsN4QwUxBgGqp5ioQmPTg1EyFHSH5Tkw6qRizzINSFkMYHRA3YUuJlCLFlbAog6D6xOg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Смарт-билет БРСМ | Активист месяца Ты активный,...",
@@ -2374,7 +2383,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VTeKvJ-4dR4dTPrF47on11WYTqnUkaoBSHnCfCavEZk1MVY-u6eCrUgBROGLK6VMa2ujhVFqStZj18vBKeU5cIUqUrhUwwudmxEnsQEU3HTnkfXGc3Km2lJ52IzgFR2xh1ld-uKhyOQItBPqsjrmEsw9Qu8G4r26PF5M0oywrD-TXDBiILEv2uBOmOg-02yZITfPxwTGNpaS-mlEC8iLAH5RqnmP8IpyeB6ueZpuK_9m1TItbCPW8uKZyutU3QmIWawCbe20YqRMk5mK2Wlr6uckFLX5XlFn69BNwrQyuFobgCgyjeYZc6CkkLqDQMqIW-tu84lJzSQ2wS0JYz-Hhw.jpg",
+        "image": "https://cdn4.telesco.pe/file/WvjRQVQuk8TEWG2y-NRnI5A1TI0q1Hfei_S7R5tDUi1qciNoUABpQVce_i15POdtplzVd-QiHjFw5SMgcWxXBFUSrh3JaoAFUd_AmehwHXn3ZkMYkudT4RXr8nTnXltcqcf0CVg5XH4GvP0uxX1KOkBR5JO9reK3TOPI8LUTv0JqpZsh2Z3iPQZDkRFKwCsr_UP02HBgBZAof4eOmL3jtcTCvnyy5ISb7jqpDIIdQ8oZ719aobL_rhWiSJJDXlP6IL7iu3lubfEl9Kjd0MOAdjt0rT9-ATvOI96RJqrP27VEQxF8iiT_LYbOu0jtMZE2DAIduo9zT8fK3Pn5hHGmag.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"БРСМ: вчера, сегодня, завтра\\\" 2...",
@@ -2410,7 +2419,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Vx2_AIxoshEU2S5fNoQKIx0g52kujZ0eiSJSyLkRiPNUlIgn_oMAwNQkJ7iGM-9pWulQYrrUiVxKEzaw611mAOLHTF9qcTohRWN76lGVgYOM2a3HiMwnlv79qZHhx2tZ3ImTgotFa0ZWTwFAsiV2hYqX4317VPgtS3Vpo9fytTv59Eb7sufrbt8OfDtYvy9xkzsOZMz2xz_b3WyIDBX8IVSQo3cW5NCFI7kzKg3NqCjJ8CS-UIF7aqEaNfRW7e4OgbIAO03sg0IiDlGnPjM9nGIipLCGjP1bOOBjADFxBFqSMxTAVyfzn6ZnDjBNWFc4XGsgNGPuRE_kdyVcL7T04Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/iDiRsOzJHdIw9ju8gbjQGTwolS3r_JSlSqu-K-FV1ZsFg1SuSkYy4JhCoeX54lQtLF63bAj1VRFt2QqXy3UaojFCQrhYJ3zRruNOo_-QSl7oQYvi9vdcwAaSaD-QDFsE94UNZtI16KeGAwqw2y4vx2oSz-EGPNMmdGFVQj8yJ4LQVo1wO5qWmKzejLpxQwAkBiQ45f6eQzpSybhdM4kfFJhSD_YlsUNoQ41wpr_YMfb2bdc_0WqP7MoUIdi4bsev9ltwap-rRzd-3buOeOj6v4jeAXzblowFp9Cdy9sClRcWiF_00xl9Wab_kTPTqR-RMOgt4Ile0ptp1Au13W5dRA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Молодежь : о нравственности, традициях и семейных ...",
@@ -2419,7 +2428,7 @@ const newsData = {
         "date": "23.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/bgd0M-7V5QW7pGmOVSSWeQeJb4mUEguwTck-PZOqppdWpvD9JebUDFb-G7MVYJ01twhbgwY52BiWtCO2v-fVtJJZmLNMIHwdJl3YfSDGkudav3iYO3ijN4qIp56G-kcuIR6a-9nqWLrJ5VYWwV1sRH3fOLNnUzd3AI6WPzCCo5emrABC_RASJPTUdiHDomHebDLZBt2LzpgcKygioFSXjp7exsruNA1NbxiuVPHKmAHpqev9PO1yAz55SG6Ag8YX-6Hgy9kJPRVy5upr8-ZCvDZe2HNSEmfd9b6O4iTZmvBN-y8YTDAKNkkY_hwIDT_B7GvUpU9gMa7u9Q7vBnAIhA.jpg",
+        "image": "https://cdn4.telesco.pe/file/uvq6Ic2XEjKMUVtJARTKgCROBUmHn_0pnTzhjJPCBUefY8f9fNMGM_wp32LRhMKPcYhzNsEk-cl8qV6Uc2o_OBEgfAtMrm1DMbzjY5e9D7ps9Vihx8FEXNCnARNC7dBCWAa1TTZCCYhoeyuilGYuRC8DmFE7opG5QE9uT4QeGf2KANwb498gsIJ6gqFaU3Y7Ly0P_dwH7-th_Bzn5QrL-OwAyVyksUNgjbxXU6gD3ARPbkx6mioPCGFBgxFA0gQfGWK1sBwihoWD_5lVClPmW3548pqwzfqUwJ4YQHxwINm1O5e-XLvo9YoOwXTCvsYeVGcw2ln6FKkUascTJj6HHw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Вступай в студенческий отряд! Внимание, студенты! ...",
@@ -2428,7 +2437,7 @@ const newsData = {
         "date": "22.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/DxYcPAxcBFWsIdmAXaNPXDx51-B3CzebZtl-DNsbfK2Ke1Uul9KDK7SOhXTjI3ueXZpyQEEJiB3kvt4yXYqjplaxX0sv56qeMhKzojvWVoHXeqyndyKskcU8raDl_t0IA4gnk_dX-9lHBBmqtkVolT7Ggw7AFBCAgrRyBsmROuRVkHEMbtjy8tWXYk3KgPefpc1KoEKy1R3t7td_CeCXZc1yKvwKbYhQ1kbexb_e_EVyiRmpE8kwMszNPKWcN_UBA91zvlE9_pH-mQzf22pz5bdHL82nUAYYfbcPJ2sfj6cWg4p21050ciBvmU4oTJHZLCQsT1gEq5PfF-oN-sRIVQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/cFk8BIvLXv8UNQk_R6wE8TXa_v5gj4uBAjmrsn2UFIPdCzmrlywInTf6HWdw3R22tksdx19dPHFL_lfHJYpQJQ9f-xMDh4BQSsvg7OvSTXnECFMd4WkNGpi6vNktkNsyEXUEgCi8yJgxQGeK9jfrYn4n2WeT9HsPHSSt4IbOsQhIcDvn62_hDEViSMPjb43uLJfIEqEyW0K6PzxaVJd76nZIvoIPp03Y2V4Zl6jSftIjpEahENY7C8oDrwt-r66UgYKlBwq4vcuj7scL0xMjNhwmufMqpJ0WTwLZE13jgdhBmlMW14NX_3U-nPJyHwwFwQOw4SiHK1Mpx2u8O8Cd1A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✅ В рамках обучающей программы «Я",
@@ -2437,7 +2446,7 @@ const newsData = {
         "date": "20.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/QZFemiSE26j45bd3WPn93AjHpHh3e_uRYAp3jDGv2dU2hPnQsdOUuWv8h1GOzGWdsluwQswK_TGwZ8z483OYcIhgvGMHg6H-V0gdqTzFHccP1B20CiQm8c8g5ibfbaPkt_-aMYtAK9BFEmdAQciT_tgflRajk8Rizw9n-oJT3ArwF9ld7yBIG1OXsSkJ3IuBYP18GzZY7SlTykvyBJWtTMeLNyL0TQSDYf8pxitIwYOCPUmFxi31WECU3tR-Lidrk81TuHV-BUeIhZbsLW2SYd54y05mzUawlAsgj--uZ7o3ENjEN_nHwD5cds8I4tz1EoH3qSfD4UziDlFnGl2k7A.jpg",
+        "image": "https://cdn4.telesco.pe/file/NSRY3UoXFenJmO53WOuF8qyGQVgsY-SQjGBS--jyt9Ybg9wbQiINYUCLKYibuYqTvqIHagQzF5XiXga3qNeoOCqg5TthxToG5IKTyWvY0iEZYM4w4eiaUX8kLq7j-svB-jCZqAxi3YYNnNSNLtoEY7yNEIR6LTkiu7q6ic10xoLWOBGJzcxN8Csrz2zTTBrUlFjTVy8NSdL6XDyfqRVPzxb9NBMipoB0sot1fjET7nK3VYPZZfBsY5zYBt_2i9eMiKFEzQp5UKwWcvvSdnJYIJOlnp-yar-Beu7RriaRlL8_fp4bjyqZxjt40HQk_lLJGypym-dG-hrPe5mCEacSEw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ В рамках областного этапа Республиканского конку...",
@@ -2446,7 +2455,7 @@ const newsData = {
         "date": "20.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/feD35KEMZxz-Spzr6yy3FnP61Dd6ozAZr_2A1OpvbNiXQkTMD8LQ5Pg5vXOwR8LrlakfQartcLEupuUrs7sLM4DBijpmxpKwjJQJ1XNjZfuR_aldBPFca2EqxNs4-79IACrf6qRI0DR2T_ykYb6oPt-Ibyuw8lYZixRHuvKtyARx3ztU4BqDe97_Iu0rVb0V8eOowjTS6fJDNaZEopuDzRnvQRKxk3dd30uCjQ0n_tzRoGdsCvkC96fVd9lZH5woglh11DHo8LjhcQsRLrnkssvEarqoI0_WMRz4DeEN6Ok7yMm3RCRwCXfjFTpQnWjUmShGR3wcmpIBf7A6QJhaew.jpg",
+        "image": "https://cdn4.telesco.pe/file/hgl8aFtlPw3kIYdKdFM-q1fdlmRjIE4-ouzt7BifK2QozIiKnpdsBgJC7RV4PDVlqZCvcJAgUVzZkrZK2WKclC1UBg4xB1HsT1_tqX1Dsai2mB8AdDENtwHpbO7MmmK45lCHxJxC9ZFIEbixZa_VJuVNvh5UsyX3py9mjsK4o-IQkAckt9hBGzA3wHqvQmlXv1DqZSBabh8OJr0oraXj5ShRuI23ZB7bq1qFaZInm2m9uO7bS4D9Emxyo2XPTadhSvqRDXj4xbn-VDkKh7U55aUDiviywvZZ3K9D3-mkIl8jmMZYEiTlCjL8nWqFeGET57M4sQ1qhBLT65wEqoCXXA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Сельскохозяйственные ярмарки 🥔 🥕 🧅 18-19 октября в...",
@@ -2464,7 +2473,7 @@ const newsData = {
         "date": "17.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/HREzKJQyHQbT7sYt8I6SYBT4E80LIRDBuc_-yB6yzTwFOBCrGXV36-IJ5As5h2F1KAC-hRrAta6YpJ-4kStI51A2oQdsCBu9__9LBLIVJI8yvWahCSsaTkTCxhdT5tmEzQRmWAxDUYrK4b6GuM7-SDOmTTLbxLaC65Xs_b5j1ep2uIPI9biHSHjdWHQcV0RzzYKmEWw9wJSDXVui_07rf2wVE6ba6Ij8BqekmDR-_raiV8L4lI6hmcz51dn-6-SZmX3U_VAqmWHJ6-8YT9LfGR2i19Gdj-wlrSeRk-Ca2HUdvcwMQWyxoDj0wT6OznmIuaV0xrm-z-8GajLxjAkCOA.jpg",
+        "image": "https://cdn4.telesco.pe/file/fijjJ4qs87Z-uRk8p5KqIV_2DXxnWUlp_vmdZ3Su4PjaHrYJeSL3m1RcQqdn7W2crx975E5pnlEUmXY_JbiQt6hIGy-bGaa7-VpM8dGVmCQc0UGB7JAh1oOjEcnnHrxXKR6KAaToeKc-CTFJByjUg9Mn2akgVTHunrjNDa6aD4_LqqQEZ39JjLi_1-aIwLO0ol-qG6V62kWCNtKYBUmANg108EC86YJ01e-SYV6VPWqsYf2dWk3JtbEZqjkdkTxjcdxoVdSBoAkic_uQ6EN-d-dZb7GOtqGTAYYK0h2YPHOIP35Xb9hcXyBoKd0PqXHv6buJZh2IdTiuYxO4eCzYcg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "❤️ Доброе Сердце в действии В Пинске волонтеры дви...",
@@ -2473,7 +2482,7 @@ const newsData = {
         "date": "16.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/svCtK1iMkY5BV5_vqeJXAShaBimXDanqrhUlj6laZ8HlOHBvTL1Zd-vvPo5TDNoT8VBxsuxQUmp3iD0v0KaRfz1f6ndqhfOHOrfiDiLRbc1ft8E-2XuxEFTFv1tjCoOrb9kvntdWLgBGtkwQuCvrCLyZOgMM1BTGk-EBt0xXNT-ApVz1Z78nQNmKe2-y0ZFmthQcV2VFr9yjnjQwv_LBTMndZQKFSdr0txe8k_5jvrl_HKIvojRH9l_V3vb6yapocJ04G7GYune_uKfOWQKFshamsTN6JQPMiYyYyYtpgA7eG-cT5mHFZP-l0WEP5RWPpfca9anOdeNUtRSNhQx4QQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/bmBQZ32Ur9owkKtpR5MpnLw1_N27Dqq2l0OCXsyl8rh_c40UB_fYJrs_aYk-cj4Wbw4BtsnZnrM1tZNwTN_VP8SNu6U2ZRHiyHAtZ6AuuIkv5HkfKwi7PsB2lp_kjEvOTaMdf1dC1KK_MboWuc9UBUjoZ7zEAwYd7U8-IwBkylrRTwVJgOSf92_4nEQXUUl30gRtf90P5tOC-9EPMNKSwcpOZuXsgu9NMEkanW3ncRAsvP8rZqUpSZs6X9fj-q-co1mcHoHGbTxRfKMNGapnhoZRnviw5rtospvCuxvi9mzGI2qrGjh0Ju8EbLvDHXnf6lPRy5lB2XrcjQAvL1JFzw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💙 💙 💙 💙 💙 💙 💙 ▶️ В День матери в городе родились д...",
@@ -2482,7 +2491,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/WeWU2QzGXsTgBsiIQ1R45r0WmWSpHc-w6A-QWCjOe8oEXhn8AAkF55snZfBBvRxONZRLQUTnx1Dk5lwFKitQ23wgDzh39e90CJFJYl6wbKZ5Odgxg90SLIbtomMA8NPpom2FmvIgYzCuF0H6kAS6MJBot9Tfdei7N_foyiyv_hNulOMn68RkTrXRWJceydsDGqg0ioPfSOGEujCcgRLOGFCjBSgPbsPLdVAhVKPHzG2PnvuEbhTX1jFGsPd3fbK_bLWfSswTpnci4ZPescFhTIWDdwQ06VrNu7qVEZ4pmpLb7WlGmgtdJgXnmTGM1ja7GY7wdHgkBfhrVOqP4Q0wug.jpg",
+        "image": "https://cdn4.telesco.pe/file/M7eRpOp5qBdQojnojCKANAHwi5Lcvxk8wkpSic8pmD0HUCMAR-IE0gDzesNmPwbhPmymqoMptT8o3xehDHVAAVmjVUZ50J3CZCRL3fqSlHPEr9UUINqwGuzpPPpUTigcZvP-Sd7YVKRIxmsNO1qcrWTcvndmwpPE487zeACXb5Rcsq18_WRAFXoFgo8QhhOBRR92Vy6F2AfzJhTv4KyuzKtt-Y7eFIxZ1X6pkU7JxpkF6cAr3Vk3qqPgq4XOyPsHaxVRt1wsOb6LhhEsAONB4sDLUTHvmCbIW3dp7-GImDqYg7nB3h5YxeFXs6GwY78U0GFyac_k6rkwCSSMsWDaGA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
@@ -2500,7 +2509,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/gbh_jQNWpNSX4OUBiZwDIqKCmlKTZ1NebH5cokxY66VipCcytXB9CAHpo0xoj7bKuK5t7ZpCB8jmgXXL1-sCnSO-e3GQOqiqthqtGdAd6cKsK7mspXvO4NwiqstpCtqpdwEfWcYHTJKYIqeSpxbmXZVxV_LhNV0S0Jc9NduP-Ofk179WcqcVYclz4KAScq9tqJhCQYYyNVgZZS4O23ipVc5duRChlOpJYjJiBmiJ8RLO-We011-wqCB2BWJaM01WhdRr8TGJryEN5am-1Wzi230qrr5Cy66V7q3Q7MvQdS4sRKBQ2mDssMv1n07jzd-SHYB4nK9J8gWJO2WqYBTztw.jpg",
+        "image": "https://cdn4.telesco.pe/file/B6Z4jdjF8fcbTVV9tqnbGnQBUlNFJDFuegPbjyq9yV3c9DxX7TgknXvn8Uc_Ibhk7Mh6pOtxzyGdFgEMW7ax_bZsjOPrAFh76qgamVG03Ym74O7rjCpC_H07NLyAZzpIfhZs6bu35aB5R9CnNFG0s9jkLxcUd-EWwNdSk7-eK6PxlEGQWgpebw0-GScTWwQ9iGn6hDVdUhzocM-ZB-DEMy9rTrpQNQ3OpXXsRa7OsPeCRVn8PBQ38vjGLf6TqNpjEaIGCQBLNwF3Qq2FUnNFG-o1IUka8gun0ESlldBZR81FOYhgds8ZMK5m_fqkDh5FFzVbPJm16dhwSs9gMyxbBw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Республиканская акция «Единый день озеленения» 🌲 С...",
@@ -2509,7 +2518,7 @@ const newsData = {
         "date": "11.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/nLO7jqWloM3NpES4v8X7fshAc-GkdnufxyoNkY9HPkh-zKiXWwlZUd-Gjtv-K_7Qj5C9K5LSzSLn_AF0jY3xysoV19W9zIRpd-cdQAOKFErW-MjIV1KgqP_FXKuPibdShyZqe1J-F4FDGhKSIA0NmMDM38vNGdaGUoljWvXkJTx8kIJMQpivPNJouisLVb9x7y8oMpY-RAUjvL2wY6fNEHSbWiqTAUDHtkzLpV0CXwkvyXmsAHFSTNyTdG5SdmSFMVlUeNVaVQIBpy-0w-Bh1_szwGq4s1vZUykZ7R7CpcxMxDpruwOfis4swv2m_Ba-76guozhk-JYDj1Z6q16J4w.jpg",
+        "image": "https://cdn4.telesco.pe/file/lwylFumWt8WmHgNRp3zJ160vUDaFIFCk2dWpJ_6nns7eAp7UcwioeAbhJshJQsMqW9RbUpNqO0cRDALoDQy0tNry0SJCuK5_3_U8YsFxyTqq1WgfCBCeVspzrUqV_Roy-Ax_KRKmUvNh4-S60jva9OtHC6ewRcF9QVPREfWQ15CVmJ3Z18fpTrdoSnjxmdPdq8mn999Y2P6Lo8YAmk2xdb-kux2Tw8VrqWH3BYwRcciY84cVmjB4aYEeR488fp9QyCV_ojofQ8JnT4LIOhYbD_6Yug1Bpq4yDqXYDXw5cAw8MzCvzPdcLJu115nuZShaMlZmA5Ug8ZXOBWjl6CGY2A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Я выбираю помощь пожилым Волонтёры отряда \\\"Доброе...",
@@ -2527,7 +2536,7 @@ const newsData = {
         "date": "07.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pvz-uzx4U76hNXQ9bZ-fx4mJD5SvF8_dRnHX9WTslF3Jfy0oAuXh-wkjNO0VLmtBKGij---sCdTMq6ar_gGP6XBG0z_o_cZjQdCZ86RrcJyB9vE_3ZnXh-XfZGUknb3hjm9R4FuRgnNhKCV_TK5-RtnHPj1BEe5AT_AFtWuAR9n1NtB9cH3ZU5cfY4htSBOREtAy-DG3kdV95B3ICbNWNfvi8UiT1bGfRuJ2JM-7d3Kf_0Pcn8jbBQxUS1R5bGLa9Q8N8qXcZRhfkLxPGemTPji838cPRn3Smw7hOgsgv8SVhTAUcuc0Mf32oeWchQqcXSE4RW-ZKC0M-VWlmL4m6w.jpg",
+        "image": "https://cdn4.telesco.pe/file/Kp5qOXk3mHaLBEhnVUTIq9sbHw3vOFib3Pe4ykLk9Yhi5NchLT38wGMo8GtLWa2Oka_gBLdZi2Tkgn6OFimbhW-c6a5_uk4TwxVpscTmPwUYYbyl8dR5ZZKMlXOcKvovqrhih2dE9vXKovOPTA5zNEh6PCykw6u-F64kTjrFX-TkLfNVKSASK_0B-2dVMHavtgfFUC5VJs_Whr9AmNrIYtfcYrSPI3U8d4-3-B-uZ9QXqg0bPzmXzKPYxm9_QUvIcUsyyOeHPRodQKyAeC83IvJYnL9cwNaIy_aNTMmtwB5aiVYSGElwiXsp8EQvyQ1Wm86G9d78YtJsywrFJCHMjA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Городской детский парламент Пинска снова в деле! Н...",
@@ -2536,7 +2545,7 @@ const newsData = {
         "date": "06.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/UZasg00qwqpBjOEFoeLCuMG0-cXrFluqftjiiu9LsaYQBZOIshLzT0VCH1vmv1YvUfNMhLY4i3r9jGOobPwTluc3pRXoc1Vl2V8QGJWo5L_6dqzRF0rzw2NwipQmuAx-tp5e4E_R4G6Pf6VvBPiR7xSIAL1NFxBTd2gkFsaB6Kt6ubHR9Kv1voHWHSVFyE2TuwiQE2XgNsiXE-alUm49QepnP6WUuBZqRnEjCqESlq-SXRzQ-W28oMZFxlF5UjPR8sELWghHC6eaCEI1Aa4-W0gJCLbpSApsA0trZ8Bsg59azcHvrYoMire_6FjEYoLH93AUiftk7A25LTO-wTfFdQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/XlR1YL4Se2sqBpXVSGrps1vZWdhsJB2cxf2JJdQHOxMA7hWxiYmd4i6sMXI8n_YKqYk4qEjqGD4V8hZ46CZkArFEv9T-G0ZZxNOZiGlODRkstCTMGLLIT1UALpi6-2neOpFYA8WL4XvhC3asBjWkfoaE8yoeIfIzwqUhcfZj-8YfZ8U7KyTLlVMZIA8ssj1jobHuQdtXLW3tH3rssLNCaykEGK40e_XwqkebwzXiCIGKhNhYvL8FVsK49DwbkNIDu61IHlj1U9W5roNiNcAgIltEVVcIPAbcKb2-VsTj2gAv41AI4brx18jKfKo3ypOdwnh4asVoB5DsU6Rc4T9Yjg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "День пожилых людей В международный день пожилых лю...",
@@ -2545,7 +2554,7 @@ const newsData = {
         "date": "02.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/U5Wboe1_R1k2oIfB0fl4YeoJ0e31C61J1ENBP4RM0vCsAuNHBx0xRP22ltexfA0Fa_0CVmelpv5vXq7QwI2C_dgIbgXv1PwBuaxU5jz61mI8fjqd5D6f2yrly5e5cl4COGrCT8TQf26Sx8d34umWCkhxAgOdwNCPhuhWDvq3dMhV0x85zvoz_jdiPawMC-w9lBDoUo0R1bbeLYcMJgizXpghi5bEI2R41O1YOMbBWSR1B2B6KgVxbdPU0M8xrYjX2smJtU6Hbgs4snXa6w3W2Ktr7IbilzaiVRim2JP1BKQR1PhvsGmXIfz0tHQXaMwJ1emxPmJeQmw74oTzZzTtUQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Hv72-Xa2zEYg4TD8xi1Fjub3LNRuCtplUYXyUTKTB6gdSB0h7UydAPwaMztFrqucJ1FUewqMXsSsyKBTib0COTT2VXr46Jw-GECFAI1VHK3vVSu6yxxUQSg3uG5Eij8VT_EluiRYucNPo4K6d_71megmEeK1MpXgitAo9ZaVEOY6H3xWP7c1-onBzRWg29kt0tNiIgUgCj90iC0Ty071KD7HAmX9Fu5lSBA4j5YtI-kBxfxw_HgPc-2dO2z_NKl67eFjBKEsh5MaPlTLvqPgg9MkXzG2JLSEjroxEecOEGGytOfxq39tiZBIl5xeCDCcwmNx9NQ52J2Hh0YELE4hiA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Акция \\\"Поделись урожаем\\\" 💫 Каждый день пожилым л...",
@@ -2554,7 +2563,7 @@ const newsData = {
         "date": "01.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tUn-tPmIBrIGZ2KkDr1ikt9VEFyDWaMhMrI9Anqboebn5zyxMqH7oy_Y5a5xRp2_N1ASqOK0fpRSU_A20hb-DPlLAl0MpK8tihOqKXfyDcKTgcAriVHu5KkJUSroRj6tdPXXFDvV78qShinHO7_3igzK9HxjkxRLI4V0FsIjTg_RIIneU5_AxPOW2mHvwfg_BhgqjZi-JFu1j6okXEubaGNfNOXHDErHegeBv8-_QsoTtqdimVNlvsI0KNC6LEpAtpg4wbmBxizZHukKMwbICoB_evjT5qt8ohwrQSxCx-T6nAqgog4-tWEgtNtfgRzO9q4CPVFvpaa1gjmE6TIZ5g.jpg",
+        "image": "https://cdn4.telesco.pe/file/THYGdQOuDQD2JiG6xyzbOhIC7fq6IJpfID5y1oB9Dw-2YoBGRacobPsLbxzJIUzU648C_HyvUxpslSy9Q0lX_lg83Yd1djnZWegFLm0x-ITRoMFqx6e0M3-6KRdsHck-P7hit1t7Ukz64NTqilYpDEyekud04_hsACfy4UyGHqFSDBuoeMv1ChWCIr1tf0aWWWvdn5iKdi0EHxM7DAk9IRoPlqNCTeTTHCesi17gjI82nGgKNbZ-NZLzRdThQ2biDz6pYSqkteXjafoJiXQRpENoNvbpaG1xrFE6xvO1QY0htdDGcair7X88N9RHm9aIOXnbjAdU_KljTFQ3YjrVHw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"БРСМ: вчера, сегодня, завтра\\\" 1...",
@@ -2563,7 +2572,7 @@ const newsData = {
         "date": "01.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/R2rkWSJHohcbbiktva_kiZgZtmTWC6dI-5lChixC5hhhgjLLAmSnh7OYRQOuNU4e3kCYZFB3ZJIU8FkgJpVsmGy03tJemgoEUoK-ipQVXTK4JWI7PXeL60ezw15UyunjZQUMOgDSDmxc6RXtw9z8BDTYwfa_jw7_9UlgUSjQwcEAsSevKa-ZsPnXW8zZ7zNAoOX8nyMNZreEcwRIF7YieFOQdWkh0aYftSnz6MoCLQeLQ9D-9BGtA4t7lfKCnRkvgKktJPPK5cDOuAjGSNh0-4szjdWqzCrSY9X9UBNRwNbJIrj1MbYLLyBUrSiwLYFXVFBPfG7PUuOjQ3IVz_en4g.jpg",
+        "image": "https://cdn4.telesco.pe/file/YEwLqqFpO9vNXoKDUsjCyLM2xMaDnXZesOoLInr0vbpVVzG1aadY53Hb2Dq3Q4L30Tw9eoAozl_h2PGtyBphFejg0Gao73Ri8JILocppKwgHqRZdpauHy-4QMoFlSUdeapen0ELN6IwMgtq6CcAcXKnO26t2PQk-bGC5KJQXdofuw-5rteZd8GB11BqFYVvCUjzkSN-MBSE0LNjU8-Y-jVGAZt1DKc80XjdGM6CORw_BDYIaRC8i4DCK1vWy92NjUYzRVmkVeurBb_elywnTqPtcqClmSmLgYUS28dHOwnOQZOiOgf6BTmiIbhD9Ah_kpUz4gJCRLzt8q8Nc1LXa4Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 Первый секретарь ЦК «ОО БРСМ» Владимир Павловски...",
@@ -2572,7 +2581,7 @@ const newsData = {
         "date": "25.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/plCioxlurMBnkKqWPTS56_qvoriNaROwYsUwNu9qyhTwO03UyE4JYO4URTPzBKAP0qXvm_pUjrheFWYH_HhEjQ0Oy8_aKsOrucmzBdXFROuHoA54TxwFbKx4xSaHbQiquiWc6N8Kf9u9Sv3cfumKlqCrvnrIxrhTcPYXzPbt-tatcBRIjm3Qi922gyBq12Ubd1AmEZ1G4gMoBskdnzF-zoF4_kblk3WuzX9l5nHy7X5fM6MkPgzy8JkbIEFVtqkxP4BDe4R7RLnPKLipVVn5lmRJ9KrRQ5AUnu3HnbD6XDuRzob9cfqkuaNticjhn9QXNaiGV7XzNBxqxPo2YfMGMw.jpg",
+        "image": "https://cdn4.telesco.pe/file/fOcWPoPuyXjuwgzYmgAwQyjfhQLfRnc8tSf_xgYoHSUP0HbyMfjewspaHKY0CNAFupxivDYhcYazE6JppzYlzdJpW2ZdDWl4MCVgn21t05P8LRfh66BfKuAJ9sA0_EV1dHNUbAGRDRGchG_kfWs14VM5DIBHA4SSYtnsnJh5Fz4scaAuNfGp8y9Bh2TGpDOhXjCpN6Vw_SO2MWcbzzW8dAsy4DlvX9dcUBZPzdNgwysWi1qMf60vadHAV9q6JkjRQ5loED5lNnM60cmyhmQBHB_MBNZaNMM-6n_dJBsHfY8czOeSOtI2EuT1NoKeEaY_U6G_lKnQTW-XHnRYhCj9oA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 Первый заместитель Главы Администрации Президент...",
@@ -2581,7 +2590,7 @@ const newsData = {
         "date": "25.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/UvhAabIYayNiSNLWaHk1SS1iRPrVc3txB5JlIALkN9Xa8yqxNONq3zp9X966zmEjuTSQqP5oU9rBXOr0nYryWzy9b95s9fFvK8I1-M0HTvbOHluj6GeKYm097_j_CWB55yCHSUlGcdMM97ss1-Cxf0iq5QLqLPGD2yl-bFgKTz7ce6KaLGqdk9fabEwremdi1V0Tg8pvs_Hbn9FZJSS33GcvbgyEzioIt66u2bd052QaT0vdp9y35WlyFKy8ZZUDrGzjLzDXTedGV9yhgck4qZSezv4xAAvuMW0BF23yDV5JZkn0z1tJUr2Rt0fxeFM-cCD4btLt_E6YbCCSd_GyPw.jpg",
+        "image": "https://cdn4.telesco.pe/file/CUByf0SiC9_uJwz7Ehw7wIAWIGR6eT_ZCJu554WcfqMZHveNvKcHHkcYu1DUY4dwU030RcU5IvqzBb1MOPBMPWpISvRBj8d0KiYFpG_irLc8457ysSLsukRZ9z9f9hqDqEV7omvy4XlP1dDc5eiy0YluDuOojCIN8xvgg_m2Geng0Iihz9UVAKUM7xH66vnwITHp958rzNu6_w_bQGq1_-XujFT1ZMYuFryiAWqgtSyNwNVD7yv5HaKAMMD88EAr9H8lULVPtHIwMT318aPsnKzPDhRpR8O8T-9hjcizVPZBAoBqmKJAwLem7Tduedc6DNNJswd7CeQxyZ2zUEe75A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "4️⃣ 6️⃣ -й Съезд БРСМ: Студотряды — стратегический...",
@@ -2590,7 +2599,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/bb1OTD1FYiUuU376QeSyzu4bvSD-44UGCWJeBYBLpGinEHjzl2BmY64j65J0mJFT0ZCwRRe38UhfKPL_rH5a0iMD2DpbUceEOK-24xVjXwh4rBMJfxAGMU24v2YH9i5xhv3eTHmeBAPPFOS-XmroYQz7VHzb7GnUdU-vTVefDbJwY6rHcZMpp9-uoWt2YDy8cflqC_GuEtd9tw12RWziy1os5cr2ZnsIvIQREi3cn-R-SO2gSM1X42jy3PeAJKfHThK1VdcBuP8DQRbiRAIz7rC3ETkakMZeoK3XC_M6qc_lniKBR32RNO8Q4X277lrJfX3CGqGqNNWAY_z52mWoZw.jpg",
+        "image": "https://cdn4.telesco.pe/file/RSR5JhdqeQSvuyH_JgoigKptAEsh8lXSbuOBXmPkKE1_bGPuOpUdp6EOJwSoMsK_vAMArde5kKC179H9KVGMnIl9N7NzfeNyKaKhYyBlPx6rNXEKljFgNJBYF6tG2LY80gd43xsYpP8R63EoMMUFxN_fdd2kV0MemthIe6YLS9EMl_vEEOpxaMyH0nhohiXwKj2hUOxJ5L9abVvK31DmCGrZZIAPuUynqEjRgROEhvQ4lu06Njm08uzsYVJ-rOhXSNhcl-Tv9B9HXSQEy9SEprg7zPVSBPtCxPNyh-Fm5gs_XTILHp8swf-dFM3VmkUPukFXD9O4GinNDlBCWfQcHw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 Поздравляю своего коллегу, дорого друга Владимир...",
@@ -2599,7 +2608,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/n9wQEmrT5by0-ZO3wfiMLAagfNowa4sJXu9_2inAFeARP3_o938H4Ruz2JTm5EOX_JYenV-kSET1veRg-7yFxfqu6XLp9466-hE_lZ5RQNTI6YAZjVLQy94EbjbO3QXnSzCjAuE22-bjX2W86Ow2us8EzRq1pIHUdSY72swgdMpE2g8GfaK0QBslNFNzG-Jfdm0LBRtkAajMvsnU_k2aSNX7o7KzlhkjNDU863lSfkxxCuom_O1eff-lKHm2tgKmIqNtFASgOQTgYDesTEZSrdwy2-JNtShJ3Lru3GFm0LesthxXjs0R64MbKkxqmW2HXXiXpAY7-m-Rex7YcLp-1A.jpg",
+        "image": "https://cdn4.telesco.pe/file/cqS1bRXPYXqz4VGtPsyTLSb1Jji75upirNREmkM-j5BgvKn6ijEyC-jRZSLFZdcV3tpXaMoHYbqhHQSZ9uKIvRCC73lFmUIMnNoJL0jRLxbiFq_FLDKGaVQaC3kI75-zjp32VOlecYNOc2CjjTyNiehxrensSAV5CqmeAKpD4E8JqhKUlNZqdP1w9r0onef8c1Hb_XkRFFS_sqAjToXQvckhblQPl0s713XrZYnD95ooHvep7vGpIWt3K4-hxa__t6EdKH_TfZsPcaIUfqDBSf-uTSqOUxTm9Db-dq_6GyZp4laR2cdE9yNxKge61twCKaeiGS4M4zCD-jgI9UAdwQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "👏 Поздравляем Первого секретаря 2021-2025 года Цен...",
@@ -2608,7 +2617,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/dviraOssBmfvA_hpDhkIsvWBXVBygUZA80y0U-4hHfTcf5bTmxhpYWr3DKAfZq6Lq9diFjcbLWJi6vSsAizu2Lkowe8keVoCz-GlFhzeE-o6MLXCZnh9DPYw_st_W_sYbufo4dsOWhoU8JCQL-e9GPL8Qi4WlfjPY--PZj4U_Jva4JfpFIxk2tGJjyj5TuLrbNBacEveib4f-9fX173LZeaSribd6BFmv5E8T7Rd-x1kzLBylvAu2wf3UwDacdl9lNieVSF3XkmMKtyVvzxufTsMHkl9zTBnXcGlmBATr_7tMSnSQ1xGbu9TfQIW4lnXcyLdG_4DcAfWUFEp2XMDxQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/gQiFz7Qsduj_Ol4h2IRxYIMHomnSlDmliXG-i0DaCYLZTIlPLqpkHTw5tIS2fi3qQhnjTwXg-Sj-B5xC67VCvibdErnpxAyWhBK8_j1DhE08MANhqZYnQAr4O0xqzbWfkLtOrPan9O0tW9HRoaqDLOfcQ1-BRGD0htFjGpUUFzFACaD50S3igO03AAj8hOAX0yk-09TQtPQ1mPM4McOxop9Y1Ol1JQLwja1uLLvRDhMKi581DXRCpnfBjFz2HfmMUWjS6AZS9F7wY437LETd6wUTLyxUx0VOLL97RKPp1eSb74EOskocwQSl9eHNRPQaEj24hFt7P8pZqTeC-4CCKw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 46 Съезд ОО «БРСМ» Первым секретарем Центральног...",
@@ -2617,7 +2626,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/IvN90hvWHFGI8du2GUrZOMRUYnMvK6dQFQyYR5_OsP0f-siiAsakvVpNf7a34URScW7Kgtz5s9uNHHGJXir-0EMOqHLmufqLKG6j_u5FtzR_yelVhOySGsUkL2tLHZ-vpSf3XMb-pS3Pw_qN_Ic2ivSYAByHWXdLHRp0Ae0PYEeF35NYN9KfsY4uCd7AglxHczB3n3sr5J2Dfweilrl3a_s4wne9qy_YxaBJHFC99AnL0q4FfYp3ZrbSc-Id81mXLAKJFZagcW6EK7GDqBvgiTtroFLdZ8cSwJkc3bFhgK1sIAhpNv7Zhg5NGLJ3junB7m1zUsPNF-JHIrx7Jk_8bQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/sRVGd20VocG1Wn7IyPy_Hmpv2xui3Gw_Pn0rDkoQ7mUmctPkBxcyzmlPbz-iGhrdEckML-8NPuJ8HrxQnP09DPU5DoVe-1OP3et5sKZfdJJI-7GVN8sCReJBz3GM_MRDqd3xRma0JX8a21Av5YKbZIiLUNip0EJIh5Jitc8fd8HQgk_JRUuM4qI202FxPRe9vrd_4kj0y6Jb-K8uLsb6OqzajULTm0XKeJOOUn6HekrRrgGNxUWrF44YJ0G3DlXkWWQ_SoxVagRBgXGfPOPuTsWgvmiObVJdXBtUvp1Q2u3FP3MGTAYG8wyvSrGacPlTevIeMHi6jpbaGA7-aXw4eg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🇧🇾 Делегация Брестской области на 46-ом съезде ОО ...",
@@ -2635,7 +2644,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/aQIMHgHyI6TZMi88kbLppWZMMbsMz7h3URD6FObpULth3dm7YTk5pqjKcAlN1GWXGw5Po9ieE6Z08wGg8O4_EYAG711ZfMFzH6X1TXtGpauhazoO-CKnRnnReG2mJzSuDGObSn5ASBL4GBp6N5mj7r2lEJ17FzaLKCh5J2n2zdht2j_KIgxxcp5ZuzkHGWqgdDo2SEe-Sg4cT-7g1Np6BdOWrC9FQKJKPPHTqbY_uyws1CodaaFZmQ3IOod96y5GOVkyL8AOWGGm3QghbEnXm89mY8tLpAMJxFUTaxoX5JD2DKtn4ccbUu4pEtBL1L2V6qEtWGIUhWXpfWzzuGA9YA",
+        "image": "https://cdn4.telesco.pe/file/idG9PSgM4fBeRObB5iFPWAb3h1IX8Pr6wUd49DOr0zz-dd2uz7AZXfSVP4fOHg1Y9FoV0KnqYdboCa8gNGE2FwDHsY1cEy_E7cssRfw5dwoAvm8kPts00zuGRmeV57JgZbMsiKzBXWkC5_vrqjbm7XT9AxrO4vFZFrFUu0d6FZrjSPQ7zgg8a_a0XHD46r5jUXgxS4Pk2jxUSiYaYnE6NCEEMDKSLQQ9XKGNYUOi37l1Z4rsq6I34XN9_B14t9Ua4U77fwcsOn0IwuCyQT2v9T1Jw61XyV68O3TjVeGRCqvJ43DMbOUevy_G4blEPTVgElizwCBnWmTEszOEgLoTEw",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 Мы конечно не намекаем, но 46 съезд ОО «БРСМ» уж...",
@@ -2644,7 +2653,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/TahbV2vA-ZUhbfdnY-Y_wU0Qu1WotucfsBIa9WmHOFCuqtyr95Ura0c7sAlvEa89Z1Q6H84Gz74PrIwTamkUUTmihot4YGxT5rS3JCmwLhPUYpTKtJfwyi-vxdW4Jl_jaKy7npWZDZPf0dCZIfsUNd_w2JQgTtEcfJ-_ClYZnkT-r5p--mOubGideBgLsUOvi7pNLCIKSNLCoDyDk74eh_2sHVjIW3DN33-_gN5Ixk0n8d8qETW2pxjFnjsMV5LDGtJvCz4lM-rtRIVL1FmhHu816XcRgF--zINfeVKIpgIR1b6tr525F9Rnq9mtf8WhCzQBXDHVTJt4kzjRkGNhsQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/FHnbs_OJV80UCOkX1rrZgiASGaJqyQUUm1YiquIsOzvSEB6n0UAJ4eM--E_85e2ndfAKPfHhig-FfSzdsTQAYEr6ZR8nbc4j_cZoVpZPzXrt8Ry8DDGNQYncZb2rwv4MFi63TPnebbfLt3FPRQa24J7DnfCylLVnvcUskMAWDoV9iV0vAWWcTZ8nsOXRTb2m41csP6ynAETXhTj5AY0pRg9Khn1BKQLaxR4rpBoGdEupzj_EtHva26HN84Wt6YDtaUlQqSgoVTLC_9172cTVdEalsJ3uncU2hztj1Qi162HQW64D5WYAQcONxqxD-PEeMWPtWZDI_9VdEcfULt-FlQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📸 📸 📸 ФОТОФАКТ: Делегация Пинщины отправилась на 4...",
@@ -2653,7 +2662,7 @@ const newsData = {
         "date": "23.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/sOiEWYWj0zsGfZ3oyMJvhuTkA6XZD7FanRQFOl-v2zwiK2k3ndVbWZCKX9eQXFjIWFhSk56APwlVQ8joJ8KrOQp95khBBDQdBDbMj_ApTpvV154R2kAQskCUA7NIcstumtly6WPwj_O78VOjDQ6YQZHThi8M-FBS28tbU4FZBXjNIjaFMBTHvZV4ie-jE70oilN4lflW0IxI03zztUmMcJNmyXVohwiA4v1J7UiFsYM5Kt3Tyb0gNnZMKSjOYz1G8VVhbXE5xR1AR3QGXLVf2a-7yaXCI--KCFckZeqS4P0L5MXgTUrMKIidIMafxtGMs5Z8BNNSDc0vgvOVTc88Fg.jpg",
+        "image": "https://cdn4.telesco.pe/file/fv0PVuMxuPtlVWHX9yG4LcU4G8icmZ9s6QrZjstfFj0Njx8FUIsUxkLmypcTJpLf6PSqD85RzvPDhzB2eH7xX1Lc3OQBhpJkJOO1Uir_XPSzYz0xX9HHm7Y_MOsiKjaUuHVx0SghSCNsoGHroywF8U4vBzLWxN6TVyun3Cs5bupK2Y-Pn1Bj5uZUt3iiOK96jXOIUQSPE5PtMZbKSLZjKpWk6iXiSs1d3Ty1dSAszpuUmOGbxoJKs-WAo65C7QblwFQLBR7LosAkXTFPTrVsOPo_xYCyoqMY08q9HG5pwdXcrYlT3eXeulpVsiIocdD87vZV0hVWiJ4a3wOsEA1GXQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📎 📎 📎 📎 📎 📎 ✅ Завтра состоится 46 съезд ЦК ОО «БРС...",
@@ -2662,7 +2671,7 @@ const newsData = {
         "date": "23.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/cHjq5kYwlYgMYTW20YDDOVKr8C8ZG5y4FD5xGVcUrPpjeS-Un1O2y5XGQc1bHANU2Yp1LhlM8Ce-Y93BC2ylICEfxoP5f5q_Zqw7dJG0NPa56nghPymegZmdlv0m-5q67tJIhiTLwf2RzXK3H8O49eZDBc-Uy9oQr7t6wq-8p-raXoJ0UFyz37dlz61HgF3NLtklEKVCqLRU5QVAILdTikIRxXobzGQ_67epjfNoQDG-pnFXMRlRwpmXOf5m4TYXFHyDkxwaLhcX5l6Eokr-cRLVQ9e782-ZoHx1QDgawbgOdyw6O7P4oIo8mLcbtooGKauctB8q9YQgteyvYDDUtw",
+        "image": "https://cdn4.telesco.pe/file/DeCNopakuzaf1_LH_nom4gE53vQrG4EZnzJ8GbRQx0WNOVWn9fa-1R9qVCCgQDSplkbbWNETpuKBKbpTlK59l05m0XQgRnJUvA8IiOCsuMtk8UnonjnZCkChqHgbI3Q_GAgmxEdjC3HEiYwhGED0H7Ct7fSTD-tueyI1gLM0ueH4Lkq8Pqe_MdWc5IL-jevYHo1Foompk7ZBZ0t8bPnedmyQ9_wxDMtgxrEHN98fWTlBGQ6h_Xm_DN4G0DL9JBdr6KXlTNg5gAvLFqATSV9bqNHRLDitzs-iU6MznKkaKm4el2e8Lx6BYWmsPeJyILEGpyHRe9K7eaZhxa_2y9gBFg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 46 Съезд ЦК ОО «БРСМ» уже завтра! Помним! Чтим! ...",
@@ -2671,7 +2680,7 @@ const newsData = {
         "date": "23.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pQr0iuOZTaRW8-DbvVJNDa7B8Iayzho87rKE_f_gjubOQ1q45WvaNKAE_iFIh-2Y2GY8SiaqI9lE5LQSCdORbE_WUPITFF8QIA88j8JsxwVNI42ygUWChgA3UQ31WR04ANFOCvLgoAEhvCvqP6wx5TauQ8SoWIW_JzBZmpLavwHtpzrwq5hqe4RpYhEU47j9Dmm_5Go3QGUh3oSSbCw1x3HYn7w5Ph81UEw136ungV-sSg95k2ebNWjUHSTtl9RjU3te1vT_Jmiq0g253drt2tXrKd-nEBxmRB7-iXeHNuS4ZQ3IlaasjsWWSzPQSeSTlhu2lG0qH7owdjW_2Ct9SA.jpg",
+        "image": "https://cdn4.telesco.pe/file/RsFOH0hS5Il4fZea5SlH-JRwskjCGnoCo4CcL8dsv3EVZNdYpjYBXChNRYjWyof0xqUc8lObwoNYEN7THlYjisAsBkZ3-GDag6Z_5K6OKRiDa31Ehi1mR4ei-QcNI8eIP003RZnbL9mkD2jHS4ygB7wZCrWt5G_7iZagvYAMR2ormwF9n3mWRiLmStkUGwuk_0VzjDbauRnSosCaHAHN4NpBdPP18W0n2rrgsn2kfltX0P4WFBTby_FRFw5AjHfWa-Y_j0DyLwJW8h5dBhBYss10vEZY38RTF-etj4oCTXD3YeTsGs7ufTc5LzTfd2kf2qs7eOx8zcD8zkSETG1dGw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В рамках недели охраны окружающей среды с 15 по 21...",
@@ -2680,7 +2689,7 @@ const newsData = {
         "date": "22.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Nfb1ghBRRTC0jN-6FTiUJ6L3iXmMawY93FWVOzZUquew-RUq8zYFl9l0UFcoRUApHpyRB77SaS31KRv6O8f3e7C96iGseBwRKN7VRXJAl6MM2wzZ2SnkDcuhKGvOj4FM9tQ6zK9q0e-jNQq68sUsCZP1KIobx29U-zkH3kDnoQFfvku9G8bZMJqkX5ILq1hlBXZVbVw04qKa-mG5a-NPZQRNp593COhQqzaTtvEy_4wwyBQ45YyYdwBrtjolt0cV3-ABpSrJN3MSks5hctDqT9PKYUj7hf-zicsXEmCQoopCE95c1Z9Lre5uut2k3Nk9ov9S66kLDvYhmP7qlqRVYQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/R6prBnf-_84mknQfDsm_oexMZ_c6QR5aSfEfAYzHZcPUJKjtve6m0t1sCwxR3vdO0wyIgM-0GYTsMCnL-OgYDmo8DBkDGopJ4JmL1ovSn3oWquGkGIspqKRTqunsPyQL_pdqwlNFyo233RAh5NuEJ5d-cMEAz8JxF4zclVtuauU7ItYHxZ1d3hcAhalrQ_dyQ6OMsUzyLvTkUE7CSdzGndbyVfhzDCZoEOGwhobGpzNvgbZnZKvBILRSfUrAoScUp2E-ahbHznKjzRWrpJ3gF4CX4y8qNGsESnFtwpVWOtfEg35yvhShXyVLzTAGBBOdMlPXChfRy3KoJ9XHnhmCEg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "19 сентября в стенах ГУО \\\"Средняя школа №10 г",
@@ -2689,7 +2698,7 @@ const newsData = {
         "date": "19.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/T_ahq461mlOlbnANauWCpAZV64Xw1fnsE8UL2x5VukdeSsIFfTIkBqCNdfQaWcxWqGywdL-fmP5KtY6_ToXzmieVIjsHfQouj6odFw6RjpT4pcR0epVQpLN69uI-fuZ164lryKWR9AEeXuXuMBfpCLpHKgMEgYDPy9MehRYdtNs_d-kTADEoW4nIsBVk_LNnGxciA9h1w31vDcHQhIA4ZR6ULJ8rNURr_uulxrju113wPMFWQ6VW1jXcDZhGcIRGYuiaITPu8SdcJcjzLUaIfIt7p6YnzUKXl_gtc5RpPvHTXq6CcKtSpDZgTjo5CLPUtY61_2u2LO6Nf03eqOsOyQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/BVMe8AJQ6-pSULe1a6y03JiUvp04Z_3xBGS3tfqnR49AMi8rsx_TZIQZZhMdkTOPhkydN2WHb6cUvzGcRzJniOowfUfm4Iz4sYxkaas00lEfXBLu2oid9eEK795UxYyG2L1spCmyvgakAQzSUaNxIAyRUMMvkDOxPIWISplit6Qj2EOaTHLLuZsAapOS9sDAP5zxcTvdV3BkSZEbSTT6HLCxd5gQpzbQY8XTeKFdOLuWZxSg9P7RLUZKrTT6yVIfDmPrtyoVZjsn105ylenx_nl0uH1d2_2NJvXzaEORuMRQVxdh0L8-sFXnUdee_XhGmUMagsUVtECXgEfsWqP5WQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "18 сентября в ГУО \\\"Средняя школа №16 г",
@@ -2698,7 +2707,7 @@ const newsData = {
         "date": "18.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Rv3Hv0qiI0ctSY9cnUAj3SA16pByrqwhRr0tc5ZN45SCBlzBoCqnE7q6hm44a-Fxe-VhQ7yX-8q7NyamfPP4RkZjg7FzeZeYYszLdCd5BkAmJ60bzVflarLhmXT2L0jgT23lxvio9z_L_3Mry_Gbayiqk-O0ohG4PhmUb87rEh2ExjqTxuAu-d8obaztX8ToGbvPLgt0Jz8aLgaDftyAeBG7wv4SK9qkGJwupjqsoX_dknKLrK48316_exxYLgDNMJO8JoEJjgdJdEUCGdpJ8wpmMJ5VU8ed5tuMtwcuqDCIb7IEvMgDIgQPvxsJ2JdaEEnphlM07yiZfeSw_3PbVg.jpg",
+        "image": "https://cdn4.telesco.pe/file/mDiQP9NsriZyJHq9c-MR0w7-gKR5ovRxOs8NmhVgTkTJjE_wU-_k9IuElEp-kHLqzefy0DNi4rUqiTC0tfr-yVpLossVg1Lm1yHIJ9RU2jR93hUVDOu65tOiwEuBVJc0Pq8uAxf1nCg8W1m5A2fRwErh7v9wOSFob22BM469AJBu6V9zxcIb2Ybor5o5WQVkpl2iJp3ua5sK1Knxt0TPANdMTu1NgfLpi_1nrP1b7TiUHU1A3tNB9V6ogbr3UHZJiZ7YJAkD1Qz8rQ94RzBpOIgn48KMkGHB7yxUnzYVJi6EdPRusI59sdL6F7wb-yzHM6o7W0D0_imaPOQuvBdNrg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "17 сентября в День народного единства в ГУО \\\"Гимн...",
@@ -2707,7 +2716,7 @@ const newsData = {
         "date": "18.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Yp2bCIteJnf1_FtG1MaI_LRTa9Nb3biu4EMp8QylDoDTY5_YlGfFOwfLBdmHNgW1cYDOEDezT9cGZVv7qfZ8-lXaonM0gPyWWyJDHekRYNDRkad3vJD1g5H1rf__uZQ5YGQvbR5mDLP6r9iW-hmHqj1yZ45FW00J3IlyyvUiwQ7kHoGWknMZ6dSYOmMOG1l2_u50j0Qz58aeKyUYFkvfp0D4n7qGuGtURCyyrJt0ToXFxoEii5Tin9px5cx7loQcDh7V3d8Z8m6L-sXbtQvrRJwMOWNFziGpbXuivQ0MA2d9nL-WBBVbFQo65Dj9UmeeLoNVjDuWesRRAUH1HUDVdQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Z66xJaiaaOUZzT9mSHa_VMV5MNLfGfLzGFibPmC2qbOJPBLxbrag2VbdCEmg5grkAjZohiQ5qTyl_DDdh-4blc4eIn8oDhv5TAR5yH5DqEl0U-9-lJLjjDyA-cweMXe5KGRlJB3d-islV2Rn3l9bUh-HRqwhGGmhvrQrQXH24HbJkRirUSCcYEhozlHjRHMn5HFeoWy-8rZ-KNO8MTVOlbuyMnZHNyZTvrmxCIg4T9U-kSaLwFdyiLjA2zXROpQGSx4_L4PrPFGRrJ7NbNljGLEpPSxf0WEB08ciqm4YU3FVI2aq0dO67ZjkTYOBI78NyUdhF86zL07Wa-cZ7ZAGyg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "XXXVIII отчетно-выборная областная Конференция БРС...",
@@ -2716,7 +2725,7 @@ const newsData = {
         "date": "17.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KcD8BVAEJcMRwXZXUDN9BFHosxLnmZgLgfFR8zbOk64T6-WbjK_OGReXa41Evb9JrB3Lc5o7W0whA04xNmuP9UTyKDWzgXn7fM0BX-DptwFPGQTd7p6JKfOFBMR6hf1M2Tmc3MHzGwVuWCFk9o53nhzqRWNZ5DqWSNBzXEjJG8-aAp_G2SdcD4_vH73XRhaVqsXeRgjnOAoyez7Y5ICbMIbZoIO27VKJy2yFi7osAsdnfTzlEs6C_IiF7Xs7ZWnZiT9LUfK0f9OedXJ7wK-ZwzKQXkAqYp8zSnSW6VFiQXmuLX3PNPCpGaYrC-inv6G1Kbo7N4semh-nb6PPumfQzw.jpg",
+        "image": "https://cdn4.telesco.pe/file/n581ALuXT1laFQ9bgeeYfJiL1NdKCF097v2pEoGh-_Eq21343UDFZwBqaRYc2JlQgjygMSqQBAfVDptX5MXPSCx64b35gqAaVcQK5NlacpCZu5Z4pg0ALaR9hWr_mCIx3oNohgLCowCHPSYJ1PwtuDmdKbnvqZGlJJcel1Ntrv8uMs1m230o-GZjRYrMG_w-c0EYsF8tMUMR8jEUCE6pmhwlUGt-oeGvfy4t_zcWBI2XS3CPgpFsxbsctOsIrgkmTlAN8eSCdVzeZWVjLyfScEKxFNnLByMw2zpqcJ9Sz5lA6IwshGKmP1gab2g0LC-Fio4A4k0XIR5NAaolpb2iSg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В рамках тематических занятий для учащихся 8 класс...",
@@ -2725,7 +2734,7 @@ const newsData = {
         "date": "15.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/CQ_naeneYaflg2QDri4zER_ZE25cmbONmVF0JUz2D8Zq_6tEJ9IIeZc8P_rDnOPIxBdOeJ3YrSQuTKh5K7YtXyG8AtTm1iqeZwxGF1a9plILY0yaKpHimQ4UuLKyx-MKvq5OxLq_Z4knCg00Y0jRtkvREtwxcjeApgew9bRlZN02d1SMh9ptI14_td_WjG_xAt5Kp4NzvJz0LWDFR4PFRMEu9u2tmvsf9wrCvJ6XaR3ns5UYgoWeNed7lcoVvgLt4Ti7T6GEBobihznvA2Rx9FqF54SGjXkHVEkjTwLgTzIiIyawKOHjOAxgy8fenBmfsNfc6qdE4v-Xt8fL9c1Zjg.jpg",
+        "image": "https://cdn4.telesco.pe/file/MwavJB2oXYfcXZLAWNZwMY15qnO3200aOMvBfDNBpeLZsaftudMYzBvDxRZcMJPEd3Ao9J1PHEJJqg9a_-4glpSwGyPlQrCh91qZq53jsTN_lFJkmZnQyqd8gb4R6qt9EVIOUZ79fx91OjzUSI5lPrm2ohAK22ZEyg5NqpeMLjK_EaO_rI34bxZF5Jd0vkwkTIwIsauUNhmJAKMLXsn87uZ2VD-zwcpd7fiysn5BshPmehmcZ9pt_7jS9jRWEZ0zH0MU61BOsOIgYQc2XOylqCdzhbvSIsAWl4YA6K_ZV7Dl94Y-6Ad_XlqcR8f-XlnsSrrBo_qc5NZzhjpfptiWDw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "10 сентября в УО \\\"Пинский государственный автомех...",
@@ -2734,7 +2743,7 @@ const newsData = {
         "date": "11.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/hwoFuLC_ypuU8QAY8A9kYvKTeyI5bqHNY0kFlxrp6ucXULqK6PDaW3HJNHjGF3zknAG-dY6RRcPojcXQtYUS1cZj4Imq4b78w4SzMRqB_Wnolh-AqMmmuROMWkVPUQLKi9ae3eq4ETvb-KZAOtUbr5CoNMI6QLf1sURgdFGC1vlvn3CE9vBlIpcy_sOem-8wsjdBPWiaXP_tgktteMImT_T36rMFbOne7vG1kQxj3cMG5_ArBWwSRazrJakuBi4Ch8UQUwXe_o98cuZbnwkE5qt0y6sed_0CngeEEA8Kp55uXTv8APT7QMhI3dE68db3gQ9dtcTg8bH79uyzjiwr0w.jpg",
+        "image": "https://cdn4.telesco.pe/file/eMB62DfpKttZ0SqZAFmPTF-AGipf7P7gxCLhc_xgG7xgLKX4aI9DFmxP_nPkzfvOqmgTo7mytZvUAlg0_iYAnlWiUoVEZJxetUZ4a0d3eq_2p9vj1SDVZZvcnCqfnhpE2BSSqWLinoEvBye0TLvt4j8t8Un8iay5R4Xan_qlDwfrcOzS-rPdXOKlMRTjIhbiMrIZ7x2pWe2pTOYV1RMBg5cP9bKdR2TY-HsVtL3t28wnRZ88RfotIUMXx4FBUPeEPeBtTxgKLHac3OvuWWzpTVIkoYn0nyaLTcaaml8x_EjHlsz6IGQuOD8OAhwx0PzFi4WHIkko8oQDxSjlAt8-ig.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ С Днем Рождения |БРСМ| 7 сентября в союзе молоде...",
@@ -2743,7 +2752,7 @@ const newsData = {
         "date": "10.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/b7lriL2mVqusjud2pcTt4pf67BG7p_mVZQhl0Y-eGK06mwdfflIkHNXzqk7bS9Dv7xTIaJkWPxkKJ-vhUzQ26zCWbWnA7WBIKE9M78By6QLJyqoW6j65Ivp-QXcqVIcYvXGLBM1UxDjuF6wKpuQMin0RNqsTrDRuiQV8XX6KxDbqk-UAb-UiwYA2zY4e1xGyRcAalwVQIVatyljA1FaRfYP_eiDKhILg1Df3lkQzbx42ABd9Mv2QRrPB8PicuaP5FJPuZRI32VFcJeDau25AXZBfJ1SmxM7D3npC41KWuzRsH8J49X1QgZLNpoMys2GAWtyd-Hu5zwSeY28cp-FFCg.jpg",
+        "image": "https://cdn4.telesco.pe/file/UOQgPxgPUQGyJTXtQr_1BKfQxfJuvLWdwHFKi-a9WhAhSWlio1ral6dPsDNIKK1aPjrl9nTDjX1_d78QnojZo6xLiX1SRAO_u2I0TbnPMTW5rHVRou3bJd9_a4DoeaWLdY0BvYzBGhw7w48FtxJAYxllhjk2jqjaU5hQ9v3foeT968anZ0voGnAIWBFRWfjBmbwcSeHp_lJTC1SSXVJML6xMXMZLsJtrwS4HJpodJ08Z4HpS-bBP8Kx5g4_LDPY0JkVbIqieo3-Msk4QxjqIESjYDFDxzFB5KCl7w52I_MhnsSMbscPRciRfAuk5dv1TUScz2LC02mb1MM62qMjgCA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительная акция \\\"В школу с добрым сердцем...",
@@ -2752,7 +2761,7 @@ const newsData = {
         "date": "10.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/s4Yd-ZMXcQ8ayo9p2Lu81ZqjV8W0uKBbAI96pl92RBHpkyQImyOHbf4i4ZbT8MrbE2nf60RwQt85jzbgPtOGc1HQss-TGSfWK7XGvMeyavDnluEg1jgtHbqOFsdCQTSLJUqHBkFtMVRdX72QynF-f7mm9gsEWsbtPauuMDpiOpwpicLPQi_KpWqdzrNaP7On0sjZBpwZaUp5tOPTM4VGUotsEoLYrrp4zmy4PAKvstP-8ZSPMtw7Ji3QuGf338fh1NvV9Vkd-lRuIVyNEdw0CGz7GwYxOKIe6HASx95Y8L8vQswT27WuLw4hIDZ6aaQeKQ8vuFpvyO5wuo53_6CW8g.jpg",
+        "image": "https://cdn4.telesco.pe/file/tp_d2NApJdI1budFasPzSXNnb4fuvepSU525tb1vh4R7TmbDv4MpelEOBpQRH8tx1IWSH8JBTBlydlact7oTt-lxtBa5hb-vlRN0ucKeugs9AEU6qmRtdUI23JNPAv2BPmqKGGJJst7TyWzwFd4F6WtIP44oE14ysQTR9xOH5kqoUQr-30JOk18-vB3PdvzSHhxMzmNzMHpl4O6aKKrLqennrv9WAiPEKQrp69iK99XcUcAor3c_B0aiiVath3gMi0w-suD48RJRMhpA3SEBhs-6YstSNRZACS5RlT8uZSbcZMrKs6cvl9Uik2RJv1poC8aK0w6RNgePa9yZMsfNbw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "XXXXII отчетно-выборная Конференция Пинского ГК ОО...",
@@ -2761,7 +2770,7 @@ const newsData = {
         "date": "09.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/PMnDrGKkatoRhDLoJy11EWoGiBWoeKy8FmeWseEXkwAWXyHPxAPmAJLeBbIA77mUJKuEfPhzLqKBs20VqJ6ALUNF6APidTXSOjeaDwuAhdDxJHlCmMpBtHKZ5WyI_Jtpznx1nzTojxcSrYCsx2F-DhiHpNwCvU_Q62NkFCyqSC-PLM2CUM0vVaeqHuGojwRZBcMrQiQJICfRw3yDrXbvhNRFdTcu3J8k-sgvCNYLFx8ZCQErk7mXiDB-_GUM80u2uV10RLe0i8W7T5g-dCv5LqbwbP9hMSe7FgOaE177E2sxMVfSEwFfFtk0BBFAcJsYAkr7h9taoI9xcp-UtyElmg.jpg",
+        "image": "https://cdn4.telesco.pe/file/pXygFJ8bGe03TI1RG8ENR4vVGzNe2G8b3B4BJCqv5vc3TCz0hNQI_QNaWq3ea1UgmmE99PBjsAumJ2jymIGW8qE4hos3DRF5bcWnXvAeKlC4Kao96THjq2cHRJJE82uJRuL767uxbzq6ZFur8x6KOkFPgIhA4u7Bi-_fE_IVgfxipqeBv0-ht7aWgghRJBknn1u4LoSt0pSUVLdgphF3woB6zQ965t2Vaw2ES69Ja6EeHJkkzZcv7S5ni1isU7gwQ-P9jskmdezuyTdBCcl9OhbTp9pWJdFjUQN0-I7DLhSmmXmOM5l__fzifJGXlV3On3OoI5WjCSaPTSdEt5Rj_Q.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🥹 Единство в действии! 🔴 В Бресте успешно прошел о...",
@@ -2770,7 +2779,7 @@ const newsData = {
         "date": "05.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/PiokyLZGupGs7VO7D_8hJfH8fCg86vrctGeRsqeJUlBtth09xb2iAvFz6t2pgNfD82Jm-rD6Zg5cSp1VJYV-NMFZ_Igj66cmbeIT0eM223IazT_DBSrJIMWQcJ2loqSMF3kLLO5bV-2o6glIHR18as2_pAwM5sw8cMa_ZBxx8IvfFN9gaJFg2jgjc-EaH3Ypc-tb9YcDXH9QPEGqRJ-dSIXuyRLh4z3JFDZxsfw1GWzDSEt8SVheWTPtAnJYccOIGw51frUc5UtrqzNWyrjr5HGPQdknEi9BmtNgfKVNFevgKzWtaM64lzyZ3KWqQtY4MS7W2qRj5Z9mbcQPnBnu5g.jpg",
+        "image": "https://cdn4.telesco.pe/file/SZxrvFNvssUhuYepjUz9LZkSTzPpH84_goFLLK_JxCAav6COYon-hffwQ1wZr5ganUijVgAVdKEBXkzM-CY3VHBwJescvSsTJbNYWd_CXGOg_fJkZgTiu7BkSMrOQuhLm5TxR7pTeG2rFJzWuLl1l3xQR9kwFRcrGVacAB4TRuTZdzLeU7ebp3v1RMCVstIZqGsCkY1wQFXECZ-Pxr9__WXfhzr6UBEkeSM4bhem_k1Wr1z1LV-nL7ekP6-b0MworzTwHlGHPF31zjhAdf_L9EN7S8upjPmY0Abr-eZW1sPYw4_XcoqjzlUWnfZbHmE27uePlJ1obq7HfrUYRFpTuw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🤩 День рождения БРСМ! Расскажи, за что ты его люби...",
@@ -2779,7 +2788,7 @@ const newsData = {
         "date": "04.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/QRw7utS7smnHw-xN8B2efbSqd1otwDwAPlfjtCp0Cg_OUNlCnxwmYH_OQ22F_isfaVKxud3hwmGnRE21y2g8P6H_SNMS16ZBJlCx9h60cPHB3guVmu8HQs1WXzgZYuMABQWvvUDIFuulrbxtuxn25KP7imkftYbyZ1Tlq0UN5_tZ_h5gZN34NRDNWu2j90Iuey4hfQzvf2CwBMnJrqDkhnIRW2Jf8PbIlAkdjdrrfXrKEk79Lk1UJSai6OKSt3o9izqyyUTY1WMWguZ901vhuThRgZ2XyNgsqPIDfB0h0v3U74UMfBIEe5XWQnrVWwDPuSzIk7G9-spAVgbZSLaZeA.jpg",
+        "image": "https://cdn4.telesco.pe/file/XicgoGSgioYQSdJiDrsyAJWPSABBOsb_SScSwjcE9KpNRhFjAtQPY0nWx5gvS666dHlixdXv3LZO19Sm0LEQdQAd0uIT07CT1ybrvYJZz3Gc-ECoDfaUqheLDaN4gw3Z32eimjvFUEXOL9ZUOPpKDMQlFDjm4Gf2dNhjHUrRtPOrSjGN8lDdyqJUxECzGzAlKz9gU74r6TqrNKa0k-EWGQoxbdLeylgidNagDE0jzC3SUP9IZGahkYMEBTysPq3nkYhVmXExnmlgEShhGpNmGxt62-jpApDWJF095oCQfijtWjPFgOYvu8A05701CZwwz-OwXSRWHMvKlL5sVe68JA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Члены МООП «Алмаз» напомнили отдыхающим о важных п...",
@@ -2788,7 +2797,7 @@ const newsData = {
         "date": "04.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/slc-Lpp2mm5qj8doCjZc5A07SfDnz7-TH5n9O_Thub2ZREjj3x6eewBLxUhY3KH2Tb5OXxPsRuJ6C5ImDsl5DVs2BlaX2shmZrN5RMFHyfw95m42kqzZcu9ScnwOBEYW_6S5KHcmWAUFinuTWV_QUYk8a3YMm29NkP_VkBbpJ4TYuIZc_JeW7JahFTHquuMI3sgdTakwtf9u0eqHMlG9AZyCRcvbSLFSctJolGUqkv9P7-Rg-vt2ejVdPmCi1cufturDWIlMAORk2E3cEoEnVreUZTia7_49SZ5zO5whnXhcByue9QcC6EJtHxupSSyr59aBL62Oz3Vt-t2_oAm0uA.jpg",
+        "image": "https://cdn4.telesco.pe/file/F6VtQGkdomYYTAWK1Vahdaf0EDtVrK57SjBAWy-F0aHCtMP1Vo8ARFwRJ_X4fGr-VzoYOwIZwg4r3vrRrRRcamgGf3tqnfo39NUgQrVhSG0UVYNbrJ4YqwbJY-FtiEfzi06fsD3cNf_rpSwoNgDLGOQ5dsm56C20MHxO-jbino10LzrBnmbopMad4-K9di2CtuvFCPabGyeM62yuhmtZZFOsdwp0gC3FIadHY-6nQ599bYcmWwAYTmC7LDcxUnIzCkRQoy98pbP7T9c4n7tUPiVxOh4U_2AdYKs5qZ8ZHCuLc_JhfKMVCQzQRgPMBRKbGVyLLrkR_IKjpmAXdDAAGg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Торжественная линейка, посвященная началу учебного...",
@@ -2797,7 +2806,7 @@ const newsData = {
         "date": "02.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/uPdMb2HgrTmzuxt1Ovwl6TyJvrfR7h3CrdInBiDd9l7RnwGeGh78Y2WI6p_VwHpIwx6jbutmc2vjup3w1U1YA63jZlJFZVErTzRXl0zhtrDezaxOoCfJ7vfesRSwEXHjzmoyeYU4VAqIGvnM0OrsRBsRY1U5xgHPZ_5kfWdOqTWMTlWZhLjSx1pIQoNopgt-iC4NiFUniGhzsl4q4qoP1xoHsUZQOCli5Dj-p3QvYWvPb3ZDqr0okpmr1u74xRQU99EPAGac6Ws3GUBtjMM2yAJPBCJsup-UY90domDEOiKfv0KOcLWxlDZ2MPTrHqwiwXQz63fAkzSOqngAq7Fjcw.jpg",
+        "image": "https://cdn4.telesco.pe/file/ubvFwjp0ijHCut5uniqcaAXw-ICHL1NheU9H04vO1gvBjGosUHl5iQHOu6QG0TZa7Lwi16vLxuhvvBOxHX58cQG6soxbx2HxWzcKuAjXhFRmBpM_UxDeXzDq1XBbDzB7e5vfLilZrwCsgCF6P1SUcW3anKuLDpME5gtwieVZn5egrtPcJPBIlcNeBLwsjz5cmwfsm5EwjBafpI5vyDYcd5H2GHK9hFu4IzWUl6q9pWf1cqDgquHUnTHXyvx2jBpAXTrF0M2QtGT3SizvV6W36ydQANtWKq8aAZJBWpgL6pB8p4Rih3dbViGfsUMAqWsDXpT_XYzaEadzfN36rDK0yw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🤩 🤩 🤩 🤩 🤩 🤩 🤩 🤩 Монтируешь видео? 📹 Делаешь крутые...",
@@ -2806,7 +2815,7 @@ const newsData = {
         "date": "02.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/snGFbq4iYKGQCsgkTayFCAraPMKJyhxFwe5I6sjjf8CebEH8aVBMvkM-2IEGLmV9lsHZcHNzdJ5AR99gfKRCZue7oYrTwWN9-JGpQpcORv2SrYTqDjQorqc_1ZeJSDPzz95IAye6DeNaBh01E9u4Kxs7z3jCmWUVvKHBLk-PGx4cqsd4AZYnzvVayoFmmuNO9vYRvzeg91v52HJeu-II6o9pjWuUqYY5Z3qdcc5x9I3gP9M3ru-EkcZYaWKNHWtivqDMro9o6xmf-KK9beTmYZ__KrMet1zJ40kqQDFGE4BKdS92I3t2T5qk976Le5Iu9VlEpZ9tdu8zrZr_e2jkpA.jpg",
+        "image": "https://cdn4.telesco.pe/file/agpdqG5NwfIf3_VXpfyf0SJJD5dWYvILHqUEQolQRteRjP3AJDnz4vXq0u70s7D40QyTy1leZfrJD9WZYE42HQX2zvP_NbfNJ5ZTI3vtNhLpSaaS1E3CzeXgeQPX1vLnn_4_1wobIpPQDa6rYMKwYKqzju1pFfHX61efFskFOuDcuEnq7DxIM8SVzRhlqlZOuOt-n_C6fUmtXBSCQ6jI3gMLeBIG-G2XkQXgpd4HkxMhV3t8cBv40afqVTbM5NkwWU98ys4ckTrK8Om3oQ7BBECpslw_VefWotIsTGwFumF9VmPqaowzULybj1S-Ung0mHhNKv3dICyaR6I4lbKYMA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Сохранение исторической памяти и патриотическое во...",
@@ -2815,7 +2824,7 @@ const newsData = {
         "date": "02.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/IQTy23VUS0TByWGCPCBvDoyt_tMEnuJwm9DrWG5kXziByBKZcngfJ1aIkg2FCGOGc3mZHixLx_sZRCbTv-atIPOJ2Ntrb_QYWRB6k0WYp7K9Txf7l60ptwuXH80kmQ7y3rrhlt2BcVM6WM6jjf6NUpvWc3CQsTP67ZEof0GZJxe10QzzBoESv-ThhlxPD4K83wDWFs1lcJeL0VY-s1hvt2b3Ztwy8KFSSlHcML-Vjq6kJQIXsaCQ_zAEtccsW7KgDaiir0WaEF7OufWvnmWZfJqOnZGjZ6AxL9u5Nv1WX0wxvLjb29Bij0BqV5YLZ5UCTiI6dgtexcctBGPTKK_7oQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/q0Qea7ltzkYqr3c0nXB37g2s4oAphxT_0SNWsVMUe8V-YmpaYionWfl18NVKgeOJs7BZPszgxB6Y_SnM6wqOXCCCVozLAu8bGlqT0qMGoeKwehKf3vJbneRIF8NHo1YC-wFHWn0ccr8ANCr9z0RhvJK9LScav9e_wHFIBNdgT4QPsddK7MkoNWnCL9xzD_o5tsGcDHZz6zRtgJQAgjXm-kWduq5hVbPgaAQuy13f_XtWE3ftWZbmzNr6G1RTc_PY6-ZmZsp1da8c9exbSnpe7vuQWzkNOgu0g7F7ZLgdeKmV405oJcoGTiOo1A_XmEKfhHiocJz2VqU2K3MVwa0Zig.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "1 сентября 🎊 Торжественная линейка в ГУО \\\"Средняя...",
@@ -2824,7 +2833,7 @@ const newsData = {
         "date": "02.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/pTRYE2HALK3yPQIbvXcac68k5DKu7XzjzMmh3o1l4Nf69NlpeFQxOf1Cj-pAQ9cx3ccdtBEqbAkorVjHCtRBspuVnmZXeYrEvVhfecUdwV9RRf5n8aPFH0Z4n5e9myxkkdRx3rPRtEGew95CeNjdjKdOMCTuFO5EHv8GMBY-X0K6g3vGIpq_it4sbOs1WKQ6U9V6gnfELQ55RCaFdwhHQFfPrZ_vWFCapajy61wttKnN82eXsFBRA2OKhDgtkkPIpBVzEOJypwnazWczazkq8T_byxQOMez5iJzo5E7xsrC10m56rLrg3o4uHTOHI5h1FRmIOcZyz5NafInSBhnb3Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/VyOxxLqA9-PCYet7Yl2dQtzGNSekgJoIp7Q0pKzK4DlfDdNoGm_d-93-3X8SrUzicvDWyGmfgg1H4p_CjxfMpjZjhrGUL-bkKTK_0p1ZRMNuh6FRFMWWQlBcqBFf3I1YyyRZsvG5tVVUEdPRmVkkCjdyWjpRDsoSRS8ZQR_jI-oAOFqDRMwy6dQN2iNMOprBsF4hwVgE8Ag1pcQq0AkNrj7ghg-aPaAtTmhM08bThBEMw91xeWyDPHxavrni3r56ycqZ2LgV0mFc1bdn3BPxgHSRJgGjK1XAh3IkYZ_G9OhCJmpWY5GZPo5IHZcw_sxo-wma2UfiZG86szrEgXcTbQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ БРСМ сердечно поздравляет нашего Национального ...",
@@ -2833,7 +2842,7 @@ const newsData = {
         "date": "30.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/nxLSGBSqrWzEYa1ixKHoZwaX15VRqg_fAZOt65u4WmuOjFRFRRAagns9xKgmAPUVMpleeI38nDso9YTAXIP8ee40w3IijxbvBn16b34yfVDYx2d4a6qv_pZX0ps8E6x7N1XgPHKS97DxUBaWc0470H5o9veOYWCnio3hHSWgxPDvp8ue7X2H7s-nAQPaUtEPFu76du6kYY8oMIGRgQgOGmWpMztjvVA1OWm8_iqR6d380kUn6tWTkYDGfqSAHNeJiGhe1JSRyNRQQBW4oBCrHBCW5Ng5sIQcagqbRxSBh2rwOto_bRR3ZrmH4EiJ3Y5ksRH19vknkgiXWc58OLORZQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/A5kpxY4ka2XuVcbBYXoYVYPKxzw5VrHSLFpFYsVW52c9ho_COaxYC8O-ma-27rSjr15kk1WWRYKbDppch0RMZyhCwEEyzX2A201Ee8Pu9FbqWPvXaXI041bejzyr9FAek_A8oDeXMQUNG7VZqITspcot-xaxs5_RH8qI_XHM9yIiBmZ9_817rrS-fp7oDM-QoICReKElKf-YqM0uLqWF7nx0YiKnMZiLTtT9rQagdwyQQKUwi8YswvO5RiyZatCJVnK70JO_OorAgWYNMtNXLrmKG2wSiU_cSj-j9u_3pNVnVhIhkeIZD0WEPouzy92P7gjjphCLUrgUKjMtqHuF2A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🇧🇾 Республиканская благотворительная акция «В школ...",
@@ -2842,7 +2851,7 @@ const newsData = {
         "date": "30.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/gBQJZAjRwzPeVqD7rtpz8wthIOAlk9zMoV7hUIaq9rK9lnoLJwMRxEH0x-AqKrPzPTDhK5_dTvZRzgMWqQO_67WDsja95rrZ0ChokfhMJJAYa3TMBlTMv3b0fhmFfa9uCnlx7SyBMEyej2_srfK7O3-Oyvr_IuPpzypM5eIL69DfISnn4K4V7dLgS3VTdjA8FNOA9h4TA0BLOSIE6rLyKsW6BOYmgTcezY-lILr_SQnsGP07bDQeXyEsMFTHaZtUBpngZr-cMAfRlniM4zAsOb-vKwgYm0ETbmEGx6LclE0AWPFALSOtM60wVWuxVVjFxnFaEl_yAO5nNEvJMQ9vwA.jpg",
+        "image": "https://cdn4.telesco.pe/file/bg-7VHcdQ3MO_FF_6cKMigygNbuXu2otX2cMQCEnWHE0avlxq95rz9j7dAZc29cF9aHFoURlLogCZBxfIESwcsDcDIfCJG_Btm-jey4pq9Q13wZmON4iFPn6euoaLKjM35sF30Y_MKdMxORuq7Pae5gZafUCfgT2DN4NB1-lM8VF3QvO3sMEX1RiEN2uh2gYgxWOcimE_4vNQYU69CCOy9AnR5hotm9GIxqIWnlI6JUcI3LkjY6RgVSrzjW2DEDgyFfvF1B5oVVKjKLaXroedO7JZaQ-vVUkBrsenVoO4SGk_AfFoTG0Oc6IJFi1mQRmxnaTo1EzImRWTa9_-m_y_g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В семье активистов Белорусского республиканского с...",
@@ -2851,7 +2860,7 @@ const newsData = {
         "date": "28.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/TBza64-okwBp_rmVJbOjQRuASWMnmBvdD5z0xXbwKW6p1m7vxdFuljHge9l28DPkqUgG6QsnIBYRIwiILS4Kuk3LV8JhslMV-R2T3IMzoJLI85Pas4egkAPQo44QKU0oZc3rTEeM1jtixcFEcO5F1dTgLERAjNNLM6-FBauuuySqApJTe9DDs2qWaLCgLzh4Nl7go9DtrPBEzxAHW7vDhd2RDox8mRJauUqwZ7g3wCv7GvS4xVcxV8HyA9WKIp0tVIdbRt-v0585cjwvmXQ2YGe_qUcKAFBPu4H1LhxzTWa3thIs156H9qZwvQXOUNeQimUM9LSVbUesTiFjRkjnpg.jpg",
+        "image": "https://cdn4.telesco.pe/file/foeWKYCibgBN0O57JJPmQpi9FBaQHnOqwnz_46uXYQ4_vOwC3nVI9pYb35a498k0iI7gKg5eQgsBWm89hNl6y8lLBqoXevE8_M7mJT1eUbnM3uCBWYMcICNfmThbEETGYmEAKQO8OVz0v3XkGuuqUKztQs_jOMSsOW3Q7JxbeFBTRqNPkVNWv--Y3hTe8HX5S55aTF6RBmZUwl0dZ8psPjEMLkq7qPDhMqwHjhBmXvO6eU4WbToIO6sk9cAGuLocWtVkvWn7Pe4ii1j5no3oMmVvCzQui1cYT6MXLu8e_zQJHYptQouzQNpy_KMKPt0kSAtGBnkbbN7No2B8AxFdXw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Студенческий отряд «Пикант»: будущие специалисты т...",
@@ -2860,7 +2869,7 @@ const newsData = {
         "date": "27.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/EjhXRpyBsm85NeBbDUtDlQReYYWuvjT8qr-P7abhsSW6xHXI_BTJmEKL8-tVeDAKpwMpHYU2yY-GIkI8nySktKPOh5C3wucmlEtNXeMVcv1OnqzbD8CgARH2Qv_zRei0gxFiGkn5NK3EMvWA78z981NtPR6pfdz8-shEUjreHqJ0hezUeBcWQsNIRj9bUkyQmHtiuOPgguwDv_W_g9mXgMqDwMzVUivePe5qZxg2uHm_pinCx20Y6-HLWI7f73ggk6XgbGiuvaumbAYP1FeSPC4jp93lfQqKRUSA6SDtnC___KISlUTjvEg445vT5aNGupOyWcLbJrFRBvX9_-xB3g.jpg",
+        "image": "https://cdn4.telesco.pe/file/ANaZCfjXe3voNpbFt7I2thhLxphBW4qsNBeJhPjydFiqx8NjVY28mZpo2rLL8cyE9dCQaQzmLdcZpklrwiUOSQ8BGdrW7N-P41tevPjSMpXJqe8cn5vOEy-4KmzkyhRflI9KTivDPRtcu9n-Pf3XrT0rwBA5nUyMBNSB-owD3t_vR8TwE1PJU3sYZM32jVhefFh4aNJC_AZ3D69chE0fkq7qMPb0MXp6AEtqOrzI1XFsf-PeniMSTppGJrozVYtsKEyISt2ear0snVqeZiagQ1JvSM0ZKUQljSKzr3DLbmyMRSTwmPjBDaDubrN-GL4XdAKBzGIu-B9HgQxJBWvPfQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Боулинг объединяет! Яркий турнир среди работающей ...",
@@ -2869,7 +2878,7 @@ const newsData = {
         "date": "27.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/P2VoO7pil3FFLe40S4koMayWYiAgyFLJx9J-0fI0goVzAbEGhyzQC9LNFBY4s9lnvZEQ4CkIsfV6gxkWbA_PpSN2ngFSmK_XmBUQiS43VTglvP4ZRfZybCyiXkWnzQFa4joA3wmALOgkH5ccAnyV3rBNtG_SOz_M45l8dTaNGLzvvr2Qm4AUNBgP6vGwAFty7cI9u8gZPdcZ9hBhexZSUWA9Wnvy-6rK-GeJjz8qjo2xwRm400XcEfJ6NnGAUgAcjccqKoTLRUGLlVweSRk2X3l61Wt_EcvMGvA7AT4dXzEUCx2zXNNUpaErFj95z-FmG2svDxeOfYx6TxI7V8PAuA.jpg",
+        "image": "https://cdn4.telesco.pe/file/i7hsAKIwOqBMnpEaF4mLTXyueV7zIBzeaBGlmgfgEe4KLDUjcQQAdc_ekTuSefI7pSPXOS-22DUUTh2Dwem0Ln407NBW-86p-tM3dCpkycqz6zFoOGbKifptsE6Aq-YbxRC5Af_LQjvwwZK7Ck8I5seeM9GtYFDEI9u8DlzUvR-ajq9WyPDTAJZlpuru-T8ek2iZkEL5p-VIhMzExIePEXVXX_NRxXpTiq_ScyW8qkGV40KdA1HrpVd070f_wrlvA9Sj5cczjOhVry2VPnSTExMHyuoq2vqsw4FvFYQEOy2SJt7uc4uIFOdZbUGEo3rpcEzIsUy3UhdLZbMK-qGwbQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В школу с Добрым Сердцем ❤️ В преддверии начала но...",
@@ -2878,7 +2887,7 @@ const newsData = {
         "date": "26.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/L41UXw-mRRaxh277SQGtn63LwrSjJEL4Q-4HQjCPhi3VwI8sboIivVpWcfR4r0XAiDQB28M_ai66a-ksXY9OjfyuxntrPi5ae7D8RvOg4yWNBZfr5Ty1GelUstqseMduBYmVCP2xT7iyTYX_lWFSwxJZKv12ek5Uh1iu7kp_Avw2Sy7MtlQGoyV8ptNNQdeBF4Os0yPiU-lPdbf8ihZIMmhpHDYGn-g5IWL27bjldjCCvYfeYu3xxCa3GG7gnPQ7uv5Tr8hZT0H16jfWmjAIDFDd02hI_2SEoCMIQplVrZRMQVA7NFEPFGujd59IpRKgJpiLoNd-BaCZfpIFxjZZjg.jpg",
+        "image": "https://cdn4.telesco.pe/file/CFotG-_xKkCAVpj6KEwhmMSFCO3yYhcfxDkn4kbIP-k1BgCkAlwCWiuLBuX9JAecFpDolgbXRMsM62GIAfBUol-Rm5oLHw-FgwyfAv-VJCpyBj9b5fHTWKa97QwbU0cC4JHGaPpwheH-Y-w9xvMsNNQoLZmzHr3YlksCPtoVhv05WwfmiD_xanBXTabBKPASC35u8-Of3Dd9XoUbPmB5AuRxmvbA0GokCQwkMUHbsvFcrPnTarGm0RZoBboEAuQpcjdkVoP3i9eZAU2dJRNGJF-Ko51By3d-Zjc96bBxVrQ3wLtsAAyNbFR1EMiOIBDw5bF-mznhFJI6bk2Fa3Da_g.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "25 августа состоялось VII отчетно-выборное собрани...",
@@ -2887,7 +2896,7 @@ const newsData = {
         "date": "26.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Jl_2guQFRcJ7nCu4v5L2ITSPUF_zlzn1rEAXEwJV3dekhUff0SX_wdwYBl9MGIWgCRkLETb4-uf5TxyoAg2nSI7bPh85v3rmbvFxHfnDEoRGeWuRfJxqth_TsSVrjjAI3wsYFv7R98qxdRuydrquu6ZtJF9NgQaEMzOc3LZlwlBufmiBU0ZtNhi39LJZPpv_DcanHvq-yRk4fzNXPCejoDAfiL-Qo14HN6zaJblLxF-5zoqncMl2ki_Q7X3m7IAmFYcB9Q7uOMhF4IXWp14rA3PID2zb4758L9NcriOSAgFstA7UKml5oKqvcyQUaZofC6dJWJaG4xc1p8LThr41RQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/JLS5qmrArJv4wbwCwu9liFqa7hzIcJxt8yPCj9JagXWunU1SI7hUnqns2uhNaOG2weZTxzft7wZO-533VFEcdWGirO5h_v5WlKIMyx2vhZs-4m8NPm4sh-OEcpEZTNyLO6u085pZUbUq2uNGQrU3vboJym98GEhbz5l0FQwgvfT2hBsR27lpgR1oS-QuhmD9inxV-v0hKfQngqPbOfWjrMzvsP_FQSNRw6HbH0F8e5fAblz7Umzo9IHEw3MDnlAKvj6jRS_fcH9mnPQZIvEFBajMR3gGdMYNFvsgtf85cs-QzuRo4AA-71NbINwlsZ4WDrBxCcrMUbQNypppDEdCPg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ ⚡️ ⚡ Отчетно-выборное собрание в ГУО \\\"Средняя ...",
@@ -2896,7 +2905,7 @@ const newsData = {
         "date": "26.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/DxyTX--EayKPAwWBkQzFBzuN0vJ7iBoY-hRBGsWHWz_UlntkRgHwcXYDJ8UpjvHh_bGTwXg3yT_FVoKTLi1Jg8GCLe09DoscEiAOnnFfKmSh3hVIyH0dM-nR6ydnceo2XvGKmRG8xtq-yZtAJe2ex3jmBgbDTHeD_cXyMV2u33c35Fc1TJ3scKsaugCe5lztVxWyGWBhD0B-V64c5QOXKDIuBmphVWPsN-ITnWOlrRXWwqLglGtfvpNTA8077fj91ZkNZGWE_7aQEHt8szulGi9sSuN9tF6hlRAEayGcro1PfaKh1VvIF6zvUhMeNWcWRbCHjGAhSQ1yA_WiavEXeA.jpg",
+        "image": "https://cdn4.telesco.pe/file/DvV8h8iDnwYT_FMjTNqSox0N33ffuoFJuMT-afJo-x8tY2cfMBPn826vSIHuuKadElNb5ylcMv202LAqxxkOFefQ31d0856-oXaalvjCuhD2OLHg0cywb67CKYsph2412MBbEeSYY2XVylNHc4Rf7QTPFBXsB80hsQDt8dks9e8fnOIJT5cesMKsr-VGb6XOrb3qLABeHe-U1CS96qmIV-RubvrGSqsoezJ_EG6KVpDovpjqppy5qFrHJOV5YJ5TYQM4TiPWFJOLzFAKCLQDWyCdk6knHOFuMs2KmQAfLnBz1SpStno8CKJvVRlY8lpRQxqGFRf2jGYWlgKx6A7SYg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🔺 Трехдневный XX-ый ежегодный туристический слет д...",
@@ -2905,7 +2914,7 @@ const newsData = {
         "date": "23.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Gb4gm0UxBnKOuij7hWty2P-mXnZeK6nz2to3ybFTMT7qmSZ5tF3FVXhC8LT5gtU4_9qL40VuAWg-hh5024Gji7P2wbdDQrjKFJODgbv495bKz4CSlmaNd_XSlqB457q-AIvVDyFOEHoUEDOSf_iBNL2daOQ5wpfwkJmgnVmGFMw2j8Bpix5AN_fVe79wqJe790dNWdXQJEvWvPBVa6DkuMUG2cRMLon7XGY_2CvKIP6L_aO5Z6oE79OUtZRsEdhmsK173PB2ID5g-WK7p8VzE2CFsmcshxgBTKF0LL7__aFCE0B-1YYrU_yfia7_1ejDjd2QXLKGN8W1feSekgZkuA.jpg",
+        "image": "https://cdn4.telesco.pe/file/Wxw6JeTCAmiUoVSTDrMfrGY88JlOp1z2q8uogN6Es9BbrmLUU7WSOCH0kH6Tskzdwh8GKkJYQxH0YOOyEqsEy1hHLRrxZu6Tm6KueV-H80KbE_QA0n0gTIiIDPnXPK4gWYTct3EQx5IAxvBQkyq5qCKeEr3pK97EFg1WoYmhzNLlME4piP1U8sBQEobyO1O673YLkOMY6W6bgB3q4m7UaondKAiX2b_kDlWIwJirfP5ZfAERRW3iz3Vt6HUTb9E7Cp9Sy33rzUfQsUyrf2G4JBwnMCVAKDOXg1NtQ92mQiLhz1Bwo8EgqjggKUVW8D0w0_tQbu4hpPstMu-3OuEhzA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ В воспитательно-оздоровительном лагере «Зарница...",
@@ -2914,7 +2923,7 @@ const newsData = {
         "date": "22.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/PvlhQArSFnqUt9TVCt1v0LjyWoG5bbV1H2MF8IWxVxAk00BEK_wCksP4gyRDcMbaT9HGITUlT44QbiKRGYw_gzsa_7peNJFHPQ0xYSn7FSpo7ClKpnnZ0nkH1b5Ic7gOMZwz9V4czWOIADRBI7XFMgUmkwHNGbcaoh2hZav8VmW0R6nPV9NtOqcD5p2qVdoWkr6UrR8asDnOW1NcvXmwT6QnM2bsh2p6ILBlTD13du5UiTFBs9HRiZGJXbP4nWZV-CnMoeixxEGqa6aqaU1-FZDH9RK3J0AhzisGthjB4SeobBJVB_y_4Bs0NciSGakw4M4bdcYSO4FQy5Mq0dAdOQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/AJP6fzhUyBkBifQaWWBk12Q6z9Avg9Qrt8eHBykvtG5esmq9nciMiSUURhaNzPxEFzKDyA-iBg9KkKOWPxIDx2Xjm5TDgBiiJNDlMEC-COKVdZc83zL4j-_aN6-8ulH9JOKc1iuW0SfELwnMbGPuV0iNrKKBlKpWQC-xExbZRKB5_o8y0EpW0PTpObHEIYuqk8F8nWSFeOGz42QxlZ-KtYqcjsxpfYeRKRVOK_4AY_Ldz8NPGEsHRZIu6bcynG-ndlNx4WdAP8_KYUYIkv2OsGX9MiMaF0sOOE5k9eiTXM0PXvE0TR3d90jkGra90PlC9haA53mnUO0TBmtJShUVoA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Смарт-билет БРСМ | Активист месяца Ты активный,...",
@@ -2923,7 +2932,7 @@ const newsData = {
         "date": "20.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/nbCC71Y6LGecnZnrkBkts3aVV7mQmnfKCOZYrK8xpmA0wBK8E2b9Jj__5xx5dh7aaKk8SEYFoHJxIKoNOWwCxaVDStL-nmoluNEPLlYHvjlqHTrQdY-C_afxpHi93Nb2ez00CzPGe3s8O_zU_G5rDxUdgGQVWgitEJUKkbFWBvP7p2qaz78Pvp0kget8j4CgmbDRVj2ZZCnmS0WVWyT1fsebxJL9hpjIvBmb5MxAeVfklyt1BHKa-M3Ku4PUXV3skKQqKMYQVfEsm3SE_WQyItxlMRbeD_hM012Pju-61UTHHAOopxDK8Tz8DKXadK0858e9j2cuB2pDdRSo73UF5A.jpg",
+        "image": "https://cdn4.telesco.pe/file/MjFynPKSC2hulZ7d2BsHV3IES-9cUCY8R6XGybZ9zUsaRTNCv4Nx20csWwQbDRXHTcRyA6wgy2cCRtyeb41z_Ty6wACuA7lssXVHIGnvI_qDJ9GX-QzI1_xHXvdPkts8JE3wvqeNGhDk2fF8ato8rH8QGXr6t1c0qXj0tZv6Y3lzFMShQ6js_nDWxByPGjQUQhmzDA9ZQDnh_sZcUZPMU1_NxHtIy6770BIXab2RejFfBvjaeoRZnwvYX4-FOHwQdjcCZpV9cLAkefFlWktJ8jJTkl577P7ITRQSYiALJjPYrmRmEkrlzNheiVqCZse7cne9EsoK2p60Aq6QuLzKtw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Отчетно-выборное собрание ПО ОО \\\"БРСМ\\\" филиала П...",
@@ -2932,7 +2941,7 @@ const newsData = {
         "date": "20.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fkDdsR22Q7qkT1_lUJEhPhQJM1HfMbOIBbZs2ITBaii2BtcK-tzprG6Uj8hI5DpC2bS5qIN-Uue18jQTvp7s5sweMjua5hIN7PL2FpDsMr5K8REemC5ksWLlHln5BwPetKLip83IUQspfCOEP-iF9yhud_4kL2ziOiNOlIsnzf62kaKJabfzCwj9_LEyj7qg75zwCxrBvzsAJ6yUcQB0BzKTXC0SL6-pR_GMlzHw8vM-zmzEV398oXKblanV04C-AuLgQDmcVRLp9R3gAsEy4kj7kLyvkfwcCqK0xZ12W4dgqfxRzny0_sDiSm6jssDWBBOXII7Y9U1-0CQRac8o6w.jpg",
+        "image": "https://cdn4.telesco.pe/file/jQE0yaiU6EsZov-1DB4C77NItbpj8m8XZ1oT0GGGXwbFKHB-e7783AMHhUKgsRB4yu3zRnjNlvKmhB3AhzCz2_hh31XH_oW1CPOTY_9Wfll16XfjOs9nbv3A6milEbm4QWAmr675lR0N_Gpm4BaFR7r3hgDNCbTYZl1_KFl8pBAakXnz9sDfJZLIpFGb49TCbD74R8DyRfae6s2g1o0m8usnyqPAP23kdnT4DryS8EtgEnbqwtwtq30OZ9wo6_q2zjmzL9kXm_9NDgnrFfNOlGqMYoYqwpDraIwnT7Jmb2kcF5Ofx-7gSbJHt2ETWGws84x6hxjTZUlLXtxGyar8Yg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📸 МООП всегда на страже порядка и профилактики",
@@ -2941,7 +2950,7 @@ const newsData = {
         "date": "18.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/uPbq6XsmqxW8-srGymgdXBnOZvUp6xnlPq3F-2LNPZMg2995i0Eg-GJujac_bBN9Z5oRmyjgUlc4MwNEdWJIQrZMOFbMFf2DlAnQj9z3vZPMav4NA-d1n45OSAKtysoNbRnP25yL5oQbFwH6Ta2hDYoGGz-HvaHCsAI4zKHqreemn0abFMdDu6b1_iwBEHSTKQCWKR6RzUKTaJjqkU3_xcozRMM-NzfkHKsYJok26bxop-zR8pINj-oJfcBUIUPQHKD3aBEHxeWtOVmo-EyXQyNrHrFvE3vHVx56sH5KtAeAnMGSeU2TLg5tq2EUzj6Hb5NDqI_mNYEnQfa1B2ZXog.jpg",
+        "image": "https://cdn4.telesco.pe/file/Ff2nSn_dQWfc_8Zp6HklnixVq9Dg1E8Y3Ptwr48OPzZ1kBJKhafsYznWefqLdXNofq2TsO73Sx674iUtN12G7XFkeaXd8ZkpfNjnxDL2t-P9Ro9dx4zEKxiFdYQz8vuH3wwC-tZdpun2WKAZTg9Fv4HAN0gb54T-o80FsiEhCpUunTUGf-ucwW6XxZZeop3iDv_H06NbSLjLQ7RPw2eoGcN2rsUx53LyM9FACiYcK5SGOuYhX-UK6cRw93IlZk8IdbUeP9jz_FyCSWz4-STyVZrqS-VQcEV0wQipkr0kmCz8QN_hxOTClBWpNW2xgKVdqDcL5kbFoktVr4gw-5tf8A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "С целью повышения уровня знаний о здоровом образе ...",
@@ -2950,7 +2959,7 @@ const newsData = {
         "date": "18.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/vbIqh3N8_QU6H2d07v0ezcVldfd1iUNQ3Flsw9VotMdKRFJmLIs_eKmw2UAGz_RjELqSbdk3HC9fxMXExAK11Nh7GAG7aaDLIxQaCrEjcBm632DHtkazGljnsuX_x9A12Zb9V15CihSmrxw_Uoq28ETDDE1CMx2zCw4qR0D4EdufQH-w_ML4mcbhoPEGgfM2HW-2aqGO_88rLSrIO7uH4lGv4CCgk5ZXrOVXmt6RLGlQuIW1qsJbFoDpKnP4SuwhqKwb1mZyIehZgUyINAvKaHKMNbN3u0sPm_UP9E3Am1yFs2-rT6fWiByvN7C5qjEKy1u2bEYAZnDHokNARbZXtQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/O-dQTB1ULXBH2nYPxzji_Csj8CHGU7sNmoPL6UZ-ePxZ5hP8DvO_HCZ0nLCuY3BlbRxWjV2PCGMtOvuRsSv778zZO6zWj3yEysBGWPnfS0r_tU2czy07k1d3SUAHcj4An-SjIa8M1X5y4nT0-kh6xMvFYSAsfY8hnASHPx5yszkk4VZZeFj8vV_NXV7uYzzUIPaGcPBpxrSCuVsKDfsHVtzhJ1HOaYqU89SRbKeAGf4JICi_TI93RqU-7iuOlFS9tJFwEYFMhCKPG1yLVXxCxGkk72W-ETffQ_YZ92MxlsTPEO6y0J54Scf3ax5mdmaZiVI1q0ZS3vVpperjhuYOZA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🤍 Трудиться - это круто! 🤍 Кузлитмаш активно содей...",
@@ -2959,7 +2968,7 @@ const newsData = {
         "date": "18.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/FpzjeddKQwiMDisl1S4qp-DixOIq0mX5yyn7rensS2BK3iG19p14GGTNrdhrz6-bVXVg0lVWeAni7BuK_sEozDfatU7caWWxwwd2hOdtWGj9m-tQq-HycZjUpzAxkPvWF5Ji4iXb7-II26JBeW7DSP7epNMFERn37-AiAHRsLk0ckUgbfmdG2LwyTB5-TJ51xEuk4dExNK686gmSdo2jicL2uvp8X7BfyXINgoe6znfdI95u3KxNRk4sIdpdpQZ0sY6g22YZXkpfqGidOdNdXYLRsFcRmEpZu6n-Wb0AThGCNMUxg1wddrePfKaHjb_RUbGjRWJzo9n6jcFEVBebsw.jpg",
+        "image": "https://cdn4.telesco.pe/file/oaX9z5d1NgU9fd12iXhoRtjwQ_dQHBZmBf1_OxOpVxunPDi_fQqo-QCA_IQ9ZkC2xg6fZW8BQgAoWG-1CGuJXt-cIP-JgF4Kn3VLNNXwZoQont8MtE8436cMM727d_N6F5r9UkbB17Xuj0p9ApHJS9VlPn1FDPxm_eX9BK6cONm03NYtVq9eFEvWtLRqxRDINGQ_MXKAqU84assVnOv0CDZKvtXmzU3Fv9OIdZOhqwUlThmpvPPjQ9168bHL9dTivz8xXzaducn95fKUvplwVgi2aq17HQ5ciAJQzmWzOrPGynZeR5qKBmmBAzNCmHwMQuq6MGktW_cbDEmpLo4uKg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Отчетно-выборное собрание в первичной организации ...",
@@ -2968,7 +2977,7 @@ const newsData = {
         "date": "12.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/h1vsmAiAyg43v_MOWZTDaoiVfvY1ORXU91WQ14Ds3wlXF9uCATNO-hPJFhBy-YAn-xgH1tx4JADZg_mlqzMJSrSjidZxnsoh8XzgtqRjyXWUV2M7Mvf7bENB1ThUtG9mY593GC1NJ6KuW2MDE7ir5TpY42kpN_RYakMuRSDenE6oPZygcYEEhdNStQw1zxUjXtHkd_TNG9lXluHJi_ttSGsy9L6iL86TLhMMkwPVmv5x_xyrnpCzZei_St24UmTlE7ft6aHT4z06N_TOo4OpKvGT012SWFe2GsNTHrxV2otVXUAfAPe2NfALuSq8OhFgMl5GERw8JMMVIzr-Mr7x2g.jpg",
+        "image": "https://cdn4.telesco.pe/file/j50F7Hxn2JmyFKuShJ277657OGvVB60pbeGb8ZD9N4h_npxgEbRiKxshgKw6s6Jf7RTVVcHi8CqF9mqzhLb4KcxXPM4FxxUP2cLObBgyoVMTxHmCwdukdmkZZrOMWmtSGOmWDgs7kIUxiP7UAR6TWepbmFi-O1NMKA4LnevehMS6wCN3ATkDZEYEPzidoNSk1QOQ7Isut5bC6Qy52BoEXtLmav1yBnTL5BS4uDfHIpWSxWr6BdnfhGEHJMVq_n-70IIKdWpo9Lgr6uXhgrCWzl9MT0pJHH8VoLjx1B_4JFNE_r7zN8IPXHZiRKDRii6AUvpzhqqw1an2DtDCCz-DcA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "👍 Учеба для штатных работников ОО \\\"БРСМ\\\" ⚡️ Сего...",
@@ -2977,7 +2986,7 @@ const newsData = {
         "date": "06.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/nq_aukOwTV75cX5lxCowdZBQ8H3p37ADP-NtcoDYnSlQid4kh7mINhSWT5x6OyDi6ZJ_6Dr0CCC_yzRbMLKPlGlnwJWqKsGQBpRR341FF5LAkcOyCTSP_p6XyEYOLhVcidPJ3UtvjWf0OAWCrrPsa9tFtrTf85AYGJ351SHyerDRaTtEfy8aTeKFTMZERZ4YDUXjhIVK1RVhf3Xg7rYrpBFiWhrB4TRq5B2szNQr8lqjyG2EgiqRpJh4v8tk7XdR4XNU7dkImJZtSP5acsRu0gVP-C7KZOs-DiojcdD4n5bPSSUkLWmazIAPIJkM0kQWaxta_dvqvaQFI43GB5iUhQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/OWXzgpWU8t5zBvsxNauAU23pdeHJ7LhoQ9MfENLE7PIIGKD8-Uv0L9TdmauvfZqmx9NtHccf47CVrnNfL7SbgC1plWkc_0kMzn4f41hdJPlUGX3-pdrnvuGCS4JSIUfSPS5spgrIAjPwiMidN_clgve2X3Xqm-rVkkHjLw6W9wR5VKTwHhMWzK44wglN0F48wHO6Q3GlOxDlhESEjydgzp2F6guiOtkRveMjozsoTvkfTvyHWHV5GGxc0KzOVSjthEDDihJwCrhPO_yS9SZI6gUA3gpAg9VkWd_wvGSvbATRgncLhxt8O0iDu102fKBufqo2avEkJl2VVP1r3AO-Hw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🔊 Розыгрыш «Смарт-билет в твоем смартфоне» Мы запу...",
@@ -2986,7 +2995,7 @@ const newsData = {
         "date": "04.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/B40cyvBJsZ13xJxADrFzyLLEkQGl20R3xtYa8JO_ItF5NLMGrBGfxsqYknHKlwMXABy_vC3Z0G1Rz5649UHFWoDalWU8irSwoq8KtumLggZV8Jo0GmNJ9ZR7IpJDyvtKR-AtkEnT6bMNwBHuZFLj7mMI6PkMlsKoioCzBF-ZG3FLi7cLgg7XHTPnEJeO6OUw9ay-iLydrJKhbxSNAhyjGi-kOQUBTMw1TqWTSMY4R_eHZtmmZ3bYpqyZKlZGBpDTVcKCqjBJ0P-clnP8mS1vX55keQNQW7KBKPJ6KRpX8ok7sTo-RquzV2ZIvnKG9MW1I_RKum7ngyrZUvTkbW_6og.jpg",
+        "image": "https://cdn4.telesco.pe/file/uhr-983V3IU10XDlL5TEc8h_512fPuLG21E0FQslLV45i6uYbPn6dNiPxhcMiOOIp0D8-qgoPrO0528R6cCGB_DVys-GvVXQ-NuWXOE1ETScLYed3EBkvXsvDxjABbxDCBjTs3NhP09Y7-_livQk9GiPTapKG7hSxOfAx5tMCK1DzuMj_fsnCXm5t6pduCE1ZKJxiOWzMmzIQurG3hYGCqs_j8EDJcLH5O5sqs4dEnifwANnHQQyTSDjfytNbY-_OE8pReEYrJKH-OKs4HatxLGRkoxHvNsqj_jGFEoXojyOMKZfBr0-Wi0dq56RTxbzuuP4SEFlDLgsGtzwyXU6kA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Брестская крепость-герой В год 80-летия Великой По...",
@@ -2995,7 +3004,7 @@ const newsData = {
         "date": "04.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Lq8E6f62k3dmIYjBfCSGBND22JUsJvOPCkKlMnNJASGPSaEmT6CjI9wwbwQb6G1chChfwgHE213JTfkKtdCM7xTdsrP5EhxBtwXbD6mUeErtvSpvKt_4EF58Nk3zS8ni64x4ZVRLlrY2SpziFdq0z55mFuc10VosCutXIskz3cvrs8geAT8UxHoyBbvWxttOlTu5mBVma2wvo22fqIpaGAmXopxYUfIAZr94cETEQNWC5yKwOHeqbgU2Ulv65tqn1miHx3C0jj2tD_Yq--wTq2RE6L7b_e3fVqOoqgvNA-144m4nB8NuGWdjZ9HeZGoqItWA4eMTk8g3VIfZGAYIZw.jpg",
+        "image": "https://cdn4.telesco.pe/file/TcrMg7HeLIMydlMWzaQH5vlBHexmbl99v0VH9M30gBr8B1R5DnXY2CRjpHGPt8TDmFpQuIB9LnkpN1rgNPNOmT0spnVxsB0oYACZtc-pgMLdi-T_gg2cCkydZblU_cNd5Ir1i39Pg5aQY59bL_15w_vDzxuR1YuL3PZHaalkJkbK-JMsS2j-_1FDcmBQfuWdw9EOlKnO_pEARKbkKpmJ2Z4p7RnG_jWhWZFG81LqWmnzfv1MPHwT7fLytj6swl-9cQRzli8j2y7myjOY3IakJ9WI-Brt1nny8rhSNrqIZOk_e-gQb1kdkjngHBo3FuDdvyHlZjbEnxTjEIi_FZfReg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "📸 Новости «Прибужье-2025» Два дня насыщенной прогр...",
@@ -3004,7 +3013,7 @@ const newsData = {
         "date": "02.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/YaL-xS3vgsiULxegmQsIMSMTmmTzMpuu8HMnFV9oGsMHif9-bV6B8V8IM5ycPiC_d-LBbhts_9mN65nH5vzBt06rxkGBZHXE_098L4QxNljKy30SpKc1b8Nca1_kN1pb4W1Ir8AnKgzlePBE3itIT1S4n9fksxL3riNyceESvQY1S_00NzcoVMnzq5EGRKxF7VBCya6RxLv0LzJ9cBOqWgYbdBjq_8vuLXpMZb0lbdkQeS9vLXx8plJn5uVx1sOhNN92e1fJeyUkXRw-yLl5dw0JDU74T7BhEARCrTclR1tWwRhsZO1i8jYletroxFKePW84Xh7jChC55fj7hEp_pw.jpg",
+        "image": "https://cdn4.telesco.pe/file/ul3A_RT87ZBLbu_4_9awZ5f6v07dHa8jvjxO4B58S26mpMAPbfD1xt2Csc7aPB4lfOb7TPykQHHoxHUJi_jqoaewMqC1SD6kgHw0_JeD-cQjBSSOBCXhUPv6mzm05gNyBV2mePkVLHz7wiwfXA53WISLxs17Wn9V6VrzdzHKPSC9bjx2Wf8j50fCqj0NXgJ2iy130cZjSd2Rmmii5708PyApj-uBOByZwz0dC6KhUZC62iitme1pyrfg5volVRk-n-Xl-nECb7q7yyOhRjwA28bx8zc04vpMquzaOsLiuGJH47k4p3d3SCcURUE_dNvpC6ERHhv4FuOANmIMC4DzCw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Студенческие отряды — это не только символ молодеж...",
@@ -3013,7 +3022,7 @@ const newsData = {
         "date": "01.08.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/mHKuP7qyCOUjFH1GQ_6fVSZKDOaoVXg4N6dEcYgnJBZrKp4WZpHlQVqph9Zx8mjlB6wlIOs-b1eQ2xNvXjeZiXTVCz3W4Cl_WG6DfWXf_uC4RRnNIEUFrZ12_85HGD6z7YG_0eQKpOMv8svLErHzcJ2wChM6nlYbqs0PKJzapk0Xjh7Fx5hDKk21p26x4PlNk5LTTvBb257TUZoib6f9b2a4qzlIVFK5OzKZNXTPkydGCiuuAb0wFYus7rrZh1z5AlhlaHYYXX1KdMWsDlfQ24ZWa6sO64DUJrhpqsl9A__t4m1R2cJSmC_b0HtMrfuHVJKVcoH8Lneq3rWjazLmmw.jpg",
+        "image": "https://cdn4.telesco.pe/file/sB2jQ1f9kcl3NFWYpvPd8LqcFEIkuWkTlIAewmN8aE4ml_ImQOoUE8OP-GWNmk6epVIdHqWOhf4En_CAoCopK68uGwfmo040lYfQZwnCOChTKuweWqVt4lKt-chpzF3lChtu_1uBSrbOAWdDD1pRO3F3-b1jvG36gMcPqlRath5lSIHSd9BKUTlaa0dFOcGjxmxhxanJ5b4cVrrNFXahyU5co0pYNJZj2kNuzov8OMU7NJQqOBa71j-FgFZoZLL4ZyXLLiwVmoOljVjxj1z1LaDR46tva3PQHE8WlqI8h3vWe9IFdKqGXGD8Tyls0YB4wpDZpmUW8lnps0HYT_AszA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Открытый диалог \\\"Студотряд твой шаг к успеху!\\\" В...",
