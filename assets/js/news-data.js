@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-03-04 05:05
+// 2026-03-04 06:32
 
 const newsData = {
     college: [
@@ -592,6 +592,15 @@ const newsData = {
 ],
     city: [
     {
+        "image": "https://cdn4.telesco.pe/file/DACrxCwV8vW9xR23TnYOfudv8b8jj-mjVVLqFEwfiBKfOokGTn0XoGVdG5RdN3SFrDDYplY4fJzu_WS975wPAI_uQ5s9V5sNIsiY0ulHn8AuiaK4REOCChP__DiuRzS_xbkyj1kP08XPaPOiNpzJ6AMDB6vljwfVo1yI_ZEY9jyGwGTPPUoe-K99H7owU98_d-0CGnoJKb7ozroh403DrBbeD5Kc50r8bis3vb9vWONzrMQT8TWiy_H1fG0-_uPY5LP3lZ8oDtyY7tO84lJu38lhZ-iy0n8dyLwqANICC-pv9ktgHV4HfzaQeFfuJz7jcnwLsx049HhxvwRrfWHl0A.jpg",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24",
+        "title": "С Днём милиции, уважаемые сотрудники и ветераны ор...",
+        "text": "С Днём милиции, уважаемые сотрудники и ветераны органов внутренних дел! От имени всей молодежи города Пинска примите самые искренн...",
+        "link": "https://t.me/pinskgk/2979",
+        "date": "04.03.2026"
+    },
+    {
         "image": "https://cdn4.telesco.pe/file/lTC3zpmPSIPQeWmyRKyYohUtgTsBZXaYIdAe9dldCNDSfxOXHxCRdCa-2ayiZtklPwXbJuuu5W27nSreP8LXdYAa5wm1YLCECnS-tVbKPcTsXOcoZtLTX7tYjT5ldocpiG2ldthAQtkW7qkDdpbNBTvzgZDxbnHtbZNLs2LQNz49aLxIv1qAyjZ5jHAKqOKmhCTtRuweubnBZ0ulRktfw320FExajeMPIkxcqpSCpRFZwq1qFRRaGSeNACBt035yxaV6QuMK0XXrIqVmM9w3joE1bTjlZ4YxbEV7hfpBYq9Ou52ViTAju4f1Xi-Cz2XYBDURUd7w7fQyOdnBYhgRSw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
@@ -664,7 +673,7 @@ const newsData = {
         "date": "02.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lRyy4fVA2jMDLapGfMH-R5GJKKrEnekQCcGpoFADXueEwEkd9dqR0b85EwyBTylUDzS6KuYb69tU3lnKjYWq4nLflhh-aY6DStuXm16OzyuYHo5PUkiuy2GIBOwWkexauJsQKdqBEiYVBx9JG8nCC7H1QhkqK4O1IoZNCE-PgCFNmWNfQJgtl9MTPBykwA_TGfn6j7yu5syVBHzAqjmQLDRkKK2QNfIVC_m1PlM3GmGaL3Wff6zl8_35pF9yh1ET0hToeWzTZSBA9BltKOrg4BsFNYfSOT9t6tMSrezkza3TXi2HBV66E_LsZqm6IsPileJb60n3O6GGd48r0LCpUA.jpg",
+        "image": "https://cdn4.telesco.pe/file/gxVG7m5Ql1S9pWEA4w3KFdMnRUJJ3RJoWACWlRzpz9oLU7LQ1RsaG1YGjXN3NLmxxOVL68vN6slKvIOhfIXNsoVot2eim4GYPpT58zgbMEZywb3G1gKPqes0SvoHFPdBjVm2ZNeCf4XLB0BxyMHx3H9HeUQk_0YewKOwbkkBrMmTwTp5lS0O__4Gzw-FdNJ11GFvwcTCvbkgHSimpu4aChBpvIfAh9Mte2c_eqP5rS4eL8joOX4NTTXvj2c00TkDnh0_0TNTAd-WMmX8mQAeMebpLPmzikcsOg_cN72kbgHnrMS598LfnvWznf5MXsIkUiXltcvFsHCcKTZoB5ocZg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🏷 В обсуждении доклада приняли участие председател...",
@@ -673,7 +682,7 @@ const newsData = {
         "date": "02.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/bdqvtTUBquG7Uo9zttSNzmtDWd0rS6nuxsbOo3ZSzYJj-aWKNBJ8bJXikGQyAeyNMGNc9hJqoBNpec7sYh21oXJ67Mwl9FhmREeCr5pfGXXouYRF-07koYCYuURDj6IsDBxc_ibyBY0KW46DayVFY0i8O93RkMWhtnRyHzwy4PvQDYTSV656dd_yvMnoUy_mbYY8mev2a1PoD4bdO9JD37ahMzaTmcnbDRJM4oLfR8zGHC9gk-YrHbq5NezcoLtueErACWoKYlgWmXza9nqRtObxD4VDCVAXVrf9eB7IApgg8OPidwq5qzzQArtL3PvAFvtLAk9bsUW6ZcSRT-btWg.jpg",
+        "image": "https://cdn4.telesco.pe/file/oE73uR2GuLJ_6_mHwbleUGX-FzJgcd2vMmqXkY0l7pbgjuhrK-x3IxOE35WloNuWcODLb_knD_AizH1PnnuIf3ZxCUkFKGzqAdJ-y3hFdmtyHx_AhdZ_UT8FbgL6MrodxcJ2-YAbWWEfDfGNdyA-zxnA2mnwIp08OPlHlXYumBQ57bJ0RTcw8-GQN3tjlAgSCPmtzHCRnItip80PZbnvxg6tuNgqOgOI1dwJscejaZ8s7fd6GJICF4oXRM4RLyviEEtwDmXuF9ZZgBU2xiobvdRUi1Sa6OfVJiI7FbM7MulGPIN3-cky6FjtZfGDWTkOiCnL7fUZI-ACXD4hxoBhjg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🎮 На волне нового спорта Молодежь предприятия заяв...",
