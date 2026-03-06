@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-03-06 05:08
+// 2026-03-06 06:33
 
 const newsData = {
     college: [
@@ -655,7 +655,7 @@ const newsData = {
         "date": "04.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/mwHtbbPCnFQzpFz3I-rWDuWOxC_3zHF9GAUeSmOED6PLUSg9gWAQ-0oKyVHeg413ki-Ked-RS9eyuyySAMyuj6c-zaNXTYtALFtmrOSJuomhZ1MWa6HI5Rsc-CCBM1cpp44XMx9-K_LV4LmN69yECJr-CzCGyb56fYjKl_eSRvfGCmKk-C8wSums2AN3Mo5hdPJwSe0X8siczxgwVCGhjYN7aTXlPupb6R00QNZpIvYYLgwCoAa-Fv-I4Bg17HRedhbDNApunZaghzIVWDbiR4hBnzps-2Gs-ccTLWbGoZacCHd59O63cTrrFB_ZOtAwemIdoWeAA9ku0dax_izaNw.jpg",
+        "image": "https://cdn4.telesco.pe/file/tw7MaFE9FRH_HzN5VDEKN65dmDDONG1Rftu1K-bIAvbbrjit_5p4IH0RY4ixYWbXW_G9R6djNR2gwPQKk6YR_fez1r-jgYF0uv1RHSRJ-qKz5PnEjroc4UHapgCfOxCgMctX4RAjj7cPpt_aqXrGOZbmexAjrpY74bg8lfFBz2w7S9D7OkOHsWMIyiVshJ8ZePAfNw3gUixlgtQGoYfkvkyucyBi8AzLVUEdwsV0bAG_03Bfx7ugVekI8hzxpijmToCANZdpr6BNY_J3lRTWeFsrjqmMeItUdmCqw3fQRdifO-Xj7FeEj-rq744Bn2kACsSqvCo1JcfoVEPeaezVEg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "С Днём милиции, уважаемые сотрудники и ветераны ор...",
@@ -709,7 +709,7 @@ const newsData = {
         "date": "03.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/ctA4em7924JPEN4ZctKJUxOca_KIMHtylK9SevFK56s27ttMjUIi6pRlq-deKLjAYy_2R4eIhZyh1gjFsyCM3EThsSLX5L5fI7Ib4kesQmqiVmgqO8tv3dw4SMEEH9maZ5AYujJ63Rd3azijHdzVd21FCIH3WaL2-LaNHKNiMhs5mnkCC1CUf6GktilOPjvA39FnLZEaME82hKNEXsBt_x_LoRp9t5YJ921bk2Qsi1Lc7uiiJb_mBPCKhmNeS7F7zvmUIKLIlJ-CcQl70kCv3gd8qkudURhSYPjCOCfsEOH9WmS_87yHXcqu5RpQRmW_R1nmkLSjF3e-GgaFQ2cUSA.jpg",
+        "image": "https://cdn4.telesco.pe/file/s_5Q_j6IAK29QzmvD0AafDlxj91wYWKrgJYDoYkB9vb4rQqrkTgszraOv2ACs84RA6Whtdgiyg8lM4Gst7PfOZACHP9yiL-fAZJZMaIQgycUUPj6K620UILF1gmS-RS4dYCJ0qIHoeYRfk2jq1qx4mBJwJqw9cbI9PMTPjX0PxGu5X09CoebF95Jc_RqUHPoR0MqxTM3Lz0n0JfROXilsWWkfbH-9JopuiqVWlqaQxzkMjscNJzJaE68SXkE5JLnj9K0Ian0eKbU2SGm_7QUNAgpEF445sBcd7rpSzvywUd-ZoUNAm1iA8bzXhkzckDMYlfB_KkRnUbEkcVmQNYgYQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "В рамках плана работы по военно-патриотическому во...",
@@ -736,7 +736,7 @@ const newsData = {
         "date": "02.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/Vkhckp-1NJAAhKbsCA0HBA2XPyOMLVyOtLOCo_r4BEVzXiQ-VEdqmyG5nMk-H93yY7nV4rkVFinhHnRUMxGnBubjilw5dV-pnp8Wp2KLay0ZWLMsCMtXsjjBn8Pod3SrkpCc4NvCpYAiyv346Qen-km2cu17pLjhfUMdRkPcnnTtksroL5MJrxKOIH-hQ4bxbN-D0SRnUZufDFlKUjHDjjZ_e8J71v4szFoxFMEdSrh4ival_yHM_PflklKZzCgLnVeCnDuPqDVeb04SuMqPZng5VuJXPYMz9SlReQiHs2xikz3rKLzMPOB-89mJUDsULLZaZUS2GcIGuaSHZ28l2A.jpg",
+        "image": "https://cdn4.telesco.pe/file/cpTK_nYIq2tnDCQDv8azF1NwLjHe9Lp39HpnVCV6N8xB49pIaBGLvDTMjY8vxACUyGwCRSrY1e9hh6bW_XCabb8vi-Cx3nZgGGxMHHBTAHQpd9yI50HCrZND-6n6T8sIaG4M3GnHHzHzXyqPuCU42ti1gV4i9biOfBAHjDRFG6KH16jh_WRabX581-g72I9C9Fc4kjoGEijHv1X8vZBbu7AEBN3gqTYrLJUJAfa2pEQuX-aP2oTyLP3htLJxCIQwlyIWVgEphWyofYkXT4vlq0L3-h0nhuIy6hvi0XbwAuQ-qGnmG3htd2RjG4hdq2Vy_FXjej1DHXzJn6rxoiOCXQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🏷 В обсуждении доклада приняли участие председател...",
@@ -745,7 +745,7 @@ const newsData = {
         "date": "02.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/BdXXKM4HDV1vZk29MIvxs_erHxY6B28UYNn2JiZviFbEkd-8BeybgjOhJyhucHw_S11fKlw3KhJGeYB-7tH4FKmNcx3eP0z7KXDeToZmPWF7G_rBCga7ULJdAOWTdNVRMzG7-VOX3cEKk53Aw44IL6x3NHmAEKArGzvLxwT5Rh8sHK4q8JZffRpmvojNnP34-8yvhBO89kWvoGKzfFZYY68NY4-bMGHKWeVpb_b4kCwh8j3fIUZScD6pybSw6IvppJBL21NG1WAMWSE_3e0gZvadns5Ki9aVzwoMLS_F9Ezm_paSOwHhUtw2e9NZ5ktXY_Nn5SrT0H9wvnT_YI6jEw.jpg",
+        "image": "https://cdn4.telesco.pe/file/S_HBJ4-3UdBzLWD7bg0enVAjPq_Yl1kRLlP6xdmcctrqlMuA2H4Z0DFhIHtUW4-g2PO8jqLNmAFSqUmeOF42FYCl0UtYAQmTQrHkDtQuD0FJuds_pjS0d7U1awoXN88yZ6QDTWEcbh3InRX8prTNUdbeQY3MLrFYmMgUkp4kQuiXrkWJPpwKW7PI0lMdfm2WVouWm_4zkrWaUgGOqwqj9ZfX-zX733hPIBuy0nykoYF1px6sIve8iu3u72IXQ_EXcUIiNRyiXvDIsOpq1Eo1cfrcIdQK7uWpRMA55zMiQlN2LBZHFp31X9lSm5PlLMfxSF6yI3cSts2l-aOl64YYnQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🎮 На волне нового спорта Молодежь предприятия заяв...",
