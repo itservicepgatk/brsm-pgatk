@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-03-21 03:53
+// 2026-03-21 05:00
 
 const newsData = {
     college: [
@@ -691,7 +691,7 @@ const newsData = {
         "date": "19.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/OHReYgumV67-dzNSS7wquOp6ipNk2j4XokiVw2hIsp2bib9d7AEfPV74zqpWCvXcUh7WDMp42WbObeGIH3t4F_QakQeJIkbULCAFhZDOSQ4w8TrbQ8S_t4MhFY6Ps7DnzDKUwpLBC4iMYUhdHS0WiP4zbdMSK6EvCtw5IFg4QmXGAsOngPYzoN-HWrNBObXUpY_BVUlAoS4sIGvMSz02zExLhUm66WLTUd2PLrD0RdIGLtLCTamnimFt1uOLG5ucTNjLP-0bLv0VqbPHOxqOkRz55XFeNqvvNxoendLTZ1xk71wv1AlCTWWcww9_VkdV40Fv_ErtzjXS2TJ_PQkhrQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/fVTevZlAIMozn0EzeXEayA7AyB8P-1h25WuDaZQBVhpZ8DdsdLgKkctb3qUhHoKhEaMCDq4UHcRj5LbdEgdKS4F3uyaYljjuyOrdMjXIU-fIUUEuWUZkzIiWkEiKBPjFmhF-YejeoI4rs49NHEmABfsaDciCsKH1TmEN8LsJH3zjcpNSPU_bgeyE5jmcBLghJ9jtomAG7g2mJhxOaRtub0L43jD8USIICsk6qsD_wNsSvL_tvA53MOYB0T0kShtPk_Ig5IXoe8mP3ZpCCD7rzd16Fy6heHZ9xbWK8QSQQoh65DSqtHK2VQEVaNtfRnJNC-K1AJP2oZECjXXq2VcdbQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "На базе учреждения образования «Пинский государств...",
