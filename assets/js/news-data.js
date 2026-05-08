@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-05-08 01:52
+// 2026-05-08 04:46
 
 const newsData = {
     college: [
@@ -158,7 +158,7 @@ const newsData = {
         "date": "21.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/mITdktc1b-KrBHxYgBEpVhF0X6Na8JrhaPGtoGHO2qVifLn1TRjYPQUFiYgnyn-ad5j4zJl9QXTuvjTbgzW3L2bzd3LtkTsyMdySd0AzAaMeLRfaC7-oV9IvXQHdg0fP6pvP58EPHl0-sXu_xWxbzkeNOu0h7b2lwgs5aAvX8ttsUeSgshVRsnW6khiMrLWrmg-pHeu1_xShI6glMZjlZa7ecpgKCo6d2RVkmbyTl1tcWzlZr6yIN3e9xjT7KFfMycIeyUsY18frjCYH1TbQApYwjWKFAk96QcDyaueR6JtQW54t6EKSRyBsyzEsJPjdLMGnVTVfGs1pYDG2azORLg.jpg",
+        "image": "https://cdn4.telesco.pe/file/ThhL_9NiZ3EMP9GdeVWv8qEHNCE20XOilz9PwZkwy8Det-Yez2s-thy_agWyO7HvEavwjhkvdkq6U9sPsTVqb08zHTfDx7bGgHSnO4Yk26qgmICF25oEnf8A4eSOVWTXz6WNmxc7ogi65OqAXwaELiNyDs3PgM9MuNuLtNg8MBzEQ_Yj72Eh_Fp7rJBIp0Qxm6q1-aAB-HRKoHRdTXnYMkzU03Fi_qk23604bz9VMG2DWebRczSKlVOh3gJwNxVOtQTKRxAqsETFmfE2hCrKNxqSogMzn1iLxzFpQgtuCTFc0KN_DkHEJDIH9ikV9PbJ6xyxLNA5MxgPbjXKzgkENQ.jpg",
         "tag": "#ПГАТККЛЕЩЕВА",
         "tagColor": "#2C9342",
         "title": "Республиканская акция \\\" Пинская городская организ...",
@@ -1393,7 +1393,7 @@ const newsData = {
         "date": "01.04.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/fjVRECvAeIwREtF_Xw2AgNFTyRQe5bwkuIIrNOTx9xFA1n3b31e6T-9yUpP0itZfsph9TarvPueSF95I31o7F4_kUhlz3OMGVKEYMNK9S77Byz83A3BMrJqhxxuGBk3ChRWNIKtaR8vAxgURyQZ4ucddEc3lsNSfguTrid9oiu4Wpxcwv8ANFmHjRRDVvoWIVi_D6-Q0a7OaLVli3lZ5bmeKR-hBmZUuYNgA7h5mDKT9dv-0AQQTkOql8TuETPIzgr7Jnux1JkOuFNTkOHN9Nu7aY2Ac0Rl8mVtlM2bjrvlwmpyxx_NUoxzRm-aWrpyDv3eWp4Nm1ygfSJrRBFdmPA.jpg",
+        "image": "https://cdn4.telesco.pe/file/QOXksXqJeg5KYv6sKQabmh_hHAxc8P8f7jiUePBvu1QsWRSGuF-k8CB6NFsZl1HL8bUtXMfrGBbhccrfGAxMPNKapcD1JBZ52Xov-sXrwPWKAzI1IAMGfiQYr6k847U5yMy06XCOm7vv1Vnd7hXhF9ge-cKyXQpYLOAIPfODaA97l0ybsVLvE0uZOlBPC4cif6NW_ghUg0lJPER0Y2x4au7lldxz6rmJuWVXk5KzftqOAnUcHdhq_7nUne6y6IeznlV1m2yXVZ9ov2ErRZGeZVe-QRLhfLtYxPo_TNMuplx-sHiUBEHEsl_UVPNxpo9U73JyTJXo1EWUvLUWzRPvCQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Безопасная среда: говорим о важном Сегодня в ст...",
@@ -1915,7 +1915,7 @@ const newsData = {
         "date": "02.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KmbsLmKFo-wT0zar1klmn0JO4VbRTN5cb6O1dZjmGFmS-7tj2YfpBll0ROuI7W6B6ATiRp2Z5LDQYCW-6rCJumK1wum26JSaypueSDFVJK5CsSiccXY6wH7MME5RjlWdwDJo9-E7NHYfrEeUHdn4vhcJcGnwaC0i5MVHDn_GFB0oqu4Aqaii5o8Sq7MhVpD5aLS7hvY5cO73N5KjD5woYAVAs9zTGWzIW3S_CSuusRCYwcfpRtgRZLrXaeLdtBLVyqd7TlIjcEs-MRkDAGkKqr1F1VC2o-B54Iw19qu6DLjur_Fq91ujifBIJz5jZPRoVBqtnL630B7uoZrcZGZebw.jpg",
+        "image": "https://cdn4.telesco.pe/file/OIaxKZhkLZxfDdk56SG4hAI7OAhk-rgDDBYRyB2STLFiy-TNRn8f0yYh5Xf8b2oM-BGLyGvivEK6f6g_TSDuinVReaZ5gyovKHAGLz5EPl0d6cfkIZ9YrdVZ5AMx59DDNsS-l-nQfazEz8YUUtCyz7ZDyBiPPJygMx3WvpmZ3vpm9ZA-KCaxin8jYYpEfPrBO76xTKX8jcyHp8QIv_BvHIQKvSKFg00gSa1clGteI72tMl52YgXesCrintaNgI3jVXKV76_HeQ8w_SBzrHLFO_H9Kvgt2wEALv0Ygchaec8TzkvSbb79ELQUtkpuEsagqWdePM_XzQoF8Ko-THK2Ew.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🏷 В обсуждении доклада приняли участие председател...",
@@ -3814,7 +3814,7 @@ const newsData = {
         "date": "15.10.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/lpaocNK1gnUaAA8worGbfKmZZ4EILFVODHkx1653SeWMeX3-qC67qi_tIl0SBd5SR7dVM-SShjZjzYRg3ZL0GScVhjQyqALCZ1ieM1Tj02HWyhlyRkNoPKl7FF-KeyvtbUH1pB4i793j7w2oOvZ7wjU0lB69O1UmxrzdOS_KIuck12fPTiMyhC0II7StBbxwXthX-xdHB4NG4Z1JNzlKl2i-Vk2dGbzjDKjHkbpIzgV2HzuLr-utf46nAp44mXDCTaTgBRpHmDG1AkYncPt8vIr2K6-M7ZR7vdEWPOSZw3AnwNVX-jMYVx7pCxK5w_jocDgBoR6wrV5QSJRE_b0HSA.jpg",
+        "image": "https://cdn4.telesco.pe/file/nEdERKS9Y5ljpwMoEnU3n5kgA1wRkPPAZf__Irgzhaz0SXQpeYwOLTciqYIv2ElO5_R2T_Scuq_rgnmss20cXaWZ4Uwdxks8CdDXdNhtrcsaJPrOP2QTAlKtd9DfrgbK2Tl5a2ghQk6DnpBbCVmjtzKX_Wa8GNluLtzZKTMVNq7SetX9iY71kcpBy9AusCouJGoQW0buDzNEF5Id3Xyv04UAhhdhsS2_JVKxCifVGfhqamZl0rUMk3Ya-jnAvr5yyvmL7rOznUVIeKpM-M3FZd-A5qUpRE9eTiYmoMNmcWQyPRTSrGy-61Atc5mfY6o1VdlJVjK8nRJsJ1WBLu25ow.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Помощь от чистого сердца ❤️ В рамках благотворител...",
