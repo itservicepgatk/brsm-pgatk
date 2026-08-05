@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-04 22:50
+// 2026-08-05 01:22
 
 const newsData = {
     college: [
@@ -4633,7 +4633,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/P6EjpXMEijnUfTGBHzBHtdNK1CiubqoC-yOUS0QCfmlunROFY2TebLLnbRnamNYsTQ22gPL9V6KEKKJTtyvHlmNiL-fYGgyySlCRon8SShg_YcHj8BqDokKwQQocTcyZcVPHVHXrNIRoXZaXO7eP07p45k8_g-nyuYlTcpCkpo40G5t63s0FWWK6A0BvoSPvS6bhPxvlsOd78YKGQYIDaMfKOwIaOLQpPJH0t0mZB2pZMAWcVMUVKv1gZbrDphZqiuCcWjKDkK0RzxhkDTbqZCBDFO_b7JH9lO6FXHWutGqnk_diS--Ic7079ez3nkxTUJiP0zzKt2OwKQU3NOZPuQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/d9MDFIg8_kmWEcgNQ_AHrS9bfoEOgkbixqT6uZubmnrDl7J_MzuLcevzcb01qLUl7-oi5cWzg3Tzm2z3UpIaZ3WnCXWgyAVmjT-5v_RSyYkcUzGjecVKBC-GVdBfoIWmGEfazxx2dJ4f-_MIgMEAw3xUNpOduFTjjSjs162_CbDRlvySa8HTz_7fsrWKMnIuY9wYnZ-_wM5XOtjhIIULTzqJirlMYb4INgop0swcj1p8w10oRA5VaSGy8SAOgpew0ZHkn9fWEClqd0UGYwNYRHLkf3otZ8i5Esh24O_-3kogCy0VO7DEXRNoQd4zGHJG4W4ieQrS1fvyxAe4U5C6aQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
@@ -5110,7 +5110,7 @@ const newsData = {
         "date": "24.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/eV7_baSsCCC7aocrwBJQmzzlTzyQfbnd9o6DqXM8WuowN9o8jyltnf3-w_tJ5SOp_YDihF02zu-QDPIWbyi8heptwLMxH91ntgWmGTC16CSYynJyR-aR4GE7LLTXuBQgk53FEG13rcUahB4sgxp2l2w-2AcD0mzmTM-BIuTy0dibI8Zewdzmz3b_8lwX72iZwjLEn7BM4XIjcVmSxLyCPmtqG0gbifS3LS2mAfsSqkMDfaG2HIsr431vNpC4xAGHvBl4QDCZ7gU-9RuftYkA5fKFr7FfbEythOPW0e1q3MWFJDeiIhceCti30X21Cme_rs2ot7RlJ2WrnUfhzve8zA",
+        "image": "https://cdn4.telesco.pe/file/r4Qkp8w9Qa601qin98y77jxtdaYA0V0lR4KVBSZtqer3j56YMvFw4pCFUGLxGSclqcIujUYuChzMzKBREy2KJbuMGuUNnPFO05bnRNzKXB1qI4To-_38y0dR_DVL1CAiftppnl21xzdOC3UhWEP2OkaqnNODbhZFf4CPJOTQR-0i4cqRuJ-Fo2CajM4Z6glct28imu6FiMka8C3SgLL0z2WnV-oarx3m_-tfcNxVcsJSprfZYg3aQJQbdVRNOp-Qck7Mv9Tq6OA8IWSZV6RZHN_KYbri9Aoj8Kgk0Yh4s7jaAsCL7SuaBTAQlDBAwwAzjx3BnNVHWaIU3TIjjXRPPw",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 Мы конечно не намекаем, но 46 съезд ОО «БРСМ» уж...",
@@ -5137,7 +5137,7 @@ const newsData = {
         "date": "23.09.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/exV9QU19R-Nu2aAnLwKQlpsuteyEUyXy7MyT8vxBQZKUc82CjpclsS1p4vjkSEYh8gzNUtfYdTdCcftCRxfA2sEBpsMX_EeoIdZT3B93GnPGjUVPI9jkEKoNAIJDkY2m8h0tI0PzLUTF4-nd4Z_S5JvEcadYdTM0kzYbdCr-GKeO36g5LDTo3PIrjkcjJwTDGVcF7fXoBb4nEUrc2RgZ3TQYT3q0wwJ8zVVIPiJsEKtpqovUR_0T0FoeYHSWMI3A-EMqLpZMraEHsjvoqqg5IT7bwrV1wRuOzTp64Z9E3-m5ROMPOZzEDRfqffjK4U_-khbYyfU-JUQd70npxVK-_A",
+        "image": "https://cdn4.telesco.pe/file/R4p7f9l1GAo6uAJRb5GDl-QnvqS4sRXES7Nfi1RLbVV3eKvQGgPY07J-VQbY727VEhX7D-Igqx5orS0D7dtJvgUMr5r7wllc9vGa6LQ797kIQkstuQRx-ojDAip75e-MAxPFCP-myKOo4svW-FP3pUUgHubVk2IuQtsvaJyDFBjuBBBhwyc1eZNrwjBy6A69wB-QaeOfv9dTJQfgoURrEZ5yjXhKnwTXgCn8-EbS_kdnKDgWLhzbhMxWOpjXfGALUkvHcBInjhwQ_PmdhYP9i4uCS4w0EjuynWeoc6e25gKFbFGxYRIVuKIVdWVtvRlOQqu8z9FhQ7315I_Av9Zheg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "😌 46 Съезд ЦК ОО «БРСМ» уже завтра! Помним! Чтим! ...",
