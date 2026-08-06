@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-05 22:46
+// 2026-08-06 01:19
 
 const newsData = {
     college: [
@@ -1087,7 +1087,7 @@ const newsData = {
         "date": "08.07.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/H9iyFnrt92p6zoNrm8W9wlNB0eMU-GI-wYfyLeNjSqEtehqCuWy767YauUpAWgOZg3fnfB3Lb2i-8Ga0HH5zw6c4DSO5CIOX_k_h5UhbBetYGSNeIUiUM2PJmRwKbOHqnPp-DH04CHl7MZ_YWBQVYVx1SfLnLoMDQEj92R9YMa1_veVyFLl6zYfEoGNmWqUlVBzy7Ey6e-4wtlS_bt6Z-DzgjgbXFoMKUC1_7cGuSvE6yP8b4-MOiOWAb_6JDpYKy2OLjAAWeC8ZJvVaOs3ebY1p2Ly4f848xQxcDmiEVlfppcbxC_aknEqqD-fpk71YnFNpkev1wG8tV6QKdtkORA",
+        "image": "https://cdn4.telesco.pe/file/ePQLR4eKo0AwnW4jD5KZ0ZkFFdr24M2vLEYBzWnMLRuwP1K8Xk4SH-IJ_S98dl1n5mGMrEZGqLsLw0Gao8tp20l1wrsTTmgMQgk2aaO1gnCu--XjIsNTvAe4NnL0mKQWM80r0BAA6CzUu__f5Q__B7Q17yqb_oemEjIxyvGzXfm8ylDYd0c-7bGnfQyMDorKltk4jPkiNg3H61-Q97awySNZvQ8S70d3DkpdSTFshdXk-V0JHaG4XfWZxzjFes8X0fAETBr2MLt7Up0n1FoA0CTnp3bsJJF0ojUOUqpco_TrnUGVSIR_mvEvxpPCguFWtjwM1NVVTVrSkja0ZZq1tQ",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Стартовал республиканский конкурс по отбору мол...",
@@ -4633,7 +4633,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/qtj6pZbI_2-P9QUn5aPZcehL-7h5bNnRv9vvzpUyfvQXLiRv0WU0oMJy2zT49fOvCvswUcNzkCEuak3F8GBGcbh2wS0Yr7-aLHol4hO3xb7IwLsbkgQ1rLMNzKMOy8YDP6q5HuM4mGWYJKQrdV7ZBIIBoXR3EavF_NqAOKchgKUZ-nylEhzI1GyRkrqSfTFWOAwPtICKi1U9_dr-H7BrJfcSM6-Yvv8mVXZSEB4AF3moF-z5cwiKKduvgihJEjHYisqk6KLCu3f-4GKMNpby2EuiQ9R0uamOvrR_IMkeQ6YW5Uf5A1uClhYs-Al0x7kt4PMjyWcqC7uD-IoDMDpPvw.jpg",
+        "image": "https://cdn4.telesco.pe/file/N8Hin8OzNCcO1iQ5uOT0h4_feAWUFsftJBlRwfnLjnfmYbTD-JpjSmzGlviDlM4mARqyvJZx7XjMQHh2q_xUDKDTa0_ujCRbe-jsFD_5Ff734CoP8HwP-79H8FdgCosDFuF5ioFboCzYcuLc8cPoGc7PwBJ10R3cl-1HDtRAxB5K8xUA_jCjpd9VpJVJFVq6q_bX8hwiUzC8rvZ6ea42rOiRvV5bAURplRiGLuAd3LObeyklPtEfhPID-5zU-WwI7LjAjxBK0kyIHCHLkYuOMWC43urmSOlB3sDLFtPN2nRAXxb6voS-2z7spY2FgzaOdLGg5KAxOTZ_2l3e3R4WDQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
