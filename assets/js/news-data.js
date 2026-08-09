@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-09 04:53
+// 2026-08-09 06:34
 
 const newsData = {
     college: [
@@ -844,7 +844,7 @@ const newsData = {
 ],
     city: [
     {
-        "image": "https://cdn4.telesco.pe/file/PGJ498WV5HyDI9fQL0Xail1j5JzQXxHKqXmmGW9JchMe78PMjDWBqR9F9L1Byi1FeMiO2dEJlhq27Vg8rwPFLlApEVh1K43dmSBp2I_kldflqn8bVfoiOQyMJSm5re8kEDuY_G5sTrJPd_VJiwm6HbOHjo_0XuDce5l89zj_KtVzorHSyOewtupjmvmSmSeIRkjQrK2orO9ULIxQoFcHmbMgcNKrCnjvzqovOEs6NF1-FVmVXHEYWyomXFwxBbN6Mi1E7PyLBUj67W6FKHFKfEkWO8p5wXkL66EGa05o9_SoRfwWML1a5B2AHNBo7jBtYzBAhMHSLjBuRrWg7x2_JA.jpg",
+        "image": "https://cdn4.telesco.pe/file/DLjVm5Sfh3YfImEjpZtRE7XE3DnSUWm_i6tCkBvTtROhNSdJ3quzdGPnTufdI99ZZj4YTf-qB__yaiCGcqjM3VgpiMeL2y7RbzULlo4eOlR-FcJCgJPZRxqCzP7MrAZ9C9rjRcgpLjlrzWPmS-rNxqeJA4y8kbJl7z4pXyTWtE5VBqwvtE3at-SV-2zngTaIfRDEGwufIgwAYlQClMcBGCgtluWA3M1xvB-ac2_uWYSvMH_KYAftjtceCT8nJjs3eW5MZsmkqvzMPLkO1s9GHdmup8d0RCsB0Jz_kbpxeWLX94MAYlunKJ9pAoTzk2KEbIkuac5t0kfI6xc3NUY6wg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "🌊 Летний патруль 06 августа бойцы МООП \\\"Кристалл\\...",
@@ -1096,7 +1096,7 @@ const newsData = {
         "date": "08.07.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/hJbbixrLkQunP30-Paz2YnNfbb1MN4LE3EAMVL96ZVvz4azLMi99nZTY9gOTGLalyGtCjBR9tk-ZsJeUvptzJqbbkyoAgfKfASWVeJPSkyCsgrbTl1JXtA-JxLRXe6zBIF9-z6VWGvfqtTmE3GTouVs-b2-kyj0-PF1D8cYbUg8p-O44LC52Djsf2JrsjbZFqxuuZzRdm2sNHP0hTvG1atgq38R71iNsnQpEvE89yjQclzGbD_TPRcwpL613WpHh9GaM632rSxsVQsbz28SoD3JkcvIll8x-xjCELNA9RjlgTZVHtM4kWflD6-N22hAnQ25p_O5l_0NRoIZkRLlfOA",
+        "image": "https://cdn4.telesco.pe/file/PftxmjqaLP8Gz7H7J43ormUGJdcklTjY03vu2enz0Kck24HjUqQAmbNnxXS7ug3IwmS_tiu_sVgv0iX-Xic9vJaFPKjwn3GSEsJYxpAIIrnIjCjzrveR_BD43SonIKF2OZg9pDVpWwdDikIRiHxDS-74uKTrStr0kIgz4nQ0zJsqL8Q6aXtkqOvqZ8OqsQQMc-O-d7_5T3AAF6ajEVcVhKCJtEigVswi6Q3WNOR58pvFRLbtLlUoRPLKmizsPBtIV8LBD8QByklPvUd8mm-xxgnbHQV1t8iSoONaFlJ-cjNU_63W8eKQbG7oOtS_GqqB_0QnXna0GM4NkeVAybfzog",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Стартовал республиканский конкурс по отбору мол...",
@@ -1402,7 +1402,7 @@ const newsData = {
         "date": "16.06.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/VImBnlNlrJtEv80a-vrrQvvkQxZSDxIVenh8EStynZST5TluGxkIL31VWGborZm_DVRnwTv406FtyISIr8caVrMq4gGJuaExjrBdbXRvw90Ajy6GVgHX6hYDy1g_H_Yrs1z_wcBWbjziFCrJdRRWk6iDp-cdQujab7NIRuUhNF9xYmAKYwng9NAo-X3e61tdL_IfiYoHaI0JSKs__VT68o5cgjYxK4f4mnBrWF6ZUKx4rka19E2lxDRnK0pOTyl5kbWD9K2jaxhkCnLu2HDUsJcfBlBFXp5SlDlB5MBR4VmLLTroaKu5ZUwMrkjSoS9cwqRBSsnDvq2KiaaCiD5giw.jpg",
+        "image": "https://cdn4.telesco.pe/file/EUcrjyk6MyROY_IqNk01Ywau_JCwu7a0m5nFQwKDB9zx9XiBLCZBXZOoDCMa5ti7SUKUYzjHjCSGLX7Sk5g_sMG_3EqewmIfWzMNupUqmRnE-2ML2S3jzpVLP3-BNcKvdmexUapuzoxp_-1Ilrt-MSQsVJXEFsB5zBALRf29BuJwwRUrR5gFySt78kA4uDp3Q89CNP3-NHGv72-sD_d0oOQWoYBeT9ZmLFT618elGkA6hSbSebaxDJhfPwnpReexEZhB39gKK1T4XfzbEeECteVqDYFBjOqNYrAaQ7n4eg6T8msGcrKQiLV8qR8h--iv7gyrBLMkjIJHwlv65v-S_A.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "➖ 4 студенческих отряда Пинского колледжа БрГУ име...",
@@ -2545,7 +2545,7 @@ const newsData = {
         "date": "01.04.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/I6xe2BQ9JUNQQ4CXeyTvycSvQcuf25fklIt1TWrl454UbIK4FHhBj2NgggL3zO8AgPJW8pTl4X97PDBpb8QLz9B8waJ6HB80znDWI8mh7IMuxWvxQDMs9TsvfixjSS06-kTguxeQxH8yQVlSVnKNWW0oVcO3SZVUDLzvBL-rVDELLi-m-c4oeCbkLxOPQhPbp5Rlg3ZC1rPpw4XUKx12ngG28Ht7MDMj_o1jrf2SkeQbcCuoXlmSRN4B-24KfsYTqoM4TdEksa9ElhaFr_VlJ15xLk5XntaPvi4tSZrLjUPoCnO_1WkWp5DbgCFQDdZN5qW5ZjsNh7BLk4-1uKPW2g.jpg",
+        "image": "https://cdn4.telesco.pe/file/SW3QG9NrkMtT9Fg6iSXJFfSIAQ6ylgdtT61N97K6O_uyT5vxVHw3vaVAyce8zSBzpGlOo-f5THmlY2MXFMqvnTZJQ1VqprYnDSvoD493qvJS-axXPtbi1_oKLxH2Gi8kUkZ9Q7v_paaSO3ESdQovEi8h6Y7D_PzysS5Y3IVqQlfCVshr9mc_1UR-XaYi-uw58DQLzTst1gdJFzFEllBupZpsVlrVRvWhrJDMfqGl1IoTM7feXyi6p6S-UQl6Lt7zhcGYVvXd3IqRo78nRm097Ooq3PVySZP_l8vbCLGAL5Y82yV26TqoJV1fc_62Q76e5Rle3P1NJ-aTkVnsrPVeIA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "⚡️ Безопасная среда: говорим о важном Сегодня в ст...",
@@ -2869,7 +2869,7 @@ const newsData = {
         "date": "12.03.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/emdJn6ARtGvttl1qNq1ihO2MtOhhx4b9vQy-AbYZ4lSJibduMTkVBHCJVT6BOvQeHtjCnrRNnP6-ZDqnoFzIR9mwzOTm_hSLtw2wOT8UQdo04ExiaEPGAEMGqBCdULD8sI84v-PPBKmtd3-mAsXp6xIVvsi4Oz1qhDA_wlEv--oGS643BZo-OqnMZ6r-RI5hPM-e2XbGImcdxC6ieziU3fb9T6lIRa8_h1iDHqVIbGBO6dEmdZ0LsDiuLAw_OsD6C-vbIkUMboUmgDEOq6b7qLRuYDwT_gsU43j_c9gCJHetfQqniUvjGsIfujxJMnkfLV5T2mGQSgGp7MzZRzVKKw.jpg",
+        "image": "https://cdn4.telesco.pe/file/MBhf3zb2at3j9BDF9N9_SDJzQpPTs80kuQLZACCwH9W-JkhgnL2nPDJO7w81UC7We4Ca_t8A2DXo6ycQX40jeakjbwoXjB503VXRW-6MylT7K-TMGoL2mMNkCuevA-ePwq5L48LtXkMRnR88vh0VWENpU1QTqBuy6-NEcEvWFy40gb5UPmq2nQmj-NKAfGv6oMl3v9l9or9X3VKg7znlwSO4ZFsgtU26rtw3CTbjuTwgzaXk-NG8pnm9qJLpXUTZbVRwBsOQcB329CqiCFUrSCbT6yCgYpJICqaT9VYMAcYAZsNkiIgbIu6o-Gg6zLcxEVt2HoY6yrOnWM8N4TxPig.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "✨ \\\"Пульс молодежи\\\": интеллектуальная игра \\\"Женс...",
@@ -4642,7 +4642,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/GW5IZnt9ysdXncKmtV0-2c9JxlWXXvQhBESyuZYd2uXiQWfryy-WTLnAKKWcZdbpFQnUd5OJ3HYIW1HLEuq1Y-Nnzg4frcAsrbGAW8Rj5XUakxbuQIFq4yz3GoGpnDhBNng9s0bJSIKqLoEY-7V3PeMvcroC--wo65vjqO-JvrzRPB-gYJFSTEPxSIVRpxt5bSSGy-3-9D7nudLGZDCfULqd1sCyyLJCmbgZM9uQem4PD4QUjqSPibOb2qcRJ4-9waEYUV9RJ_1ff5QYpQ-EV3pFKXHLQgkSqkBF8eklCcH-OmhFlwCeAtDvAaWM1S3irh-PL8demu4pi8BlqjIO6Q.jpg",
+        "image": "https://cdn4.telesco.pe/file/exlrPidDnhCzk_nf1KPkw9OaRl1humLegefhPclOzX4H3UxVN1TzySHGQVs03xnSlt6Vv-GluKXePvNOKg532OB8tPCBMv4H-IFizG95aEJiZTqxQ0COaQ1YXa-9ijQxOOlykYcjgRHhaahcR8fYwb0npoVrQvUypYgKVy8HuGwhjzMaNj6tQbtZLbHe1AbD3QDd2vpqfeWdoTGpRVU5ID8MNcwABpheJU3biCPxphO6xNx_zutVIworh-ingMoAfO65WHCeiBFkdVPZWEoOdp8NdiqzZ6BOlhMEO7mDBayu5cK6uy2BGYQf2VRGp_rZZqcTdGkxRBFU0wLpxiF5vg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
