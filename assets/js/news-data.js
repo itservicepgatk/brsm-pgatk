@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-10 03:41
+// 2026-08-10 05:13
 
 const newsData = {
     college: [
@@ -1456,7 +1456,7 @@ const newsData = {
         "date": "12.06.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/iW7M3HWJfLEEOEXYHTjnIMAhAtaZvRHsq80R4tV8mD-Gb8dXQx0M3Nh4Fi04YQDbsgQE9KODi73e-04Qz7D3QpLzbOPVu4Hrx1-tS1p-AUlWxqOYLorBc1C6GjqNJ-olo-xMf6yT-tMEyrRLim994iuAzrAeionV21OiPol_mW4Te2E8UVUdpi2doBA_bMazgl91gD4FddHskMZEmViQneQr4cn47IdSRfSHH5V97RljzDrGB99z6m72s9YUWUO5YpK1MfPbPnYjvJCqRnBoMojxe21mzOWDlF7Y26AcfyFUYh617UwXS8N3JErkWsM15EKQ_sM_7vQoKDdqFiHpxg.jpg",
+        "image": "https://cdn4.telesco.pe/file/mQPZL_wP_jR2qUYR98jHPh0z2PXAYpgFiGDkbqz2ncGZpoOBPCFq_HBhvS-BtoT53MQwdDE-00iOLmOqfC4j8PQNulJXeCkBQLly3L1cC8hLBoxdHHzEFdW7lhRCP5ogiX5O71Qbsd2LWR1gRlI9R8ofTaflPYX2EWoRthyP5wQs2R3w6xBCaGFhxGxE4uW72V5bH1Zq_hhsBHkWebRa7wZsB8xLukHn96dpHzI5fJnEvQmzNAolQcB9w_jkk_J_Hz22OT7hDx668SqedTr2yaD1D332LbHifbPSKRgJ2QvRzd86hW3N9xAaO7t1yfybiNNL6bnVnvpvoFuxWvupmw.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Благотворительная акция «Новая жизнь в обмен на кр...",
@@ -4642,7 +4642,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/KXCMIXIHYZb_bIp6j1hC5ZlhzAZr8gejbqCTHdgggowNnA4GYTTyok58KD2XErHLDKNkZgq578VktW5eB7D4a_6fdqNxYm332jBnbSESXU-MAEgAN2X0q_JW6c54g2y6skkKEAvyCF-PVseemKFm_6PtMx0rbAnB9XfywGdEAkfZ6KOqKnFXyDxODTsNQZMwPg_KzVwg39i0e1cSWInJQMp67c8eblmshcNHe6wiEMu-cdxJ-GYasPPcJtFUk2nSrXro_8AImFBPGBzEBlMzweCahYD0ubvrpqmBUsb_Tzy2oEL7IK0p3TqoWw_p9Ib-eVC-pbU6dUfsUPPCUKtmXw.jpg",
+        "image": "https://cdn4.telesco.pe/file/DJdi8KmKS67vkikDzXcQC3MJZcCLteIb0AX1tUDKd3Mh8B4qaLYJWwcIxVa2NRdDdWgcTSS9R3cnmT8_sek_nEbjZ1tS1YsBb-G4iRYeANSHTOIVhJnPubyvIpH-ujMWCK09exaa-H4jtqaYch9li7RXsUPBgh4QQhSwqmQmD-PqSI5cO0t1kgBTdDnsS89mjZrPyzEiz8gvU5BqozGufsdF4pFMi7driwtpNyBWBmmGvHB8Oj2oZlZzcMn31qkT9avAkKI-tu28UHW_BZkB3bLGfz2eVZbhaxWyEwAw3gzjyqzzWeUTIS0l55hiu1rRlA1sM_Ds9F9_ArIbhKS1oQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
