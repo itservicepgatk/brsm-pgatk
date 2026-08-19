@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-19 02:47
+// 2026-08-19 04:24
 
 const newsData = {
     college: [
@@ -2581,7 +2581,7 @@ const newsData = {
         "date": "01.04.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/iswTV6B720C96nrpAEOKCggk_G8Qg9jvHMc-TFV1DBy3Ua_TgzYGlgvFZUEXX18n7TrjcjIIelm6tGxJ0FL9fajUrWNKTH7yJxXsXcNCPCsN9sXN-M1G1cuwNM_3DaUp-BWE4T2vStgEfMMLJzNzIZAncD8ejT-gjVgpeZtCIqhE23yMlEjMUD9PK9El99WhMxPsxalUEheeOqrj1hOUHXq7XG91YFpnOZIpkZF92TrvdKRzu5lixIINLavB733ijgamaHHso_jk_0aeNJmM6vBCcpkuq9ao4ouEoJTz6oOmFIlcQAhOjFYTSaDEQsT9CqGhG9UjYcCOtwJUyWXPyw.jpg",
+        "image": "https://cdn4.telesco.pe/file/F4oNmS9AC8kJDlB3aHR2o60CORCz_XlrrZ0geH3bfpaQlPtubogOtbAvfzxelgCnAEmDHyzjiSUuhBYCv6tLvbnKcVG3LbhScLYVDXlFiY7JkQ6S2jkrnqnjcY3zOiTDpD6ApHnkrFAOEgKyT8EGpw5gZLr4_TpFEbW2nejWkVdpgpDXEu5saXdNxxnI73eAOT-cZawfLvvig9Vve4IR5_dbcBuzTIK536TyU2lxXBr7nDycX6-B2E5i_895G5eE2QjbLk1HQOvi6FQTSbN9_HcBU-2bX4iwRNT7DEUCZTHbPRGvDIXtpSqMpnIN9LGh1NfqGvWZ2_NZeX6A8B8XkA.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Медиапроект: \\\"Не слабый пол: женщины Беларуси\\\" ✅...",
