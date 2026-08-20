@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-20 02:46
+// 2026-08-20 04:24
 
 const newsData = {
     college: [
@@ -4741,7 +4741,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/G2fW9uRPb-EBi4LsOdzIq8ci4KyXTMtQxGVf5rQ09uSu6h30WZSi9UBIfaQm41zafA7zRyebzjbWue7d3K34ulOweOmM99CWmhtR_PCjZpt5andYYhWQwdZ03sd3mOjC1_C5NcT8vZYZ1gRV1eC7700jqBHbu4IyBzn-eXrMXkiRFZtn_UOR0jOKRLTLOrnmIPJCM2SojtS1b8SqsgN3leKHY0vR9zsqE56yJrqYjJ9-ZpVrDMEdtDqv9dOSogdi9m2ru8fUUWUpEMgNjjbrDWnZTSoMwfgTwJmwlczrmazZQTqBkyyY55Mk6BQe8LBTKug8qCInCY7heyN_SiEidA.jpg",
+        "image": "https://cdn4.telesco.pe/file/tEQoMPyqiQ9m_SPEBMYGgeKmguJOp9GXdV69pYiCYL_Jl-8zRcyN9ACUL0lGDcUHOpAgmQwe0BZC71zO50le3xiausY89OLU19zORVgmiQmsth0WC_9SaGtdIoqMOvXk7nX1Q7OH1rbEnqO7D5ZjaU7X8bl1Atfmx8t0j0LILjsstl0ka-OspWinJuEExVmGVYfq4RZIglGGjKN4eTkPb8Pn64Bn5VStwCR3hHSBGvjkIAk3YS_eVLRl-2Ha3S5OHXwpqPBKHb0zCk8aO5tK16M4NhFd8AWX0y4KCDlqOMF5MdZ8Ia4Jrgbi0AjG_YVGVTSY6BhDPSXrDsgZQ30GTg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
