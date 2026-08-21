@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-21 00:34
+// 2026-08-21 02:52
 
 const newsData = {
     college: [
@@ -1510,7 +1510,7 @@ const newsData = {
         "date": "16.06.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/JcNzOO94eYFsnwWJaEBWOOm1gY1s9h_K2g0l03e8mXnx8tPt9YVDyy1bSG-xoxoah5KvKzy6RZK6aN8-BjVmT1itCtE5GFIjv8xAuVLgwjPJNPAHEC8LXa6oK_Elx3P1Dsi6BtG_iOSvqe0_EORMYLLB1lScfqtqeWEx7IttYS7MPc8UeUB8ruD7gcOLNcV-ytfqKkE3o1xcnGNqfQ4NRupQVDKBcc9FUf_KNKu-9leG_lxsuOPQQi5dBlRMBek-kR9D4jXRqMjYfczfy6Q18sYdFEYEGe0iKWDjQEamcDZWk1GVO5C_BKJtTE5sovhsZGlsvtFq9EJpzfwmK_fRoA.jpg",
+        "image": "https://cdn4.telesco.pe/file/fslBuJiHC9TYtwKCsk6ziobNx6dnvH2HlyaFYAjmzEMz_vxeJd6kAgEORuVQpnk8XoVTCfcGo8Wbt7yMhdj1eXuAlo4f9_RTr24qNwbvkDxzS_ZoHYR5-w-KLvTuGwKvm4uXFWsZKK8BTTl7IurW_qfN5mgcIGE4Me23Vp5ifIT-CMUoMATKSzllD_JP36NM9QiyIjr1blhA5elHtfVGlLcr7-wCPMQYpGi46dUUS39gq1Ix0GZeUmWLLJx1LMLjHQjqhR_jrFZp6iBIjnMwYTZ736pVrApQs4tgEMRW8S-xDpXQJxkx4MvWfk0TOJVh_Medol-lsDPEfKoavoWblg.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "➖ 4 студенческих отряда Пинского колледжа БрГУ име...",
@@ -1771,7 +1771,7 @@ const newsData = {
         "date": "28.05.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/TXeFNuiWSogkZDMudLd0e5KVKI4KXslwGdHBnmx2s40YhX-HROaSj10oRkCJ0Sz7jvg6mjxAzxCar6v0TQO_yTP48FiNrUqx68qQF43jTS_ufb8q0r5FBh0kbztbivTnRCcJ9re6PT3tQGmJbuNLsP7RiY8gt7zMYfgseW3LPI5unW0wV8z-hPjmUjQ3F_7BxOZFfgZEUp79bHpkSpz8eQykRYy24tlqFvVebbQ9Y-QbOnXg7KPrJptjsIifRxXZ3yha9Fs47n-QsmQ8mkVnuInhxHstdH5rWykn3CIQe-3OjJXF0qWTHIlVpkNkZTTImYsDMm9wbT_COeOTEXuoNg.jpg",
+        "image": "https://cdn4.telesco.pe/file/hxFJ_q43FjNNZdfN_FBT3vHvVkfUlC19jjziEXHYKrZNhC6lHt2D_JJIZZXzKIpK7uV02QTUEHdV_0Y6LamJjBWt85ovHvVGDmG56OAZp4aPE5PWYyhAfOo7JpFDzUlzn4bSIhfLZaf-RJX72_d23VU8oGOZk4mql8VKZ1JZTKqeqrsQ2Pj2tHS00j2aPksGFHr8QmBTL3xreAPCRFEXYG_eg2CcdKeyWfleG5q_F1ZH2L-NG7FHFc5u8AHtadWofhp29W-hz1sWuXAYvWQmC0Q6jeno_YR5SeB9XmzSZkHrKBSkzjlI0umYXdiE0sYgKQNrpgE14gcYkGClz5ZWqQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "💪 Говорим на одном языке: Словарный запас бойца БС...",
@@ -4750,7 +4750,7 @@ const newsData = {
         "date": "13.11.2025"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/qRT_y_xEPzA4EgsuN32JJkKiROzPaerxWhHoU1kRDr_mQMQpLIUmDjLw0Vwn1L42-rAADQTUVsnA2jyxssrN00nv0TIcD9oThUrYh4OKPD-woYELIHCI2rQGX4abPiTLO6HFWSyttuuMUQOf77bfS1E3kYSM1dZoVxfaam3UhfjFpfueZWlkX7SZiq56kbkThUuZfsaAzU9J-c3u1NKHKO7JCHm2ILBK_cwEvGQ2Qh0TfjN2rPVSz9UrA1Vc8a7mltPSB6J22SW-cIXREgzsNevtEL_YM4DN0tV4gPlV4Whp9E4ZjIXnWBDaZPvqE3RMcXuyJuCHGxBaMy7yMZhShQ.jpg",
+        "image": "https://cdn4.telesco.pe/file/Q63STbQS6PH48zPXZXLGZh9_k9JS9uX1UIGXG9n-Jp3y4STPPlGUTM4rwQUfbQSOOqEZr0qXAyX2fm-xO-Z8qG1LBFyBcEzxwrsMZZNC5QgbC5hfpMKGzgijrVvvTH--GRD5zlf4naB7Hs57Vp_tdu_MmSuY_btu9xb1PndEDOI89EH5n53oIXFQn_lQ-Uq-QUPapLvqqvU9Cj8FE-5J4v1ez1UPrIM9gMw37zXclLDyfviyzWSVOioJpMNlqaUfd-c3-2MIfHpZbO9FFzdTIqzcK7XcNYk27xyqYLcuxfBrVq2L5RJRNFA9veJVUWI17YSfqlkTFFp5iuOOoPeHKQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "Соревнования по волейболу ⚽ 12 ноября Пинская ГО О...",
