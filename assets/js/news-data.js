@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-22 00:32
+// 2026-08-22 02:43
 
 const newsData = {
     college: [
@@ -1510,7 +1510,7 @@ const newsData = {
         "date": "16.06.2026"
     },
     {
-        "image": "https://cdn4.telesco.pe/file/tFqJEPtR02vFyogb2uHxHh_w-CUuqEocTdXZMeC_HDnGSF0TgzdUdTLmYJj9zOc0ogmS-9uEhHLXPx-A4CgDRB843gleJttby4uXxxge8x08Hchjj94s8EveWZMm3gTnI_enDnROPkPzeQTQ6OgLLWk_Oz_XEcnKp09sHpLZCNWnfMESsYZLNc-5Z0MESAWoB9uQ9FzdDqfmY31d7dQ1rxCkAnNDV31nMMSN25zYta_Fs-8DRcjnttr1gpUJMa3w70867IdV7bN_R-ZdQj4JO0UecIeKoN6JjW6KMJTpoDPgJX3bNtp00bjXrCZkxsMotNtrnRHcXqZPj5Psx8nJag.jpg",
+        "image": "https://cdn4.telesco.pe/file/qd3a2JGvH55sDmjuZMKCFy0CK81wC915RHaSh-OaAOO4knZvznXMp5YIcixb3M6Ulhcw6T_-VsaE_rNh_M42qcZHPd4y3DNnsiRkF23cTO4RF8yJ8-c0WbgHSWxQKK2brPxpSVcGE6AU8ymSUmsgG0fIxKMq4VVyvAG63hc7u7PE4I3vhMOvtcy8TyzfrqRvTXx8Cp_wHQn2GvWS7RIB0N-1LR0d2kVF6bOuvSqvC0VpMuj8We06JiAVVIUV9LacMIv4aj_YLKy2EKfCPcl4b-v3SPWCiGHV78KRoMrQCJ30A7O3gK06UAsSjbDQgeEndMpNSTJSDixrCJ5-AaitCQ.jpg",
         "tag": "ГК ОО БРСМ",
         "tagColor": "#D91D24",
         "title": "➖ 4 студенческих отряда Пинского колледжа БрГУ име...",
