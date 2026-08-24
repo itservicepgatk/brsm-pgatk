@@ -1,6 +1,6 @@
 
 // АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// 2026-08-24 02:53
+// 2026-08-24 04:33
 
 const newsData = {
     college: [
@@ -12,6 +12,843 @@ const newsData = {
         "text": "⚡ В объективе студенческий производственный отряд «Колос» имени Надежды Викторовны Троян Студенческий отряд «Колос» имени Н.В.Троя...",
         "link": "https://t.me/pgatkk/12332",
         "date": "19.08.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/ph5MdMSW1-ECasvBIWrx_4q5kj2A0NJiuAxYcGPnw-sBo6kNDFPLPSjWT7RgJtdK7DBau9kR1ORGO5YgiKq5KmTBaCu3hnd6tTbDZp0RekoLGLa8vr9Vc2ZQOT79cztBamehj8G-n6yJDVlv5Em9EqU_uMg381q7OUhiCqBqCIqaHeIGA2JM3QJkZA4mZcyk8Q9qZJSjoUkX-jvDgC3RspgPDmASr-2yCvMLCPByas1fDcpvnmPvu0U-8ptwkOgWYMSI-qe8Lv48_z6EsCznOYxV08T1XFySg2VMsua53xgdzeyPjO0gn1nfZJoc5KBHQGypZBFnbkUZG9vhuNp9IQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "💪 Труд-крут! Студенческий отряд «Партизаны» заверш...",
+        "text": "💪 Труд-крут! Студенческий отряд «Партизаны» завершил свою работу. 🎉 📅 На базе РУП ЖКХ в период с 15 июня по 26 июня работал отряд ...",
+        "link": "https://t.me/pgatkk/12162",
+        "date": "26.06.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/hbVep8v07_x9lcDV1gwYoJ8UPOu265VbJtmiJlC6yshzzX8WUxmjR5K5eTPXAm99KNiIZqDgHoCJcztYEJKeKnrFM9t0OInn_SaQ5tNYqc3c7FGq0jbWKjdReyWio2K66_Fg95lZQTsSvbp-XyB3fcvwEvkTU2I_Z52y3CYpSA2G17hR5swR5rkOZ7r_ZrG6Gi6obj9OyMkhFLbgbyhcUjoA5Q0ANq5vE-r82YH1Bpf2Hr_QWf_8FFq9ShUuOxWgnKlsg509LMKpJHeiM5oz8efc6EsflVEuz9bEJdppvnNEVgVYCwZbfRLl_wHChe2Cm5Wwcp1WrYmiVowu7n7aBA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🌳 Волонтерская акция во благо города Пинска 🏙 15 и...",
+        "text": "🌳 Волонтерская акция во благо города Пинска 🏙 15 июня в целях благоустройства территории города Пинска и сохранения историко-культ...",
+        "link": "https://t.me/pgatkk/12000",
+        "date": "15.06.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/te7P8h0Uj6XPteg_bvCv5pXmc4oiP0bNSXfTxmDG3nwk0CY-n6iwQADaU9aXxC4-u1wgnvBO2E9SRNz_asLV8FODAN6dXl1-J0Tdx98LoW2Ie3QpOzFeiEhTSRV6TJ29nqk-nN9yzb3jxrN2UqSKNzvznoPBfkijhiEfY9jhAJvTq45AaeQU0-nmCgF1x2C4bk-OC9StWoPqcMYDMDhIZKIK8-JyXi1RbCOjyWax4ZnS_7LbsTluPyRS42OpWfNSEX-zrBbRlMvChAaGeB9Z9UCsk_k0RdJrZ_tyqwLGdkKOJaudrZaJBokLGHZsCFJYW8KJ-s4AFUl_haR4JRtlqA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Республиканская акция «Летний патруль» 🌊 12 июня п...",
+        "text": "Республиканская акция «Летний патруль» 🌊 12 июня представители МООП Пинского аграрно-технического колледжа им. А.Е. Клещева  прове...",
+        "link": "https://t.me/pgatkk/11987",
+        "date": "12.06.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/D3ShuPBuJt7mc4j-qY4xckOH2bp_hnJ2pv4AymuuoT82fGYM3wk7di4YT8G4rmxcRd-Bjiq5ElUKn3eqUYvqMeSiQ4pIhLI7vH6iFwNH79iS-Nr9HUuOzfVNUi6qnul5wZEuv-sW228CLwo-gG-sG_HA7lkjGQ79bnFMm4rc-vtuxtELouBFtjlphzqPgtMWyD8xA7nEEVcfPiXpfLpMmn2gci7ZzwW2mcJJmIcAmw1zS8ZPnlh2_duvmhOpfTZOiqOXSdxXPkTIWkSbUAqc5ajSMuQy4GURmwbdxtIbwiuMFVPNaEWEW_ECBPSoJ3o3qEWpGxT1snulFkiNdUX8Aw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Благодарственное письмо сервисному студенческому о...",
+        "text": "Благодарственное письмо сервисному студенческому  отряду «Партизаны 🎉 Благодарственным письмом ✉️ КУМПП «Пинское районное ЖКХ» за ...",
+        "link": "https://t.me/pgatkk/11940",
+        "date": "09.06.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/EA2QV-O0qv47EHbd8VjHwKLsE1nA3n7_l6mAGBQctmYhF37JXhwfAsIPaD0FUV3sI8nm03vJdqvyX7B_Le8Sq3NWqWtmEJol8P2S3q9NJ3od59mA1cSNRARCEY-pL085aV7VE5DuomjLNlorlg31p3xOCleXhi4B-_FUjn9JjXG2qzo0ekBYGWL-JjYdxYdppdvsYKBQFgsc4l6F5bIR1OsAQ-g6XbM2VYnWvQi0Z3tdWfHbC6V-yUCKTZ1axQ5Nls8w2X2ahZLp1XH0zNMF7h6Wzpdp-ZZpRWUY5wIYrPwodWfyqn_PkwmyX-PpjUResA_L8j766o-GGtAgp1DD5Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "💪 Труд-крут! Студенческий сервисный отряд «Партиза...",
+        "text": "💪 Труд-крут! Студенческий сервисный отряд «Партизаны» завершил свою работу. 🎉 📅 На базе РУП ЖКХ в период с 25 мая по 05 июня работ...",
+        "link": "https://t.me/pgatkk/11924",
+        "date": "08.06.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/GTgfqZWJbQILEpLJHo8LhJPHgjJQscKz9IZspfa646m4Kl0xOpT4e1zk3xh9rJh1jcW7ySkeqNU6LR06m_IeUcAVKOWxZ1RyRqMfvmFnUgG8u6JHcUDc-mlByacHIj3Xi-UrYKbruIlVxuAcDEyTEYA_QruGnvRjcM6sx5nZrGHn8eStwGgW7RuNZVkon_Zj2fgL8NhRJbPFQ1DvHZA-JPo2v3C2BA4mqH5-ieYwNUGoK_XsKnfKCITjpdR6vvukjutAWXUZK0AYTTVr4SMmc7q5yJ9O4OCWOY-78DTHannOZWIlxroq8Ul4rT7FihXerfWaE3s6Yb56WLN3LnO6fg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Выбираем студотряд! 🟥",
+        "text": "Выбираем студотряд! 🟥",
+        "link": "https://t.me/pgatkk/11910",
+        "date": "04.06.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/V_ATY5wszH-B3juxGgYq2qcwAPTqfkUGtxBKTjlaCWQSuMV-OItOvbsUq5JX2fwbcyNHhBG1y80X5S9zZ-tFNQcqzPfM46ymYBTfPe7X7aITShK7lRNtGiIQfzJ0p76v1-L1zn7G96z4BMgaXetdkU3Deot0krIjgp49n9ZAQBsPJ_erKauyv0nR1fq_kXprvRBZGB5RzqNAnkyq3NTqNedHd2rekTHS2S9XkvpbzTSaeSA4LvD78G0uM3oEal4ykRoc0kaGGOrteYWwYslbB1Q5BBAZbFRCMQyY7joj28MSsAQ1RagCHeKY_3Citw6x35AWtOu0iJ7ewFuElf711w.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Новости колледжа",
+        "text": "12.05.2026 на базе Пинского колледжа УО «БрГУ имени А.С.Пушкина» состоялась учёба секретарей первичных организаций учреждений обра...",
+        "link": "https://t.me/pgatkk/11653",
+        "date": "18.05.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/HDmLMYVeFOACk7Soka7Xa-h_mcAX7rJNgkTCigmRxTLMDRfAnDmvpeoIdIGUEI6vNEd0cSNR2ss7BQ13AmnheOg9L0Bm4tSp24jly14Sto-W_QDzl5a4VJn-5aSVgu4AqNLDoGpuCdUyIqN8sH2POZytOkoP0iDVhZxv_JEXLYUUvMpzclpGTDxZjOOGs9cnpm5VeZJZYYXv8czLHIMSjYNZRlAneZ35Yn2qd5EPX4FfEIBDeT4l31pLst5kqKMKrOBNSNkN9CVeKqsTw8ha--rdNFusGiHod7GWoV_HNm5fg0wUTPaAnhlNLJuGCD4HSA76MX48fOy4pvw3XrV1Aw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❤️ Первый регион — это регион людей труда! Для бой...",
+        "text": "❤️ Первый регион — это регион людей труда! Для бойцов студенческих отрядов Брестчины фраза «Труд крут» — это не просто лозунг, а с...",
+        "link": "https://t.me/pgatkk/11480",
+        "date": "01.05.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/lZa5SMeVcruLrVaxILQ2cHVqqQ48vDPUvzouu6X9ilM0yIwGr02JhlpwoZTFuerCAJf3tjE3Ue54QLdZ-xzCBa8lqtYw2URRpqZPGYaGXRs4rLqHVjxYQhUMLIolfLBw8t90awwHeEsLaRjcnnx9CtVfp0nbolVIDhfjADaIxHnZsrxvcjm6VZP-xKItJ60wcLCQIxl64HxL0nZ0bBBctXULJIVFfi0mqhp-MYWS_RKV51MwNdVZUg-6ihXR39rZy8_dzoSXs5_kmQbO86nlJqM1hWu03i-b6TVYB1SmH0X-U9lJgsTX_n-cw-_EsW0IFnLjAYTitniIdLlwkQSY2Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "«Сила Закона: мы и право» – юбилейный правовой тур...",
+        "text": "«Сила Закона: мы и право» – юбилейный правовой турнир! В пятый раз столица стала центром притяжения для талантливой и амбициозной ...",
+        "link": "https://t.me/pgatkk/11464",
+        "date": "30.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/jrsoCd5DMY8TcSlAwKAZX4hm1oS5lCImve2LMS6IbX_6tdo9MpRunlfA6foc7SsTLKEVRBLir7tYJhM9p5DcsFl0G5vmFZ2y0W-8hi67JLc8imjWk1fGJQF3PBHThOdgKTrWee1ui7X1uOzkPCe0MHcn85nSWgFov0KpY1IFChc_d2u2U3UM5k4_ubcxA8qflx29u67LkH8n43lVupzc-HOcKNhKSc_gYXbtHmltKCKSVNwrEJy90U28jOzsNZS8w6cMoBnWKIwOjJVTxFh4MO1iuLY0s_mIUuIeyQdhGJOUxvI0wr-AO3tKhTuq1eMwUkzA_syIz374mbTXfxrnuw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "📷 📷 📷 Республиканский правовой турнир «Сила закона...",
+        "text": "📷 📷 📷 Республиканский правовой турнир «Сила закона: мы и право» . 📍 Конституционный Суд Республики Беларусь",
+        "link": "https://t.me/pgatkk/11461",
+        "date": "29.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Cv3xzL-qRvbzhjbBxeQoLqligEaKGGVqSKFSFEqEW2E9nfffo9zn6knGoUiJXSzfL5toRmvS5J29mSYodOmcypH6vKHYMahD4DIbw5KCSEAvSkwXoWoeMkbde1GUrJ0wj1mMtDNqdn6_hK72rjCaXEqX3fWp_6zLcGWWxoNo2duGXPUjqnkvbT6oTweYJnZgqbQa8OrPH11v3lmo0_gOvLnPf1YC5p3NLJW-rQPaqVn3lKb2j1XyGuI-8SZiPJLzP4g5g3q4lsP5_0UNVsPbQvr2UmGdDPfSyHxxUEcG_ZN8COdvXSLED9frBsxdHtKk6RUEk1lbi8mnnFLKdxgIqw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🎉 Поздравляем команду колледжа с заслуженным 2-м м...",
+        "text": "🎉 Поздравляем команду колледжа с заслуженным 2-м местом! 🥈 На чемпионате города Пинска среди студенческой молодежи вы продемонстри...",
+        "link": "https://t.me/pgatkk/11453",
+        "date": "27.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/N1gNfAfUn3N50xEIe7PTIjr2P3XuopyWedaCqWKI4AXk1M2t9tguzM1gWhIUbPlF-vipf2Klw6z3o6UhzEkb7O9wsHz6cWznCDlIFG3I_TtUPkRnm5QoVe2GKSM1vcU9GFCt-jih_fJ4v7uzHwP3YFMqmS44yXY9UE6BqTMyF5f1Oj7LhnUpgW4Mit4Qm2zWSzgxKo4mVQ3Yvx2o-wQMNJb41Zg7DRQMKUdlkhfjFj_guvAm0TeLKCKRnsJ6s7hd-3q62LArsLCCkb2AFCj-TtLctczuwriQKa3IrUUmiIKXYy5XwXlfkwRwew_TySG4n0pyMtHLGXkqYcBA-jRTog.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Волонтеры ПО ОО «БРСМ» приняли участие в республик...",
+        "text": "Волонтеры ПО ОО «БРСМ» #ПГАТККЛЕЩЕВА приняли участие в республиканской акции «Беларусь синеокая» С 22 по 28 апреля в Беларуси ежег...",
+        "link": "https://t.me/pgatkk/11381",
+        "date": "25.04.2026"
+    },
+    {
+        "image": "https://placehold.co/600x400/EEE/333?text=БРСМ",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "АУДИТОРИИ СМЕНИЛИ НА СТРОЙПЛОЩАДКУ: СТУДЕНЧЕСКИЙ О...",
+        "text": "АУДИТОРИИ СМЕНИЛИ НА СТРОЙПЛОЩАДКУ: СТУДЕНЧЕСКИЙ ОТРЯД «ПАРТИЗАНЫ»  ИМЕНИ ГЕРОЯ СОВЕТСКОГО СОЮЗА ВЕРЫ ЗАХАРОВНЫ ХОРУЖЕЙ  ВЫШЕЛ НА ...",
+        "link": "https://t.me/pgatkk/11344",
+        "date": "22.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/oRYML-560BHliYR-MhNJVIlGKIW4ZWMGmqMm57j9wJeApwBm2ho1_OeLfxHtbFTpO6N83l1yuGrni7theypSosUzhSdl8n3f8ba6cJG9o-LVHI7lAQAkI0JhuM6RKmGb4FwlqRfYWjlqOqU9WXNqwIT5Fk22ZwOEStC2R4pbrToPiGhv3d4Hp4AeRWtn8q2vAyDkekIFiCQUy-Q41TWNiwSRfGIJ-UTE_x_oYqhMtHwlPdjN6PWJ7sjk3TbSGU6yxN3L3v2wbDsFjPWSzJi7qL62lK0yMNjlw2ah_fkK8dLIZxwIvQ3SLB5rvNwbAv9ngd7Hwyj4Z3PDhgyNMop82Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🏷 Неюристы доказали знание закона ✏️ В БрГУ им",
+        "text": "🏷 Неюристы доказали знание закона ✏️ В БрГУ им. А.С. Пушкина было прошел областной этап республиканского правового турнира «Сила З...",
+        "link": "https://t.me/pgatkk/11335",
+        "date": "18.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/WKuU-oQg4si50E7IBraE6blZuiIh0GlRrGPS6OmojLOm9-ZsLTkLx1f-XbnuMgGXrf6JFkF4piXPTwU5SSdEX12rr89xToSsWuoJekZ5jGMgv39PJvCe1hGWaoxhGZTjiOF4XuMqeuGOS1UEOqFQdfJNKS9qUlgVg0Rxocx3vQoj-wO3JnjwNSlMO2gG_LtgbeLnVuA9w-5XRGILRxDVA82uvhMUXMyFb7W62ic-BFELXSKzkU8bhS1JCizYxbjAZnc6WJT5vtLewntx4YMx4EcFwp2XfphewU6baJUZ6kziHcaG_OA875ON7LTusZYPrP2pNKrVmYE5svZJgwPYPw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "В Пинском исполнительном комитете состоялся III Пл...",
+        "text": "В Пинском исполнительном комитете состоялся III Пленум Пинского городского комитета ОО \\\"БРСМ\\\" 17 апреля в Пинском исполнительном...",
+        "link": "https://t.me/pgatkk/11278",
+        "date": "17.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/TPb7S3wW1feRJ8E5IUgweqfdBSoTUVgW1yryoyUsk5wqkZhKsmJH7ek-RGnqRY3mMCWpfPV-STnvzC-jSUUT162l1sr_PlfAI3_KNgbiEjihVy-TBrpmBz56DVqr96xy2mSw0-JnoBRZs2252uJMuYrr6zMUttcmNFcGRtuG6jfQ1U_RChMNTfnr0sGjYSuN2SesLzo_6FcGk6i95YKCV9AbQCYqu7m6NnGro853YnLa8WI407EJpgrLEdFMD0zQIlq9318ZqgutgC1-pJ2Sh59NUCgg6I4Xj0Ye1e7rOGJNkk7i7PRPeaaTSy14Uf3L2XisVszNz4-22E6tQ0qj8w.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Волонтерский отряд продолжает свою важную миссию н...",
+        "text": "Волонтерский отряд #ПГАТККЛЕЩЕВА продолжает свою важную миссию на объектах УМСР-36 филиала ОАО «Стройтрест №2». Учащиеся Пинского ...",
+        "link": "https://t.me/pgatkk/11270",
+        "date": "17.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/o4OlCf3aAOH7mZYrlki3rJUd0Rp833-aSDOoRVn8DkR3hXA8-OlAlRcjZcR9CRmJTD3mwzdziUAzENtHXJ2zqfCG9vwksuLxFez8qgr3mQhLCzvAAUWF8KS8QlMs2ucam5sTmd-p6UN3qTypaPsPzJZLl3cvtNdSTY3mrNBSP1zA3O0wqokSoO7YPISIfkIw8KS016ZsabpsGchUH2C1yTRA72Sb0c8LmpDphOxNWz-nSZtaZqFrTi2OnYBbMtQZp_nCCFBv0az0MNvOqSIAEK_ZbgzgP684FjXwNQw8miTuOtBy4zrHgMSFzUGZIPEFkbchqUb1YEUKAH03dyRYPw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "⚖️ «Сила Закона: мы и право» — имена победителей н...",
+        "text": "⚖️ «Сила Закона: мы и право» — имена победителей названы! Сегодня в БрГУ им. А.С. Пушкина было жарко от интеллектуальных споров: п...",
+        "link": "https://t.me/pgatkk/11196",
+        "date": "15.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/corm8Kheak5MA5NrAY_lYc7GfJX_cSFX2wUxWFYYQ5bUEYVNCBx4BF3gyeSytthNa0WPfbP5NWtJM322Ips_J1QTySSVrqm7JxOMP8olD5l_dGnxEcm-wZYbqAapdJ46dhpoTTmSDReB3JKs0ePVbcyXi4or-RnUMM5xTu9_8lCj5P8pCBFo-AQ6muGPAqD9aHDnh-y1LJTl5TbUT5xeNkKVdTmIgwopB-huqeQpOlTinsMvppcNkfSiqpf2i8y4Qkgzx5c2vkiUBdcEXkF4w_hV_bMulYIy5HXMN1TL3FpFXTqouinYwLdQH8seFPRLPb6I1aQyf_dsStm-skJ5YQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🏗 Волонтерский отряд приступил к работам в УМСР-36...",
+        "text": "🏗 Волонтерский отряд #ПГАТККЛЕЩЕВА приступил к работам в УМСР-36 филиала ОАО «Стройтрест №2». На объекте УМСР-36 филиала ОАО «Стро...",
+        "link": "https://t.me/pgatkk/11191",
+        "date": "14.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/A0JC1cW6zQpb9PKgwcbVddaSZmkbD3SL_EkQcTmHGJ0udEQ6HQfEnf93Igy6eb4IUmebfpsKB3pCP-G-pWqZPQJsUtGjvqBtE5ygrjkg8uRJvuvZfVyq4aEWXKuzswSiResnyqH8u42r06slRZCvjMtopcYDSVxEQmPCK7_4-oRIhMi1aNQt6eTZuRd-K3jBGXF-hFBON05y6oDxzGeMyFTvvs8JMYm5DwL3l5FJQNWl48fWllx5_jO1X8hrFdipZBi9fHsHBuJsQ6RA6eYQvauxdWoHf3dwpco1t9LBcCh_qARsLUvf6P0n_8ywApYLOV_sOh8Ij3L5n1E1ZZYsbA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Экстремизм: граница между мнением и преступлением ...",
+        "text": "Экстремизм: граница между мнением и преступлением 14 апреля в #ПГАТККЛЕЩЕВА прошла важная встреча , посвящённая актуальной теме «Э...",
+        "link": "https://t.me/pgatkk/11171",
+        "date": "14.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/cOuWmwlOgObdyP4Z2KNbtEOjX2UJ4kR6LmR7iAmRqYMuyRoGh73U1hZKtSlaiOLDjvDYuapQsrWcb7l5YqUeCKLf53HmDFHvUOZjjTv4pfUsTkGBuoFxPJAjgbV-25b5mEU_GtX3Nf4Mx6nENUlRmSHGCXRiLhR0igsOhOFXhWd0NidKrPCwTif19tFf8Y3_V3a5xXiAywAKrkWLyLVtVGYYCeBWB9pRoO-vlg1NJDcdfUa50hVgg4uIsXz0935DYFBfx5jVPO3dIq9TXYYFXzZuxpjmPIGkR2nnyAB3vl0MCf5eBjQA7t4hPWF2zgC4hiUqctfcZIWc-_WMGy0uNw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Выбираем помощь, выбираем добро! ❤️ 02 апреля наши...",
+        "text": "Выбираем помощь, выбираем добро! ❤️ 02 апреля наши  волонтеры  ПО ОО БРСМ #ПГАТККЛЕЩЕВА с энтузиазмом присоединились к республикан...",
+        "link": "https://t.me/pgatkk/11090",
+        "date": "02.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/ZCiEhnGTzboOOIFvr6yuzv3r9QvHgVgQjRZ_e8oeSunwU1JW8E2ySxrGyC1-FBgPUIjRv4oJn6ArYtKnvN3dv6h97Zrb1BxxJJCMhZeKAqUkUpihx4BYxr6KRBKxXZPSdOQ_ixEArhLH1OJI-mBqAgO2hFPN2Nb2xg7YLb2mFyb3KPxAmxxE-yLNsqOEiVwElu2sr6AGWdkXfWDK2vx4zk7RPbTX_autzw6ItQ4qOk6gWZH--OT_BA-Wbg8y3HCNY7aXnbphYV5SaX97hJ-wQPGzmV4ofUhb6OBI2yujMJpJ5IWiC0y-9R9a6tcWZEoDutstMP5usdnm-SZ9Z5XyVw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Автобус добрых перемен: вместе против наркотиков С...",
+        "text": "Автобус добрых перемен: вместе против наркотиков С 30 марта по 4 апреля в трех городах — Пинске, Бресте и Барановичах — проходит п...",
+        "link": "https://t.me/pgatkk/11084",
+        "date": "02.04.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Bbj7mMaCJYK4qP4DAIfW-SYc_SACsOvMmdWlnNn2yecBSjn5i-H734W_vW7ZgxHIh3X_XErd8nfRKzt8do62VmQkCaDxhFdNVj3LOO7vuXlygZRhzHjuNfqM7SWgilwU1c42XIA0J7VLFKD1YzRGbj0rfPF57QPHdG7L4sTXx77l4ligdcZG5jO94Ba8SVAiWhVJsAVaicMno9D6KGdbc3dXa-xzZQwvautPzCHogwPLzvUjaSK8Nb6Rixe5HiF5QuelmJKTURdwB0RA4zSI4qXP_aChjXEurF2ZJ3YwjSVoxcn30JxBMfSJdF5oNo95MKzujM2buSHDBTeV24FqFw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "В — встреча за дружественную образовательную среду...",
+        "text": "В #ПГАТККЛЕЩЕВА — встреча за дружественную образовательную среду без буллинга. В рамках системной работы по профилактике буллинга ...",
+        "link": "https://t.me/pgatkk/10991",
+        "date": "23.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/v3Rc2_WcpFtMWrLq2kc5glK5oAx1TPcnhaJs2dHq-HYl-fG_25Ts7wqt_gLVFnWxslLGcflt8DmXIuAa9p5GKDHAIrerPrt3cLCJndYNj64xhLghsXghquzlaKkOnRv08AGE65vxBXpWdzNeE0DwC83TLImarhFtUUWptdleb-koTSFVHLMK_p_UAOkvOx3stGoakXNzQA0f5yj3w5JERItYZg554wUXbPJNWNbqgIxkYTRSsgEadz7UE3wosGC7qEIXS1QTkyxK8Iw9BNm7ZM1wC66ASNYimdLRmg-8v1x2L63GgtS5mHUj4FixbT55_nLkofg1H0EjAhME9Lvsmw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": ": путь к успешному будущему начинается здесь! 21 м...",
+        "text": "#ПГАТККЛЕЩЕВА : путь к успешному будущему начинается здесь! 21 марта в #ПГАТККЛЕЩЕВА царила особая атмосфера – двери колледжа были...",
+        "link": "https://t.me/pgatkk/10981",
+        "date": "23.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/ra-7RDZbI-poRAKw7fHSc9pXkVhg1eUwYfunVCYX29-7bnp8mOUonsOIq7mS01QLp4kmxO2RjAcrHZenz_KS91nAQVAP5rl67azNftw8XSVy6QBKYdW85WcuP8J8nwD98wctIUSVLaWX_S5PzE5uWy5NxXn4CDSYb81X1QqKTfdAaR628aPCJP71iyLGyL4blk7zEkDDDnYp3VuRvGogKEk21Vk5af52lO9_IfTkhXhfchpN8pXLmPE__baxmOj4HxJDxzzoG3KH89pEWj0Xn0bA86UHce1NoKVY5ToYPn9Qqi5qbG7CBaf7ntvgjFxqZxGbb0BON8ZxIhBK-QeE6w.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Заседание областного совета обучающихся колледжей ...",
+        "text": "Заседание областного совета обучающихся колледжей Брестской области 20 марта 2026 года состоялась встреча самых активных и идейных...",
+        "link": "https://t.me/pgatkk/10966",
+        "date": "21.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/EpsG54H4vZltHsvD4iK969klJ14uyi5WOJWmew8iffI7mSxUc6ipcON7j-lBS6spHcPzH3MePQdIg4PBwkOe5kLoBuSoN8DwHDuvSP_UnrCdsQnJRqtsDLav6NXcTQpFSNookzfqpRZGN5WkgWIPpUHtelH5LCTEhFpCInuJIrfedeHsB1AEulPFHgdyulJIm3I658c6zEaRoBgjT7tee7BjdEjmQ4Ad007k49N0b9w6hi6UcOzMBdZts_AB_PGF2XGMPTtK7ZI_PPkze6bBDNetXqIUduREAPnZJwjO6iT12s25a01mVJ2MlBTXUW9eiWdGQfkRAQZ0WXXUb-GUGQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Республиканская акция \\\" Пинская городская организ...",
+        "text": "Республиканская акция \\\" #ЗаДело Пинская городская организация ОО \\\"БРСМ\\\" совместно с активом первичек колледжей приняли участие ...",
+        "link": "https://t.me/pgatkk/10939",
+        "date": "20.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/jYtUrdJFfWRpHOlI4Lzhd3v0AKMj5331agPDQBFvjmliIt0BEVwDe5BrTs_JUl-D7dZ9HENF-VXjYfBq3LuNYwkC5SOV1aGHV9SS6iA-5LbovprQ8d8AZra1fxYAa-GE39K3Tmq72XQkvm-Lf6jYYz200fRRxSAfohp6uOBiH3aGjQhl8lAbo9B3ho396EPKjTgToyFnKOs9X0LQ2g6OCAoYzpjGlEmNFnYkWoIHVofULMptga8OasaUGKu7ZaXbGOxTY-f-kfeR2M06CoTOY4txUpgoIPWO5ctV_FEm2F-XHQl8Gp2OB8uGT963X4VZUKMv63r0IOIxleXzE0QkhA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "\\\"Пульс молодежи\\\": интеллектуальная игра \\\"Женски...",
+        "text": "\\\"Пульс молодежи\\\": интеллектуальная игра \\\"Женские имена на карте Беларуси\\\" В рамках республиканского проекта «Пульс молодежи» 0...",
+        "link": "https://t.me/pgatkk/10750",
+        "date": "09.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/vXheINWTlnHDB6gMtGmC9cXeQSB0car3M7kng7KaRpyplu5umWqUIFZpBA2f4m3AgEI-nV_ixHP7RSRia-E-ugaKuhSWzoWI1E10B1k-HsOXTrw1EaR_CjKRYnOUgsRhRf1XbcryFb3UI_JTUGW8BVnZRCwOGQyuTzMXr4hwzxQPqAvRFoeAYdJDjnZxJFnGgspp6mcYbz5WVxPbvXmzzqqPYzUfRYkGzXPabsXQxb9AxFo2yLmIHRNw-Ikjlzw3acDcXN7HR-ptu6bUGkWNf2P5sfTVJBoaMD47fsiZoU9-UggkqIsdBZexmeVQolnXOP-FcE9f_Xm8QcSKE8FJkA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🚀 Ну что , мы продолжаем ! ✅ Сегодня мы продолжили...",
+        "text": "🚀 Ну что , мы продолжаем ! ✅ Сегодня мы продолжили путь нашего промопроекта \\\"Выбираем студотряд!\\\" в Учреждение образования \\\"Пин...",
+        "link": "https://t.me/pgatkk/10724",
+        "date": "05.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/jZW1_hoeqw_ykJewf2LE977PYb19agLwxm6OOHdQkED2vrxLKd-zFA70wUoRLVcM0hg9_pg85yy9RPklYf_LvM8EH9LekQhGOCJJ67LryZFaOH9WN6Zbjm6_12lREvR4toMe1e0DO0kPBVxsJsKRPh0yn5YmQY3TKv6px95OhtPfhc0SuXWnu3Ew7hGunBJhlvcgBQJ3BNpYdgDdATPG5vyqHVEVTMuKOJVxvFMYpL9gcK2B_DzsqNt5YB4t4W_3JROA2ekt6ENne9OV2wLPpSBS3_o0WBTMwA-NlEp1Gmw6KsVj0sJt6Y4o5KellXC7qVhNvZrz-mlJRuXbsqF1LA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Учащиеся приняли участие в акции «Выбираем студотр...",
+        "text": "Учащиеся #ПГАТККЛЕЩЕВА приняли участие в акции «Выбираем студотряд!» 05 марта прошла акция «Выбираем студотряд!», организованная д...",
+        "link": "https://t.me/pgatkk/10710",
+        "date": "05.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/YjllsbXFn_ArJjccavpysiWD4GpzSVGPjoYNsFkzQccXztCmKXJiqsDFXwx9fkDapRuelqNu98eXGFs0frxtxdxP1JAPe2zf1cWbUDrmtiTj9ZglRzaTEsWY2UFR66dGiHhq6OP_PaqHsgpWYmOHY43yq7R4FQH32uQPgJFK2QdOLH2zyL-sGM06d-fbTBVREv0HK2QP_IV_MyUw5tdgbfbtZ2xlbBj46OG3GbbgBu25idauLE8T0aKqDqergKOfZW4WtPdYeU56lqhajCTOIYZFiMjHZ_U0EaHw4JvPnnnauqkVHUGwj5gRykRcLhjGYzWMxiF_xRh8cIJtgDpWIw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Твой выбор – твоя защита: экспертный диалог Вчера,...",
+        "text": "Твой выбор – твоя защита: экспертный диалог Вчера, 1 марта, мир отмечал Всемирный день борьбы с наркотиками. А уже сегодня, 2 март...",
+        "link": "https://t.me/pgatkk/10678",
+        "date": "02.03.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/bZHbY0Z0okyq25lCw7JR9IvIyd22lnG62AzWTOVJjxLIQ1pBOlRuZ3OmAvVADyWa6e8aUKbWtoqtfjeeFftMtPb3FPCs1bNj2uGY9BaL_ICU8YQLFY3T3CQi5KiMPrpPv8UP1cUXAWTwAKgSNcGMq_Csa6CmqF4uunrk5pJEAeSfcwjNrSwWTbfJ6msX1IgJ28wiqazssWToFz52TpSnn0m7gIv1iK3rUhwMhH_xVq5hbLUyMiVUcXxAVfaM1yBpprD8ypytCkG8Sc1bXafgua-mbRPw1shWG0pS2sNBp7yt-4b6oqk4UcJHVGKvd7mQudjC1onb6MR9xHLrV0mA3g.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Доброта без границ: учащиеся помогают пожилым людя...",
+        "text": "Доброта без границ: учащиеся #ПГАТККЛЕЩЕВА помогают пожилым людям Волонтеры #ПГАТККЛЕЩЕВА вновь подтвердили, что доброта не имеет ...",
+        "link": "https://t.me/pgatkk/10580",
+        "date": "26.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/V-yYMpsAJBdDuFipOsGhjYD5vXBvr_2XbKo4MXwbGso9Pi8t_iFZWAgBDw9LbXEOknUrWsTs7euReoyX-EJON05UaTH4XsesH3kpG2AKHkKVXAl_dcxq-MgR-AZg-FQTMSdksY2iKJ7mH_y3ffaDWMnnsztqfmU_y6Dsyzn8tnlviDPIg1CcsPSht39iTGHWAWZ2B5vU7lZ_6oMdF6bqbBIwT2OADVlmfJu8zEnIZnL1GOey7R7N0uFqoH2GqsWtmEDQgSB5-e8S8g4uB1bzi5HQgeAy7AjaXKwQdpYro9ZII9-JR4GPZxKa--JYy9fM3zbmEjfY2spORIeeXjL0xA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "В прошла профориентационная встреча с представител...",
+        "text": "В #ПГАТККЛЕЩЕВА прошла профориентационная встреча с представителем Департамента охраны МВД 20 февраля 2026 года в нашем колледже с...",
+        "link": "https://t.me/pgatkk/10487",
+        "date": "20.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Q3azvHNJKpdpAh5j_CCAU3FCs4WyXe3CLWXYNnuTtsHjD0aD9jAixpAuGwyNYF5GaUR2rNeoAyJvXryXw0-CBNs5jXAwi4ZfX78yC2KXXcYcyyEOhDkZZwMjJYY1a52eDWshOFM5NMJzcJsS-1mAeGIh1whqCDk1tYyYzZZNKPQv4ASyMsavV1phq6aNeAs0jeWiaGELYJLsW_tSelDmDD-4uF6J78x81FdmFmEh6iDkBoQh_fjMDniff-q_83m-0YL7FcBt7iN1T3B3PlUOW5uHJ48au9tx0qkfR-HVLrI4_jZoLuBd8sRHL25uZNTCBLbaDVxze8q5DELs1cC4aQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "В Минске прошел республиканский сбор молодежных от...",
+        "text": "В Минске прошел республиканский сбор молодежных отрядов охраны правопорядка, собравший около 200 участников. Среди них был и коман...",
+        "link": "https://t.me/pgatkk/10368",
+        "date": "17.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Wuv8qMD5UumwWNxVmyFeuuhphXAAwppDR9nWlgQGUW6rKZIl8RDr22I5uQY_qca32JcUbzE471JzEoWurAmFdvbQxd40qxKTa9Ia5VY2S3DBI_KSed0pBw0hXQfGUR4wR7Ozxw-a20LafkS7Sqm2YamOoT2PtpZ88f5EuLVacublKWMdffDgLfaBwdluP8DDrlqBXnfW-1P5XqKs7T9IhBPIVGO_4at-Xa1r0H3dJrGXwttBHIMeNXJX1vz1GNxja7WqkLWD-y1szkPnZsYsB8Eh3WROBvwXmaBX0_pzGZTeqs7Ub9yxTBSySn5EFO5rixpYyZBLtcGpog-CcrFcAA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Первое место – наше! Команда колледжа покорила лыж...",
+        "text": "Первое место – наше! Команда колледжа покорила лыжные трассы Пинска Поздравляем команду колледжа, занявшую 1 место по лыжным гонка...",
+        "link": "https://t.me/pgatkk/10320",
+        "date": "07.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/XtPJ6W_VAkPOm2OXS3ZGzigaoulj0P7exjpGVCN95L6lA2AdWAT9_UgHdTWjNgoEvKHV56OczHPvCZk1QMOccCo-aDnmdIkKpSzqHpsLtXj1GyUQhxLrrNr3BBUaXkxmstSpFEksSNuHsN_ewwOjs_mV15cSTFsjKfc4228ZR6WH8qef3N4OblP48vUibeAF730Hj6eNqYFya8gw4YsrA6zgA1v89Dl5HWmtPG-x0FNgIu2kODsvSQJA82_Mx9LuJkyziEscG4Ng9W7rF1ilGvvkNGNHtj7_um4KpZMl1gCjUIqhFQxbe6BHcrvTY48olNbgAJDxxblh9SHQFNEMog.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Эстафета добра: когда сердца открыты, а руки готов...",
+        "text": "Эстафета добра: когда сердца открыты, а руки готовы помочь В холодный февральский день, 6 числа, учащиеся-волонтеры #ПГАТККЛЕЩЕВА ...",
+        "link": "https://t.me/pgatkk/10311",
+        "date": "06.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/aKWz0OqM_blMV79afyntTlz0WcrcleadOOM-FBGLchG-mKCraIsJmH9JtV5JZbc3MiGSAjexuAju1OGTRyMG8uOSkYB2M9eJ6tAJcow0dVW-E8dQtwCkPvPOJrtb-hBbsDOsrD8zCjhCQEMjrOwTz0AIX6mulcs5NzFjy8A2j_Gb5Rk3ZKTdpy0bmRONFal2Ae1yZVRKwM4_uxW7LcPjKOXYdyYfbfXUl0rJZ6H-wrxiq6mKBXRzZ2F3yUnn2r3ANkdYyRaVU77x_D5XYt-9J7J6DYLJhzX2DgC17FwTte02U46nqYxNwO8zAwYGsXvMIVofV7HwFOe12LOiF5WGhQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "ПО ОО \\\"БРСМ\\\" награждена грамотой 2 степени! ПОЗД...",
+        "text": "ПО ОО \\\"БРСМ\\\" #ПГАТККЛЕЩЕВА награждена грамотой 2 степени! ПОЗДРАВЛЯЕМ!",
+        "link": "https://t.me/pgatkk/10306",
+        "date": "06.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/m5zNkbvEe5i9XDTTEFLUu-oL_dUPK6mTCmpzRZKKVl55bIor_VgvfdGaGMcvsp7ejSCk2fzmnmBb_Iks5I91rD2dBXSr27rKKTZWgLVw80-uq4jM7HO2gQ1Lr0qKUOFXyyAgg21taEMSJ6BXThNpUrVw2gQrYqV3_2SQqqnOT4ubglX31eSbA5v_LiZNTGChVIU7lrw4wu-sOvNPgHr1zXeY6qWJgNAxaU6Ylc8nfEc9eprw0Rp4rPQmUiPZoKZKIND5MjApVN8Y4AWYRciaRZL30KOTJJmR5fo1PfH0ArU8rEkUPQpVQjnZgiKsAyAcC3ECUT2pGf4wawqoI4s_eA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Открытый диалог \\\"Голос молодежи: вектор на будуще...",
+        "text": "Открытый диалог \\\"Голос молодежи: вектор на будущее\\\" 🟢 Сегодня наш колледж стал площадкой для живого и открытого диалога. Мы прин...",
+        "link": "https://t.me/pgatkk/10292",
+        "date": "05.02.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/nYhAbkmnf-KB6Py8nHv48MPY1sUGymsAgpC_1PL_a2W4ptuDd-6mukNwcLwE7l0uEdW9L4hnb6IPmbfFcVObiQ5HR5CRIhAFsQf6Z6rs6-0kkCUGYsLKlpoYjQeWoACOcP2kfggQD9jSf_s1nEFOcdaBUq03Z9vpSon2EJKB5veGoFzt1l9_QOvBCO5dq2vBQsDhWY8zkjeKERIDOaFsvt8ZpYHwJldWn8Fq4uDnSi38-zia6aj2focesy1yWFHwLnyxe1otu6it6LfVnBG0qOsJ4n2utysBva4RFJST6w0eIYgZNN36ZsUH_eMdM98Y5R9eq9IGbUcI4Ot39nejeA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Молодое поколение помнит: уборка у мемориала Для н...",
+        "text": "Молодое поколение помнит: уборка у мемориала Для нас, благодарных потомков, забота о мемориалах и воинских захоронениях – это не п...",
+        "link": "https://t.me/pgatkk/10243",
+        "date": "17.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/d5mk8OqkkTz_ys-FNPhdt8XEtSyrF1rjVU-p-5RFjAK5VNp3daarbGYKCMmTKLtGCJSYFBr3TT5VrHpGF2XFfIjBDV7NdxLw7h7EFUth49KIs2P4NFBCUIb-dm49nWLl8fmvBLPiQrbHJ300cUrK5KngH_rGbjhLEvNyf00aOyO5-2Y-JJQ5L2VnDLcFoN-M12ITwCRYU-m3TsPx74qKeBzA5DIcPDE2w6TB5XHcWXScF0-wRIjb6OZVZXHSj-L1KWs3VXssJAYGkpJRU3-FIgVlJevitgEcebb1d0HoYoNwm9ZuIRFECbUgQG-gYlNWd8oZptZeWe8pqxZuB_CY4A.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Эстафета добра: волонтеры в действии 12 января, в ...",
+        "text": "Эстафета добра: волонтеры #ПГАТККЛЕЩЕВА в действии 12 января, в рамках благотворительной акции \\\"Эстафета добра\\\", волонтеры ПО ОО...",
+        "link": "https://t.me/pgatkk/10208",
+        "date": "12.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Y7EhgZ6D-H-EJjyardDjY9Ac49f7AE2hpJmIuLbtcsKSHuU6f9Zt--sj99qEikpHX4isEe_9C24BLkDdGXF26jbebNnjCEeMCY88zW1PMHsInLZitjVZLe6ZRcEesmuPWz9ljM0fyeWtqYgEKuYXIaHzFyk1JLrZvQL65mDJoJOkpKRMDwICkb0jwsw1EyaJdwNnWqw6frtZBDj-j31pNOugLj2TS0sPGO9nlRXYU90gSE_WSSO2XtxgbhIrmUE2eaSLnIVIAnUd3k8INsAQcIu255b7Y3ju0Ql2Ea5ZW1o_lrVSF4hGuJikSH0r5fg6TP-z7qarudfbQBmzImA_qA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "ФОТОФАКТ ! Сила единства: ПО ОО \\\"БРСМ\\\" и коммуна...",
+        "text": "ФОТОФАКТ ! Сила единства: ПО ОО \\\"БРСМ\\\" #ПГАТККЛЕЩЕВА и коммунальные службы вместе против снега ❤️",
+        "link": "https://t.me/pgatkk/10197",
+        "date": "12.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/kSBW-5wBl2Pk9mTqBPeszR-bhdQalER5b6glmojoTbRIJIFVv9ftCpf00viuLMXzcFelUe8hGY7sU1RaBH_jT9fz6AoFjVhhSHOFIJ6l4nRgeuXfGRM_9myayqFZYqIELQue7pJHKClR-MUC3PtLUxOEvmmsHtMGC4t_7RfnQY1MBsEybipo5KjULx_u7ktjCvJXkjFwJKoaehnO-4cEgS6UyY5AwTZDQM-I8uSwqGkI6nWDMJZ-HiwjIJmln3PYr0QG-BVrBz_Vnkq1ONLnpyp6155HWj-rFEuyQWq34m3yMO0CD0iOomve1Qx51R8UVT17xidoQeyJIjHEYnJJaA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Эстафета добра | Сегодня, когда зима укрыла города...",
+        "text": "Эстафета добра | #ПГАТККЛЕЩЕВА Сегодня, когда зима укрыла города высоким снежным одеялом, в Пинске стало по-особенному тепло от до...",
+        "link": "https://t.me/pgatkk/10174",
+        "date": "09.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/qJKS_CHaSAXZae-jagS8ln41wTbuXJqCH2Xp0_Yrj8feaBuhvUeyamq1aYKzS6lLLukFhi7yZu1RgyYQIF-chLC-2oD8q-fkIamaeKwqxWMZFzY7LqZYaLNVhCGxGNGcw81Fw2pBJ5F60xtreSJ9lb3JcuK3s0xSnuheKy1dx3TpVPYBYF1m_QLTzycpHNTFft6tnUIVbDDzmoW94LlC9hNNcW0NhLlKh4Pc3bj7MDNkUFpBOiKx-iB0D_jopR-JI7sIA0EXfTQRha3r3RDqo0PfMyF4qOrWdujgN8gIsA1vaLAWtKAzSWhMGylMJP4ItegmMWUBUwPypc3UQtiu9Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" спешат на пом...",
+        "text": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" #ПГАТККЛЕЩЕВА спешат на помощь городу!",
+        "link": "https://t.me/pgatkk/10163",
+        "date": "09.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/fTrti_UZ2YZ10XfRZKp3HbUJd7ze3X2U-3t5t7sW8p5d-sN7me8XRBgy4VUsr_BcxAPaYZvvW23R_kPgXhQv9pPObTRMDENIocZmdkdaYwBaCCPFthF_r2DmlERlFxNTobHmZtxaF37bZa3lfIFxdQewPuEDDJ1444s2bX4Mogb-_vommXAueyClOPEOx0VZx5v-geyU-F8Y3nIzYaPoYHAx63cJ5h6E1k6p5C7aJhjc4MLigH5kfbiRm-jmbJakfdqvHC4q0vM75jJvZxhhOyk1O25JYGtgsibH3tksH_8CnOjkVI87eGC5QqF16ggIsf93C_7ZZv7jeeuapAJUxw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" спешат на пом...",
+        "text": "📸 ФОТОФАКТ! Активисты ПО ОО \\\"БРСМ\\\" #ПГАТККЛЕЩЕВА спешат на помощь городу! Активисты ПО ОО  \\\"БРСМ\\\" #ПГАТККЛЕЩЕВА вышли на помощ...",
+        "link": "https://t.me/pgatkk/10153",
+        "date": "09.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/nmfMfxBagX4SX9duCa8seETIoekaB0DhZbmVNXfYXXmQmFmertCKnKO6Vqq2evlZGhz_Iytk6oTI1efbefJtKGjwsqimVkqKiLx6u_TvVTv26RisVxSRgotJVO25EUhmyI2Rezc1upC7rQNu6uFJZEEb6LXHjDBUA9tWBZV2Ax1bM9-UCQyzVq1eM3v3EWTt65u_HeDnquzYOTxbhNhPQRJwRC2NIDtYBseYL5rJvmWRjNC-f6rNUytDxKitV2tx7OAqC0gcX6oHY0gJhFcu-hfd4xvaOyFLcHGjRaSRa_ochmCCAiIaTVeQaCpEMz49gODv1yZBls-Q6xaIE2eMww.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Маленькие чудеса для больших сердец 09 января акти...",
+        "text": "Маленькие чудеса для больших сердец 09 января активистка ПО ОО «БРСМ» #ПГАТККЛЕЩЕВА Дарья Пархута, вместе с активистами, секретаря...",
+        "link": "https://t.me/pgatkk/10145",
+        "date": "09.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/imFAw2CGCeJ44hxuKClRXCXAeOrXBM_XXicSWj9d7jNRPf8BelQBnn9z8z9VvmClKNmsGKROkoWQlf2M_QLUy7hAZjSA1SzbOiYfPbyPR26-ID9xaTBxEapYWpSou_dgYi8Yo36X4_dVT-73ptOyY9zyUadm3r3ULq9eUz8XQPmfwp3xNsiAliywslf6AKqlqRKZeGZTJBgPrfE5IAHhSkdQFa-yt_X9BHWPEAMwxbPuIFti0QLA6nPcYJftiTodd8naGpY7sSRebKCrPpMAzDCOYeyf9oWXFgipKAuxvaSA-pojC_8630zr84NSF-2yJBlIa8u_VmuX8BLpD8YPGw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❄️ Снежный десант | МООП \\\"Алмаз\\\" вышли на помощь...",
+        "text": "❄️ Снежный десант | #ПГАТККЛЕЩЕВА МООП \\\"Алмаз\\\" #ПГАТККЛЕЩЕВА вышли на помощь коммунальным службам своего города! Ребята доказали...",
+        "link": "https://t.me/pgatkk/10115",
+        "date": "08.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/j4lbpTOL9vyd8DPDHswBB-Kao6LCv6WawgxBsJXDSf1DkrdN4RmmNc4fu3Ua_DTgG-V4GksY1SIXltbUu4OZpNv6toDTEuOeU-gVEN9xlOb3X2PydzmKz4V-B3sWPslGoSZRjsRi3iFJ2YezvV0HVdFJttDkG4EKkXlmZnmPjIkxvpMnS4Xn-TqjoO-LajBxwoplO6TeQhml3RqatQ5uxdyP32w90cLgimKAXdE-A8Lz6TI6vdLk1AumFK46_zAvNSTgct8-U-N3VHc2tTYL84NSuxSaMbf7Sy2PWNIo_CWjNVwrYmT6YmC9A0qgDwLqt17O6IM-tTSlhFiXKqAs9A.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❄ Зимний патруль ❄ 8 января бойцы МООП отряда \\\"Ал...",
+        "text": "❄ Зимний патруль ❄ 8 января бойцы МООП отряда \\\"Алмаз\\\" Пинского государственного аграрно-технического колледжа им.А.Е.Клещева сов...",
+        "link": "https://t.me/pgatkk/10104",
+        "date": "08.01.2026"
+    },
+    {
+        "image": "https://placehold.co/600x400/EEE/333?text=БРСМ",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "⚡️ РОЗЫГРЫШ К СТАРОМУ НОВОМУ ГОДУ Новый год уже на...",
+        "text": "⚡️ РОЗЫГРЫШ К СТАРОМУ НОВОМУ ГОДУ Новый год уже наступил, а подарки от Союза молодежи не заканчиваются! 🎁 ✨ В преддверии старого Н...",
+        "link": "https://t.me/pgatkk/10090",
+        "date": "05.01.2026"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/j8tfj841zYy49UuuWK8u2fYDA6tp1qRNpnzXxTczezATxxV-sJaNTxqb-ob4wTCdOkkcJRePU39W04lvctIYlFP0av7Sv9Uerbej0coQcDDOh8xiaeDIL2sr5O3uYeTGaUfF0Hr3IRiIz_sN1n7527sHwUu4c-HWnhvGaeck4Ryc8AGlyxR-2Y4Ysf_NeP59a89dlqgO59FflRGMXHoGrGAjM6gxHXAnObF6jh9TkxCiV6J4eVAe6iup0Eid4-oF4cD6msvteDdAqanAMMTW9BunM3996RUapMCewiNY3XgDSre2PDIsqv9WYxxDmb4_D2aRZDQtWYB-EfCG4HOZvw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❄️ Волшебство добра: согреваем сердца перед Новым ...",
+        "text": "❄️ Волшебство добра: согреваем сердца перед Новым годом В рамках Республиканских благотворительных акций «Цепочка добра» и «От все...",
+        "link": "https://t.me/pgatkk/10010",
+        "date": "24.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/VJlw85sWGjgwInB5TSMUk_B1Fg_lG06arGvJz1vUgO-FSWqYJoYTmQG9Z61ktXTC4lcFPCebxHCakhLWtCrpsU_VIJw2sTlFUdgZVzKSVjCHPtVWQ7gHaDgxgnG4tyGiIlXTut2aGnd13oBmKH7IMRev2ucPhUwDguzcFAk4z7tyRywuxjOnhawlt__ky7BMm1HIL7GicIpqKhHDcLKUFs-R-XBR2ZUAqyljfC63YZvZ5r_BbIZMWE6f0VV2O76fcPsF3BxCb9DgIrSi1DJlGbq8oXBLCG5kpKdhdQ1BFH9oXPDL-wGnrAMsA1W3UqmkiTtaPR1XaYuf6LNpdgeXFQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❄️ «Зимний патруль» На Пинской спасательной станци...",
+        "text": "❄️ «Зимний патруль» На Пинской спасательной станции представителей Молодежных отрядов охраны правопорядка учили, как оказывать пом...",
+        "link": "https://t.me/pgatkk/10008",
+        "date": "23.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/uXFDVSLuasbHMoehCRW8EI05xFIUKLifktrGo5tgAq4RIgvbMYE6GlHxSA9R8amy6A0iSm-ykQvLV5osLMB_7HCXHFDEfmpq2c-vV04HOq1Ov84kWyiTDRd4wvwGbto2wFznNG1szKIckhhprzc7ujyM7gFd6-MabY9dAA4kveAmzgBL-YseIP9t14epIplvgWo3_Ap7mhFmS1d55Q1yrl7lmv4WvpeX1EQzoTPqQmE2rLcS9P0rDddeHIHGh7OH7zcEXGoJ8GcodV556vdvrJX4fgtSYIFbOT_s5jBtSdHKANVe-I7vYjZTD1Y16UjoZoakBcUVk59L-MK9lWLXOQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Молодые таланты в IT: Минск собрал будущих лидеров...",
+        "text": "Молодые таланты в IT: Минск собрал будущих лидеров цифровой эпохи. В числе победителей учащийся #ПГАТККЛЕЩЕВА В столице Беларуси, ...",
+        "link": "https://t.me/pgatkk/10005",
+        "date": "23.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/doGjnA0TGzklHb3D2rju1VvbUADZLpPc1Ak7yigx5OnQpsK_d9G03vwToso2sa1qzkoXd5r81zTUKuqCouYQGXAkV3caJlkGioWlZZI47ZwdtG6OIkOGswD9KGm0pJi2JNRASs96B5zmrtOAy75EsmVwOh8jajiBFAY9qd2CnEA4xg3yaVLIG8gwyHK0xfbUh4Kv8yUbVR_WyRV_3EmTBopupnhJBeUojdW9x-R0BU3_HCW3v32U1BH_8DgR9hHAltzjIgDLcQlptoYp49AW2Uu-w8RddWCohUduDLdZ3uqB6TsjGt6lCjJvd9EFsKZ1ytdXt-MpbUDlbuLhGAZQbw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Благотворительная акция \\\"Эстафета добра\\\" 22 дека...",
+        "text": "Благотворительная акция \\\"Эстафета добра\\\" 22 декабря, волонтеры ПО ОО \\\"БРСМ\\\" УО \\\"Пинский государственный аграрно-технический к...",
+        "link": "https://t.me/pgatkk/9986",
+        "date": "22.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/AQxcXsx5BjA1VEcdQAL7LuFbHIjbTFKO8r_lxDEn6wEt_k9-A7ftHWrsB6bwXlckQLpywOQb8bvf9HCTLPHgr_rRwKpzMN-5LIPgQC0Uu2ycsLnE3_KEbSWY_aClfr7zjORKhSmAmJXZYVVGzJfEOlz0u1pXVDt455cN_bn0Ae5jNd-21XXtfbx7qaq_bZPlKxVfQgCvwyuLcLNQ3gVRv3e_8c3Gop8S0QTFNUlihasS4CAVzGcLDZ7E6xRo_dzj5ewC4u2CM5Qtb6ugYGvXJgeYkAwLbiLU0TFSY5RjD9fCLpiqzfBOIzjQMi9XhnEzh7rzyoDEwCkoadC8vL3PAA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Выбор профессии – легко! Профориентационная суббот...",
+        "text": "Выбор профессии – легко! Профориентационная суббота в #ПГАТККЛЕЩЕВА 20 декабря 2025 года для ГУО «Гимназия №3 имени В.З.Коржа г.Пи...",
+        "link": "https://t.me/pgatkk/9975",
+        "date": "20.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/ui7XdHWoJpz1sKWUFUsVc8JSgZSH6G3i7gi7JX215McT96VVv4v6rFQcIWmfFVswdD32kdyfFvAjK1mBjDEaGk5NZopoSFx_Yx8vIyEXtDhXReLNTWF59brYWCMhGoW9sOkkynYbYZZCiS6b26cdyfCJsIxkw_LmWqKzSUeiBZr28_c5D_thIx8dPkzZlGiaiZ1jfnfhZ84uiEUYOhbcIFmXKsCp1fs9jtCMpbyUYvkFQCpv7Gxfj9BHtt9t0Fv5ORumNjnLetIuPGNTp7J8YC_fxf78jJ_A2mMeEYc29162JBt23D5OFohzmQjk9J4w-Q2owokeP_SEbkBeVhIMLA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Ты активный? Целеустремленный? Хочешь с пользой пр...",
+        "text": "Ты активный? Целеустремленный? Хочешь с пользой провести время и заработать? Штаб трудовых дел #ПГАТККЛЕЩЕВА , продолжая славные т...",
+        "link": "https://t.me/pgatkk/9936",
+        "date": "17.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/if9yFKahYfQ8OVgp_Dms9ddnuJszk9oAE_O2Ms-7hEyRkHFC8xY11ctd6F2KRN4CQ144j8ZEQM3DgPV3z6_Cga29L4DR41RBfc7DeGA7j8PW-AzLvzoaozysdmVKyprUSwLKroKPBivjaw9dP7SNGrDWbBJIZjMV60YHsnyz0gLaB6nXqxv--XkTC3w9qSN2HCGiSt1-Uy8tg2id0WGqf1zDLpPGPWGjK8ofVvyd6prIrgTdl4vZ-cFUopl27tLutROW11mVmoYl4rcgUKPBb9W2JugMdKXx4AGU_bLzX-TYp5Zj8evMBJGrQl73vUDKVu2Ju8k4dXBM9AnhdPgerw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "\\\"Служу Республике Беларусь\\\": молодежь демонстрир...",
+        "text": "\\\"Служу Республике Беларусь\\\": молодежь демонстрирует мастерство в ГОВД В ГОВД прошёл 4‑й смотр‑конкурс профессионального мастерст...",
+        "link": "https://t.me/pgatkk/9913",
+        "date": "17.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/CEPxILhADOvKnbGQDpinXm_h8Zne0v7ZslqnnG7gPrkPIGhoEWbQMAzEojQgW7DxIvljsw1nt1LpCLOe0fB7FEz6TXG6ooBT55RurVq0KV5fuEjEWS8CBHROO1WQICh65fn0ly231BjlLsnzgIIuaNMV_Amw58-dq6EHu7MeJ599KjG1I0KPA10VehJNf9Uaifq5POFyNIzW6rk30ManrsdfrBHL4XDsbBkGTubsqqZgsS2Nui37JZd64RREyPc_cKdyfrXjRig_Cx3QTeAlcWvURRas4hED5xDdS84Iufktn--8p_hOoOXiYmjwQWkoz6cuLZsVOEszfSTuRQwT7g.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "\\\"Зимний патруль\\\": ОСВОД и БРСМ учат молодежь спа...",
+        "text": "\\\"Зимний патруль\\\": ОСВОД и БРСМ учат молодежь спасать жизни на воде В рамках республиканской акции \\\"Зимний патруль\\\" ОСВОД совме...",
+        "link": "https://t.me/pgatkk/9883",
+        "date": "12.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/e2EYzPdCBlxUntTXHqVcq7gLEoLxFkKaHXazGkQlCfGPUegzGG5rdAI0bppkWXj4ISR6VgLmqswRNG7bSl4EgAq86WrQqsxzyFGkaJGBBRhdG46oFCSJ3febwGklqyBOUi78U5qHlDXn4-pX8qj3JYfhM6kNM3C1Twn5iYj8RLWO-GpZdK4xiBfW_Pra4bCHCJiAjh-y5MMYzoinLhyZZGPEBiJXitEWmwj2IvB670buYPlLWjicKWfkXf3PF7qbg-oBpM-AQruM0O9w5q1Bdiu8MglOCIp5X-fhxYLI2SVZyj10rEVxWFx0B1HVtGF5R9bOWbQ7fodltY1fU-fZKA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Поздравляем команду колледжа, занявшую 2 место в г",
+        "text": "Поздравляем команду колледжа, занявшую 2 место в г.Пинске по шашкам среди студенческой молодежи.",
+        "link": "https://t.me/pgatkk/9814",
+        "date": "04.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/ndSjokkpYoOSBMprTEKr47V3Gb0svra1--OeSy3QrJfNWPovKbpszPjX-JxLTAR5OsHbPkEZ2_fLfgNktnOk8rbEWB6xjV9RKVxm_UF2mKPOxDNp6VvFvwwpL8lwDxLdEvEYo8_o3hwUdJNbsh6OPzNou6d1nyBabo38D9BjSANsN8IGCffsmiHDhkjjNchEff_TJqKDDSYyM840VMUm_3dyJwY8Vgv9sAh1JT1W-R8k-cCZ8J4bv5RpT5ajqbZe19btRUh8PAZ9PLqICUxiodqylT4l1Nrruww3CNyj1qjBdpH_d8QpDgPXl_X-UcZTJh8FSSw3cPWM7bHC4xDFww.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Члены МООП «АЛМАЗ» сегодня обеспечивают охрану пра...",
+        "text": "Члены МООП «АЛМАЗ» #ПГАТККЛЕЩЕВА сегодня обеспечивают охрану правопорядка на концерте Российской эстрадной певицы Татьяны Буланово...",
+        "link": "https://t.me/pgatkk/9800",
+        "date": "03.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/S5FH_g8um5qLaW9TRSaQxRrRLC8IVgwk3t_iVG75GZ7f3kdsuNPI0vJqRIL6I-A0bd1YrjAvJ_0sMjlQYS1gIROJhsiupbg0ZputhAXZxFMYA8yhB5BRI0gjD0U8M7WLssFtzSibeo6-rmYGJ6YCeKLl511Oguv_YTPWLQo2GTmo6kDh9Yl_tHdfh85gzCIvAhL2raa11VF-3MQ4qnK809BRLd-PYJ4yKsb_hmJyzQHeshgLOrRvTV-QHa_xYLOHFkDCX-_DTn0UazSxOVLsAMNV_rn1EkxHZoyexoyrEP8bhGjGvyonrXnzJPjwYMltg0mXZ3vSHf7l7Qw1KdUx7g.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Свет надежды в борьбе со СПИДом: акция в преддвери...",
+        "text": "Свет надежды в борьбе со СПИДом: акция в преддверии Всемирного дня борьбы с ВИЧ/СПИДом 1 декабря – день, который объединяет мир в ...",
+        "link": "https://t.me/pgatkk/9752",
+        "date": "01.12.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/moxx3GIDW9AOYOEaqv1ULNtX3uWUeM8WTA2WeF6P14R5F32rS1I3O453FlPqwI03YYmNDeeB0GLPhNCimi-cMfcStEJDhhMTQMeZBkQVCh6dRjWHVfPOZ4wE0EvGIcenigRRMou4LedvJNC7B54KIlOizFMK9lfBVQOUU0Djcrzan9B60DMrvKoCdFkwMrr9qMec9MqU7qKK6JSieI9EcMSqeuBVDg6bd2mMgRxm8hEqVSCwzYnVJbN3NadsvfeZvn9BF2ln3-OFeU8O_L-k8I6LHjLWVJ1Ycr0DLJVwIzfTcJjVgAb6oRILwi59w0eT153ubPy3bOLgMqzIbdiWYg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Поздравляем сборную команду колледжа по волейболу,...",
+        "text": "Поздравляем сборную  команду колледжа по волейболу, занявшую 3 место среди студенческой молодежи г.Пинска.",
+        "link": "https://t.me/pgatkk/9622",
+        "date": "25.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Gv9YZrxZFoHOnt5qZB3U2XOp0IgkdHrVTnG-uiQzHE4OrRgWXFnuEeq_nkqNCSs5Wo4NgzgeE5a9gnyG30lFRLDz0HO4V0tseUgQchbResY0VzEHmtSyRLpLQx5KAPGzlYckb0EaIT2Y8nCo1xjqkRl8xuy6EJb7xfXvsHkFmGbm9H0B9U6xwcfI-hgYXpjKDUM3kzlT4ePTd5E_RrwVVWM1C40ChMrg2Oo47h7UiBiXewS0ZInP50LUY3LSNN1-S3K42xoKCZC7OIEArqMD5msZQThJ0DJ_fJT5oKmxUUpkOX3mpXCDu0s2k_R13NA-b0sURsD-27G90xQ8uYzdCg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Добро пожаловать в студенческую семью! 😻",
+        "text": "Добро пожаловать в студенческую семью! 😻",
+        "link": "https://t.me/pgatkk/9565",
+        "date": "20.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/bA-XVKaPH6nNcLofiGyszWSAnmJKvzSctpDJwI6X_ZGScmggr0rkKQQzcXmCgSJZElCJsllgfocB4OFSbJUyA20nueIDTr6sFiUFNl9IdpLxI1IchFf4qetBPZq68vt1qKYkopblrORpYtq0eCeljUthee_yjoOh4Q_xVGXoTy420EqKfxVzCD8IJBJg4U04UH7rZlzQPnk4DYOAMlrtLRZ1UbQUwuOzbPaud6xpNRvtUwye7Nfs17zAxgkqEAX-PMOjCDsij4qLgFZ7HJ_1zEFmV4qn8L5fYbd432j55GdBOX_XZt4vxNQWui4HnFkJqGsun4gtLRdW4aR6F4y82Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Добро пожаловать в студенческую семью! 😻 20 ноября...",
+        "text": "Добро пожаловать в студенческую семью! 😻 20 ноября! Этот день стал по-настоящему особенным для наших первокурсников! В рамках волн...",
+        "link": "https://t.me/pgatkk/9555",
+        "date": "20.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/U7qlpx-n4sa91K-LvFRcgzvsxw_29HtPFyDYD_hUcsh2NXCPp-0MSJbSoYK1JvYPNcFisSyqJGE2XBelc8Ebk4GBsnT_pViK_FjYwt5p6EigaG1wN22hd-6fe6EA-ERUBCQJdmGtHQ_daVsRAj6diT0Yv1AOAdxMqqCKPiPHchjmRD2L5AT4wgxdzjhw7LuOy06mmi0Cmh1h8VIwSkiRfo6uYWj1D9Q-6zuCHDapInymv67LI-05PtU_4lIxM1cQe8DWsJizAcOMdJTEQh902SZI8DOGgh26lmVRsdNb4HuwDdGxk7VyLc9F6LBDum5E0MpgJ5nrqgeLJUv5yOTC0A.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внима...",
+        "text": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внимание, ребята! Открывается уникальная возможность совместить летнюю практику, зара...",
+        "link": "https://t.me/pgatkk/9551",
+        "date": "19.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/YObxvHA1OjmYKlokNhwkqMPD-AYPbepXLRpeEc7aKS-5ofADz7lMtcPIi_MBGs57uSkJwqXD4BHGzbyMtou99rQqSSEhe_OALLAyoBq2ZOGYDT_oN1apqTSHin5AfjOIjuJ4M1i6IW20FPD3jKUAzf53U7-bqTtlFjPCtVbHU6jbYFYa78w9TJpBZW5VYOTTXGF9098ZrcVTJ2zSYNSAoWtdUQH6oy2mtW9qjtCd299fIZWH_iqqrZfJ4InL84nAinL4E2Mgf507twTHEwJe-YKxKRak0uwvGwXqwbSRPp3zWdx26ARIlThStCQPJFkO3gZ81iTGbfU7pQOAV0YJvQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Уборка с энтузиазмом: акция в действии Сегодня в П...",
+        "text": "Уборка с энтузиазмом: акция #ЗаДело в действии Сегодня в Пинске прошла республиканская акция \\\" #ЗаДело \\\", организованная Пинской...",
+        "link": "https://t.me/pgatkk/9523",
+        "date": "17.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/oSfopBLp1d6QCXh9pA7tSB_zlBVA6JI8KQ-hQQ8mSIM635h_E_hCZeWFds3ntzjnEUz6XToqX1ooho39Snye4N5AhC79rwU8IBfl9Vi6QUKOFCVS6cTMU1PMcwpLtpLGdW2XazYREzWZpyRMELWwJrfuSOcE-ICfgCxI2mxalD2RoTDMrd3-U3ld5gkQb4Rrbmp_u5oODTIkS37HehF_tiPX-5KCD_q5kfiJgxKbuv7uAP13y922rmzqDHGRCOfjcR7Rp1u16bc2eNn51n1J52FWtkQ0EbsCy8eje0Zyo-VBN74ohmN3NF3AV0fkafDwXHl9FoQhk-v0vz1zO4BCXA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "⚽️ Спорт как альтернатива пагубным привычкам В Пин...",
+        "text": "⚽️ Спорт как альтернатива пагубным привычкам В Пинске под девизом «Молодёжь против наркотиков» состоялся товарищеский турнир по ми...",
+        "link": "https://t.me/pgatkk/9478",
+        "date": "11.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/D1-erA4iLgqiyTk54VWKQkyM-hnMA9QWUB0YnuqAjDkeA7xglsgFyhfAG9URo0h5DQWXjYyEO6DQb5VNM0_j9aRDw0b_bd-NKFPpPBb1iB7I7eysoeZw3-yEEpYTZIGWCbZePnh0zOU7HVkDalGYJLBryHT9M0eh4EK5k1mcMpG7qrQ_aeRvesTZOOMkWbYCQ8ecVUTGmfwycUKJxojEnH1HYdwDYM8lrcMpsTeBM4s-4czTDq_Yvnwhy7so7RXb8hSGWhgQRZGWB2n99kSAFZZxzEo5TCYWK1FSHnxc68MyxtH6uFjaoU65wwXCrdUWnjQzD3m8pi1EMp3iClCi3A.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Соревнования по стрельбе среди учащихся колледжей ...",
+        "text": "Соревнования по стрельбе среди учащихся колледжей 6 ноября на базе Пинского отдела Департамента охраны МВД состоялись соревнования...",
+        "link": "https://t.me/pgatkk/9456",
+        "date": "06.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/RBQhsXmOodQPUpispOfowxdzwYqbB76DE2HaIzu_ewrs6PmW28PNcvs8eql2sK2ZUQGek1p_IanMdlYaXmC33-pdT8WTYna8EC6YMItxssCF7cs4RHayxBbJPm_DIm8r8NvcY3LhlNkdY3Mrffrjj2O-ztAkBxq9umJeDPfov2NoKkVzFkVrcW1ehUIK6dqQs_RmOVb3BcRA0AnnEznSisH6C0S3nJ2QPNYnHoYfw8zeuSWbl-1ba9WYpLyAQXK1g_GSF0D4gSBu3aaipK8VZ8VTB2WFPvOCqj3IkMUnaWSL4CBemhJ_CXzmoLJ3_PggQIdjWhYQrnq-doGpwRbk6g.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Спортивный азарт в : турнир по мини-футболу против...",
+        "text": "Спортивный азарт в #ПГАТККЛЕЩЕВА : турнир по мини-футболу против пагубных привычек В стенах Пинского государственного аграрно-техн...",
+        "link": "https://t.me/pgatkk/9444",
+        "date": "05.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/O5iNWvrDzP0OoVBtfc7YwSKSi2aAPcb9ATOpLb4VlhvREQL7oR6ntu3Rb2C-ZmzeRrkE2iUTDA-NBndJiS4FqrVBlc8XLaXrBaTQ6Kt4H_aYdX3894F7tgEbzqCFFRgesspfCp4YNT4D3iWx8_-WL8z7pPYVPuj667JJzXAfXbdj1LWBgT4A4DJCuj911NwbW2OZ_pb0o3dlPJtQeNBi0mJyMsX9i-lXcu2FzU969TOd6PNqBL39_ANL3rvvjPdgAll6Z84P6aOWgYbB5NHxXUdr55ymKzqeecFyYmqSJB0h_Uu_ZEoOLGh-Qegw9sErh1wwNt1nJuH3ryeGlFZlxQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Обучающий семинар для бойцов МООП — отряд \\\"Тайфун...",
+        "text": "Обучающий семинар для бойцов МООП — отряд \\\"Тайфун\\\" 📚 👥 В Ивановской районной библиотеке прошёл семинар для бойцов отряда \\\"Тайфу...",
+        "link": "https://t.me/pgatkk/9407",
+        "date": "02.11.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/C3p2_0xAvxJ9x3BINzgwbYBgKBfcHeZgWPB_rqtAk-ai6BXVpBgBHCjBBHGte7lJeCBu9azQrbERLoY7oUjTbdXutFudYxo83tLC-iZhkFM0khHchDivqafCZGW6tsdKKu-s61K5Z4SCIu9LO_ZLELovBZN34vwhfORK9gvlpj3sNwshoatybASTeB1-YxAfa53IRdQDmfTnZONHVVbXHECgNvOvqDAOReJzx7E6O92MGcwPLY1v6-lnuJZozuEMHAoKsgybHgEgzWzRX43LQnuAd8j0_8vn4hrBFH7nLq1T1Bw6R-reWOSSw8RRCzS55O70NgP2Impzs2esKCw8_w.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Стань заметней с БРСМ! Чтобы сделать наши дороги б...",
+        "text": "Стань заметней с БРСМ! Чтобы сделать наши дороги безопаснее, а молодежь – более внимательной к правилам дорожного движения, Пински...",
+        "link": "https://t.me/pgatkk/9352",
+        "date": "31.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Ga6Oa4luKxDF7IqpwGdu8i9Qnz-v5hO1fvv_BtuljCOGFSXFMz2uBCfpEmvmKu5BaRbADnL8qhpDL07FsafjPUGMbktuOhiQRsuoXq1ZwzGRI0pLQrt1KPSqxTodEvlZUGNpv9u3uPJOvzGPwisj18qzkCEJ_E6bBZ0SiIiK1bCapsBNoCvKJ_AuARm8UTUafjDLqItSDs_olRuuv_8rpIUhVh0SMrnp2wUBkj1Q_YFWzyhA8mL5kSSto9lf40GHdu31B3RKToDr_vnSd6CD7IMGO6V6nW2aVFsWc6h8-uMXAG1cPbaFRmsECSx05hzGIqsBCfL15fXr0xWhUc3oKA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Поздравляем команду колледжа, занявшую 3 место по ...",
+        "text": "Поздравляем команду колледжа, занявшую 3 место по настольному теннису среди студенческой молодежи г.Пинска.",
+        "link": "https://t.me/pgatkk/9313",
+        "date": "29.10.2025"
+    },
+    {
+        "image": "https://placehold.co/600x400/EEE/333?text=БРСМ",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внима...",
+        "text": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внимание, ребята! Открывается уникальная возможность совместить летнюю практику, зара...",
+        "link": "https://t.me/pgatkk/9310",
+        "date": "28.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/XWXD0ZBwK4FC6U0gr30dTHQUYUv4wHV_mJvvpVBX3PooLNUi4SRobIHK1cgLt7NmT6sGqtbFdovO6cISBLWfog8WmHuRJlRv7DfO5d5Nq6Rzmvu6iylZLFNNGOoHeEpiH0U7MblPGyB7VaLUhwaO_I3UYGDpggVjeibQtTZLAAGwFdwoZIEuAihz7RhFM81P3HWxWqm_pMLypYd6ykP0KqdG-nRslf2pSDUbWqv5JazWq5xKkS6P9PGtWQG7pnu1mhQ6qAlag-kpTd3msDhGXk9iKdV0KaknlCAYmCEq-BMqqA6t5re5GjPmTAfAkoG4NlY72f3zRFOn-veUpdihrQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внима...",
+        "text": "❤️ Старт набора в студенческий отряд 2026! 🚝 Внимание, ребята! Открывается уникальная возможность совместить летнюю практику, зара...",
+        "link": "https://t.me/pgatkk/9299",
+        "date": "28.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/Ztxhpe9GxTJaS3HIWXPcor4j90-XunTc18eFwOGqKwWQmdS_VF7VVaU9EWfnuIv0sgLm6BC-WI7ipE2ODYm-5wH9wccSMSsENw7ktt6d2MbizYkABVm8ILnFd5dKhURx0yhTzEUPnRdlhlsY8iVonyzmppbIEXoAJ-TUWK9xiHhUXaj-1D2JVy_7S7sC8DCxpaRWCnbQno7T8fZiFyqDFRJQxkPwbWPgSJpLifaH1BBAhYHmQPMe7SDFC6ft9fD7KMTzWB89c4jdcATfk1UY3sHtN1HT_A0HviGVfUDH5S5AwHOZg533Eae8CkKGP8rjJzp__rxreIeP7-U0MPEWmQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Плодовые деревья - подарок пансионату Активисты го...",
+        "text": "Плодовые деревья - подарок пансионату Активисты горкома и райкома ОО \\\"БРСМ\\\", члены партии \\\"Белая Русь\\\", сотрудники ОАО \\\"Оснеж...",
+        "link": "https://t.me/pgatkk/9292",
+        "date": "28.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/kwizUiviueH4Kngkz5WlLvIQl-x-a6AYTrdHupNn90Jx_wyHRFsQOKqn4jZktn46oCE2hx6MJh7CVVt0ZAfRDbKfHnrouRJJDv3GuwhbuxoeOfamF7BOWE2PbcZ3kNjRyvmJurRE2pFpPKjwO3GrghlUqhKE_LBonoN_5coEX5K5vrZWaUDZh_dZXjY9VA1OJbb_dSbFruiNUL-hg3rHAYP-OH-rAA4nTaP2FUOCobYSKPaxZk-mTXUvLf4olOw7E5J_o8J1bqPc5TqzxeZ7Fv8DqEdAY4Eh59GBP8xuvbEqUJAXwYFJcRBvQ0vKZW3t3Y_MwWWEOA5yI7_MWWNRmA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "На базе Пинского ГОВД прошел учебно-методический с...",
+        "text": "На базе Пинского ГОВД прошел учебно-методический сбор командиров добровольных дружин и молодежных отрядов охраны правопорядка. Уча...",
+        "link": "https://t.me/pgatkk/9284",
+        "date": "28.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/NtVw3aP4OjaHLWDY3T9NFCc7pj3WSS5NVcj34DIMyUZsV0o7vCkZBB8dmBOuDMPDRmZxpA98zkIcdpupKS6SzlO7rHanmQ1WOdwEPPI7cgyk_dsM9hXdMEr6_guNsT07nut-5Fyr1rs-kFQ4t0Xmim8WiLeqT3ALQGnDbBGD1rd6R6kImI20220cM-LFuBU8XHk35VSwAiUFpt40xCOyImRPuG7MDlFF5Ne4HrHCQZCNTKJw3fMElYqwSzb7_3AYf0FcyKfWTfU0niFSPDgItxP608KditLfjETtBrt-YSfETvpDOiWP9rQGdqIqXY0R1T6rWjNg0q0bkAqdsZqDsQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Практическое занятие: \\\"Отработка приемов борьбы\\\"...",
+        "text": "Практическое занятие: \\\"Отработка приемов борьбы\\\" для бойцов МООП. 💪 На базе УО \\\"Полесский государственный университет\\\" сотрудн...",
+        "link": "https://t.me/pgatkk/9251",
+        "date": "25.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/IjJeWpUr0yx9IFmtqkUpgNuHw2s0Yo_NXyvaOse6CeVGdUdvB4U1etNYStXbiMHTDHgt9CmAVCHDuygXZuWrynDd2gkVtqSWr_5mmWAI56Etml4PVXs9dOK33KCLCxX34PLYoERLoLnoRC-Q7MlsItxtm_TES0rn0Mmu6LuAw2ReH1iVEuzGEue4GX1ZrwhL7gqHK41ilFMB8eNJ3O-KXuUQXx5_agOhtRNWMmcHQnXW71wVMPU8Phgx8H0QUDJ6GnpfRsVW7SpND6F2PlfF_XYZJqnseRx0yEc-IftLyaX5972AmFZpfl60lWUxNOci0Laz1K5yVA-IbVgTZcVfkQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Молодежь : о нравственности, традициях и семейных ...",
+        "text": "Молодежь #ПГАТККЛЕЩЕВА : о нравственности, традициях и семейных приоритетах 22 октября в #ПГАТККЛЕЩЕВА состоялась встреча с первым...",
+        "link": "https://t.me/pgatkk/9235",
+        "date": "22.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/WttE_pgyDzejtIg3bNS0fXRVlZsSiBslCvoMgeT780_dj-OqR6kvYD9Ofap5mKCrhl6a55E09wywxlWr8n_fgSzQb1N6fG5ZpPXVUEd-WC5McinKKem63z0JFfGIFW7aU5sctORbNgJMpx_iHWw3zTID4rFyYZ48NoSGM7jOpUP8CZfrr8wJlIETmqS2uSjpw62zXQgP1735IhoS_s8h4_3Isu_JtZVIT4R3nwEpOvzvFUapIW_fCwqKSjEN_-XoO99Q-eHW9Jo-qf--RfOEWZYKMMs5UI6bP5o7lemtAhxmaF6A8r9g1S1ln3aKv0Wh1z52ieyNzd9CZrdrTAXvXA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Республиканская акция \\\"Единый день озеленения\\\" 🌲...",
+        "text": "Республиканская акция \\\"Единый день озеленения\\\" 🌲 11 октября в единый день озеленения волонтеры ПО ОО «БРСМ» #ПГАТККЛЕЩЕВА посади...",
+        "link": "https://t.me/pgatkk/9087",
+        "date": "11.10.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/dgoNphNB23av4meqMJk8kYIeWTEKBZswItkkuCTD-4pUsljXrB3VcRNEndqXYCnCObNpeJH1d4sR3jAnoFxi0sL0H9O3wpmgAT8vBMaPTYT5GJVUYvrvfSG5xPqDoxUTDjNEkshaToLeauVmGDLiYYMsnKyWCxNXFWZojeBDifHlJGASbW_1oLVABwShl7Q_Jsz6QI6AeiTnW0iMOHI3IzkflaAp84Edwb8oCqQI-Qiylcrz4ekZG1BJhhbdTwyRZDYb0s8mI3V2nEJuBqO8_XUk1e3AgWpyckJ7M4RCZAGv7NU-osvtoDMxzQPI6NjvMi2EcNqxQOshMWMKtDDlLw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Столице Полесья - 928 лет! Сегодня мы празднуем Де...",
+        "text": "Столице Полесья - 928 лет! Сегодня мы празднуем День Рождения нашего дорогого Пинска, которому исполнилось 928 лет! Центром масшта...",
+        "link": "https://t.me/pgatkk/8871",
+        "date": "27.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/E-mTrvRtkIGJqMcTfz7BXvMM2PuL2Cuo37061xv-e-9V-N-eYndIUplmy_m3rUTiHD2AEd9rVG6YEUlGPa3FHQupMc2y9hZxvjMo6Du8Tw_RPoCiSJ4JIu9vE68kT5hlKl4NznBa03MeSzQlzGJ3FlFw72sPLs8WCYmMzCqEntwz2H2qxHhtTJNcVdfujrtoPxNPJL777zIB8uFwRXbKSnclXoZVGpWArTDf9YyOgoi3fcIl9UAWGkQgkZHASBMlQ9TaF40kv_0O1qWtt-cOvZgwQAI_DJwuImGLRUAN4BEVLg-e62zoPLvCFG3B7AcZsPqA5MNy9puLxytMncrxAQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "В Бресте стартовал республиканский форум для обуча...",
+        "text": "В Бресте стартовал республиканский форум для обучающихся колледжей Форум проводится с целью подведения итогов работы Республиканск...",
+        "link": "https://t.me/pgatkk/8861",
+        "date": "26.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/YnlcT23xu8S_7XKw49UApq_M9kbal9RESb1PYkYPAiGF-iDq-MBNuwsUl1qCFBQKlO4I9ffu4HNBLX0OzuNV8QHWNbr0yL1PHq3qwngkpUMViCi0lG2GuW5Yx147p9NfqoifviOuljZIGJIoen0Jh0Z5l0L-1Bp43LZsckYiE1NqT870iJQLd2R7nJRiAn2x7QWOXLO0IOJgenYGqb_W_XTJUTrl8n_Zbd19eL509MpZAmV86vr8flOntvExfR3Vdbgr4KmL_m1OAsH0z0DX-_8VgyJJhuf2tjzhTQ7B3kRXgpeORzDRVkYeaDr4dpIFh3WGA3tfIB9wZjWC9ID9ZQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🇧🇾 46-й съезд ОО \\\"БРСМ\\\": диалог поколений и итог...",
+        "text": "🇧🇾 46-й съезд ОО \\\"БРСМ\\\": диалог поколений и итоги пятилетки В эти минуты в столичном Доме молодежи проходит 46-й съезд обществен...",
+        "link": "https://t.me/pgatkk/8781",
+        "date": "24.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/kZMQD53vi9MFGELHbWeB4WdY4b3a1AP3gltzSxrr42xbgZkOca_-Jm3TURzdIAt5qUrDkOFjbKxQMFCibAmCSyv7yoUF142xLpA3Leex5390-NNdEKdVMaCmNGYbDqS3PP4pnfi9Cq5GPQdtiYrz9SX8GxZKe_5JN0or2V5Rua5wiU7G2Lip5kTq3tVaPofhFeSvDU__HOc5NgVc_WL-ghjDt6rddm5ffdyXG9G0MLyHEq98TSzUGeMvPZkqlGLocoJw_fJTlPtZok9NxAMprLFdpgGZM_JQgwSYqjVF5CVcn0g61hE-faQQzQdD-_DY-dlFh4fclgc22WXMfKtbgQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🇧🇾 Делегация Пинщины отправилась на 46-й съезд БРС...",
+        "text": "🇧🇾 Делегация Пинщины отправилась на 46-й съезд БРСМ в Минск Столица объединила активных и целеустремленных молодых людей со всей Б...",
+        "link": "https://t.me/pgatkk/8769",
+        "date": "23.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/TKmQs42hNVDJgHYDQ5100ytTyUY2gj2zUmsvxIPriL1eQ1dOWZGB3vWnIIF9aCXP5RLmVbOe138ENN_zHYUmZsR7d3qwzs9KbRtSTfvMTn3RNK30cGJ8Am_4abuwXqi4c-aNH8PZPIUX-jFCChTHa02_ACMa0DLT8-tWrWck0R4l9NQh7-TkG7CbxSo0I04P3qsSjQiSCg-aQjvyJIV6ebUThesThap-GrUJA2J0eII_z5Q-QRUtRLJavnGCiQcOpgoZdIn0v1w8qt7UCgnOUVZDw3xvvdMoCMwBIGkNqw7qnBqPks5ttMU3B21vdVfU4_Gg3MJLDCIusHN8trvJBQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🇧🇾 “Мы - Беларусь адзіная” В День народного единст...",
+        "text": "🇧🇾 “Мы - Беларусь адзіная” В День народного единства Пинская городская организация ОО \\\"БСЖ\\\" продолжила интеллектуальный марафон ...",
+        "link": "https://t.me/pgatkk/8691",
+        "date": "17.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/g-VjT5doL-vlUoT5jfkU36bIyFcgmNJMmbN6zqbrv9lCDmjbYLAQqq8_iz2crfPg0_uVDdUaSUj8SahALFblbbWUIVQrYj_hu-WjtOo7hMwMGBv9zqSwicn5CDmpgDTJTB03ruCgqeKRZLii11Xq7yjxkb8YTo9Imcv7xbDruNZ3qlm_dF6oZwl5RckRhXXIsOfG_332WPBmKE_udRobUZlBWlQntkvGlHuTrC8pzoSogQKozXCpfztsTNeyvPLgXCLcvVRyuPI9SO6aig7FnnKiCxNxNXnh1qzqBVtA_O113unGx9wT-ggV5Iutc81J2tb7kKZIg4h7CRg1VSqoeg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🔸 Яркие моменты 42-й отчетно-выборной конференции ...",
+        "text": "🔸 Яркие моменты 42-й отчетно-выборной конференции городской организации ОО «БРСМ» 🇧🇾 Участие в конференции приняли делегаты #ПГАТК...",
+        "link": "https://t.me/pgatkk/8471",
+        "date": "06.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/MMeh97ievzM-CejXb_A3kFR-drw3Q6sRCIlBYYNIXhzgY1IPR-EsFLyoeon_QCaNUpPs1HriK3Jvb5Gtvoignb5V1_KbhmUXn-h5qSRC_okazjkQNpzWCuBliXL3x3adeCT-02tzAn-MJ9tBqDQLhWmXNFR3opcTcepXvcf-MYhE5UFro7MvD328QPC8Dclurf7Yutx0_kbf5lkeFz33hYH6-iP6fS1NT7hI_IriKG57z7xSbFYub174e0CYXS7xU29v8SbFpQRmPEVvOAcJvJilkoXOx83nX9OkojncCjMomVtL_Ib4PPWcfMo8L9vHHfPGRKNv0F_HEM7BRSHvqA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Награда за вклад На прошедшей в городском Доме кул...",
+        "text": "Награда за вклад На прошедшей в городском Доме культуры 42-й отчетно-выборной конференции городской организации ОО «БРСМ» состояло...",
+        "link": "https://t.me/pgatkk/8467",
+        "date": "05.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/K3AtgTavKQrrBtuopqU8bbPM-9rbC0eI13JuarkU0YHue5QMPdq8tM1LIQAmiyQt0zD5L-qllc1HL6SjsArYXLCKStgTqMN3_CzamyzFztrWsg6TBHINW83C_4i0nE4HNrE-x4o8uP77cqjEaAtts0p_OFIjQPQfPGhHG6XSVJAJ-m2T7yY6fiaD-Jr4z7oBcVFSq0e9F4aOpzqGgFSW80SJSa8UhnktUOADThC8reio3KZQj0RY4Py2tA7LTf5ydCo723L-JvLsoBQ-qmjieBYQ-SRH481gHJaoPyriSAoKIGYFXNegeFmKL598O7o2yh5CFDyYCa_rEA7o1j7aJQ.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "👍 Готов к новым возможностям и интересным проектам...",
+        "text": "👍 Готов к новым возможностям и интересным проектам? Вступить в ПО ОО \\\"БРСМ\\\" #ПГАТККЛЕЩЕВА – это просто! Заполни анкету, и мы обя...",
+        "link": "https://t.me/pgatkk/8466",
+        "date": "05.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/RAs5uEALxkLzWrMJkvMC1K1R-Ue2JIvlyf_hU26fCWbFg8oM43d3erdNA3x3yk4plqAqAmrQD2N-rKx_kBIDd5EWvxeWZydvKgZrnHhsyr8OsDbrdlLGCPaXBUsMg2RNG_2AEAaHjne_rIdRCZwb0JFMurGe332DJV191BhtiDc-onQiCmwAFvtoYb6tUiqAVV42qx_zzOP9s1HY_sbjH1DmGCw0qTGk32Janykc49PV50_KN2UEAPtqj1AAlRxFW1Qp9GZxDHCbcqx1fwcqngHaSWHs5lTj-V5Yb04UyVyUmmLnmp1CHkHEpCRhO0bupc3rOGZ4E0MGWY3eXkkw4Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🔸 БРСМ и : вместе строим будущее 04 сентября на ба...",
+        "text": "🔸 БРСМ и #ПГАТККЛЕЩЕВА : вместе строим будущее 04 сентября на базе #ПГАТККЛЕЩЕВА состоялся открытый диалог на тему: «Задаем вектор...",
+        "link": "https://t.me/pgatkk/8456",
+        "date": "04.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/sesuhnlVCFUzE6PvaJG_uhjmYRY1uR_9Th7t9YwsoTY5INlD6iQt7EWHBfDsJsHsdJbks_pLHw3anVv7lKfJJrp4PbS0muum3f7X9crSHRGcXWVZTXIG-L0Njwr3sDt2agWSAb2eV5gUgLSBz_Y-cyYnAk7Fxiqj93tir2ySzFs0Uvd_hGKNoFBuBRMJDHLAfLtlLduGI8Tyt7Blc_cRzkaB531F6OIHLV7X32AhKFPn6QOr2RYE4U2-nKAjengz35oi4A9vP3DbP8RGAOzwrh-qzGTOxbm6NZm-IQOG5gym8HTXuaijlav7pBCqc1Ool7m-X8XallN2IP-A_9_n8A.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Члены МООП «Алмаз» напомнили отдыхающим о важных п...",
+        "text": "Члены МООП «Алмаз» #ПГАТККЛЕЩЕВА напомнили отдыхающим о важных правилах безопасности на воде Жаркие дни манят к прохладным водоема...",
+        "link": "https://t.me/pgatkk/8450",
+        "date": "04.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/hhUWW5iGhQCcJ0fT_-RgNS1TR1dJ-RETt0iLUPIgkyS1sahDNkCOVlWzvfexYuh6qHGB_6IMty2U9inqg1a2BLUTUK_8BZYK61nuTHYAfg4yUTf_gEHUK2K33SPbnnnHQ52N8ZOfDv6Q3i2aBTjLp19Idmskyu1oAwQagqOVPMn579iCwsF4UfWaTjEOexqqNoOv14ssaMNnDcry-LQmMmbISEPwCbycqXgdHhGhSr2LBhFvcbeKvQ4RUe5LoCSdyBXHkPIXqomtdnMtQjTTp6VYfXIQggAuRjfWb23qWseBpYoEzqqWgJAGosssyGL3_mv5my2ihSeEb_3m742Tzg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "📸 Фотофакт",
+        "text": "📸 Фотофакт. Первый секретарь ГК ОО «БРСМ» Ильковец Ольга Владимировна вручила грамоты ребятам #ПГАТККЛЕЩЕВА за проявленную инициат...",
+        "link": "https://t.me/pgatkk/8371",
+        "date": "01.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/fdMGhNvdD9jcUKQpkHsvi3kVJoTPML9SiSTc7-fiKveHufmWreqP-UdU0ZW37ST80PxIPjSEQnvvT8JeTyUew36TU6nN349MKWk6lj7W2lRk6BTFHjtQU3ZErYPpqbnWowCodL2FgtljwwgA0yMZmTX0WdKEnky4yAbk78D9jP0WR2UPz0c2W2hEimHO17nVnPYnKmX1pJSzmuwAFvfhyGwkYHbFNMCED4i-6vuFrYlQGZq2fOo_Nq29rOXekV7uRVvHQkLEXCE1oylmLZU1A9H2mlKEymVnfTAnPPzcHpWslRvwUwYyNsqFVh_ddGHtLZr05RN-A6OaUu2VY3j3Sg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Торжественная линейка, посвященная началу учебного...",
+        "text": "Торжественная линейка, посвященная началу учебного года! 1 сентября в учреждении образования «Пинский государственный аграрно-техн...",
+        "link": "https://t.me/pgatkk/8362",
+        "date": "01.09.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/soB4jTdMk_d_T6tFjHfvxPmK_XCt7zBwQ3EH7taNgMV5E6Fq4h5wIOdiQU48fma26_4VRtCMJDqIrKwEDyetFseYUzJTYg2qTjA-4Z4zRpsf9qqSCKHJRiaMnRkVoaqIo5LD1DJr4-qkvo_g23TmwIkDpJSdMVWvHUcVj-URfEI-JOlvmAK8WOWrv9m9z84Lf-vfE1ng9X2hb8H4P7ppkOJgyORLZbOGANRf8fIYKiXKZN4RxTo5TZGkKqcJ6imMEwkjUmWv0yxN09BC4BCwyvpuFQtj-INPT3VZAbSfWzbQ1cqFICot0BICXa4mNYFdehY_3rtX9OfPZvTFU2nerg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🇧🇾 Республиканская благотворительная акция «В школ...",
+        "text": "🇧🇾 Республиканская благотворительная акция «В школу с Добрым Сердцем» дарит улыбки детям! 💬 28 августа в рамках благотворительной ...",
+        "link": "https://t.me/pgatkk/8336",
+        "date": "30.08.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/YAZIpwZG_ticjK6jkezMQ-ys4wBGWS3nbVgOxtKO_qixmXrX87u1kdh10xZhP_me4QrMRSYR70LZRbYECrLNoyPnZMC05rNsDmkk5J4vwXfLIzn7_pdweR46Rc3W8JuAPyuDag0al9f7oz2QJxIJLn-kwQcacu4NWkKGLU7xO05vNbn7F-kCUJkxqHKnPW2Tldxc2JWGkZ3XuHMd9UDtxsDqiiKjV_OH1FlWmPWTFfsCTtnWz_zv6xOA8VSktEL4z1LabvyjZ46M9bVjD-sgUd-m2qfOl3e5sKh6GU9ePSIwOr-7sHA1H3vUIOgJ6ZfcjOFu9f8azO-WEEYoT2yyPg.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Отличная инициатива прошла на базе : учащиеся, МОО...",
+        "text": "Отличная инициатива прошла на базе #ПГАТККЛЕЩЕВА : учащиеся, МООП «АЛМАЗ» колледжа и ИДН Пинского ГОВД встретились на дружеском ту...",
+        "link": "https://t.me/pgatkk/8330",
+        "date": "29.08.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/OZ4BMkcP6FffazQgXf4sGHgiiyx-Zt4DC-_ki_tBuWifIvc_xPndEScaFPPBmU_DAA6Ku9iqAOCTwsFkqnSZeO2vE23XLV3M07w5fBnuidNoX68NuEhBI57OX1yEnz0v10g-DfVMy-rvDtN6YJe-ruxeby9Yn3I6b3j87D5-CFPtMyGBnl6NIOvFTxqYg-_lEfMetpCtagf0Q4WlWnaTiH2lh6GVbDE4A0-9S-jDrBEnZ6TYb2nt2Aj0jjXpMgQGpadi4TZQz0n9TYZMDd3zw9mf_iFzLvpHzsS7V7IV59YUbZQoEahfxtdcJN0R32iSSkjxKuUDnV0w0lY-sUdMRA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "🚀 Миссия «Вперед к знаниям!» В преддверии Дня знан...",
+        "text": "🚀 Миссия «Вперед к знаниям!» В преддверии Дня знаний, который символизирует начало нового учебного года, волонтеры отряда «Доброе ...",
+        "link": "https://t.me/pgatkk/8302",
+        "date": "23.08.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/GBb_4n8yETejxtA21dqieV89BamDAfEi9Tm86PETDXqweOqMwVE-Pwk8aVCU9WrpWQcuZzPgRhF28Nr4Y17KBOMxTvAX6eUeKsrLmBjdADjT9oT7oQyj79IxnCdPUNHbu5PEF9guZEI8ITYIMxIBCLNxLtMCQ3LKuNGG3LKkhKyRLLIft0YOEqSfxF3nYBs7FYzUgWpWUacvNMZsjm7JX2PSw2wMCrDjgRHwtxIvHF6RgCISFgop1a0Jxl96DlocJkM4qY0JoK1lUxp6UqTKtwT1uOAEyl8ScIgDj5HhXX2yihvG_XtoZluUMC9jjcN3s8uEUX2gB9otJGMEQ9Xd8Q.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "✅ Завершилась работа студенческого отряда «Партиза...",
+        "text": "✅ Завершилась работа студенческого отряда «Партизаны» ▶️ В ОАО \\\"Кузлитмаш\\\" завершил работу студенческий отряд «Партизаны» имени ...",
+        "link": "https://t.me/pgatkk/8299",
+        "date": "22.08.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/vXunlI_4k4nWvOFzc8wYm7ZJTA5UxzHX1iiNr7tFIZjaxWGVbPLEnS0WoB4QfHIwy3_p4h_5W3KUZJbnTqoMzZnXconzXPtbV4XGXQGUJP_yCAcz557qbZbXqecltWY-iMbbJUE9L7h3cbCgRpU2YG2kREjeHho5tqDQycWBhw32NMjFIda6ucr9xZGiEj5BTcUnNB_QMigMBVcY9NSnEtI8oHHXVMwMsxxCCX0xtdInk4f_mt6QYSqz6ky2uxFLT9X0oxfK2pQXsQcNqIHXqi-hp2WCw6WvxNk-f3JyLqtnk9EYLucID2yU8nmVaiaf2skYHb2qAjG1W1wLxjN0nA.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Труд-крут! Студенческий сервисный отряд приступил ...",
+        "text": "Труд-крут! Студенческий сервисный отряд приступил к работе. ☝️ КУЗЛИТМАШ с 2018 года активно содействует вторичной трудовой занято...",
+        "link": "https://t.me/pgatkk/8293",
+        "date": "16.08.2025"
+    },
+    {
+        "image": "https://cdn4.telesco.pe/file/V1UpSTn17QUW9m8SyiZfwyGrk3I6H4CQxzAC-DZquaM_x78gActN9tctMBLy0Ac0a-fJX8WZHb_zxO-FB5SQt1dIX_d3sgJUaE-lz266CfjTlm9e5awaa_bim4paNOytaDCOHD9tzlf_8n9QsanSFj8LKjsjl6vGfBQ-N2PrIjIKPSf_FftVcpZKJcrENPgF6rkJ079GxZ1sQkGCNytDvDqy3ZaPgXnPK0cRH2RmBquwJ4gpTp1l6v4wUlzIUhz199FGpdCejgSn6aMWblHqFUwiFvk6UtQwW_nz5BVYQGueJ5MIRyzm_5Ws0BemfnfmGb3wjdZd4SNIJsGuAXS_Pw.jpg",
+        "tag": "#ПГАТККЛЕЩЕВА",
+        "tagColor": "#2C9342",
+        "title": "Сервисный отряд \\\"Партизаны\\\" имени Алексея Ефимов...",
+        "text": "Сервисный отряд \\\"Партизаны\\\" имени Алексея Ефимовича Клещева на страже чистоты и порядка в ОАО \\\"Кузлитмаш\\\" Летняя пора – это не...",
+        "link": "https://t.me/pgatkk/8287",
+        "date": "15.08.2025"
     }
 ],
     city: [
