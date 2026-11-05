@@ -1,4 +1,4 @@
-name: Ежедневное обновление новостей
+﻿name: Ежедневное обновление новостей
 
 on:
   schedule:
@@ -42,3 +42,10 @@ jobs:
 
           # Проверяем, есть ли изменения. Если нет - не падаем с ошибкой.
           git diff --quiet && git diff --staged --quiet || (git commit -m "Автоматическое обновление новостей и стилей [Bot]" && git push)
+
+      - name: Деплой на Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        if: ${{ env.VERCEL_TOKEN != '' }}
+        run: |
+          npx vercel --prod --yes --token $VERCEL_TOKEN

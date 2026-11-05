@@ -1,4 +1,4 @@
-window.addEventListener('load', () => {
+﻿window.addEventListener('load', () => {
     const preloader = document.getElementById('preloader');
     if (preloader) {
         preloader.classList.add('preloader-hide');
@@ -187,9 +187,27 @@ function renderNews() {
     if (typeof newsData !== 'undefined') {
         renderCategory('news-college', newsData.college);
         renderCategory('news-city', newsData.city);
+    } else {
+        const script = document.createElement('script');
+        script.src = 'https://raw.githubusercontent.com/ITServicePGATK/brsm-pgatk/main/assets/js/news-data.js?t=' + Date.now();
+        script.onload = () => {
+            if (typeof newsData !== 'undefined') {
+                renderCategory('news-college', newsData.college);
+                renderCategory('news-city', newsData.city);
+            }
+        };
+        script.onerror = () => {
+            renderCategory('news-college', []);
+            renderCategory('news-city', []);
+        };
+        document.head.appendChild(script);
     }
 }
-document.addEventListener('DOMContentLoaded', renderNews);
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', renderNews);
+} else {
+    renderNews();
+}
 
 // Лайтбокс (Галерея)
 const lightbox = document.getElementById('lightbox');
