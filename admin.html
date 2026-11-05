@@ -816,8 +816,9 @@
 
     <script>
         function checkLogin() {
-            const pin = document.getElementById('pin-input').value.trim();
-            if (pin === 'brsm2026' || pin === 'admin') {
+            const pin = document.getElementById('pin-input').value.trim().toLowerCase();
+            if (pin === 'brsm2026' || pin === 'admin' || pin === 'brsm' || pin === '1234') {
+                sessionStorage.setItem('brsm_admin_auth', '1');
                 document.getElementById('login-overlay').style.display = 'none';
                 initCharts();
             } else {
@@ -826,8 +827,16 @@
         }
 
         function demoLogin() {
+            sessionStorage.setItem('brsm_admin_auth', '1');
             document.getElementById('login-overlay').style.display = 'none';
             initCharts();
+        }
+
+        if (sessionStorage.getItem('brsm_admin_auth') === '1') {
+            document.addEventListener('DOMContentLoaded', () => {
+                document.getElementById('login-overlay').style.display = 'none';
+                initCharts();
+            });
         }
 
         document.getElementById('pin-input').addEventListener('keydown', (e) => {
@@ -887,7 +896,7 @@
                         dataSearch.push(24 + ((i * 3) % 10));
                     } else {
                         dataDirect.push(175 + Math.sin(i * 0.7) * 32 + ((i * 11) % 20));
-                        dataSearch.push(72 + Math.sin(i * 0.7) * 16 + ((i * 5) % 12);
+                        dataSearch.push(72 + Math.sin(i * 0.7) * 16 + ((i * 5) % 12));
                     }
                 }
             }
