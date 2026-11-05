@@ -2,7 +2,7 @@ name: Ежедневное обновление новостей
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: "0 21 * * *"
 
   workflow_dispatch:
 
@@ -30,11 +30,15 @@ jobs:
         run: |
           python update_news.py
 
+      - name: Минификация CSS
+        run: |
+          python minify_css.py
+
       - name: (Commit & Push)
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add assets/js/news-data.js
+          git add assets/js/news-data.js assets/css/style.min.css
 
           # Проверяем, есть ли изменения. Если нет - не падаем с ошибкой.
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Автоматическое обновление новостей [Bot]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Автоматическое обновление новостей и стилей [Bot]" && git push)

@@ -1,6 +1,13 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ru">
 <head>
+    <script>
+        if (window.location.hostname.includes("github.io")) {
+            var targetPath = window.location.pathname.replace(/^\/brsm-pgatk\/?/, "/").replace(/\.html$/, "");
+            if (targetPath === "/index" || targetPath === "/404" || targetPath === "") targetPath = "/";
+            window.location.replace("https://pgatk-brsm.vercel.app" + (targetPath.startsWith("/") ? targetPath : "/" + targetPath) + window.location.search + window.location.hash);
+        }
+    </script>
     <meta charset="UTF-8">
     <meta name="referrer" content="no-referrer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +16,7 @@
     <!-- Мета-теги для соцсетей -->
     <meta property="og:title" content="БРСМ | Молодежь Пинска">
     <meta property="og:description" content="Официальный сайт первичной организации БРСМ Пинского аграрно-технического колледжа.">
-    <meta property="og:image" content="assets/img/hero-bg.jpg">
+    <meta property="og:image" content="assets/img/hero-bg.webp">
     <meta property="og:type" content="website">
 
     <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
@@ -23,7 +30,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <!-- Основные стили -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.min.css">
 
     <!-- PWA / Иконка приложения -->
     <link rel="manifest" href="manifest.json">
@@ -105,7 +112,7 @@
                 </div>
             </div>
             <div class="hero-image-block">
-                <img src="assets/img/hero-bg.jpg" alt="Наш колледж" class="hero-main-img">
+                <img src="assets/img/hero-bg.webp" alt="Наш колледж" class="hero-main-img">
             </div>
         </div>
     </section>
@@ -114,7 +121,7 @@
     <section id="about" class="secretary-section">
         <div class="container secretary-wrap">
             <div class="secretary-photo">
-                <img src="assets/img/secretary.jpg" alt="Артур Мелюх">
+                <img src="assets/img/secretary.webp" alt="Артур Мелюх">
             </div>
             <div class="secretary-info">
                 <h2>Лидер первички</h2>
@@ -141,7 +148,7 @@
         <div class="container">
             <div class="promo-banner">
                 <div class="promo-img">
-                    <img src="assets/img/promo-good.jpg" alt="Цепочка добра">
+                    <img src="assets/img/promo-good.webp" alt="Цепочка добра">
                 </div>
                 <div class="promo-content">
                     <span class="promo-label">Республиканская благотворительная акция</span>
@@ -193,7 +200,7 @@
             
             <!-- Картинка направления (слева) -->
             <div class="dir-image-box">
-                <img src="assets/img/dir-1.jpg" alt="Направление" id="main-dir-image" class="fade-in">
+                <img src="assets/img/dir-1.webp" alt="Направление" id="main-dir-image" class="fade-in">
             </div>
 
             <!-- Описание и список (справа) -->
@@ -213,7 +220,7 @@
                     <!-- Кнопки направлений -->
                     <div class="dir-nav-item active" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-1.jpg"
+                         data-img="assets/img/dir-1.webp"
                          data-title="ГРАЖДАНСКО-ПАТРИОТИЧЕСКОЕ ВОСПИТАНИЕ"
                          data-desc="Меняется эпоха. Буквально на глазах стремительно меняется темп жизни, появляются новые технологии. Но остается неизменной жизненная ценность любого государства – патриотизм его граждан, который начинается с любви к своей малой родине, к тому месту, где ты родился и вырос, с гордости за свою семью, школу, деревню, поселок или город.">
                         <span class="nav-number">1</span>
@@ -223,7 +230,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-2.jpg"
+                         data-img="assets/img/dir-2.webp"
                          data-title="ТРУДОУСТРОЙСТВО МОЛОДЕЖИ"
                          data-desc="Трудовая занятость населения – один из приоритетов социально-экономического развития молодого белорусского государства. Органичной частью системы трудоустройства в нашей стране стали студенческие отряды БРСМ. Они несут в себе трудовой и воспитательный заряд, позволяя сориентироваться профессионально, получить рабочие навыки и заработать первые деньги.">
                         <span class="nav-number">2</span>
@@ -233,7 +240,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-3.jpg"
+                         data-img="assets/img/dir-3.webp"
                          data-title="ПОДДЕРЖКА ТАЛАНТЛИВОЙ МОЛОДЕЖИ"
                          data-desc="Совершенствование системы поддержки одаренной, талантливой и обладающей лидерскими качествами молодежи, раскрытие ее творческого потенциала является одним из приоритетов БРСМ. Главная задача – не только найти и помочь раскрыться талантливым ребятам, но и занять молодых людей полезным, интересным делом.">
                         <span class="nav-number">3</span>
@@ -243,7 +250,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-4.jpg"
+                         data-img="assets/img/dir-4.webp"
                          data-title="ПРОПАГАНДА ЗОЖ"
                          data-desc="В нашей стране развитие физической культуры и спорта входит в число приоритетов государственной политики. Спортивные традиции – один из ключевых факторов, способствующих узнаванию и прославлению нашей страны во всем мире. Формирование в молодежной среде моды на здоровый образ жизни – важный ориентир деятельности Союза молодежи.">
                         <span class="nav-number">4</span>
@@ -253,7 +260,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-5.jpg"
+                         data-img="assets/img/dir-5.webp"
                          data-title="ВОЛОНТЕРСКОЕ ДВИЖЕНИЕ"
                          data-desc="Волонтерское движение и благотворительная деятельность в современном обществе приобретают с каждым днем всевозрастающее значение. Именно волонтеры стали важным инструментом в решении значимых социальных задач и партнерами государства для развития общества. Движение «Доброе Сердце» помогает найти активность по душе.">
                         <span class="nav-number">5</span>
@@ -263,7 +270,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-6.jpg"
+                         data-img="assets/img/dir-6.webp"
                          data-title="МЕЖДУНАРОДНОЕ СОТРУДНИЧЕСТВО"
                          data-desc="Молодежь во всем мире – надежда любого государства, гордость нации и основа ее цивилизованного развития. Молодежная общественная дипломатия играет значимую роль в формировании межгосударственных отношений. БРСМ предоставляет юношам и девушкам уникальную возможность стать причастными к масштабным событиям международного уровня.">
                         <span class="nav-number">6</span>
@@ -273,7 +280,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-7.jpg"
+                         data-img="assets/img/dir-7.webp"
                          data-title="РАБОТА В ИНФОРМАЦИОННОМ ПРОСТРАНСТВЕ"
                          data-desc="Сегодня Интернет охватил весь мир и все сферы жизнедеятельности человека. Главным драйвером трансформации интернет-среды является первое цифровое поколение. БРСМ активно расширяет свое присутствие в медиапространстве, создавая качественный контент и продвигая молодежные инициативы в сети.">
                         <span class="nav-number">7</span>
@@ -283,7 +290,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-8.jpg"
+                         data-img="assets/img/dir-8.webp"
                          data-title="ПРАВОВОЕ ВОСПИТАНИЕ"
                          data-desc="Развитие правового общества является важнейшим приоритетом белорусского государства. Правовое просвещение молодежи выступает одной из центральных задач. Важно закладывать понимание правовых основ, а также необходимость соблюдения законов с детства. Молодежные отряды охраны правопорядка (МООП) – яркий пример участия молодежи.">
                         <span class="nav-number">8</span>
@@ -293,7 +300,7 @@
 
                     <div class="dir-nav-item" 
                          onclick="changeDirection(this)"
-                         data-img="assets/img/dir-9.jpg"
+                         data-img="assets/img/dir-9.webp"
                          data-title="ПОДДЕРЖКА ИНИЦИАТИВ"
                          data-desc="Проектов много, но ты готов предложить что-то по-настоящему уникальное и полезное для страны? Тогда не откладывай «на потом» – принимай участие в республиканском «Конкурсе молодежных инициатив». Это твоя возможность получить поддержку и грант на реализацию мечты.">
                         <span class="nav-number">9</span>
@@ -311,10 +318,10 @@
         <div class="container">
             <h2 class="section-title">Наши <span class="color-accent">Будни</span></h2>
             <div class="gallery-grid">
-                <div class="gallery-item"><img src="assets/img/dir-1.jpg" loading="lazy" alt="Фото 1"></div>
-                <div class="gallery-item"><img src="assets/img/dir-2.jpg" loading="lazy" alt="Фото 2"></div>
-                <div class="gallery-item"><img src="assets/img/dir-3.jpg" loading="lazy" alt="Фото 3"></div>
-                <div class="gallery-item"><img src="assets/img/dir-4.jpg" loading="lazy" alt="Фото 4"></div>
+                <div class="gallery-item"><img src="assets/img/dir-1.webp" loading="lazy" alt="Фото 1"></div>
+                <div class="gallery-item"><img src="assets/img/dir-2.webp" loading="lazy" alt="Фото 2"></div>
+                <div class="gallery-item"><img src="assets/img/dir-3.webp" loading="lazy" alt="Фото 3"></div>
+                <div class="gallery-item"><img src="assets/img/dir-4.webp" loading="lazy" alt="Фото 4"></div>
             </div>
         </div>
     </section>
