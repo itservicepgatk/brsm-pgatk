@@ -1,4 +1,10 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/api/brsm/:match*",
+      "destination": "https://klass-server.tail48c9dc.ts.net/api/brsm/:match*"
+    }
+  ]
 }

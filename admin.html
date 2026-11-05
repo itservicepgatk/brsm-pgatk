@@ -515,17 +515,17 @@
         </div>
 
         <ul class="nav-list">
-            <li class="nav-item active">
-                <button onclick="switchTab('analytics')"><i class="fa-solid fa-chart-line"></i> Аналитика сайта</button>
+            <li class="nav-item active" data-tab="analytics">
+                <button onclick="switchTab('analytics', this)"><i class="fa-solid fa-chart-line"></i> Аналитика сайта</button>
             </li>
-            <li class="nav-item">
-                <button onclick="switchTab('news')"><i class="fa-solid fa-newspaper"></i> Мониторинг новостей</button>
+            <li class="nav-item" data-tab="news">
+                <button onclick="switchTab('news', this)"><i class="fa-solid fa-newspaper"></i> Мониторинг новостей</button>
             </li>
-            <li class="nav-item">
-                <button onclick="switchTab('applications')"><i class="fa-solid fa-user-plus"></i> Заявки студентов</button>
+            <li class="nav-item" data-tab="applications">
+                <button onclick="switchTab('applications', this)"><i class="fa-solid fa-user-plus"></i> Заявки студентов</button>
             </li>
-            <li class="nav-item">
-                <button onclick="switchTab('server')"><i class="fa-solid fa-server"></i> Статус klass-server</button>
+            <li class="nav-item" data-tab="server">
+                <button onclick="switchTab('server', this)"><i class="fa-solid fa-server"></i> Статус klass-server</button>
             </li>
         </ul>
 
@@ -843,7 +843,7 @@
             if (e.key === 'Enter') checkLogin();
         });
 
-        function switchTab(tabId) {
+        function switchTab(tabId, el) {
             document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
             document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
 
@@ -862,7 +862,9 @@
                 document.getElementById('tab-subheading').textContent = headings[tabId][1];
             }
 
-            event.currentTarget.closest('.nav-item').classList.add('active');
+            const nav = el ? el.closest('.nav-item') : (document.querySelector(`.nav-item[data-tab="${tabId}"]`) || (window.event && window.event.target ? window.event.target.closest('.nav-item') : null));
+            if (nav) nav.classList.add('active');
+            if (tabId === 'server') fetchServerStatus();
         }
 
         let chartsInitialized = false;
