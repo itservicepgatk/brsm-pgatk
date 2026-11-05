@@ -19,10 +19,24 @@ keywords = [
     "брсм", "союз молодежи", "молодежный билет", "молодежного билета",
     "доброе сердце", "студотряд", "студенческ", "мооп",
     "100 идей", "властелин села", "королева студенчества", 
-    "сила закона", "зимний патруль", "задело"
+    "сила закона", "зимний патруль", "задело", "патриот", "волонтер"
 ]
 
 spam = ["расписание", "замена", "изменения в", "педсовет"]
+
+rubrics = [
+    ("БСО", ["бсо", "студотряд", "студенческ", "трудовой семестр", "командир отряда", "боец отряда"]),
+    ("Доброе Сердце", ["доброе сердце", "волонтер", "ярмарка.добра", "помощь пожилым", "благотворительн"]),
+    ("МООП", ["мооп", "охрана порядка", "днд", "патрулирован", "правопорядок"]),
+    ("100 идей", ["100 идей", "сто идей", "инновацион", "рационализатор"]),
+    ("Королева Студенчества", ["королева студенчества", "грация"]),
+    ("Сила Закона", ["сила закона", "правовая олимпиада"]),
+    ("Зимний патруль", ["зимний патруль", "безопасность на льду"]),
+    ("Властелин Села", ["властелин села"]),
+    ("ЗаДело", ["задело", "за дело", "субботник", "чистый пинск", "посадка деревьев"]),
+    ("Спорт", ["спорт", "зож", "турнир", "соревнования", "футбол", "волейбол", "эстафета"]),
+    ("Патриотика", ["патриот", "день победы", "хатынь", "память", "великая отечественная", "ветеран"])
+]
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -46,42 +60,53 @@ def check_date(s):
         return datetime.fromisoformat(s).replace(tzinfo=None)
     except: return None
 
-def process_image(img_url, conf_id, href):
+def detect_category(text):
+    low = text.lower()
+    for cat_name, terms in rubrics:
+        if any(t in low for t in terms):
+            return cat_name
+    return "Молодежь"
+
+def convert_and_save_webp(img_url, out_path):
     if not img_url or "placehold.co" in img_url:
-        return "assets/img/news/placeholder.webp" if os.path.exists("assets/img/news/placeholder.webp") else img_url
-
-    post_id = ""
-    try:
-        post_id = href.rstrip("/").split("/")[-1]
-    except Exception:
-        pass
-    if not post_id or not post_id.isdigit():
-        import hashlib
-        post_id = hashlib.md5(href.encode()).hexdigest()[:10]
-
-    filename = f"{conf_id}_{post_id}.webp"
-    local_rel = f"assets/img/news/{filename}"
-    local_full = os.path.join(img_dir, filename)
-
-    if os.path.exists(local_full) and os.path.getsize(local_full) > 1000:
-        return local_rel
-
+        return False
+    if os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
+        return True
     try:
         resp = requests.get(img_url, headers=headers, timeout=10)
         if resp.status_code == 200 and len(resp.content) > 500:
             pil_img = Image.open(io.BytesIO(resp.content))
             if pil_img.mode in ("RGBA", "LA", "P"):
                 pil_img = pil_img.convert("RGB")
-            if pil_img.width > 640:
-                ratio = 640.0 / pil_img.width
+            if pil_img.width > 960:
+                ratio = 960.0 / pil_img.width
                 new_h = int(pil_img.height * ratio)
-                pil_img = pil_img.resize((640, new_h), Image.Resampling.LANCZOS)
-            pil_img.save(local_full, "WEBP", quality=75, method=4)
-            return local_rel
+                pil_img = pil_img.resize((960, new_h), Image.Resampling.LANCZOS)
+            pil_img.save(out_path, "WEBP", quality=78, method=4)
+            return True
     except Exception:
         pass
+    return False
 
-    return local_rel if (os.path.exists(local_full) and os.path.getsize(local_full) > 1000) else "assets/img/news/placeholder.webp"
+def process_post_media(media_urls, conf_id, post_id):
+    saved_paths = []
+    for idx, url in enumerate(media_urls):
+        suffix = "" if idx == 0 else f"_{idx}"
+        filename = f"{conf_id}_{post_id}{suffix}.webp"
+        rel_path = f"assets/img/news/{filename}"
+        full_path = os.path.join(img_dir, filename)
+        
+        if os.path.exists(full_path) and os.path.getsize(full_path) > 1000:
+            saved_paths.append(rel_path)
+            continue
+            
+        ok = convert_and_save_webp(url, full_path)
+        if ok:
+            saved_paths.append(rel_path)
+
+    if not saved_paths:
+        saved_paths.append("assets/img/news/placeholder.webp")
+    return saved_paths
 
 def parser(conf):
     link_base = f"https://t.me/s/{conf['url']}"
@@ -98,7 +123,6 @@ def parser(conf):
             
             soup = BeautifulSoup(r.text, 'html.parser')
             items = soup.find_all('div', class_='tgme_widget_message_wrap')
-            
             if not items: break
             
             ids = []
@@ -128,43 +152,61 @@ def parser(conf):
 
                 lnk = i.find('a', class_='tgme_widget_message_date')
                 href = lnk['href'] if lnk else "#"
-
-                full = txt_div.get_text(separator=' ', strip=True)
-                full = full.replace('"', '\\"').replace('\n', ' ')
-                desc = (full[:130] + '...') if len(full) > 130 else full
                 
-                head = full.split('.')[0]
+                post_num = ""
+                try:
+                    post_num = href.rstrip("/").split("/")[-1]
+                except Exception:
+                    pass
+                if not post_num or not post_num.isdigit():
+                    import hashlib
+                    post_num = hashlib.md5(href.encode()).hexdigest()[:10]
+                
+                post_id = f"{conf['id']}_{post_num}"
+
+                full_article = txt_div.get_text(separator='\n\n', strip=True) if txt_div else ""
+                single_line = " ".join(full_article.split())
+                desc = (single_line[:140] + '...') if len(single_line) > 140 else single_line
+                
+                head = single_line.split('.')[0]
                 words = [w for w in head.split() if not w.startswith('#') and not w.startswith('http')]
                 title = " ".join(words)
-                if len(title) > 50: title = title[:50] + '...'
+                if len(title) > 65: title = title[:65] + '...'
                 if len(title) < 3: title = conf['def']
 
-                img = ""
-                photo = i.find('a', class_='tgme_widget_message_photo_wrap')
-                if photo: img = get_bg(photo.get('style'))
-                
-                if not img:
-                    vid = i.find('div', class_='tgme_widget_message_video_thumb') or \
-                          i.find('i', class_='tgme_widget_message_video_thumb')
-                    if vid: img = get_bg(vid.get('style'))
-                
-                if not img:
-                    grp = i.find('div', class_='tgme_widget_message_inline_media')
-                    if grp:
-                        first = grp.find('a', style=True)
-                        if first: img = get_bg(first.get('style'))
+                category = detect_category(full_article)
 
-                local_img = process_image(img, conf['id'], href)
+                media_urls = []
+                for p in i.find_all('a', class_='tgme_widget_message_photo_wrap'):
+                    b = get_bg(p.get('style'))
+                    if b and b not in media_urls: media_urls.append(b)
+
+                for v in i.find_all(class_='tgme_widget_message_video_thumb'):
+                    b = get_bg(v.get('style'))
+                    if b and b not in media_urls: media_urls.append(b)
+
+                grp = i.find('div', class_='tgme_widget_message_inline_media')
+                if grp:
+                    for a_el in grp.find_all('a', style=True):
+                        b = get_bg(a_el.get('style'))
+                        if b and b not in media_urls: media_urls.append(b)
+
+                local_images = process_post_media(media_urls, conf['id'], post_num)
+                cover_image = local_images[0]
 
                 if not any(x['link'] == href for x in res):
                     res.append({
-                        'image': local_img,
-                        'tag': conf['tag'],
-                        'tagColor': conf['col'],
+                        'id': post_id,
+                        'category': category,
                         'title': title,
                         'text': desc,
+                        'full_text': full_article,
+                        'image': cover_image,
+                        'images': local_images,
                         'link': href,
-                        'date': dt.strftime("%d.%m.%Y")
+                        'date': dt.strftime("%d.%m.%Y"),
+                        'tag': conf['tag'],
+                        'tagColor': conf['col']
                     })
 
             if not ids: break
@@ -190,10 +232,7 @@ if __name__ == "__main__":
         d1 = f1.result()
         d2 = f2.result()
 
-    js = f"""// АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// {now.strftime("%Y-%m-%d %H:%M")} (WebP Mode)
-
-const newsData = {{
+    js = f"""const newsData = {{
     college: {json.dumps(d1, ensure_ascii=False, indent=4)},
     city: {json.dumps(d2, ensure_ascii=False, indent=4)}
 }};

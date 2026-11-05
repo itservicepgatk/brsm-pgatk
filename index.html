@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>БРСМ | ПГАТК им. А.Е. Клещева</title>
     
-    <!-- Мета-теги для соцсетей -->
+    
     <meta property="og:title" content="БРСМ | Молодежь Пинска">
     <meta property="og:description" content="Официальный сайт первичной организации БРСМ Пинского аграрно-технического колледжа.">
     <meta property="og:image" content="assets/img/hero-bg.webp">
@@ -21,29 +21,29 @@
 
     <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 
-    <!-- Шрифты (Google Fonts: Montserrat) -->
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap" rel="stylesheet">
     
-    <!-- Иконки FontAwesome -->
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-    <!-- Основные стили -->
+    
     <link rel="stylesheet" href="assets/css/style.min.css">
 
-    <!-- PWA / Иконка приложения -->
+    
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#D91D24">
     
-    <!-- Для iPhone (iOS) -->
+    
     <link rel="apple-touch-icon" href="assets/img/icon-192.png">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
 <body>
 
     
-<!-- ПРЕЛОАДЕР -->
+
     <div id="preloader">
         <div class="loader-content">
             <div class="loader-circle-box">
@@ -61,10 +61,10 @@
 </div>
 
 
-    <!-- Шапка сайта -->
+    
     <header class="site-header">
         <div class="container header-wrap">
-            <!-- Логотип -->
+            
             <div class="logo">
                 <img src="assets/img/logo.png" alt="БРСМ" class="logo-img">
                 <div class="logo-text">
@@ -73,7 +73,7 @@
                 </div>
             </div>
 
-            <!-- Навигация -->
+            
             <nav class="main-nav">
                 <a href="#hero" class="nav-link">Главная</a>
                 <a href="#about" class="nav-link">О нас</a>
@@ -86,17 +86,17 @@
                 <a href="#" class="nav-link mobile-link open-join">Вступить</a>
             </nav>
 
-            <!-- Кнопка "Вступить" (скрыта на мобильных) -->
+            
             <a href="#" class="btn btn-small header-btn open-join">Вступить</a>
 
-            <!-- Бургер-меню для телефонов -->
+            
             <div class="burger-menu">
                 <i class="fa-solid fa-bars"></i>
             </div>
         </div>
     </header>
 
-    <!-- Главный экран (Hero) -->
+    
     <section id="hero" class="hero-section">
         <div class="container hero-content">
             <div class="hero-text-block">
@@ -117,7 +117,7 @@
         </div>
     </section>
 
-    <!-- Блок о лидере первички -->
+    
     <section id="about" class="secretary-section">
         <div class="container secretary-wrap">
             <div class="secretary-photo">
@@ -143,45 +143,83 @@
         </div>
     </section>
 
-    <!-- Новости и Объявления -->
-    <section id="news" class="news-section">
+        <section id="news" class="news-section">
         <div class="container">
             <h2 class="section-title">Новости и <span class="color-accent">Объявления</span></h2>
             
-            <!-- Переключатели вкладок -->
-            <div class="news-tabs">
-                <button class="news-tab active" onclick="switchNews('college')">Новости ПО ОО «БРСМ»</button>
-                <button class="news-tab" onclick="switchNews('city')">Новости ГК ОО «БРСМ»</button>
+            <div class="news-tabs-wrap">
+                <div class="news-tabs">
+                    <button type="button" class="news-tab active" data-source="college" onclick="switchNewsSource('college')">
+                        <i class="fa-solid fa-graduation-cap"></i> Новости ПО ОО «БРСМ» <span class="news-tab-badge" id="college-count">112</span>
+                    </button>
+                    <button type="button" class="news-tab" data-source="city" onclick="switchNewsSource('city')">
+                        <i class="fa-solid fa-city"></i> Новости ГК ОО «БРСМ» <span class="news-tab-badge" id="city-count">613</span>
+                    </button>
+                </div>
             </div>
 
-            <!-- Контейнер для новостей Колледжа (заполняется через JS) -->
-            <div id="news-college" class="news-grid active">
+            <div class="news-toolbar">
+                <div class="news-search-box">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="news-search-input" placeholder="Поиск новостей по ключевым словам или темам..." autocomplete="off">
+                    <button type="button" id="news-search-clear" class="search-clear-btn" aria-label="Очистить" style="display: none;"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+
+                <div class="news-category-scroll">
+                    <div class="news-categories" id="news-categories">
+                        <button type="button" class="cat-chip active" data-cat="all">Все направления</button>
+                        <button type="button" class="cat-chip" data-cat="БСО"><i class="fa-solid fa-helmet-safety"></i> Студотряды (БСО)</button>
+                        <button type="button" class="cat-chip" data-cat="Доброе Сердце"><i class="fa-solid fa-heart"></i> «Доброе Сердце»</button>
+                        <button type="button" class="cat-chip" data-cat="МООП"><i class="fa-solid fa-shield-halved"></i> Охрана порядка (МООП)</button>
+                        <button type="button" class="cat-chip" data-cat="100 идей"><i class="fa-regular fa-lightbulb"></i> 100 идей для Беларуси</button>
+                        <button type="button" class="cat-chip" data-cat="Королева Студенчества"><i class="fa-solid fa-crown"></i> Королева Студенчества</button>
+                        <button type="button" class="cat-chip" data-cat="Сила Закона"><i class="fa-solid fa-scale-balanced"></i> Сила Закона</button>
+                        <button type="button" class="cat-chip" data-cat="Зимний патруль"><i class="fa-regular fa-snowflake"></i> Зимний патруль</button>
+                        <button type="button" class="cat-chip" data-cat="Властелин Села"><i class="fa-solid fa-wheat-awn"></i> Властелин Села</button>
+                        <button type="button" class="cat-chip" data-cat="ЗаДело"><i class="fa-solid fa-hands-holding-circle"></i> Инициатива «#ЗаДело»</button>
+                        <button type="button" class="cat-chip" data-cat="Спорт"><i class="fa-solid fa-volleyball"></i> Спорт и ЗОЖ</button>
+                        <button type="button" class="cat-chip" data-cat="Патриотика"><i class="fa-solid fa-landmark"></i> Патриотические акции</button>
+                    </div>
+                </div>
             </div>
 
-            <!-- Контейнер для новостей Города (заполняется через JS) -->
-            <div id="news-city" class="news-grid">
+            <div class="news-results-info" id="news-results-info">
+                <span id="news-counter-text">Загрузка публикаций...</span>
+                <span id="news-filter-reset" class="news-filter-reset" style="display: none;" onclick="resetNewsFilters()">Сбросить фильтры <i class="fa-solid fa-rotate-left"></i></span>
             </div>
 
-            <!-- Ссылки на Телеграм каналы -->
+            <div id="news-grid-container" class="news-grid-modern">
+            </div>
+
+            <div class="news-pagination-wrap" id="news-pagination-wrap">
+                <div class="news-pagination" id="news-pagination"></div>
+            </div>
+
             <div class="telegram-promo">
-                <div class="tg-links">
-                    <a href="https://t.me/pgatkk" target="_blank" class="tg-btn"><i class="fa-brands fa-telegram"></i> Канал Колледжа</a>
-                    <a href="https://t.me/pinskgk" target="_blank" class="tg-btn"><i class="fa-brands fa-telegram"></i> Канал Горкома</a>
+                <div class="tg-promo-content">
+                    <div class="tg-promo-text">
+                        <h3>Будьте первыми в курсе всех событий!</h3>
+                        <p>Подписывайтесь на официальные Telegram-каналы первичной организации колледжа и Пинского городского комитета ОО «БРСМ»</p>
+                    </div>
+                    <div class="tg-links">
+                        <a href="https://t.me/pgatkk" target="_blank" class="tg-btn"><i class="fa-brands fa-telegram"></i> Канал Колледжа</a>
+                        <a href="https://t.me/pinskgk" target="_blank" class="tg-btn"><i class="fa-brands fa-telegram"></i> Канал Горкома</a>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Направления деятельности (Интерактивные табы) -->
+    
     <section id="directions" class="directions-interactive">
         <div class="container directions-wrapper">
             
-            <!-- Картинка направления (слева) -->
+            
             <div class="dir-image-box">
                 <img src="assets/img/dir-1.webp" alt="Направление" id="main-dir-image" class="fade-in">
             </div>
 
-            <!-- Описание и список (справа) -->
+            
             <div class="dir-content-box">
                 <h2 class="dir-main-title">Направления <br>деятельности</h2>
                 
@@ -195,7 +233,7 @@
                 </div>
 
                 <div class="dir-grid-nav">
-                    <!-- Кнопки направлений -->
+                    
                     <div class="dir-nav-item active" 
                          onclick="changeDirection(this)"
                          data-img="assets/img/dir-1.webp"
@@ -291,7 +329,7 @@
         </div>
     </section>
 
-    <!-- Фотогалерея -->
+    
     <section class="gallery-section">
         <div class="container">
             <h2 class="section-title">Наши <span class="color-accent">Будни</span></h2>
@@ -304,12 +342,12 @@
         </div>
     </section>
 
-    <!-- Символика -->
+    
     <section id="statute" class="symbols-section">
         <div class="container">
             <h2 class="section-title">Символика <span class="color-accent">БРСМ</span></h2>
 <div class="symbols-grid">
-                <!-- Карточка Эмблемы -->
+                
                 <div class="symbol-card">
                     <div class="symbol-visual">
                         <img src="assets/img/emblem.png" loading="lazy" alt="Эмблема БРСМ" class="real-symbol-img">
@@ -321,10 +359,10 @@
                     </div>
                 </div>
 
-                <!-- Карточка Флага -->
+                
                 <div class="symbol-card">
                     <div class="symbol-visual">
-                        <!-- Твоя GIF анимация -->
+                        
                         <img src="assets/img/flag.gif?v=2" loading="lazy" alt="Флаг БРСМ" class="real-symbol-img">
                     </div>
                     <div class="symbol-info">
@@ -335,7 +373,7 @@
                 </div>
             </div>
 
-            <!-- Блок с ссылкой на Устав -->
+            
             <div class="statute-download">
                 <p>Полный текст Устава и нормативные документы доступны для ознакомления</p>
                 <a href="ustav.html" class="btn btn-primary"><i class="fa-solid fa-book-open"></i> Читать Устав ОО "БРСМ"</a>
@@ -343,7 +381,7 @@
         </div>
     </section>
 
-    <!-- Футер (Подвал сайта) -->
+    
     <footer id="contacts" class="site-footer">
         <div class="container footer-content">
             <div class="footer-col">
@@ -370,7 +408,7 @@
                             <i class="fa-solid fa-phone"></i> +375 29 107 91 80 – Артур Валентинович, секретарь ПО ОО «БРСМ»
                         </a>
                     </li>
-                    <!-- Ссылка на карту -->
+                    
                     <li>
                         <a href="https://yandex.by/maps/?text=Пинск+ул+Иркутско-Пинской+дивизии+25" target="_blank" class="map-link">
                             <i class="fa-solid fa-location-dot"></i> г. Пинск, ул. Иркутско-Пинской дивизии, 25
@@ -405,16 +443,16 @@
         </div>
     </footer>
 
-    <!-- Кнопка "Наверх" -->
+    
     <div id="scrollTop" class="scroll-top-btn">
         <i class="fa-solid fa-arrow-up"></i>
     </div>
 
-    <!-- Скрипты (Data грузится первым) -->
-    <script src="assets/js/news-data.js?v=20261105-webp"></script>
-    <script src="assets/js/main.js?v=20261105-webp" defer></script>
+    
+    <script src="assets/js/news-data.js?v=20261106-reader"></script>
+    <script src="assets/js/main.js?v=20261106-reader" defer></script>
 
-    <!-- МОДАЛЬНОЕ ОКНО ЗАЯВКИ -->
+    
     <div id="joinModal" class="modal-overlay">
         <div class="modal-window small-modal">
             <div class="modal-header">
@@ -443,7 +481,7 @@
                     <button type="submit" class="btn btn-primary full-width">Отправить заявку</button>
                 </form>
 
-                <!-- Сообщение об успехе (скрыто по умолчанию) -->
+                
                 <div id="successMessage" style="display: none; text-align: center; padding: 20px 0;">
                     <i class="fa-regular fa-circle-check" style="font-size: 3rem; color: var(--green); margin-bottom: 15px;"></i>
                     <h3 style="margin-bottom: 10px;">Спасибо!</h3>
@@ -454,12 +492,12 @@
         </div>
     </div>
 
-    <!-- МОДАЛЬНОЕ ОКНО ДЛЯ ПРОСМОТРА ФОТО -->
+    
     <div id="lightbox" class="lightbox-overlay">
         <span class="lightbox-close"><i class="fa-solid fa-xmark"></i></span>
         <img class="lightbox-img" src="" alt="Просмотр фото">
     </div>
-    <!-- Yandex.Metrika counter -->
+    
 <script type="text/javascript">
     (function(m,e,t,r,i,k,a){
         m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -471,6 +509,62 @@
     ym(105857123, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/105857123" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+
+
+    <div id="newsReaderModal" class="modal-overlay reader-modal-overlay" aria-hidden="true">
+        <div class="reader-modal-window">
+            <div class="reader-modal-topbar">
+                <div class="reader-badges">
+                    <span class="reader-cat-badge" id="reader-modal-category">БСО</span>
+                    <span class="reader-source-badge" id="reader-modal-tag">#ПГАТККЛЕЩЕВА</span>
+                    <span class="reader-date-badge"><i class="fa-regular fa-calendar"></i> <span id="reader-modal-date">05.11.2026</span></span>
+                </div>
+                <button type="button" class="reader-close-btn" id="reader-modal-close" aria-label="Закрыть">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <div class="reader-modal-scroll">
+                <div class="reader-gallery-container" id="reader-gallery-container">
+                    <div class="reader-stage" id="reader-stage">
+                        <img id="reader-active-img" src="" alt="Фото к новости">
+                        <span class="reader-counter-pill" id="reader-counter-pill">1 / 1</span>
+                        <button type="button" class="gallery-nav prev" id="reader-gallery-prev" aria-label="Предыдущее фото">
+                            <i class="fa-solid fa-chevron-left"></i>
+                        </button>
+                        <button type="button" class="gallery-nav next" id="reader-gallery-next" aria-label="Следующее фото">
+                            <i class="fa-solid fa-chevron-right"></i>
+                        </button>
+                    </div>
+                    <div class="reader-thumbs" id="reader-thumbs"></div>
+                </div>
+
+                <div class="reader-content-wrap">
+                    <h1 class="reader-title" id="reader-modal-title"></h1>
+                    <div class="reader-body-text" id="reader-modal-body"></div>
+                </div>
+            </div>
+
+            <div class="reader-modal-footer">
+                <div class="reader-nav-buttons">
+                    <button type="button" class="btn btn-outline reader-pager-btn" id="reader-prev-article">
+                        <i class="fa-solid fa-arrow-left"></i> Предыдущая
+                    </button>
+                    <button type="button" class="btn btn-outline reader-pager-btn" id="reader-next-article">
+                        Следующая <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </div>
+                <div class="reader-actions">
+                    <button type="button" class="btn btn-outline reader-share-btn" id="reader-share-btn">
+                        <i class="fa-solid fa-share-nodes"></i> Поделиться
+                    </button>
+                    <a id="reader-modal-tg-link" href="#" target="_blank" class="btn tg-btn">
+                        <i class="fa-brands fa-telegram"></i> В Telegram
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 </html>
