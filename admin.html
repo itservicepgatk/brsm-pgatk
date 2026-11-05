@@ -867,6 +867,20 @@
             if (tabId === 'server') fetchServerStatus();
         }
 
+        function fetchServerStatus() {
+            fetch('/api/brsm/status')
+                .then(r => r.json())
+                .then(d => {
+                    if (d.uptime) {
+                        const upEl = document.getElementById('server-uptime');
+                        if (upEl) upEl.textContent = 'Uptime: ' + d.uptime;
+                        const upVal = document.getElementById('uptime-val');
+                        if (upVal) upVal.textContent = d.uptime;
+                    }
+                })
+                .catch(() => {});
+        }
+
         let chartsInitialized = false;
         function initCharts() {
             if (chartsInitialized) return;
