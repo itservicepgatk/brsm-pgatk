@@ -4,15 +4,17 @@ from datetime import datetime
 import time
 import json
 import re
+import os
+import io
+from PIL import Image
 from concurrent.futures import ThreadPoolExecutor
 
-# Настройки
 save_path = "assets/js/news-data.js"
+img_dir = "assets/img/news"
+os.makedirs(img_dir, exist_ok=True)
 start_date = datetime(2025, 8, 1)
 now = datetime.now()
 
-# ФИЛЬТРЫ (Жесткие - только брендовые слова)
-# Если этих слов нет в тексте, новость не попадет на сайт
 keywords = [
     "брсм", "союз молодежи", "молодежный билет", "молодежного билета",
     "доброе сердце", "студотряд", "студенческ", "мооп",
@@ -20,7 +22,6 @@ keywords = [
     "сила закона", "зимний патруль", "задело"
 ]
 
-# Мусор, который точно не нужен
 spam = ["расписание", "замена", "изменения в", "педсовет"]
 
 headers = {
@@ -45,6 +46,43 @@ def check_date(s):
         return datetime.fromisoformat(s).replace(tzinfo=None)
     except: return None
 
+def process_image(img_url, conf_id, href):
+    if not img_url or "placehold.co" in img_url:
+        return "assets/img/news/placeholder.webp" if os.path.exists("assets/img/news/placeholder.webp") else img_url
+
+    post_id = ""
+    try:
+        post_id = href.rstrip("/").split("/")[-1]
+    except Exception:
+        pass
+    if not post_id or not post_id.isdigit():
+        import hashlib
+        post_id = hashlib.md5(href.encode()).hexdigest()[:10]
+
+    filename = f"{conf_id}_{post_id}.webp"
+    local_rel = f"assets/img/news/{filename}"
+    local_full = os.path.join(img_dir, filename)
+
+    if os.path.exists(local_full) and os.path.getsize(local_full) > 1000:
+        return local_rel
+
+    try:
+        resp = requests.get(img_url, headers=headers, timeout=10)
+        if resp.status_code == 200 and len(resp.content) > 500:
+            pil_img = Image.open(io.BytesIO(resp.content))
+            if pil_img.mode in ("RGBA", "LA", "P"):
+                pil_img = pil_img.convert("RGB")
+            if pil_img.width > 640:
+                ratio = 640.0 / pil_img.width
+                new_h = int(pil_img.height * ratio)
+                pil_img = pil_img.resize((640, new_h), Image.Resampling.LANCZOS)
+            pil_img.save(local_full, "WEBP", quality=75, method=4)
+            return local_rel
+    except Exception:
+        pass
+
+    return local_rel if (os.path.exists(local_full) and os.path.getsize(local_full) > 1000) else "assets/img/news/placeholder.webp"
+
 def parser(conf):
     link_base = f"https://t.me/s/{conf['url']}"
     curr_url = link_base
@@ -63,7 +101,6 @@ def parser(conf):
             
             if not items: break
             
-            # ID для пагинации
             ids = []
             for i in items:
                 a = i.find('a', class_='tgme_widget_message_date')
@@ -71,7 +108,6 @@ def parser(conf):
                     try: ids.append(int(a['href'].split('/')[-1]))
                     except: pass
 
-            # Парсинг
             for i in reversed(items):
                 t_tag = i.find('time')
                 if not t_tag: continue
@@ -84,21 +120,15 @@ def parser(conf):
                     print(f"Done {conf['url']}")
                     return res 
 
-                # Текст
                 txt_div = i.find('div', class_='tgme_widget_message_text')
                 raw = txt_div.get_text().lower() if txt_div else ""
                 
-                # 1. Проверка на спам
                 if any(x in raw for x in spam): continue
-                
-                # 2. ЖЕСТКАЯ ПРОВЕРКА БРСМ
                 if not raw or not any(x in raw for x in keywords): continue
 
-                # Ссылка
                 lnk = i.find('a', class_='tgme_widget_message_date')
                 href = lnk['href'] if lnk else "#"
 
-                # Заголовок
                 full = txt_div.get_text(separator=' ', strip=True)
                 full = full.replace('"', '\\"').replace('\n', ' ')
                 desc = (full[:130] + '...') if len(full) > 130 else full
@@ -109,7 +139,6 @@ def parser(conf):
                 if len(title) > 50: title = title[:50] + '...'
                 if len(title) < 3: title = conf['def']
 
-                # Картинка (Smart search)
                 img = ""
                 photo = i.find('a', class_='tgme_widget_message_photo_wrap')
                 if photo: img = get_bg(photo.get('style'))
@@ -125,13 +154,11 @@ def parser(conf):
                         first = grp.find('a', style=True)
                         if first: img = get_bg(first.get('style'))
 
-                if not img:
-                    img = "https://placehold.co/600x400/EEE/333?text=БРСМ"
+                local_img = process_image(img, conf['id'], href)
 
-                # Сохраняем
                 if not any(x['link'] == href for x in res):
                     res.append({
-                        'image': img,
+                        'image': local_img,
                         'tag': conf['tag'],
                         'tagColor': conf['col'],
                         'title': title,
@@ -140,7 +167,6 @@ def parser(conf):
                         'date': dt.strftime("%d.%m.%Y")
                     })
 
-            # Листаем назад
             if not ids: break
             mn = min(ids)
             if mn == last: break
@@ -164,9 +190,8 @@ if __name__ == "__main__":
         d1 = f1.result()
         d2 = f2.result()
 
-    js = f"""
-// АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
-// {now.strftime("%Y-%m-%d %H:%M")}
+    js = f"""// АВТОМАТИЧЕСКИ СГЕНЕРИРОВАНО
+// {now.strftime("%Y-%m-%d %H:%M")} (WebP Mode)
 
 const newsData = {{
     college: {json.dumps(d1, ensure_ascii=False, indent=4)},

@@ -8,7 +8,6 @@
     }
 });
 
-// Страховка: убрать через 5 сек в любом случае
 setTimeout(() => {
     const preloader = document.getElementById('preloader');
     if (preloader && !preloader.classList.contains('preloader-hide')) {
@@ -22,7 +21,6 @@ setTimeout(() => {
    2. ОСНОВНОЙ ФУНКЦИОНАЛ
 ============================================== */
 
-// Бургер меню
 const burgerBtn = document.querySelector('.burger-menu');
 const navMenu = document.querySelector('.main-nav');
 
@@ -50,8 +48,7 @@ if (burgerBtn) {
     });
 }
 
-// Заглушка для картинок
-const PLACEHOLDER_IMG = 'https://placehold.co/600x800/EEE/D91D24?font=montserrat&text=БРСМ+ПГАТК';
+const PLACEHOLDER_IMG = 'assets/img/news/placeholder.webp';
 window.addEventListener('error', function (e) {
     if (e.target.tagName && e.target.tagName.toLowerCase() === 'img') {
         if (e.target.src !== PLACEHOLDER_IMG && !e.target.classList.contains('real-symbol-img')) {
@@ -60,7 +57,6 @@ window.addEventListener('error', function (e) {
     }
 }, true);
 
-// Переключалка направлений
 function changeDirection(element) {
     const allItems = document.querySelectorAll('.dir-nav-item');
     allItems.forEach(item => item.classList.remove('active'));
@@ -85,7 +81,6 @@ function changeDirection(element) {
     }
 }
 
-// Вибрация на телефоне
 document.querySelectorAll('a[href^="tel:"]').forEach(link => {
     link.addEventListener('click', () => {
         if (navigator.vibrate) navigator.vibrate(40);
@@ -128,14 +123,13 @@ function switchNews(type) {
     }
 }
 
-// Генератор новостей
 function renderNews() {
     const ITEMS_PER_PAGE = 6; 
     const createCard = (item) => {
         return `
         <div class="news-card">
             <div class="news-img">
-                <img src="${item.image}" loading="lazy" alt="News">
+                <img src="${item.image}" loading="lazy" referrerpolicy="no-referrer" alt="News">
                 <span class="news-tag" style="background: ${item.tagColor}">${item.tag}</span>
             </div>
             <div class="news-content">
@@ -209,7 +203,6 @@ if (document.readyState === 'loading') {
     renderNews();
 }
 
-// Лайтбокс (Галерея)
 const lightbox = document.getElementById('lightbox');
 if (lightbox) {
     const lightboxImg = document.querySelector('.lightbox-img');
@@ -234,7 +227,6 @@ if (lightbox) {
     lightbox.addEventListener('click', (e) => { if (e.target === lightbox) closeLightbox(); });
 }
 
-// Форма вступления
 const joinModal = document.getElementById('joinModal');
 const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxLktyJpznQ7g1U9QhUKNrRGwZXkiLU44mHgmI_V9_eGFG5PqbTfDfTFOHzSmyOwzztAg/exec';
 

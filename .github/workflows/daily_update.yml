@@ -1,4 +1,4 @@
-﻿name: Ежедневное обновление новостей
+name: Ежедневное обновление новостей
 
 on:
   schedule:
@@ -14,19 +14,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: репозиторий
+      - name: Репозиторий
         uses: actions/checkout@v4
 
       - name: Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
+          python-version: "3.11"
 
-      - name: Устанав библ
+      - name: Установка зависимостей
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 Pillow
 
-      - name: Запуска парсер новостей
+      - name: Запуск парсера новостей (сжатие в WebP)
         run: |
           python update_news.py
 
@@ -34,18 +34,17 @@ jobs:
         run: |
           python minify_css.py
 
-      - name: (Commit & Push)
+      - name: Commit & Push
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add assets/js/news-data.js assets/css/style.min.css
+          git add assets/js/news-data.js assets/img/news/ assets/css/style.min.css
 
-          # Проверяем, есть ли изменения. Если нет - не падаем с ошибкой.
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Автоматическое обновление новостей и стилей [Bot]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Автоматическое обновление новостей и изображений WebP [Bot]" && git push)
 
       - name: Деплой на Vercel
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         if: ${{ env.VERCEL_TOKEN != '' }}
         run: |
-          npx vercel --prod --yes --token $VERCEL_TOKEN
+          npx vercel --prod --yes --token $VERCEL_TOKEN --scope team_Yf1v5k0YrecaVlwZZmEowUD1
