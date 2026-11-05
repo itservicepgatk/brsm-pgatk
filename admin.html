@@ -456,20 +456,132 @@
             display: block;
         }
 
+        .info-timeline-banner {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.9) 100%);
+            border: 1px solid rgba(220, 38, 38, 0.25);
+            border-radius: 12px;
+            padding: 16px 22px;
+            margin-bottom: 24px;
+            gap: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+        }
+
+        .timeline-badge-item {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            flex: 1;
+            min-width: 240px;
+        }
+
+        .timeline-icon {
+            width: 42px;
+            height: 42px;
+            border-radius: 10px;
+            background: rgba(220, 38, 38, 0.15);
+            color: #ef4444;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+
+        .timeline-badge-item:nth-child(3) .timeline-icon {
+            background: rgba(14, 165, 233, 0.15);
+            color: #38bdf8;
+        }
+
+        .timeline-badge-item:nth-child(5) .timeline-icon {
+            background: rgba(34, 197, 94, 0.15);
+            color: #22c55e;
+        }
+
+        .timeline-details {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+        }
+
+        .timeline-title {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.6px;
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+
+        .timeline-val {
+            font-size: 14.5px;
+            font-weight: 700;
+            color: var(--text-light);
+        }
+
+        .timeline-val em {
+            font-size: 12px;
+            font-weight: 500;
+            color: #94a3b8;
+            font-style: normal;
+            margin-left: 4px;
+        }
+
+        .timeline-divider {
+            width: 1px;
+            height: 38px;
+            background: rgba(255, 255, 255, 0.08);
+        }
+
         .rubrics-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 16px;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 14px;
         }
 
         .rubric-item {
             background: #0f172a;
-            border: 1px solid var(--border-color);
+            border: 1px solid rgba(255, 255, 255, 0.07);
             border-radius: 10px;
-            padding: 14px 18px;
+            padding: 16px 20px;
             display: flex;
             justify-content: space-between;
             align-items: center;
+            gap: 16px;
+            transition: all 0.25s ease;
+        }
+
+        .rubric-item:hover {
+            border-color: rgba(220, 38, 38, 0.4);
+            transform: translateY(-2px);
+            background: #131d35;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+        }
+
+        .rubric-name {
+            font-size: 13.5px;
+            font-weight: 500;
+            color: var(--text-light);
+            line-height: 1.4;
+            word-break: break-word;
+        }
+
+        .rubric-count {
+            white-space: nowrap;
+            text-align: right;
+            font-size: 13px;
+            color: #94a3b8;
+            flex-shrink: 0;
+        }
+
+        .rubric-count strong {
+            font-size: 18px;
+            font-weight: 700;
+            color: #f1f5f9;
+            margin-right: 4px;
+            font-family: 'Montserrat', sans-serif;
         }
 
         @media (max-width: 992px) {
@@ -537,6 +649,8 @@
             <div class="server-meta">
                 <div>Хост: 192.168.100.80</div>
                 <div id="server-uptime">Uptime: 5д 1ч 20м</div>
+                <div>Запуск сайта: 01.09.2025</div>
+                <div>Сбор новостей: с 01.08.2025</div>
                 <div>Служба: brsm-api (Node v22)</div>
             </div>
         </div>
@@ -643,21 +757,47 @@
         </div>
 
         <div id="tab-news" class="tab-content">
+            <div class="info-timeline-banner">
+                <div class="timeline-badge-item">
+                    <div class="timeline-icon"><i class="fa-solid fa-globe"></i></div>
+                    <div class="timeline-details">
+                        <span class="timeline-title">Официальный сайт запущен</span>
+                        <span class="timeline-val">1 сентября 2025 г. <em>(непрерывная работа)</em></span>
+                    </div>
+                </div>
+                <div class="timeline-divider"></div>
+                <div class="timeline-badge-item">
+                    <div class="timeline-icon"><i class="fa-solid fa-newspaper"></i></div>
+                    <div class="timeline-details">
+                        <span class="timeline-title">Сбор информации по новостям</span>
+                        <span class="timeline-val">с 1 августа 2025 г. <em>(архив 725 постов)</em></span>
+                    </div>
+                </div>
+                <div class="timeline-divider"></div>
+                <div class="timeline-badge-item">
+                    <div class="timeline-icon"><i class="fa-solid fa-arrows-rotate"></i></div>
+                    <div class="timeline-details">
+                        <span class="timeline-title">Автоматический мониторинг</span>
+                        <span class="timeline-val">Ежедневно в 21:00 UTC <em>(update_news.py)</em></span>
+                    </div>
+                </div>
+            </div>
+
             <div class="metrics-grid">
                 <div class="metric-card">
                     <div class="metric-label">Всего публикаций</div>
                     <div class="metric-value">725</div>
-                    <div class="metric-change">База новостей сайта</div>
+                    <div class="metric-change">База новостей (с 01.08.2025)</div>
                 </div>
                 <div class="metric-card">
                     <div class="metric-label">Новости колледжа (ПО)</div>
                     <div class="metric-value">112</div>
-                    <div class="metric-change">#ПГАТККЛЕЩЕВА</div>
+                    <div class="metric-change">#ПГАТККЛЕЩЕВА (с 15.08.2025)</div>
                 </div>
                 <div class="metric-card">
                     <div class="metric-label">Новости города (ГК)</div>
                     <div class="metric-value">613</div>
-                    <div class="metric-change">Пинский горком БРСМ</div>
+                    <div class="metric-change">Пинский горком БРСМ (с 01.08.2025)</div>
                 </div>
                 <div class="metric-card">
                     <div class="metric-label">Частота выхода</div>
@@ -671,15 +811,42 @@
                     <span class="chart-title">Охват по молодежным направлениям (9 рубрик)</span>
                 </div>
                 <div class="rubrics-grid">
-                    <div class="rubric-item"><span>Студотрядовское движение (БСО)</span><strong>184 постов</strong></div>
-                    <div class="rubric-item"><span>Волонтерский отряд «Доброе Сердце»</span><strong>142 постов</strong></div>
-                    <div class="rubric-item"><span>Отряды охраны порядка (МООП)</span><strong>96 постов</strong></div>
-                    <div class="rubric-item"><span>Проект «100 идей для Беларуси»</span><strong>88 постов</strong></div>
-                    <div class="rubric-item"><span>Конкурс «Королева Студенчества»</span><strong>54 постов</strong></div>
-                    <div class="rubric-item"><span>Правовая олимпиада «Сила Закона»</span><strong>48 постов</strong></div>
-                    <div class="rubric-item"><span>Профилактика «Зимний патруль»</span><strong>42 постов</strong></div>
-                    <div class="rubric-item"><span>Проект «Властелин Села»</span><strong>39 постов</strong></div>
-                    <div class="rubric-item"><span>Молодежная инициатива «ЗаДело»</span><strong>32 постов</strong></div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Студотрядовское движение (БСО)</span>
+                        <span class="rubric-count"><strong>184</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Волонтерский отряд «Доброе Сердце»</span>
+                        <span class="rubric-count"><strong>142</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Отряды охраны порядка (МООП)</span>
+                        <span class="rubric-count"><strong>96</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Проект «100 идей для Беларуси»</span>
+                        <span class="rubric-count"><strong>88</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Конкурс «Королева Студенчества»</span>
+                        <span class="rubric-count"><strong>54</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Правовая олимпиада «Сила Закона»</span>
+                        <span class="rubric-count"><strong>48</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Профилактика «Зимний патруль»</span>
+                        <span class="rubric-count"><strong>42</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Проект «Властелин Села»</span>
+                        <span class="rubric-count"><strong>39</strong> постов</span>
+                    </div>
+                    <div class="rubric-item">
+                        <span class="rubric-name">Молодежная инициатива «ЗаДело»</span>
+                        <span class="rubric-count"><strong>32</strong> постов</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -851,8 +1018,8 @@
             if (targetTab) targetTab.classList.add('active');
 
             const headings = {
-                analytics: ['Аналитика посещаемости', 'Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026)'],
-                news: ['Мониторинг публикаций', 'Статистика контентной базы и распределение по 9 направлениям БРСМ'],
+                analytics: ['Аналитика посещаемости', 'Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026) • Сайт запущен 01.09.2025'],
+                news: ['Мониторинг публикаций', 'Статистика контентной базы и распределение по 9 направлениям БРСМ • Сбор новостей с 01.08.2025 • Сайт запущен 01.09.2025'],
                 applications: ['Заявки студентов', 'Реестр онлайн-заявок на вступление в первичную организацию ОО «БРСМ»'],
                 server: ['Статус klass-server', 'Телеметрия серверной инфраструктуры и службы brsm-api']
             };
