@@ -343,7 +343,7 @@ function formatArticleBody(text) {
     return paragraphs.map(p => {
         let clean = escapeHtml(p.trim());
         clean = clean.replace(/#([a-zA-Zа-яА-Я0-9_]+)/g, '<span class="article-hashtag">#$1</span>');
-        clean = clean.replace(/(https?:\\/\\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+        clean = clean.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
         return `<p>${clean}</p>`;
     }).join('');
 }
