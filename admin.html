@@ -637,21 +637,19 @@
                 <button onclick="switchTab('applications', this)"><i class="fa-solid fa-user-plus"></i> Заявки студентов</button>
             </li>
             <li class="nav-item" data-tab="server">
-                <button onclick="switchTab('server', this)"><i class="fa-solid fa-server"></i> Статус klass-server</button>
+                <button onclick="switchTab('server', this)"><i class="fa-solid fa-server"></i> Статус сервера</button>
             </li>
         </ul>
 
         <div class="server-status-box">
             <div class="server-status-indicator">
                 <div class="dot-pulse"></div>
-                <span id="server-title">KLASS-SERVER: ONLINE</span>
+                <span id="server-title">SERVER: ONLINE</span>
             </div>
             <div class="server-meta">
-                <div>Хост: 192.168.100.80</div>
-                <div id="server-uptime">Uptime: 5д 1ч 20м</div>
-                <div>Запуск сайта: 01.09.2025</div>
-                <div>Сбор новостей: с 01.08.2025</div>
-                <div>Служба: brsm-api (Node v22)</div>
+                <div>Хост: 192.***.***.**</div>
+                <div id="server-uptime">Uptime: 5д 2ч 7м</div>
+                <div>Служба: brsm-api</div>
             </div>
         </div>
     </aside>
@@ -938,7 +936,7 @@
                 </div>
                 <div class="metric-card">
                     <div class="metric-label">LAN IP / Сеть</div>
-                    <div class="metric-value" style="font-size:18px;">192.168.100.80</div>
+                    <div class="metric-value" style="font-size:18px;">192.***.***.**</div>
                     <div class="metric-change">Порт 5040 (brsm-api)</div>
                 </div>
                 <div class="metric-card">
@@ -1021,7 +1019,7 @@
                 analytics: ['Аналитика посещаемости', 'Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026) • Сайт запущен 01.09.2025'],
                 news: ['Мониторинг публикаций', 'Статистика контентной базы и распределение по 9 направлениям БРСМ • Сбор новостей с 01.08.2025 • Сайт запущен 01.09.2025'],
                 applications: ['Заявки студентов', 'Реестр онлайн-заявок на вступление в первичную организацию ОО «БРСМ»'],
-                server: ['Статус klass-server', 'Телеметрия серверной инфраструктуры и службы brsm-api']
+                server: ['Статус сервера', 'Телеметрия серверной инфраструктуры и службы brsm-api']
             };
 
             if (headings[tabId]) {
