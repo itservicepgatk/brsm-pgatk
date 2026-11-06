@@ -634,6 +634,8 @@
     }
 })();
 </script>
+    <link rel="stylesheet" href="/assets/css/a11y.css">
+    <script src="/assets/js/a11y.js" defer></script>
 </head>
 <body>
 
@@ -704,7 +706,7 @@
                 <h2 class="page-title" id="tab-heading">Аналитика посещаемости</h2>
                 <p class="page-subtitle" id="tab-subheading">Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026)</p>
             </div>
-            <div style="display:flex; align-items:center; gap:10px;"><a href="index.html" class="btn-view-site" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> Открыть сайт</a><button onclick="logoutAdmin()" class="btn-logout" title="Выйти из системы"><i class="fa-solid fa-right-from-bracket"></i> Выход</button></div>
+            <div style="display:flex; align-items:center; gap:10px;"><button type="button" class="a11y-toggle-btn" aria-label="Версия для слабовидящих" title="Версия для слабовидящих (Alt+A)"><i class="fa-solid fa-eye"></i> <span>Версия для слабовидящих</span></button><a href="index.html" class="btn-view-site" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> Открыть сайт</a><button onclick="logoutAdmin()" class="btn-logout" title="Выйти из системы"><i class="fa-solid fa-right-from-bracket"></i> Выход</button></div>
         </div>
 
         <div id="tab-analytics" class="tab-content active">

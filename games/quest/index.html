@@ -58,6 +58,8 @@
       ]
     }
     </script>
+    <link rel="stylesheet" href="/assets/css/a11y.css">
+    <script src="/assets/js/a11y.js" defer></script>
 </head>
 <body>
     <header class="quest-header">
@@ -72,8 +74,9 @@
                 <span>Твой старт в БРСМ</span>
             </div>
 
-            <div class="sound-toggle" id="sound-btn" title="Включить / Выключить звук">
+            <div style="display:flex; align-items:center; gap:12px;"><button type="button" class="a11y-toggle-btn" aria-label="Версия для слабовидящих" title="Версия для слабовидящих (Alt+A)"><i class="fa-solid fa-eye"></i> <span>Версия для слабовидящих</span></button><div class="sound-toggle" id="sound-btn" title="Включить / Выключить звук">
                 <i class="fa-solid fa-volume-high"></i>
+            </div>
             </div>
         </div>
     </header>

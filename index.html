@@ -93,6 +93,8 @@
       ]
     }
     </script>
+    <link rel="stylesheet" href="/assets/css/a11y.css">
+    <script src="/assets/js/a11y.js" defer></script>
 </head>
 <body>
 
@@ -142,11 +144,12 @@
             </nav>
 
             
-            <a href="#" class="btn btn-small header-btn open-join">Вступить</a>
-
-            
-            <div class="burger-menu">
-                <i class="fa-solid fa-bars"></i>
+            <div class="header-actions" style="display:flex; align-items:center; gap:12px;">
+                <button type="button" class="a11y-toggle-btn" aria-label="Версия для слабовидящих" title="Версия для слабовидящих (Alt+A)"><i class="fa-solid fa-eye"></i> <span>Версия для слабовидящих</span></button>
+                <a href="#" class="btn btn-small header-btn open-join">Вступить</a>
+                <div class="burger-menu">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
             </div>
         </div>
     </header>
