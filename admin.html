@@ -675,7 +675,7 @@
                 <button onclick="switchTab('news', this)"><i class="fa-solid fa-newspaper"></i> Мониторинг новостей</button>
             </li>
             <li class="nav-item" data-tab="applications">
-                <button onclick="switchTab('applications', this)"><i class="fa-solid fa-user-plus"></i> Заявки студентов</button>
+                <button onclick="switchTab('applications', this)"><i class="fa-solid fa-user-plus"></i> Заявки учащихся</button>
             </li>
             <li class="nav-item" data-tab="cards">
                 <button onclick="switchTab('cards', this)"><i class="fa-solid fa-id-card"></i> ID-карты квестов</button>
@@ -897,7 +897,7 @@
             <div class="table-box">
                 <div class="table-header" style="display:flex; justify-content:space-between; align-items:center;">
                     <div>
-                        <span class="chart-title">Заявки студентов на вступление в ОО «БРСМ»</span>
+                        <span class="chart-title">Заявки учащихся на вступление в ОО «БРСМ»</span>
                         <span style="font-size:12px; color:var(--text-muted); display:block; margin-top:2px;">База данных на klass-server</span>
                     </div>
                     <button onclick="loadApplications()" style="background:rgba(255,255,255,0.06); border:1px solid var(--border-color); color:var(--text-main); padding:6px 14px; border-radius:8px; cursor:pointer; font-size:12px; font-weight:600;"><i class="fa-solid fa-rotate"></i> Обновить</button>
@@ -906,7 +906,7 @@
                     <thead>
                         <tr>
                             <th>№</th>
-                            <th>ФИО Студента</th>
+                            <th>ФИО Учащегося</th>
                             <th>Группа</th>
                             <th>Телефон</th>
                             <th>Telegram</th>
@@ -1136,7 +1136,7 @@
             const headings = {
                 analytics: ['Аналитика посещаемости', 'Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026) • Сайт запущен 01.09.2025'],
                 news: ['Мониторинг публикаций', 'Статистика контентной базы и распределение по 9 направлениям БРСМ • Сбор новостей с 01.08.2025 • Сайт запущен 01.09.2025'],
-                applications: ['Заявки студентов', 'Реестр онлайн-заявок на вступление в первичную организацию ОО «БРСМ»'],
+                applications: ['Заявки учащихся', 'Реестр онлайн-заявок на вступление в первичную организацию ОО «БРСМ»'],
                 cards: ['ID-карты квеста', 'Реестр выданных персональных цифровых ID-карт участников квеста'],
                 server: ['Статус сервера', 'Телеметрия серверной инфраструктуры и службы brsm-api']
             };
