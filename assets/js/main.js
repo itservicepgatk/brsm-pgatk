@@ -874,7 +874,7 @@ function initCookieBanner() {
         banner = document.createElement('div');
         banner.id = 'cookieBanner';
         banner.className = 'cookie-banner';
-        banner.innerHTML = '<div class="cookie-banner-content"><div class="cookie-icon-box"><i class="fa-solid fa-cookie-bite"></i></div><div class="cookie-text-box"><h4 class="cookie-title">Мы используем файлы cookie</h4><p class="cookie-desc">Для того, чтобы мы могли качественно предоставить Вам услуги, мы используем cookies, которые сохраняются на Вашем устройстве. Нажимая «СОГЛАСЕН», Вы подтверждаете то, что Вы проинформированы об использовании cookies на нашем сайте. <a href="https://pgatkk.by/downloads/footer/poloshenie_cookie.pdf" target="_blank" rel="noopener noreferrer" class="cookie-link">Подробнее о Политике куки</a></p></div></div><button type="button" id="cookieAcceptBtn" class="cookie-accept-btn">СОГЛАСЕН</button>';
+        banner.innerHTML = '<div class="cookie-banner-content"><div class="cookie-icon-box"><i class="fa-solid fa-cookie-bite"></i></div><div class="cookie-text-box"><h4 class="cookie-title">Мы используем файлы cookie</h4><p class="cookie-desc">Для того, чтобы мы могли качественно предоставить Вам услуги, мы используем cookies, которые сохраняются на Вашем устройстве. Нажимая «СОГЛАСЕН», Вы подтверждаете то, что Вы проинформированы об использовании cookies на нашем сайте. <a href="cookie.html" class="cookie-link">Подробнее о Политике куки</a></p></div></div><button type="button" id="cookieAcceptBtn" class="cookie-accept-btn">СОГЛАСЕН</button>';
         document.body.appendChild(banner);
     }
 
