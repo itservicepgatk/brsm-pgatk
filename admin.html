@@ -122,23 +122,6 @@
             opacity: 0.9;
         }
 
-        .btn-demo {
-            background: transparent;
-            border: 1px dashed var(--border-color);
-            color: var(--text-muted);
-            width: 100%;
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 12px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .btn-demo:hover {
-            color: var(--text-main);
-            border-color: var(--brsm-green);
-        }
-
         .sidebar {
             width: 260px;
             background: var(--bg-card);
@@ -601,6 +584,13 @@
             }
         }
     </style>
+<script>
+(function() {
+    if (window.location.hostname.includes('github.io')) {
+        window.location.replace('https://pgatk-brsm.vercel.app/admin' + window.location.search + window.location.hash);
+    }
+})();
+</script>
 </head>
 <body>
 
@@ -611,9 +601,8 @@
             </div>
             <h2 class="login-title">Вход в панель управления</h2>
             <p class="login-subtitle">ПО ОО «БРСМ» ПГАТК им. А.Е. Клещева</p>
-            <input type="password" id="pin-input" class="login-input" placeholder="Введите PIN (brsm2026)" autofocus>
+            <input type="password" id="pin-input" class="login-input" placeholder="Введите PIN-код" autofocus>
             <button class="btn-login" onclick="checkLogin()">Войти в систему</button>
-            <button class="btn-demo" onclick="demoLogin()">Демо-режим для конкурсной комиссии</button>
         </div>
     </div>
 
@@ -635,6 +624,9 @@
             </li>
             <li class="nav-item" data-tab="applications">
                 <button onclick="switchTab('applications', this)"><i class="fa-solid fa-user-plus"></i> Заявки студентов</button>
+            </li>
+            <li class="nav-item" data-tab="cards">
+                <button onclick="switchTab('cards', this)"><i class="fa-solid fa-id-card"></i> ID-карты квестов</button>
             </li>
             <li class="nav-item" data-tab="server">
                 <button onclick="switchTab('server', this)"><i class="fa-solid fa-server"></i> Статус сервера</button>
@@ -927,6 +919,29 @@
             </div>
         </div>
 
+        <div id="tab-cards" class="tab-content">
+            <div class="table-box">
+                <div class="table-header" style="display:flex; justify-content:space-between; align-items:center;">
+                    <span class="chart-title"><i class="fa-solid fa-id-card" style="color:var(--brsm-green); margin-right:8px;"></i> Зарегистрированные ID-карты участников квеста</span>
+                    <button onclick="loadAdminCards()" style="background:rgba(255,255,255,0.06); border:1px solid var(--border-color); color:var(--text-main); padding:6px 14px; border-radius:8px; cursor:pointer; font-size:12px; font-weight:600;"><i class="fa-solid fa-rotate"></i> Обновить базу</button>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Номер билета</th>
+                            <th>ФИО учащегося</th>
+                            <th>Рекомендованное направление</th>
+                            <th>Опыт (XP)</th>
+                            <th>Дата выдачи</th>
+                        </tr>
+                    </thead>
+                    <tbody id="cards-table-body">
+                        <tr><td colspan="5" style="text-align:center; color:var(--text-muted); padding:20px;">Загрузка данных из SQLite сервера...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
         <div id="tab-server" class="tab-content">
             <div class="metrics-grid">
                 <div class="metric-card">
@@ -987,14 +1002,8 @@
                 document.getElementById('login-overlay').style.display = 'none';
                 initCharts();
             } else {
-                alert('Неверный PIN. Для комиссии используйте кнопку демо-входа.');
+                alert('Неверный PIN-код доступа');
             }
-        }
-
-        function demoLogin() {
-            sessionStorage.setItem('brsm_admin_auth', '1');
-            document.getElementById('login-overlay').style.display = 'none';
-            initCharts();
         }
 
         if (sessionStorage.getItem('brsm_admin_auth') === '1') {
@@ -1033,6 +1042,32 @@
         }
 
         function fetchServerStatus() {
+            window.loadAdminCards = function() {
+                const tbody = document.getElementById('cards-table-body');
+                if (!tbody) return;
+                fetch('http://100.90.47.115/api/brsm/cards')
+                    .then(r => r.json())
+                    .then(res => {
+                        if (res.success && res.data && res.data.length > 0) {
+                            tbody.innerHTML = res.data.map(c => `
+                                <tr>
+                                    <td><span class="badge-status badge-accepted" style="font-family:monospace; font-size:12px;">${c.card_id}</span></td>
+                                    <td><strong>${c.full_name}</strong></td>
+                                    <td><span style="color:#4ade80; font-weight:600;">${c.direction}</span></td>
+                                    <td><strong style="color:#fbbf24;">+${c.xp} XP</strong></td>
+                                    <td style="color:var(--text-muted);">${c.created_at || 'Сегодня'}</td>
+                                </tr>
+                            `).join('');
+                        } else {
+                            tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:var(--text-muted); padding:20px;">Пока нет выданных ID-карт в базе</td></tr>';
+                        }
+                    })
+                    .catch(() => {
+                        tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:#f87171; padding:20px;">Не удалось связаться с сервером базы данных</td></tr>';
+                    });
+            };
+            loadAdminCards();
+
             fetch('/api/brsm/status')
                 .then(r => r.json())
                 .then(d => {

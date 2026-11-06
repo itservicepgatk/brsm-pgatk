@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Игровой Хаб | ПО ОО «БРСМ» ПГАТК им. А.Е. Клещева</title>
+    <link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/hub.css">
+</head>
+<body>
+
+    <header class="hub-header">
+        <div class="hub-container header-inner">
+            <a href="../index.html" class="hub-back-btn">
+                <i class="fa-solid fa-arrow-left"></i>
+                <span>На сайт колледжа</span>
+            </a>
+
+            <div class="hub-brand">
+                <img src="../assets/img/logo.png" alt="БРСМ" class="hub-logo" onerror="this.src='../assets/img/emblem.png'">
+                <div class="hub-brand-text">
+                    <span class="hub-brand-title">БРСМ ПГАТК</span>
+                    <span class="hub-brand-subtitle">ИГРОВАЯ ПЛАТФОРМА</span>
+                </div>
+            </div>
+
+            <div class="hub-profile-chip" id="user-profile-badge">
+                <div class="profile-avatar">
+                    <i class="fa-solid fa-user-graduate"></i>
+                </div>
+                <div class="profile-meta">
+                    <span class="profile-rank" id="profile-rank">Новичок</span>
+                    <span class="profile-xp"><strong id="profile-xp">0</strong> XP</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="hub-main">
+        <div class="hub-container">
+            <section class="hub-hero">
+                <div class="hero-badge">
+                    <i class="fa-solid fa-gamepad"></i> Молодёжный интерактив
+                </div>
+                <h1 class="hub-title">Прокачай себя в <span class="text-gradient">БРСМ ПГАТК</span></h1>
+                <p class="hub-desc">
+                    Участвуй в квестах, решай реальные студенческие кейсы, открывай персональные достижения и находи своё идеальное направление в жизни колледжа.
+                </p>
+            </section>
+
+            <section class="games-grid">
+                <article class="game-card active-card">
+                    <div class="card-badge badge-hot">
+                        <i class="fa-solid fa-fire"></i> Доступно сейчас
+                    </div>
+                    <div class="card-cover cover-quest">
+                        <i class="fa-solid fa-compass card-icon"></i>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-tags">
+                            <span class="tag">Квест-навигатор</span>
+                            <span class="tag tag-xp">+150 XP</span>
+                        </div>
+                        <h2 class="card-title">Твой старт в БРСМ</h2>
+                        <p class="card-text">
+                            5 интерактивных жизненных ситуаций первокурсника. Узнай своё ключевое направление (Студотряды, Волонтерство, Медиа, МООП) и получи цифровую ID-карту активиста.
+                        </p>
+                        <div class="card-footer">
+                            <a href="quest/index.html" class="btn-play">
+                                <span>Начать квест</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="game-card coming-soon">
+                    <div class="card-badge badge-soon">
+                        <i class="fa-solid fa-clock"></i> В разработке
+                    </div>
+                    <div class="card-cover cover-quiz">
+                        <i class="fa-solid fa-graduation-cap card-icon"></i>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-tags">
+                            <span class="tag">Викторина</span>
+                            <span class="tag tag-xp">+200 XP</span>
+                        </div>
+                        <h2 class="card-title">Знаток Беларуси и БРСМ</h2>
+                        <p class="card-text">
+                            Блиц-тест на эрудицию с таймером. Ответь правильно на вопросы об истории молодежного движения и получи именной электронный сертификат.
+                        </p>
+                        <div class="card-footer">
+                            <button class="btn-disabled" disabled>
+                                <span>Скоро открытие</span>
+                                <i class="fa-solid fa-lock"></i>
+                            </button>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="game-card coming-soon">
+                    <div class="card-badge badge-soon">
+                        <i class="fa-solid fa-clock"></i> В разработке
+                    </div>
+                    <div class="card-cover cover-memory">
+                        <i class="fa-solid fa-brain card-icon"></i>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-tags">
+                            <span class="tag">Мини-игра</span>
+                            <span class="tag tag-xp">+100 XP</span>
+                        </div>
+                        <h2 class="card-title">Мемори: Отряды и Символика</h2>
+                        <p class="card-text">
+                            Тренируй зрительную память на скорость. Открывай парные карточки шевронов, отрядов и памятных мест Пинщины.
+                        </p>
+                        <div class="card-footer">
+                            <button class="btn-disabled" disabled>
+                                <span>Скоро открытие</span>
+                                <i class="fa-solid fa-lock"></i>
+                            </button>
+                        </div>
+                    </div>
+                </article>
+            </section>
+
+            <section class="ranks-info-section">
+                <div class="ranks-card">
+                    <div class="ranks-header">
+                        <i class="fa-solid fa-medal ranks-icon"></i>
+                        <div>
+                            <h3 class="ranks-title">Ранги и звания активистов</h3>
+                            <p class="ranks-sub">Проходи игры, зарабатывай опыт и открывай новые титулы</p>
+                        </div>
+                    </div>
+                    <div class="ranks-steps">
+                        <div class="rank-step" data-step="1">
+                            <div class="rank-num">1</div>
+                            <div class="rank-name">Новичок</div>
+                            <div class="rank-req">0 - 99 XP</div>
+                        </div>
+                        <div class="rank-step" data-step="2">
+                            <div class="rank-num">2</div>
+                            <div class="rank-name">Активист</div>
+                            <div class="rank-req">100 - 249 XP</div>
+                        </div>
+                        <div class="rank-step" data-step="3">
+                            <div class="rank-num">3</div>
+                            <div class="rank-name">Комиссар</div>
+                            <div class="rank-req">250 - 449 XP</div>
+                        </div>
+                        <div class="rank-step" data-step="4">
+                            <div class="rank-num">4</div>
+                            <div class="rank-name">Лидер молодежи</div>
+                            <div class="rank-req">450+ XP</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="hub-footer">
+        <div class="hub-container footer-inner">
+            <p>© 2026 ПО ОО «БРСМ» УО «Пинский государственный аграрно-технический колледж имени А.Е. Клещева»</p>
+            <div class="footer-links">
+                <a href="../index.html">Главная</a>
+                <a href="../secretariat.html">Секретариат</a>
+                <a href="../ustav.html">Устав</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/js/hub.js"></script>
+</body>
+</html>

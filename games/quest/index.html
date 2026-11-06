@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Квест: Твой старт в БРСМ | ПГАТК им. А.Е. Клещева</title>
+    <link rel="icon" type="image/svg+xml" href="../../assets/img/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="quest-header">
+        <div class="quest-container header-inner">
+            <a href="../index.html" class="nav-back">
+                <i class="fa-solid fa-arrow-left"></i>
+                <span>В игротеку</span>
+            </a>
+            
+            <div class="quest-header-title">
+                <span class="badge-mini"><i class="fa-solid fa-compass"></i> Квест</span>
+                <span>Твой старт в БРСМ</span>
+            </div>
+
+            <div class="sound-toggle" id="sound-btn" title="Включить / Выключить звук">
+                <i class="fa-solid fa-volume-high"></i>
+            </div>
+        </div>
+    </header>
+
+    <main class="quest-main">
+        <div class="quest-container">
+
+            <!-- Экран 1: Старт -->
+            <section id="screen-intro" class="quest-card active-screen">
+                <div class="intro-visual">
+                    <div class="intro-circle">
+                        <i class="fa-solid fa-rocket intro-icon"></i>
+                    </div>
+                </div>
+                <h1 class="quest-title">Найди своё призвание в <span class="highlight-red">БРСМ ПГАТК</span></h1>
+                <p class="quest-desc">
+                    Пройди 5 интерактивных студенческих кейсов. Мы подберем для тебя идеальное молодежное направление и сгенерируем персональную цифровую ID-карту активиста колледжа.
+                </p>
+
+                <div class="intro-form">
+                    <label for="student-name" class="input-label">Как тебя зовут?</label>
+                    <div class="input-wrap">
+                        <i class="fa-solid fa-user input-icon"></i>
+                        <input type="text" id="student-name" placeholder="Например: Иван Иванов" maxlength="30" autocomplete="off">
+                    </div>
+                    <span class="input-hint">Имя будет напечатано на твоей цифровой ID-карте</span>
+
+                    <button id="btn-start" class="btn-action">
+                        <span>Начать квест (+150 XP)</span>
+                        <i class="fa-solid fa-play"></i>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Экран 2: Игровой процесс -->
+            <section id="screen-game" class="quest-card">
+                <div class="game-progress-bar">
+                    <div class="progress-info">
+                        <span class="step-counter" id="step-counter">Кейс 1 из 5</span>
+                        <span class="step-xp"><i class="fa-solid fa-bolt"></i> +<span id="current-xp">0</span> XP</span>
+                    </div>
+                    <div class="progress-track">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                </div>
+
+                <div class="situation-header">
+                    <div class="situation-badge" id="case-badge">Направление: Студотряды</div>
+                    <h2 class="situation-question" id="case-question">Загрузка кейса...</h2>
+                </div>
+
+                <div class="options-grid" id="options-container">
+                    <!-- Генерируется из JS -->
+                </div>
+
+                <div class="fact-box" id="fact-box">
+                    <div class="fact-icon"><i class="fa-solid fa-lightbulb"></i></div>
+                    <div class="fact-content">
+                        <strong>Интересный факт:</strong>
+                        <p id="fact-text"></p>
+                    </div>
+                </div>
+
+                <button id="btn-next" class="btn-action btn-next-step" disabled>
+                    <span>Следующий кейс</span>
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
+            </section>
+
+            <!-- Экран 3: Результаты и Генерация ID-карты -->
+            <section id="screen-result" class="quest-card">
+                <div class="result-header">
+                    <div class="result-badge">
+                        <i class="fa-solid fa-trophy"></i> Квест успешно пройден!
+                    </div>
+                    <h2 class="result-title">Твоя цифровая карта активиста</h2>
+                    <p class="result-desc">
+                        На основе твоих выборов мы определили твоё главное направление в колледже: 
+                        <strong id="result-direction-title" class="highlight-green">...</strong>
+                    </p>
+                </div>
+
+                <div class="id-card-wrapper">
+                    <canvas id="id-card-canvas" width="1800" height="1020"></canvas>
+                </div>
+
+                <div class="result-actions">
+                    <button id="btn-download-card" class="btn-download">
+                        <i class="fa-solid fa-download"></i>
+                        <span>Сохранить ID-карту (PNG)</span>
+                    </button>
+                    
+                    <a href="../../index.html#join" class="btn-apply-direct">
+                        <i class="fa-solid fa-file-signature"></i>
+                        <span>Подать заявку в это направление</span>
+                    </a>
+
+                    <a href="../index.html" class="btn-back-hub">
+                        <i class="fa-solid fa-rotate-left"></i>
+                        <span>Вернуться в Игротеку</span>
+                    </a>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Canvas для конфетти -->
+    <canvas id="confetti-canvas"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>

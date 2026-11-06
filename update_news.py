@@ -108,26 +108,51 @@ def process_post_media(media_urls, conf_id, post_id):
         saved_paths.append("assets/img/news/placeholder.webp")
     return saved_paths
 
+def fetch_and_save_custom_emoji(emoji_id):
+    if not emoji_id:
+        return None
+    filename = f"emoji_{emoji_id}.webp"
+    rel_path = f"assets/img/news/{filename}"
+    full_path = os.path.join(img_dir, filename)
+    if os.path.exists(full_path) and os.path.getsize(full_path) > 100:
+        return rel_path
+    try:
+        url = f"https://t.me/i/emoji/{emoji_id}.json"
+        resp = requests.get(url, headers={'User-Agent': headers['User-Agent'], 'Referer': 'https://t.me/'}, timeout=8)
+        if resp.status_code == 200:
+            data = resp.json()
+            cdn_url = data.get('emoji') or data.get('thumb')
+            if cdn_url:
+                r_img = requests.get(cdn_url, headers={'User-Agent': headers['User-Agent'], 'Referer': 'https://t.me/'}, timeout=8)
+                if r_img.status_code == 200 and len(r_img.content) > 100:
+                    with open(full_path, 'wb') as out_f:
+                        out_f.write(r_img.content)
+                    return rel_path
+    except Exception:
+        pass
+    return None
+
 def clean_tg_html(soup, soup_div):
     if not soup_div:
         return ""
     
-    for tg_emoji in soup_div.find_all(['tg-emoji', 'i']):
-        classes = tg_emoji.get('class', [])
-        if 'emoji' in classes:
-            style = tg_emoji.get('style', '')
-            m = re.search(r'//telegram\.org/[^()\s\'\"]+', style)
-            emoji_char = tg_emoji.get_text().strip()
-            if m:
-                img_url = 'https:' + m.group(0)
-                new_tag = soup.new_tag('img')
-                new_tag['src'] = img_url
-                new_tag['alt'] = emoji_char
-                new_tag['class'] = 'tg-custom-emoji'
-                new_tag['loading'] = 'lazy'
-                tg_emoji.replace_with(new_tag)
-            else:
-                tg_emoji.replace_with(emoji_char)
+    for tg_emoji in soup_div.find_all('tg-emoji'):
+        eid = tg_emoji.get('emoji-id')
+        emoji_char = tg_emoji.get_text().strip()
+        local_src = fetch_and_save_custom_emoji(eid)
+        if local_src:
+            new_tag = soup.new_tag('img')
+            new_tag['src'] = local_src
+            new_tag['alt'] = emoji_char or 'emoji'
+            new_tag['class'] = 'tg-custom-emoji'
+            new_tag['loading'] = 'lazy'
+            tg_emoji.replace_with(new_tag)
+        else:
+            tg_emoji.replace_with(emoji_char)
+
+    for i_tag in soup_div.find_all(['i', 'span'], class_='emoji'):
+        char = i_tag.get_text().strip()
+        i_tag.replace_with(char)
 
     for bq in soup_div.find_all('blockquote'):
         bq['class'] = 'tg-blockquote'

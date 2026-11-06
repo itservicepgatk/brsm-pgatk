@@ -1,3 +1,114 @@
+(function initMigrationRedirect() {
+    const isGithub = window.location.hostname.includes('github.io');
+    const isTest = window.location.search.includes('test_redirect=1');
+    if (!isGithub && !isTest) return;
+
+    let targetPath = window.location.pathname.replace(/^\/brsm-pgatk/, '');
+    if (targetPath === '/index.html' || targetPath === '/' || targetPath === '') {
+        targetPath = '/';
+    } else if (targetPath.endsWith('.html')) {
+        targetPath = targetPath.slice(0, -5);
+    }
+    const cleanSearch = window.location.search.replace(/[?&]test_redirect=1/, '').replace(/^&/, '?');
+    const targetUrl = 'https://pgatk-brsm.vercel.app' + targetPath + cleanSearch + window.location.hash;
+    const displayUrl = targetUrl.replace('https://', '');
+
+    function showOverlay() {
+        if (document.getElementById('migration-overlay')) return;
+        const overlay = document.createElement('div');
+        overlay.id = 'migration-overlay';
+        overlay.className = 'migration-overlay';
+        overlay.setAttribute('role', 'dialog');
+        overlay.setAttribute('aria-modal', 'true');
+        overlay.innerHTML = `
+            <div class="migration-card">
+                <div class="migration-icon-wrap">
+                    <div class="migration-icon-pulse"></div>
+                    <i class="fa-solid fa-arrow-up-right-from-square migration-icon"></i>
+                </div>
+                <span class="migration-badge"><i class="fa-solid fa-wand-magic-sparkles"></i> Новый официальный адрес</span>
+                <h2 class="migration-title">Мы переехали на новый сайт!</h2>
+                <p class="migration-desc">Официальный сайт первичной организации ОО «БРСМ» ПГАТК им. А.Е. Клещева перенесён на современную высокоскоростную платформу.</p>
+                <div class="migration-target-box">
+                    <span class="migration-target-label">Новый адрес ресурса:</span>
+                    <a href="${targetUrl}" class="migration-target-link" id="migration-link">
+                        <i class="fa-solid fa-link"></i> ${displayUrl}
+                    </a>
+                </div>
+                <div class="migration-timer-wrap">
+                    <div class="migration-progress-bar">
+                        <div class="migration-progress-fill" id="migration-progress"></div>
+                    </div>
+                    <p class="migration-timer-text">
+                        Автоматический переход через <span class="migration-seconds" id="migration-seconds">5</span> сек...
+                    </p>
+                </div>
+                <div class="migration-actions">
+                    <a href="${targetUrl}" class="migration-btn-primary" id="migration-btn-go">
+                        <i class="fa-solid fa-bolt"></i> Перейти прямо сейчас
+                    </a>
+                    <button type="button" class="migration-btn-pause" id="migration-btn-pause">
+                        <i class="fa-solid fa-pause"></i> Остановить таймер
+                    </button>
+                </div>
+                <p class="migration-footer-tip">Пожалуйста, обновите сохранённую закладку в вашем браузере.</p>
+            </div>
+        `;
+        document.body.appendChild(overlay);
+
+        let remaining = 5;
+        let isPaused = false;
+        const secEl = document.getElementById('migration-seconds');
+        const progEl = document.getElementById('migration-progress');
+        const pauseBtn = document.getElementById('migration-btn-pause');
+
+        const interval = setInterval(() => {
+            if (isPaused) return;
+            remaining -= 1;
+            if (secEl) secEl.textContent = remaining;
+            if (progEl) progEl.style.width = (remaining / 5 * 100) + '%';
+            if (remaining <= 0) {
+                clearInterval(interval);
+                window.location.replace(targetUrl);
+            }
+        }, 1000);
+
+        if (pauseBtn) {
+            pauseBtn.addEventListener('click', () => {
+                isPaused = !isPaused;
+                if (isPaused) {
+                    pauseBtn.innerHTML = '<i class="fa-solid fa-play"></i> Возобновить таймер';
+                    const timerText = document.querySelector('.migration-timer-text');
+                    if (timerText) timerText.innerHTML = '<span style="color:#38bdf8;font-weight:700;">Автопереход приостановлен</span>';
+                } else {
+                    pauseBtn.innerHTML = '<i class="fa-solid fa-pause"></i> Остановить таймер';
+                    const timerText = document.querySelector('.migration-timer-text');
+                    if (timerText) timerText.innerHTML = `Автоматический переход через <span class="migration-seconds" id="migration-seconds">${remaining}</span> сек...`;
+                }
+            });
+        }
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', showOverlay);
+    } else {
+        showOverlay();
+    }
+})();
+
+function lockPageScroll() {
+    document.body.classList.add('modal-open');
+    document.documentElement.classList.add('modal-open');
+}
+
+function unlockPageScroll() {
+    const hasActive = document.querySelector('.modal-overlay.active, .reader-modal-overlay.active, .modal.active');
+    if (!hasActive) {
+        document.body.classList.remove('modal-open');
+        document.documentElement.classList.remove('modal-open');
+    }
+}
+
 window.addEventListener('load', () => {
     const preloader = document.getElementById('preloader');
     if (preloader) {
@@ -444,7 +555,7 @@ function openArticle(id) {
 
     modal.classList.add('active');
     modal.setAttribute('aria-hidden', 'false');
-    document.body.style.overflow = 'hidden';
+    lockPageScroll();
 
     try {
         history.replaceState(null, '', `#news-${article.id}`);
@@ -546,7 +657,7 @@ function closeArticleModal() {
     if (!modal) return;
     modal.classList.remove('active');
     modal.setAttribute('aria-hidden', 'true');
-    document.body.style.overflow = '';
+    unlockPageScroll();
     currentModalArticle = null;
     if (window.location.hash.startsWith('#news-')) {
         try {
@@ -682,13 +793,13 @@ if (lightbox) {
         img.addEventListener('click', () => {
             lightbox.classList.add('active');
             lightboxImg.src = img.src;
-            document.body.style.overflow = 'hidden';
+            lockPageScroll();
         });
     });
 
     const closeLightbox = () => {
         lightbox.classList.remove('active');
-        document.body.style.overflow = '';
+        unlockPageScroll();
         setTimeout(() => { lightboxImg.src = ''; }, 300);
     };
 
@@ -709,7 +820,7 @@ if (joinModal) {
         btn.addEventListener('click', (e) => {
             e.preventDefault();
             joinModal.classList.add('active');
-            document.body.style.overflow = 'hidden';
+            lockPageScroll();
             if (joinForm) { joinForm.style.display = 'block'; joinForm.reset(); }
             if (successMsg) successMsg.style.display = 'none';
         });
@@ -717,7 +828,7 @@ if (joinModal) {
 
     const closeJoin = () => {
         joinModal.classList.remove('active');
-        document.body.style.overflow = '';
+        unlockPageScroll();
     };
 
     closeJoinBtns.forEach(btn => btn.addEventListener('click', closeJoin));
@@ -756,4 +867,40 @@ if (joinModal) {
             }
         });
     }
+}
+function initCookieBanner() {
+    if (localStorage.getItem('cookie_consent_accepted') === '1') {
+        return;
+    }
+    let banner = document.getElementById('cookieBanner');
+    if (!banner) {
+        banner = document.createElement('div');
+        banner.id = 'cookieBanner';
+        banner.className = 'cookie-banner';
+        banner.innerHTML = '<div class="cookie-banner-content"><div class="cookie-icon-box"><i class="fa-solid fa-cookie-bite"></i></div><div class="cookie-text-box"><h4 class="cookie-title">Мы используем файлы cookie</h4><p class="cookie-desc">Для того, чтобы мы могли качественно предоставить Вам услуги, мы используем cookies, которые сохраняются на Вашем устройстве. Нажимая «СОГЛАСЕН», Вы подтверждаете то, что Вы проинформированы об использовании cookies на нашем сайте. <a href="https://pgatkk.by/downloads/footer/poloshenie_cookie.pdf" target="_blank" rel="noopener noreferrer" class="cookie-link">Подробнее о Политике куки</a></p></div></div><button type="button" id="cookieAcceptBtn" class="cookie-accept-btn">СОГЛАСЕН</button>';
+        document.body.appendChild(banner);
+    }
+
+    const acceptBtn = document.getElementById('cookieAcceptBtn');
+    if (acceptBtn) {
+        acceptBtn.addEventListener('click', () => {
+            localStorage.setItem('cookie_consent_accepted', '1');
+            banner.classList.remove('active');
+            setTimeout(() => {
+                if (banner && banner.parentNode) {
+                    banner.parentNode.removeChild(banner);
+                }
+            }, 400);
+        });
+    }
+
+    setTimeout(() => {
+        if (banner) banner.classList.add('active');
+    }, 800);
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initCookieBanner);
+} else {
+    initCookieBanner();
 }
