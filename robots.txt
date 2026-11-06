@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+
+Host: https://pgatk-brsm.vercel.app
+Sitemap: https://pgatk-brsm.vercel.app/sitemap.xml
