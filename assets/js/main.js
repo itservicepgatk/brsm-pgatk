@@ -1,7 +1,5 @@
 (function initMigrationRedirect() {
-    const isGithub = window.location.hostname.includes('github.io');
-    const isTest = window.location.search.includes('test_redirect=1');
-    if (!isGithub && !isTest) return;
+    if (!window.location.hostname.includes('github.io')) return;
 
     let targetPath = window.location.pathname.replace(/^\/brsm-pgatk/, '');
     if (targetPath === '/index.html' || targetPath === '/' || targetPath === '') {
@@ -9,8 +7,7 @@
     } else if (targetPath.endsWith('.html')) {
         targetPath = targetPath.slice(0, -5);
     }
-    const cleanSearch = window.location.search.replace(/[?&]test_redirect=1/, '').replace(/^&/, '?');
-    const targetUrl = 'https://pgatk-brsm.vercel.app' + targetPath + cleanSearch + window.location.hash;
+    const targetUrl = 'https://pgatk-brsm.vercel.app' + targetPath + window.location.search + window.location.hash;
     const displayUrl = targetUrl.replace('https://', '');
 
     function showOverlay() {
