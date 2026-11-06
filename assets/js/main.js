@@ -52,7 +52,22 @@ window.addEventListener('error', function (e) {
     }
 }, true);
 
+let currentDirectionReqId = 0;
+
+function preloadDirectionImages() {
+    const items = document.querySelectorAll('.dir-nav-item');
+    items.forEach(item => {
+        const src = item.getAttribute('data-img');
+        if (src) {
+            const img = new Image();
+            img.src = src;
+        }
+    });
+}
+
 function changeDirection(element) {
+    if (element.classList.contains('active')) return;
+
     const allItems = document.querySelectorAll('.dir-nav-item');
     allItems.forEach(item => item.classList.remove('active'));
     element.classList.add('active');
@@ -65,15 +80,40 @@ function changeDirection(element) {
     const descEl = document.getElementById('dir-dynamic-desc');
     const imgEl = document.getElementById('main-dir-image');
 
-    if (titleEl && descEl && imgEl) {
-        imgEl.style.opacity = 0;
-        setTimeout(() => {
-            titleEl.textContent = newTitle;
-            descEl.textContent = newDesc;
-            imgEl.src = newImg;
-            imgEl.style.opacity = 1;
-        }, 300);
-    }
+    if (!titleEl || !descEl || !imgEl || !newImg) return;
+
+    const reqId = ++currentDirectionReqId;
+
+    imgEl.style.opacity = '0';
+    titleEl.style.opacity = '0';
+    descEl.style.opacity = '0';
+
+    const tempImg = new Image();
+    tempImg.src = newImg;
+
+    const decodePromise = (typeof tempImg.decode === 'function') 
+        ? tempImg.decode().catch(() => {}) 
+        : new Promise(resolve => {
+            tempImg.onload = resolve;
+            tempImg.onerror = resolve;
+        });
+
+    const fadePromise = new Promise(resolve => setTimeout(resolve, 220));
+
+    Promise.all([decodePromise, fadePromise]).then(() => {
+        if (reqId !== currentDirectionReqId) return;
+
+        imgEl.src = newImg;
+        titleEl.textContent = newTitle;
+        descEl.textContent = newDesc;
+
+        requestAnimationFrame(() => {
+            if (reqId !== currentDirectionReqId) return;
+            imgEl.style.opacity = '1';
+            titleEl.style.opacity = '1';
+            descEl.style.opacity = '1';
+        });
+    });
 }
 
 document.querySelectorAll('a[href^="tel:"]').forEach(link => {
@@ -621,6 +661,7 @@ function initNewsHub() {
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initNewsHub);
 } else {
+    preloadDirectionImages();
     initNewsHub();
 }
 
