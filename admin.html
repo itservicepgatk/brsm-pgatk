@@ -997,8 +997,22 @@
     </main>
 
     <script>
+        const API_SERVER = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') ? 'http://127.0.0.1:5040' : 'https://klass-server.tail48c9dc.ts.net';
+
         function getAdminToken() {
             return sessionStorage.getItem('brsm_admin_token') || '';
+        }
+
+        async function apiFetch(url, options = {}) {
+            const target = url.startsWith('http') ? url : (API_SERVER + url);
+            try {
+                return await fetch(target, options);
+            } catch (err) {
+                if (!url.startsWith('http')) {
+                    return await fetch(url, options);
+                }
+                throw err;
+            }
         }
 
         async function authFetch(url, options = {}) {
@@ -1011,7 +1025,7 @@
                 headers['Content-Type'] = 'application/json';
                 options.body = JSON.stringify(options.body);
             }
-            const res = await fetch(url, { ...options, headers });
+            const res = await apiFetch(url, { ...options, headers });
             if (res.status === 401) {
                 logoutAdmin('Сессия завершена или недействительна. Пожалуйста, выполните вход повторно.');
                 throw new Error('Unauthorized');
@@ -1043,7 +1057,7 @@
             }
 
             try {
-                const res = await fetch('/api/brsm/auth/login', {
+                const res = await apiFetch('/api/brsm/auth/login', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ username, password })
@@ -1215,7 +1229,7 @@
         }
 
         function fetchServerStatus() {
-            fetch('/api/brsm/status')
+            apiFetch('/api/brsm/status')
                 .then(r => r.json())
                 .then(d => {
                     if (d.uptime) {
@@ -1316,7 +1330,7 @@
                 }
             });
 
-            fetch('/api/brsm/status')
+            apiFetch('/api/brsm/status')
                 .then(r => r.json())
                 .then(d => {
                     if (d.uptime) {
@@ -1331,7 +1345,7 @@
             const token = getAdminToken();
             if (token) {
                 try {
-                    const res = await fetch('/api/brsm/auth/verify', {
+                    const res = await apiFetch('/api/brsm/auth/verify', {
                         headers: { 'Authorization': 'Bearer ' + token }
                     });
                     if (res.ok) {
