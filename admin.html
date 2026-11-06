@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Панель управления | БРСМ ПГАТК им. А.Е. Клещева</title>
@@ -121,6 +123,47 @@
         .btn-login:hover {
             opacity: 0.9;
         }
+        .login-error {
+            background: rgba(239, 68, 68, 0.15);
+            border: 1px solid #ef4444;
+            color: #fca5a5;
+            padding: 10px 14px;
+            border-radius: 8px;
+            font-size: 13px;
+            margin-bottom: 16px;
+            text-align: left;
+            line-height: 1.4;
+        }
+        .btn-logout {
+            background: rgba(239, 68, 68, 0.12);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            color: #f87171;
+            padding: 8px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+        .btn-logout:hover {
+            background: rgba(239, 68, 68, 0.25);
+            color: #fca5a5;
+        }
+        .status-badge-select {
+            background: #0f172a;
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            outline: none;
+        }
+
 
         .sidebar {
             width: 260px;
@@ -601,8 +644,17 @@
             </div>
             <h2 class="login-title">Вход в панель управления</h2>
             <p class="login-subtitle">ПО ОО «БРСМ» ПГАТК им. А.Е. Клещева</p>
-            <input type="password" id="pin-input" class="login-input" placeholder="Введите PIN-код" autofocus>
-            <button class="btn-login" onclick="checkLogin()">Войти в систему</button>
+            <div id="login-error" class="login-error" style="display:none;"></div>
+            <div style="margin-bottom:12px; text-align:left;">
+                <label style="font-size:12px; color:var(--text-muted); margin-bottom:4px; display:block;">Логин</label>
+                <input type="text" id="username-input" class="login-input" placeholder="Логин администратора" value="admin" style="margin-bottom:0;">
+            </div>
+            <div style="margin-bottom:16px; text-align:left;">
+                <label style="font-size:12px; color:var(--text-muted); margin-bottom:4px; display:block;">Пароль или PIN-код</label>
+                <input type="password" id="password-input" class="login-input" placeholder="Введите пароль или PIN" autofocus style="margin-bottom:0;">
+            </div>
+            <button id="btn-login" class="btn-login" onclick="handleLogin()">Войти в систему</button>
+            <div style="font-size:11px; color:var(--text-muted); margin-top:8px;">Серверная аутентификация • Защита от подбора паролей</div>
         </div>
     </div>
 
@@ -652,7 +704,7 @@
                 <h2 class="page-title" id="tab-heading">Аналитика посещаемости</h2>
                 <p class="page-subtitle" id="tab-subheading">Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026)</p>
             </div>
-            <a href="index.html" class="btn-view-site" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> Открыть сайт</a>
+            <div style="display:flex; align-items:center; gap:10px;"><a href="index.html" class="btn-view-site" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> Открыть сайт</a><button onclick="logoutAdmin()" class="btn-logout" title="Выйти из системы"><i class="fa-solid fa-right-from-bracket"></i> Выход</button></div>
         </div>
 
         <div id="tab-analytics" class="tab-content active">
@@ -843,9 +895,12 @@
 
         <div id="tab-applications" class="tab-content">
             <div class="table-box">
-                <div class="table-header">
-                    <span class="chart-title">Заявки студентов на вступление в ОО «БРСМ»</span>
-                    <span style="font-size:12px; color:var(--text-muted);">База SQLite на klass-server</span>
+                <div class="table-header" style="display:flex; justify-content:space-between; align-items:center;">
+                    <div>
+                        <span class="chart-title">Заявки студентов на вступление в ОО «БРСМ»</span>
+                        <span style="font-size:12px; color:var(--text-muted); display:block; margin-top:2px;">База данных на klass-server</span>
+                    </div>
+                    <button onclick="loadApplications()" style="background:rgba(255,255,255,0.06); border:1px solid var(--border-color); color:var(--text-main); padding:6px 14px; border-radius:8px; cursor:pointer; font-size:12px; font-weight:600;"><i class="fa-solid fa-rotate"></i> Обновить</button>
                 </div>
                 <table>
                     <thead>
@@ -860,60 +915,7 @@
                         </tr>
                     </thead>
                     <tbody id="apps-tbody">
-                        <tr>
-                            <td>1</td>
-                            <td><strong>Ковалев Дмитрий Андреевич</strong></td>
-                            <td>Т-21</td>
-                            <td>+375 (29) 843-12-05</td>
-                            <td>@kovalev_d</td>
-                            <td>Студотрядовское движение (БСО)</td>
-                            <td><span class="badge-status badge-accepted">Принят</span></td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td><strong>Савицкая Алина Викторовна</strong></td>
-                            <td>Э-32</td>
-                            <td>+375 (33) 612-90-44</td>
-                            <td>@alina_sav</td>
-                            <td>Волонтерский отряд «Доброе Сердце»</td>
-                            <td><span class="badge-status badge-accepted">Принят</span></td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td><strong>Мельник Артем Сергеевич</strong></td>
-                            <td>П-11</td>
-                            <td>+375 (29) 198-73-61</td>
-                            <td>@artem_m</td>
-                            <td>Молодежные отряды охраны порядка (МООП)</td>
-                            <td><span class="badge-status badge-pending">На собеседовании</span></td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td><strong>Кравчук Полина Дмитриевна</strong></td>
-                            <td>Б-21</td>
-                            <td>+375 (44) 755-32-19</td>
-                            <td>@kravchuk_p</td>
-                            <td>Проект «100 идей для Беларуси»</td>
-                            <td><span class="badge-status badge-pending">На собеседовании</span></td>
-                        </tr>
-                        <tr>
-                            <td>5</td>
-                            <td><strong>Бойко Максим Игоревич</strong></td>
-                            <td>М-12</td>
-                            <td>+375 (29) 304-88-12</td>
-                            <td>@max_boyko</td>
-                            <td>Медиацентр и пресс-служба</td>
-                            <td><span class="badge-status badge-new">Новая заявка</span></td>
-                        </tr>
-                        <tr>
-                            <td>6</td>
-                            <td><strong>Кузьмич Владислав Олегович</strong></td>
-                            <td>Т-11</td>
-                            <td>+375 (33) 489-11-20</td>
-                            <td>@vlad_kuz</td>
-                            <td>Студотрядовское движение (БСО)</td>
-                            <td><span class="badge-status badge-new">Новая заявка</span></td>
-                        </tr>
+                        <tr><td colspan="7" style="text-align:center; padding:30px; color:var(--text-muted);"><i class="fa-solid fa-spinner fa-spin"></i> Требуется авторизация администратора</td></tr>
                     </tbody>
                 </table>
             </div>
@@ -995,26 +997,119 @@
     </main>
 
     <script>
-        function checkLogin() {
-            const pin = document.getElementById('pin-input').value.trim().toLowerCase();
-            if (pin === 'brsm2026' || pin === 'admin' || pin === 'brsm' || pin === '1234') {
-                sessionStorage.setItem('brsm_admin_auth', '1');
-                document.getElementById('login-overlay').style.display = 'none';
-                initCharts();
-            } else {
-                alert('Неверный PIN-код доступа');
+        function getAdminToken() {
+            return sessionStorage.getItem('brsm_admin_token') || '';
+        }
+
+        async function authFetch(url, options = {}) {
+            const token = getAdminToken();
+            const headers = { ...(options.headers || {}) };
+            if (token) {
+                headers['Authorization'] = 'Bearer ' + token;
+            }
+            if (options.body && typeof options.body === 'object' && !(options.body instanceof FormData)) {
+                headers['Content-Type'] = 'application/json';
+                options.body = JSON.stringify(options.body);
+            }
+            const res = await fetch(url, { ...options, headers });
+            if (res.status === 401) {
+                logoutAdmin('Сессия завершена или недействительна. Пожалуйста, выполните вход повторно.');
+                throw new Error('Unauthorized');
+            }
+            return res;
+        }
+
+        async function handleLogin() {
+            const userEl = document.getElementById('username-input');
+            const passEl = document.getElementById('password-input');
+            const btnEl = document.getElementById('btn-login');
+            const errEl = document.getElementById('login-error');
+
+            const username = userEl ? userEl.value.trim() : 'admin';
+            const password = passEl ? passEl.value.trim() : '';
+
+            if (!password) {
+                if (errEl) {
+                    errEl.textContent = 'Пожалуйста, введите пароль или PIN-код.';
+                    errEl.style.display = 'block';
+                }
+                return;
+            }
+
+            if (errEl) errEl.style.display = 'none';
+            if (btnEl) {
+                btnEl.disabled = true;
+                btnEl.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Проверка доступа...';
+            }
+
+            try {
+                const res = await fetch('/api/brsm/auth/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+                const data = await res.json();
+                if (res.ok && data.success && data.token) {
+                    sessionStorage.setItem('brsm_admin_token', data.token);
+                    document.getElementById('login-overlay').style.display = 'none';
+                    initCharts();
+                    loadApplications();
+                    loadAdminCards();
+                    fetchServerStatus();
+                } else {
+                    let errMsg = data.error || 'Ошибка входа в систему';
+                    if (data.remaining_attempts !== undefined) {
+                        errMsg += ' (осталось попыток: ' + data.remaining_attempts + ')';
+                    }
+                    if (errEl) {
+                        errEl.textContent = errMsg;
+                        errEl.style.display = 'block';
+                    }
+                }
+            } catch (err) {
+                if (errEl) {
+                    errEl.textContent = 'Сбой подключения к серверу авторизации. Проверьте сеть.';
+                    errEl.style.display = 'block';
+                }
+            } finally {
+                if (btnEl) {
+                    btnEl.disabled = false;
+                    btnEl.innerHTML = 'Войти в систему';
+                }
             }
         }
 
-        if (sessionStorage.getItem('brsm_admin_auth') === '1') {
-            document.addEventListener('DOMContentLoaded', () => {
-                document.getElementById('login-overlay').style.display = 'none';
-                initCharts();
-            });
+        function logoutAdmin(msg) {
+            sessionStorage.removeItem('brsm_admin_token');
+            const overlay = document.getElementById('login-overlay');
+            if (overlay) overlay.style.display = 'flex';
+            const errEl = document.getElementById('login-error');
+            if (errEl) {
+                if (msg) {
+                    errEl.textContent = msg;
+                    errEl.style.display = 'block';
+                } else {
+                    errEl.style.display = 'none';
+                }
+            }
+            const passEl = document.getElementById('password-input');
+            if (passEl) {
+                passEl.value = '';
+                passEl.focus();
+            }
+            const appsTbody = document.getElementById('apps-tbody');
+            if (appsTbody) appsTbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:30px; color:var(--text-muted);">Требуется авторизация администратора</td></tr>';
+            const cardsTbody = document.getElementById('cards-table-body');
+            if (cardsTbody) cardsTbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:var(--text-muted); padding:20px;">Требуется авторизация администратора</td></tr>';
         }
 
-        document.getElementById('pin-input').addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') checkLogin();
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                const overlay = document.getElementById('login-overlay');
+                if (overlay && overlay.style.display !== 'none') {
+                    handleLogin();
+                }
+            }
         });
 
         function switchTab(tabId, el) {
@@ -1028,6 +1123,7 @@
                 analytics: ['Аналитика посещаемости', 'Сводная статистика за последние 12 недель (10.08.2026 — 05.11.2026) • Сайт запущен 01.09.2025'],
                 news: ['Мониторинг публикаций', 'Статистика контентной базы и распределение по 9 направлениям БРСМ • Сбор новостей с 01.08.2025 • Сайт запущен 01.09.2025'],
                 applications: ['Заявки студентов', 'Реестр онлайн-заявок на вступление в первичную организацию ОО «БРСМ»'],
+                cards: ['ID-карты квеста', 'Реестр выданных персональных цифровых ID-карт участников квеста'],
                 server: ['Статус сервера', 'Телеметрия серверной инфраструктуры и службы brsm-api']
             };
 
@@ -1039,35 +1135,86 @@
             const nav = el ? el.closest('.nav-item') : (document.querySelector(`.nav-item[data-tab="${tabId}"]`) || (window.event && window.event.target ? window.event.target.closest('.nav-item') : null));
             if (nav) nav.classList.add('active');
             if (tabId === 'server') fetchServerStatus();
+            if (tabId === 'applications') loadApplications();
+            if (tabId === 'cards') loadAdminCards();
+        }
+
+        async function loadApplications() {
+            const tbody = document.getElementById('apps-tbody');
+            if (!tbody) return;
+            try {
+                const res = await authFetch('/api/brsm/applications');
+                const json = await res.json();
+                if (json.success && json.data && json.data.length > 0) {
+                    tbody.innerHTML = json.data.map((app, idx) => {
+                        return `
+                            <tr>
+                                <td>${idx + 1}</td>
+                                <td><strong>${app.full_name}</strong></td>
+                                <td>${app.group_name || '—'}</td>
+                                <td><a href="tel:${app.phone}" style="color:var(--text-main); text-decoration:none;">${app.phone}</a></td>
+                                <td>${app.telegram ? `<a href="https://t.me/${app.telegram.replace('@', '')}" target="_blank" style="color:#38bdf8; text-decoration:none;">${app.telegram}</a>` : '—'}</td>
+                                <td><span style="color:#4ade80; font-weight:600;">${app.direction || 'Общее'}</span></td>
+                                <td>
+                                    <select class="status-badge-select" onchange="updateAppStatus(${app.id}, this.value)">
+                                        <option value="new" ${app.status === 'new' ? 'selected' : ''}>Новая</option>
+                                        <option value="pending" ${app.status === 'pending' || app.status === 'interview' ? 'selected' : ''}>Собеседование</option>
+                                        <option value="accepted" ${app.status === 'accepted' ? 'selected' : ''}>Принят</option>
+                                        <option value="rejected" ${app.status === 'rejected' ? 'selected' : ''}>Отклонен</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        `;
+                    }).join('');
+                } else {
+                    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:25px; color:var(--text-muted);">Заявок пока нет в базе данных</td></tr>';
+                }
+            } catch (e) {
+                if (e.message !== 'Unauthorized') {
+                    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:20px; color:#f87171;">Ошибка загрузки заявок</td></tr>';
+                }
+            }
+        }
+
+        async function updateAppStatus(id, newStatus) {
+            try {
+                await authFetch(`/api/brsm/applications/${id}`, {
+                    method: 'PATCH',
+                    body: { status: newStatus }
+                });
+            } catch (e) {
+                alert('Не удалось обновить статус заявки');
+                loadApplications();
+            }
+        }
+
+        async function loadAdminCards() {
+            const tbody = document.getElementById('cards-table-body');
+            if (!tbody) return;
+            try {
+                const res = await authFetch('/api/brsm/cards');
+                const json = await res.json();
+                if (json.success && json.data && json.data.length > 0) {
+                    tbody.innerHTML = json.data.map(c => `
+                        <tr>
+                            <td><span class="badge-status badge-accepted" style="font-family:monospace; font-size:12px;">${c.card_id}</span></td>
+                            <td><strong>${c.full_name}</strong></td>
+                            <td><span style="color:#4ade80; font-weight:600;">${c.direction}</span></td>
+                            <td><strong style="color:#fbbf24;">+${c.xp} XP</strong></td>
+                            <td style="color:var(--text-muted);">${c.created_at || 'Сегодня'}</td>
+                        </tr>
+                    `).join('');
+                } else {
+                    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:var(--text-muted); padding:20px;">Пока нет выданных ID-карт в базе</td></tr>';
+                }
+            } catch (e) {
+                if (e.message !== 'Unauthorized') {
+                    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:#f87171; padding:20px;">Не удалось связаться с сервером базы данных</td></tr>';
+                }
+            }
         }
 
         function fetchServerStatus() {
-            window.loadAdminCards = function() {
-                const tbody = document.getElementById('cards-table-body');
-                if (!tbody) return;
-                fetch('http://100.90.47.115/api/brsm/cards')
-                    .then(r => r.json())
-                    .then(res => {
-                        if (res.success && res.data && res.data.length > 0) {
-                            tbody.innerHTML = res.data.map(c => `
-                                <tr>
-                                    <td><span class="badge-status badge-accepted" style="font-family:monospace; font-size:12px;">${c.card_id}</span></td>
-                                    <td><strong>${c.full_name}</strong></td>
-                                    <td><span style="color:#4ade80; font-weight:600;">${c.direction}</span></td>
-                                    <td><strong style="color:#fbbf24;">+${c.xp} XP</strong></td>
-                                    <td style="color:var(--text-muted);">${c.created_at || 'Сегодня'}</td>
-                                </tr>
-                            `).join('');
-                        } else {
-                            tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:var(--text-muted); padding:20px;">Пока нет выданных ID-карт в базе</td></tr>';
-                        }
-                    })
-                    .catch(() => {
-                        tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; color:#f87171; padding:20px;">Не удалось связаться с сервером базы данных</td></tr>';
-                    });
-            };
-            loadAdminCards();
-
             fetch('/api/brsm/status')
                 .then(r => r.json())
                 .then(d => {
@@ -1098,49 +1245,42 @@
                     dataSearch.push(5 + (i % 2) * 2);
                 } else if (i < 22) {
                     dataDirect.push(45 + (i - 16) * 14);
-                    dataSearch.push(18 + (i - 16) * 4);
-                } else if (i === 22) {
-                    dataDirect.push(265);
-                    dataSearch.push(105);
-                } else if (i < 26) {
-                    dataDirect.push(220 - (i - 22) * 16);
-                    dataSearch.push(85 - (i - 22) * 6);
+                    dataSearch.push(20 + (i - 16) * 7);
+                } else if (i < 65) {
+                    const wave = Math.sin(i / 3) * 15;
+                    dataDirect.push(Math.round(180 + wave + (i % 5) * 8));
+                    dataSearch.push(Math.round(85 + wave / 2 + (i % 4) * 6));
                 } else {
-                    const isWeekend = (i % 7 === 5 || i % 7 === 6);
-                    if (isWeekend) {
-                        dataDirect.push(65 + ((i * 7) % 15));
-                        dataSearch.push(24 + ((i * 3) % 10));
-                    } else {
-                        dataDirect.push(175 + Math.sin(i * 0.7) * 32 + ((i * 11) % 20));
-                        dataSearch.push(72 + Math.sin(i * 0.7) * 16 + ((i * 5) % 12));
-                    }
+                    const wave = Math.sin(i / 2.5) * 25;
+                    dataDirect.push(Math.round(310 + wave + (i % 6) * 12));
+                    dataSearch.push(Math.round(160 + wave / 2 + (i % 5) * 9));
                 }
             }
 
-            const ctxTraffic = document.getElementById('trafficChart').getContext('2d');
-            new Chart(ctxTraffic, {
+            const ctxLine = document.getElementById('trafficLineChart').getContext('2d');
+            new Chart(ctxLine, {
                 type: 'line',
                 data: {
                     labels: labels,
                     datasets: [
                         {
-                            label: 'Прямые заходы',
+                            label: 'Прямой трафик',
                             data: dataDirect,
-                            borderColor: '#8b5cf6',
-                            backgroundColor: 'rgba(139, 92, 246, 0.1)',
-                            fill: true,
-                            tension: 0.3,
+                            borderColor: '#38bdf8',
+                            backgroundColor: 'rgba(56, 189, 248, 0.1)',
                             borderWidth: 2,
+                            fill: true,
+                            tension: 0.35,
                             pointRadius: 0
                         },
                         {
-                            label: 'Поисковые системы',
+                            label: 'Поисковый трафик',
                             data: dataSearch,
-                            borderColor: '#ec4899',
-                            backgroundColor: 'transparent',
-                            fill: false,
-                            tension: 0.3,
+                            borderColor: '#4ade80',
+                            backgroundColor: 'rgba(74, 222, 128, 0.05)',
                             borderWidth: 2,
+                            fill: true,
+                            tension: 0.35,
                             pointRadius: 0
                         }
                     ]
@@ -1186,6 +1326,27 @@
                 })
                 .catch(() => {});
         }
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            const token = getAdminToken();
+            if (token) {
+                try {
+                    const res = await fetch('/api/brsm/auth/verify', {
+                        headers: { 'Authorization': 'Bearer ' + token }
+                    });
+                    if (res.ok) {
+                        const overlay = document.getElementById('login-overlay');
+                        if (overlay) overlay.style.display = 'none';
+                        initCharts();
+                        loadApplications();
+                        loadAdminCards();
+                        fetchServerStatus();
+                        return;
+                    }
+                } catch (e) {}
+            }
+            logoutAdmin();
+        });
     </script>
 </body>
 </html>
