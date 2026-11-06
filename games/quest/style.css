@@ -152,7 +152,7 @@ body {
     to { opacity: 1; transform: translateY(0); }
 }
 
-/* Экран 1: Интро */
+
 #screen-intro {
     text-align: center;
 }
@@ -289,7 +289,7 @@ body {
     background: #94a3b8;
 }
 
-/* Экран 2: Игровой процесс */
+
 .game-progress-bar {
     margin-bottom: 26px;
 }
@@ -448,7 +448,7 @@ body {
     margin-top: 8px;
 }
 
-/* Экран 3: Результаты */
+
 #screen-result {
     text-align: center;
 }
@@ -570,7 +570,7 @@ body {
     color: var(--brsm-red);
 }
 
-/* Конфетти Canvas */
+
 #confetti-canvas {
     position: fixed;
     inset: 0;

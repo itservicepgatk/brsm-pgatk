@@ -4,18 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Квест: Твой старт в БРСМ | ПГАТК им. А.Е. Клещева</title>
-    <link rel="icon" type="image/svg+xml" href="../../assets/img/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/games/quest/style.css">
 </head>
 <body>
-
     <header class="quest-header">
         <div class="quest-container header-inner">
-            <a href="../index.html" class="nav-back">
+            <a href="/games" class="nav-back">
                 <i class="fa-solid fa-arrow-left"></i>
                 <span>В игротеку</span>
             </a>
@@ -33,8 +32,6 @@
 
     <main class="quest-main">
         <div class="quest-container">
-
-            <!-- Экран 1: Старт -->
             <section id="screen-intro" class="quest-card active-screen">
                 <div class="intro-visual">
                     <div class="intro-circle">
@@ -61,7 +58,6 @@
                 </div>
             </section>
 
-            <!-- Экран 2: Игровой процесс -->
             <section id="screen-game" class="quest-card">
                 <div class="game-progress-bar">
                     <div class="progress-info">
@@ -79,7 +75,6 @@
                 </div>
 
                 <div class="options-grid" id="options-container">
-                    <!-- Генерируется из JS -->
                 </div>
 
                 <div class="fact-box" id="fact-box">
@@ -96,7 +91,6 @@
                 </button>
             </section>
 
-            <!-- Экран 3: Результаты и Генерация ID-карты -->
             <section id="screen-result" class="quest-card">
                 <div class="result-header">
                     <div class="result-badge">
@@ -119,24 +113,22 @@
                         <span>Сохранить ID-карту (PNG)</span>
                     </button>
                     
-                    <a href="../../index.html#join" class="btn-apply-direct">
+                    <a href="/#join" class="btn-apply-direct">
                         <i class="fa-solid fa-file-signature"></i>
                         <span>Подать заявку в это направление</span>
                     </a>
 
-                    <a href="../index.html" class="btn-back-hub">
+                    <a href="/games" class="btn-back-hub">
                         <i class="fa-solid fa-rotate-left"></i>
                         <span>Вернуться в Игротеку</span>
                     </a>
                 </div>
             </section>
-
         </div>
     </main>
 
-    <!-- Canvas для конфетти -->
     <canvas id="confetti-canvas"></canvas>
 
-    <script src="script.js"></script>
+    <script src="/games/quest/script.js"></script>
 </body>
 </html>

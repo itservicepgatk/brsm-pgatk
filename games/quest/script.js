@@ -1,4 +1,3 @@
-// Web Audio API Sound Effects
 class SoundFx {
     constructor() {
         this.ctx = null;
@@ -54,11 +53,9 @@ class SoundFx {
 
 const sfx = new SoundFx();
 
-// Preload BRSM Emblem for Canvas Seal
 const emblemImg = new Image();
-emblemImg.src = '../../assets/img/logo.png';
+emblemImg.src = '/assets/img/logo.png';
 
-// 5 Balanced Situations covering all 5 core directions
 const QUEST_CASES = [
     {
         badge: 'Кейс 1 • Свободное время и таланты',
@@ -112,7 +109,6 @@ const QUEST_CASES = [
     }
 ];
 
-// App State
 let currentCaseIndex = 0;
 let userXP = 0;
 let studentName = 'Активист ПГАТК';
@@ -120,7 +116,6 @@ let tagScores = { bso: 0, volunteer: 0, sport: 0, moop: 0, media: 0 };
 let currentSelection = null;
 let lastSelectedTag = 'bso';
 
-// DOM Elements
 const screenIntro = document.getElementById('screen-intro');
 const screenGame = document.getElementById('screen-game');
 const screenResult = document.getElementById('screen-result');
@@ -142,7 +137,6 @@ const btnNext = document.getElementById('btn-next');
 const resultDirectionTitle = document.getElementById('result-direction-title');
 const btnDownloadCard = document.getElementById('btn-download-card');
 
-// Sound toggle
 soundBtn.addEventListener('click', () => {
     sfx.muted = !sfx.muted;
     soundBtn.classList.toggle('muted', sfx.muted);
@@ -150,7 +144,6 @@ soundBtn.addEventListener('click', () => {
     icon.className = sfx.muted ? 'fa-solid fa-volume-xmark' : 'fa-solid fa-volume-high';
 });
 
-// Start Quest
 btnStart.addEventListener('click', () => {
     const inputVal = nameInput.value.trim();
     if (inputVal) studentName = inputVal;
@@ -161,7 +154,6 @@ btnStart.addEventListener('click', () => {
     renderCase(0);
 });
 
-// Render a situation case
 function renderCase(idx) {
     currentSelection = null;
     btnNext.disabled = true;
@@ -208,7 +200,6 @@ function renderCase(idx) {
     });
 }
 
-// Next Step
 btnNext.addEventListener('click', () => {
     sfx.playClick();
     currentCaseIndex++;
@@ -220,7 +211,6 @@ btnNext.addEventListener('click', () => {
     }
 });
 
-// Register unique ID card on server
 async function registerCardOnServer(fullName, direction, xp) {
     const serverHosts = [
         'http://100.90.47.115/api/brsm/cards',
@@ -247,23 +237,19 @@ async function registerCardOnServer(fullName, direction, xp) {
                 }
             }
         } catch (e) {
-            // try fallback host
         }
     }
 
-    // Fallback if server is not reachable
     const localSeq = Math.floor(1000 + Math.random() * 8999);
     return `ID-${localSeq}`;
 }
 
-// Finalize Quest
 async function finishQuest() {
     screenGame.classList.remove('active-screen');
     screenResult.classList.add('active-screen');
     sfx.playSuccess();
     runConfetti();
 
-    // Determine primary direction based on highest score
     let bestTag = lastSelectedTag;
     let maxScore = -1;
     for (const [tag, score] of Object.entries(tagScores)) {
@@ -284,16 +270,12 @@ async function finishQuest() {
     const finalTitle = directionTitles[bestTag] || 'Актив БРСМ ПГАТК';
     resultDirectionTitle.textContent = finalTitle;
 
-    // Get unique ID from server
     const uniqueCardId = await registerCardOnServer(studentName, finalTitle, userXP);
 
-    // Save locally
     saveProgress(userXP, finalTitle, uniqueCardId);
 
-    // Render Ultra-HD ID Card (1800x1020)
     drawIdCard(studentName, finalTitle, userXP, uniqueCardId);
 
-    // Connect application button directly
     const applyBtn = document.querySelector('.btn-apply-direct');
     if (applyBtn) {
         const query = encodeURIComponent(finalTitle);
@@ -325,7 +307,6 @@ function saveProgress(earnedXp, direction, cardId) {
     }
 }
 
-// Draw Ultra-HD (1800x1020) ID Card on Canvas
 function drawIdCard(name, direction, xp, cardId) {
     const canvas = document.getElementById('id-card-canvas');
     if (!canvas) return;
@@ -335,7 +316,6 @@ function drawIdCard(name, direction, xp, cardId) {
     canvas.width = w;
     canvas.height = h;
 
-    // Smooth gradient background
     const bgGrad = ctx.createLinearGradient(0, 0, w, h);
     bgGrad.addColorStop(0, '#0a0f1d');
     bgGrad.addColorStop(0.4, '#151f33');
@@ -343,7 +323,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.fillStyle = bgGrad;
     ctx.fillRect(0, 0, w, h);
 
-    // Security Guilloche / Micro-lines pattern for authentic ID feel
     ctx.save();
     ctx.strokeStyle = 'rgba(255, 255, 255, 0.035)';
     ctx.lineWidth = 1.5;
@@ -355,7 +334,6 @@ function drawIdCard(name, direction, xp, cardId) {
     }
     ctx.restore();
 
-    // Top Stripe (BRSM Red & Green)
     const redGrad = ctx.createLinearGradient(0, 0, w * 0.58, 0);
     redGrad.addColorStop(0, '#D91D24');
     redGrad.addColorStop(1, '#ef4444');
@@ -368,12 +346,10 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.fillStyle = greenGrad;
     ctx.fillRect(w * 0.58, 0, w * 0.42, 24);
 
-    // Subtle outer card border
     ctx.strokeStyle = 'rgba(255, 255, 255, 0.18)';
     ctx.lineWidth = 4;
     ctx.strokeRect(2, 2, w - 4, h - 4);
 
-    // Header Title
     ctx.fillStyle = '#ffffff';
     ctx.font = '900 48px Montserrat, sans-serif';
     ctx.fillText('ПО ОО «БРСМ» | ПГАТК ИМ. А.Е. КЛЕЩЕВА', 90, 126);
@@ -382,7 +358,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.font = '700 30px Montserrat, sans-serif';
     ctx.fillText('ЦИФРОВАЯ ID-КАРТА АКТИВИСТА МОЛОДЕЖНОГО ДВИЖЕНИЯ', 90, 178);
 
-    // Separator line
     ctx.strokeStyle = 'rgba(255, 255, 255, 0.12)';
     ctx.lineWidth = 3;
     ctx.beginPath();
@@ -390,7 +365,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.lineTo(w - 90, 218);
     ctx.stroke();
 
-    // Student Info
     ctx.fillStyle = '#94a3b8';
     ctx.font = '700 30px Montserrat, sans-serif';
     ctx.fillText('ФАМИЛИЯ, ИМЯ:', 90, 320);
@@ -407,7 +381,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.font = '900 48px Montserrat, sans-serif';
     ctx.fillText(direction, 90, 590);
 
-    // Metadata & Verification
     const dateStr = new Date().toLocaleDateString('ru-RU');
     ctx.fillStyle = '#94a3b8';
     ctx.font = '600 32px Montserrat, sans-serif';
@@ -418,7 +391,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.font = '800 32px Montserrat, sans-serif';
     ctx.fillText(`СТАТУС: ПОДТВЕРЖДЕНО СЕРВЕРОМ (+${xp} XP)`, 90, 870);
 
-    // Official Stamp / Seal with actual BRSM Emblem in the center
     const sealX = w - 320;
     const sealY = h - 350;
     const sealRadius = 160;
@@ -426,14 +398,12 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.save();
     ctx.translate(sealX, sealY);
 
-    // Outer solid stamp circle
     ctx.strokeStyle = 'rgba(217, 29, 36, 0.85)';
     ctx.lineWidth = 8;
     ctx.beginPath();
     ctx.arc(0, 0, sealRadius, 0, Math.PI * 2);
     ctx.stroke();
 
-    // Inner dashed stamp circle
     ctx.setLineDash([12, 10]);
     ctx.strokeStyle = 'rgba(217, 29, 36, 0.65)';
     ctx.lineWidth = 4;
@@ -442,7 +412,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.stroke();
     ctx.setLineDash([]);
 
-    // Draw BRSM Emblem inside the stamp
     if (emblemImg.complete && emblemImg.naturalWidth > 0) {
         const embW = 160;
         const embH = (emblemImg.naturalHeight / emblemImg.naturalWidth) * embW;
@@ -454,7 +423,6 @@ function drawIdCard(name, direction, xp, cardId) {
         ctx.fillText('БРСМ', 0, -10);
     }
 
-    // Seal text along bottom
     ctx.fillStyle = '#f87171';
     ctx.font = '800 22px Montserrat, sans-serif';
     ctx.textAlign = 'center';
@@ -463,7 +431,6 @@ function drawIdCard(name, direction, xp, cardId) {
     ctx.restore();
 }
 
-// Download Button in Ultra-HD PNG
 btnDownloadCard.addEventListener('click', () => {
     const canvas = document.getElementById('id-card-canvas');
     if (!canvas) return;
@@ -473,7 +440,6 @@ btnDownloadCard.addEventListener('click', () => {
     link.click();
 });
 
-// Canvas Confetti
 function runConfetti() {
     const canvas = document.getElementById('confetti-canvas');
     if (!canvas) return;

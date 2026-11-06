@@ -45,7 +45,7 @@ body {
     width: 100%;
 }
 
-/* Шапка хаба в едином стиле с главным сайтом */
+
 .hub-header {
     background: rgba(255, 255, 255, 0.96);
     backdrop-filter: blur(12px);
@@ -118,7 +118,7 @@ body {
     letter-spacing: 1px;
 }
 
-/* Игровой профиль учащегося */
+
 .hub-profile-chip {
     display: flex;
     align-items: center;
@@ -168,7 +168,7 @@ body {
     font-weight: 900;
 }
 
-/* Основной контент */
+
 .hub-main {
     flex: 1;
     padding: 44px 0 60px 0;
@@ -229,7 +229,7 @@ body {
     margin: 0 auto;
 }
 
-/* Сетка карточек игр */
+
 .games-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -402,7 +402,7 @@ body {
     cursor: not-allowed;
 }
 
-/* Карточка рангов */
+
 .ranks-card {
     background: #ffffff;
     border: 1.5px solid var(--border-color);
