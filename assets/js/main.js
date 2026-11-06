@@ -379,13 +379,15 @@ function goToNewsPage(page) {
 
 function formatArticleBody(text) {
     if (!text) return '';
-    const paragraphs = text.split(/\n\s*\n+/).filter(p => p.trim().length > 0);
-    return paragraphs.map(p => {
-        let clean = escapeHtml(p.trim());
-        clean = clean.replace(/#([a-zA-Zа-яА-Я0-9_]+)/g, '<span class="article-hashtag">#$1</span>');
-        clean = clean.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
-        return `<p>${clean}</p>`;
-    }).join('');
+    let clean = escapeHtml(text);
+    clean = clean.replace(/\n\s*«\s*\n+/g, ' «');
+    clean = clean.replace(/\n\s*»\s*;/g, '»;');
+    clean = clean.replace(/\n\s*»\s*\./g, '».');
+    clean = clean.replace(/➡️\s*\n+/g, '➡️ ');
+    clean = clean.replace(/#([a-zA-Zа-яА-Я0-9_]+)/g, '<span class="article-hashtag">#$1</span>');
+    clean = clean.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+    const paragraphs = clean.split(/\n\s*\n+/).filter(p => p.trim().length > 0);
+    return paragraphs.map(p => `<p>${p.trim()}</p>`).join('');
 }
 
 function openArticle(id) {
@@ -418,8 +420,12 @@ function openArticle(id) {
         titleEl.textContent = article.title || '';
     }
     if (bodyEl) {
-        const content = article.full_text || article.text || '';
-        bodyEl.innerHTML = formatArticleBody(content);
+        if (article.full_text_html) {
+            bodyEl.innerHTML = article.full_text_html;
+        } else {
+            const content = article.full_text || article.text || '';
+            bodyEl.innerHTML = formatArticleBody(content);
+        }
     }
     if (tgLink) {
         tgLink.href = article.link || '#';

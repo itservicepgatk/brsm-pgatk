@@ -2457,3 +2457,47 @@ a[href^="tel:"]:active {
         margin-left: 0;
     }
 }
+
+.tg-custom-emoji {
+    width: 1.35em;
+    height: 1.35em;
+    vertical-align: -0.22em;
+    display: inline-block;
+    margin: 0 2px;
+    object-fit: contain;
+}
+
+.tg-blockquote {
+    border-left: 3px solid var(--red);
+    background: #f8fafc;
+    padding: 12px 18px;
+    border-radius: 0 12px 12px 0;
+    margin: 16px 0;
+    color: #334155;
+    font-style: italic;
+    line-height: 1.6;
+}
+
+.tg-hashtag {
+    color: var(--green);
+    font-weight: 700;
+}
+
+.reader-body-text a {
+    color: #0284c7;
+    text-decoration: underline;
+    font-weight: 600;
+    word-break: break-all;
+    transition: color 0.2s;
+}
+
+.reader-body-text a:hover {
+    color: #0369a1;
+    text-decoration: none;
+}
+
+.reader-body-text b,
+.reader-body-text strong {
+    font-weight: 700;
+    color: #0f172a;
+}
