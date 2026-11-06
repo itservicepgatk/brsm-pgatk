@@ -1,51 +1,79 @@
+.top-utility-bar {
+    background: #0f172a;
+    border-bottom: 1px solid #1e293b;
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-size: 12px;
+    color: #94a3b8;
+    position: relative;
+    z-index: 100;
+}
+
+.top-utility-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    gap: 12px;
+}
+
+.top-utility-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    color: #e2e8f0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+}
+
+.top-utility-title .short-title {
+    display: none;
+}
+
+.top-utility-title i {
+    color: #38bdf8;
+    font-size: 13px;
+}
+
 .a11y-toggle-btn {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    background: rgba(255, 255, 255, 0.12);
+    background: #1e293b;
     color: #ffffff;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 7px 14px;
+    border: 1px solid #38bdf8;
+    padding: 5px 14px;
     border-radius: 9999px;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s ease;
     text-decoration: none;
-    line-height: 1;
+    line-height: 1.2;
     white-space: nowrap;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 .a11y-toggle-btn:hover,
 .a11y-toggle-btn:focus-visible {
-    background: rgba(255, 255, 255, 0.25);
-    border-color: #ffffff;
-    outline: 2px solid #ffffff;
-    outline-offset: 2px;
+    background: #0284c7;
+    color: #ffffff;
+    border-color: #7dd3fc;
+    outline: 2px solid #38bdf8;
+    outline-offset: 1px;
+    box-shadow: 0 4px 12px rgba(2, 132, 199, 0.35);
 }
 
 .a11y-toggle-btn i {
-    font-size: 14px;
+    font-size: 13px;
+    color: #38bdf8;
 }
 
-.page-text .a11y-toggle-btn,
-.site-header-light .a11y-toggle-btn,
-.hub-header .a11y-toggle-btn,
-.quest-header .a11y-toggle-btn,
-.top-bar .a11y-toggle-btn {
-    background: rgba(15, 23, 42, 0.08);
-    color: #0f172a;
-    border-color: rgba(15, 23, 42, 0.2);
-}
-
-.page-text .a11y-toggle-btn:hover,
-.site-header-light .a11y-toggle-btn:hover,
-.hub-header .a11y-toggle-btn:hover,
-.quest-header .a11y-toggle-btn:hover,
-.top-bar .a11y-toggle-btn:hover {
-    background: rgba(15, 23, 42, 0.15);
-    border-color: #0f172a;
-    outline-color: #0f172a;
+.a11y-toggle-btn:hover i {
+    color: #ffffff;
 }
 
 .a11y-floating-btn {
@@ -265,9 +293,9 @@ html.a11y-active.a11y-scheme-c1 section,
 html.a11y-active.a11y-scheme-c1 article,
 html.a11y-active.a11y-scheme-c1 header:not(#a11y-panel),
 html.a11y-active.a11y-scheme-c1 footer,
-html.a11y-active.a11y-scheme-c1 div,
+html.a11y-active.a11y-scheme-c1 div:not(.a11y-opt-btn):not(#a11y-panel),
 html.a11y-active.a11y-scheme-c1 p,
-html.a11y-active.a11y-scheme-c1 span,
+html.a11y-active.a11y-scheme-c1 span:not(.a11y-group-title),
 html.a11y-active.a11y-scheme-c1 h1,
 html.a11y-active.a11y-scheme-c1 h2,
 html.a11y-active.a11y-scheme-c1 h3,
@@ -313,9 +341,9 @@ html.a11y-active.a11y-scheme-c2 section,
 html.a11y-active.a11y-scheme-c2 article,
 html.a11y-active.a11y-scheme-c2 header:not(#a11y-panel),
 html.a11y-active.a11y-scheme-c2 footer,
-html.a11y-active.a11y-scheme-c2 div,
+html.a11y-active.a11y-scheme-c2 div:not(.a11y-opt-btn):not(#a11y-panel),
 html.a11y-active.a11y-scheme-c2 p,
-html.a11y-active.a11y-scheme-c2 span,
+html.a11y-active.a11y-scheme-c2 span:not(.a11y-group-title),
 html.a11y-active.a11y-scheme-c2 h1,
 html.a11y-active.a11y-scheme-c2 h2,
 html.a11y-active.a11y-scheme-c2 h3,
@@ -361,9 +389,9 @@ html.a11y-active.a11y-scheme-c3 section,
 html.a11y-active.a11y-scheme-c3 article,
 html.a11y-active.a11y-scheme-c3 header:not(#a11y-panel),
 html.a11y-active.a11y-scheme-c3 footer,
-html.a11y-active.a11y-scheme-c3 div,
+html.a11y-active.a11y-scheme-c3 div:not(.a11y-opt-btn):not(#a11y-panel),
 html.a11y-active.a11y-scheme-c3 p,
-html.a11y-active.a11y-scheme-c3 span,
+html.a11y-active.a11y-scheme-c3 span:not(.a11y-group-title),
 html.a11y-active.a11y-scheme-c3 h1,
 html.a11y-active.a11y-scheme-c3 h2,
 html.a11y-active.a11y-scheme-c3 h3,
@@ -409,9 +437,9 @@ html.a11y-active.a11y-scheme-c4 section,
 html.a11y-active.a11y-scheme-c4 article,
 html.a11y-active.a11y-scheme-c4 header:not(#a11y-panel),
 html.a11y-active.a11y-scheme-c4 footer,
-html.a11y-active.a11y-scheme-c4 div,
+html.a11y-active.a11y-scheme-c4 div:not(.a11y-opt-btn):not(#a11y-panel),
 html.a11y-active.a11y-scheme-c4 p,
-html.a11y-active.a11y-scheme-c4 span,
+html.a11y-active.a11y-scheme-c4 span:not(.a11y-group-title),
 html.a11y-active.a11y-scheme-c4 h1,
 html.a11y-active.a11y-scheme-c4 h2,
 html.a11y-active.a11y-scheme-c4 h3,
@@ -450,13 +478,20 @@ html.a11y-active #preloader {
     display: none !important;
 }
 
+html.a11y-active .top-utility-bar {
+    display: none !important;
+}
+
+html.a11y-active .site-header {
+    position: relative !important;
+    top: auto !important;
+}
+
+html.a11y-active .hero-section {
+    padding-top: 40px !important;
+}
+
 @media (max-width: 900px) {
-    .a11y-toggle-btn span {
-        display: none;
-    }
-    .a11y-toggle-btn {
-        padding: 8px 10px;
-    }
     .a11y-panel-inner {
         flex-direction: column;
         align-items: flex-start;
@@ -464,5 +499,23 @@ html.a11y-active #preloader {
     .a11y-groups-wrap {
         width: 100%;
         gap: 10px;
+    }
+    .top-utility-title .full-title {
+        display: none;
+    }
+    .top-utility-title .short-title {
+        display: inline;
+    }
+}
+
+@media (max-width: 520px) {
+    .top-utility-title {
+        font-size: 11px;
+    }
+    .a11y-toggle-btn span {
+        display: none;
+    }
+    .a11y-toggle-btn {
+        padding: 5px 10px;
     }
 }
