@@ -92,6 +92,7 @@ const newsData = {
             "assets/img/news/college_12965_1.webp",
             "assets/img/news/college_12965_2.webp",
             "assets/img/news/college_12965_3.webp",
+            "assets/img/news/college_12965_4.webp",
             "assets/img/news/college_12965_5.webp",
             "assets/img/news/college_12965_6.webp",
             "assets/img/news/college_12965_7.webp",
@@ -394,7 +395,8 @@ const newsData = {
         "images": [
             "assets/img/news/college_12642.webp",
             "assets/img/news/college_12642_1.webp",
-            "assets/img/news/college_12642_2.webp"
+            "assets/img/news/college_12642_2.webp",
+            "assets/img/news/college_12642_3.webp"
         ],
         "link": "https://t.me/pgatkk/12642",
         "date": "28.09.2026",
@@ -1815,7 +1817,8 @@ const newsData = {
             "assets/img/news/college_11060.webp",
             "assets/img/news/college_11060_1.webp",
             "assets/img/news/college_11060_2.webp",
-            "assets/img/news/college_11060_3.webp"
+            "assets/img/news/college_11060_3.webp",
+            "assets/img/news/college_11060_4.webp"
         ],
         "link": "https://t.me/pgatkk/11060",
         "date": "30.03.2026",
@@ -2458,7 +2461,8 @@ const newsData = {
             "assets/img/news/college_10462.webp",
             "assets/img/news/college_10462_1.webp",
             "assets/img/news/college_10462_2.webp",
-            "assets/img/news/college_10462_3.webp"
+            "assets/img/news/college_10462_3.webp",
+            "assets/img/news/college_10462_4.webp"
         ],
         "link": "https://t.me/pgatkk/10462",
         "date": "19.02.2026",
@@ -2846,6 +2850,7 @@ const newsData = {
         "images": [
             "assets/img/news/college_10163.webp",
             "assets/img/news/college_10163_1.webp",
+            "assets/img/news/college_10163_2.webp",
             "assets/img/news/college_10163_3.webp",
             "assets/img/news/college_10163_4.webp",
             "assets/img/news/college_10163_5.webp",
@@ -3023,6 +3028,7 @@ const newsData = {
         "image": "assets/img/news/college_10086.webp",
         "images": [
             "assets/img/news/college_10086.webp",
+            "assets/img/news/college_10086_1.webp",
             "assets/img/news/college_10086_2.webp"
         ],
         "link": "https://t.me/pgatkk/10086",
@@ -3387,6 +3393,7 @@ const newsData = {
         "image": "assets/img/news/college_9523.webp",
         "images": [
             "assets/img/news/college_9523.webp",
+            "assets/img/news/college_9523_1.webp",
             "assets/img/news/college_9523_2.webp",
             "assets/img/news/college_9523_3.webp",
             "assets/img/news/college_9523_4.webp",
@@ -3916,7 +3923,8 @@ const newsData = {
             "assets/img/news/college_8861_3.webp",
             "assets/img/news/college_8861_4.webp",
             "assets/img/news/college_8861_5.webp",
-            "assets/img/news/college_8861_6.webp"
+            "assets/img/news/college_8861_6.webp",
+            "assets/img/news/college_8861_7.webp"
         ],
         "link": "https://t.me/pgatkk/8861",
         "date": "26.09.2025",
@@ -4615,6 +4623,71 @@ const newsData = {
 ],
     city: [
     {
+        "id": "city_5354",
+        "category": "Патриотика",
+        "title": "В Пинске в рамках праздничного митинга состоялась торжественная ц...",
+        "text": "В Пинске в рамках праздничного митинга состоялась торжественная церемония преемственности поколений и награждения активистов 🇧🇾 По доброй тр...",
+        "full_text": "В Пинске в рамках праздничного митинга состоялась торжественная церемония преемственности поколений и награждения активистов\n\n🇧🇾\n\nПо доброй традиции в присутствии ветеранов и старших наставников\n\nряды пионерии пополнили пинские октябрята.\n\nПраздничную эстафету подхватил БРСМ:\n\nпервый секретарь городского комитета\n\nОльга Ильковец\n\nтепло поздравила новых членов молодежного союза и вручила заслуженные Благодарности областной организации наиболее отличившимся ребятам.\n\n#тркпинск",
+        "full_text_html": "<p><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>В Пинске в рамках праздничного митинга состоялась торжественная церемония преемственности поколений и награждения активистов</b> 🇧🇾</p>\n<p>По доброй традиции в присутствии ветеранов и старших наставников <u>ряды пионерии пополнили пинские октябрята. </u></p>\n<p>Праздничную эстафету подхватил БРСМ: <br/>первый секретарь городского комитета <b>Ольга Ильковец</b> тепло поздравила новых членов молодежного союза и вручила заслуженные Благодарности областной организации наиболее отличившимся ребятам.</p>\n<p><span class=\"tg-hashtag\">#тркпинск</span></div></p>",
+        "image": "assets/img/news/city_5354.webp",
+        "images": [
+            "assets/img/news/city_5354.webp",
+            "assets/img/news/city_5354_1.webp",
+            "assets/img/news/city_5354_2.webp",
+            "assets/img/news/city_5354_3.webp",
+            "assets/img/news/city_5354_4.webp",
+            "assets/img/news/city_5354_5.webp"
+        ],
+        "link": "https://t.me/pinskgk/5354",
+        "date": "07.11.2026",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24"
+    },
+    {
+        "id": "city_5344",
+        "category": "Спорт",
+        "title": "🏷 Эстафета символичных моментов продолжилась приемом в ряды общес...",
+        "text": "🏷 Эстафета символичных моментов продолжилась приемом в ряды общественных организаций и награждением активистов ⏩ Первый секретарь городского...",
+        "full_text": "🏷\n\nЭстафета символичных моментов продолжилась приемом в ряды общественных организаций и награждением активистов\n\n⏩\n\nПервый секретарь городского комитета ОО «Белорусский республиканский союз молодежи»\n\nОльга\n\nИльковец\n\nпоздравила\n\nвновь вступивших в общественное объединение, а также вручила Благодарность областной организации отличившимся.\n\nНаграды партийцам и общественникам за активную гражданскую позицию, инициативность также вручили\n\n✔️\n\nпредседатель Пинского городского Совета депутатов, лидер городского отделения Белорусской партии «Белая Русь»\n\nСергей Куницкий,\n\n✔️\n\nдепутат городского Совета депутатов, председатель городской организации Либерально-демократической партии Беларуси\n\nАлександр Ососков,\n\n✔️\n\nпредседатель городской организации ОО «Белорусский союз женщин»\n\nВалентина Кулак.\n\n✔️\n\nПредседатель городской организации РОО «Белая Русь»\n\nЛюдмила Былинская\n\nвручила членские билеты пополнившим ряды организации.\n\n@pinsk_newsPV\n\n📱\n\nЮтуб\n\n📱\n\nВК\n\n📱\n\nИНСТАГРАМ\n\n📱\n\nОК\n\n📱\n\nФЕЙСБУК\n\n📱\n\nТИК ТОК\n\nСайт\n\n🚀\n\nМАХ\n\nПрислать новость\n\n❗️\n\nПолная перепечатка текста и фотографий запрещена.\n\n⏩\n\nЧастичное цитирование разрешено при наличии гиперссылки\n\n@pinsk_newsPV\n\n📱\n\nЮтуб\n\n📱\n\nВК\n\n📱\n\nИНСТАГРАМ\n\n📱\n\nОК\n\n📱\n\nФЕЙСБУК\n\n📱\n\nТИК ТОК\n\nСайт\n\n🚀\n\nМАХ\n\nПрислать новость\n\n❗️\n\nПолная перепечатка текста и фотографий запрещена.\n\n⏩\n\nЧастичное цитирование разрешено при наличии гиперссылки",
+        "full_text_html": "<p><img alt=\"🏷\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5190484633099192289.webp\"/><b>Эстафета символичных моментов продолжилась приемом в ряды общественных организаций и награждением активистов</b></p>\n<p><img alt=\"⏩\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192759651506079601.webp\"/>Первый секретарь городского комитета ОО «Белорусский республиканский союз молодежи» <b>Ольга</b> <b>Ильковец</b> поздравила <b> </b>вновь вступивших в общественное объединение, а также вручила Благодарность областной организации отличившимся.</p>\n<p>Награды партийцам и общественникам за активную гражданскую позицию, инициативность также вручили<br/><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192994616281941813.webp\"/>председатель Пинского городского Совета депутатов, лидер городского отделения Белорусской партии «Белая Русь» <b>Сергей Куницкий,<br/></b><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192994616281941813.webp\"/>депутат городского Совета депутатов, председатель городской организации Либерально-демократической партии Беларуси <b>Александр Ососков,</b><br/><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192994616281941813.webp\"/>председатель городской организации ОО «Белорусский союз женщин» <b>Валентина Кулак. </b><br/><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192994616281941813.webp\"/>Председатель городской организации РОО «Белая Русь»<b> Людмила Былинская</b> вручила членские билеты пополнившим ряды организации.</p>\n<p><a href=\"https://t.me/pinsk_newsPV\" rel=\"noopener noreferrer\" target=\"_blank\">@pinsk_newsPV</a><br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334681713316479679.webp\"/></u><a href=\"https://youtube.com/channel/UC9A8yjl0khIrnl0RUFGM6Bw?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Ютуб</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334807822146225472.webp\"/></u><a href=\"https://ok.ru/profile/576335225561?utm_campaign=ios_share&amp;amp;utm_content=profile\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ВК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5319160079465857105.webp\"/></u><a href=\"https://www.instagram.com/pinskivesnik?igsh=MXhoMDlxZ3MyeXI1Zg%3D%3D&amp;amp;utm_source=qr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ИНСТАГРАМ</u></a> <br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5325865356638569272.webp\"/></u><a href=\"https://ok.ru/profile/576335225561\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ОК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5323261730283863478.webp\"/></u><a href=\"https://www.facebook.com/share/1AnRDDFQLN/?mibextid=wwXIfr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ФЕЙСБУК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5327982530702359565.webp\"/></u><a href=\"https://www.tiktok.com/@pinskivestnik?_r=1&amp;amp;_t=ZM-91f8pOwWYx6\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ТИК ТОК </u></a><a href=\"https://p-v.by/?ysclid=mn21w81zlk684771020\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Сайт</u></a> <u><img alt=\"🚀\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5190535309418331890.webp\"/></u><a href=\"https://max.ru/join/HKuliTUBPWlNt8wfn1kCqOKMLtiB3WGMoyK7MF2N0Bg\" rel=\"noopener noreferrer\" target=\"_blank\"><u>МАХ</u></a><br/><a href=\"https://t.me/PinskNews_bot\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Прислать новость</u></a></p>\n<p><b><img alt=\"❗️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192666390586214530.webp\"/></b><b>Полная перепечатка текста и фотографий запрещена.<br/> </b><b><img alt=\"⏩\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192759651506079601.webp\"/></b><b>Частичное цитирование разрешено при наличии гиперссылки</b>@pinsk_newsPV<br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334681713316479679.webp\"/></u><a href=\"https://youtube.com/channel/UC9A8yjl0khIrnl0RUFGM6Bw?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Ютуб</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334807822146225472.webp\"/></u><a href=\"https://ok.ru/profile/576335225561?utm_campaign=ios_share&amp;amp;utm_content=profile\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ВК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5319160079465857105.webp\"/></u><a href=\"https://www.instagram.com/pinskivesnik?igsh=MXhoMDlxZ3MyeXI1Zg%3D%3D&amp;amp;utm_source=qr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ИНСТАГРАМ</u></a> <br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5325865356638569272.webp\"/></u><a href=\"https://ok.ru/profile/576335225561\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ОК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5323261730283863478.webp\"/></u><a href=\"https://www.facebook.com/share/1AnRDDFQLN/?mibextid=wwXIfr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ФЕЙСБУК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5327982530702359565.webp\"/></u><a href=\"https://www.tiktok.com/@pinskivestnik?_r=1&amp;amp;_t=ZM-91f8pOwWYx6\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ТИК ТОК </u></a><a href=\"https://p-v.by/?ysclid=mn21w81zlk684771020\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Сайт</u></a> <u><img alt=\"🚀\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5190535309418331890.webp\"/></u><a href=\"https://max.ru/join/HKuliTUBPWlNt8wfn1kCqOKMLtiB3WGMoyK7MF2N0Bg\" rel=\"noopener noreferrer\" target=\"_blank\"><u>МАХ</u></a><br/><a href=\"https://t.me/PinskNews_bot\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Прислать новость</u></a></p>\n<p><b><img alt=\"❗️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192666390586214530.webp\"/></b><b>Полная перепечатка текста и фотографий запрещена.<br/> </b><b><img alt=\"⏩\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192759651506079601.webp\"/></b><b>Частичное цитирование разрешено при наличии гиперссылки</b></p>",
+        "image": "assets/img/news/city_5344_1.webp",
+        "images": [
+            "assets/img/news/city_5344_1.webp",
+            "assets/img/news/city_5344_2.webp",
+            "assets/img/news/city_5344_3.webp",
+            "assets/img/news/city_5344_4.webp",
+            "assets/img/news/city_5344_5.webp",
+            "assets/img/news/city_5344_6.webp",
+            "assets/img/news/city_5344_7.webp",
+            "assets/img/news/city_5344_8.webp",
+            "assets/img/news/city_5344_9.webp"
+        ],
+        "link": "https://t.me/pinskgk/5344",
+        "date": "07.11.2026",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24"
+    },
+    {
+        "id": "city_5339",
+        "category": "Патриотика",
+        "title": "🇧🇾 В единстве — наша сила, в истории — наша память! Сегодня в Пин...",
+        "text": "🇧🇾 В единстве — наша сила, в истории — наша память! Сегодня в Пинске состоялся торжественный митинг, приуроченный ко Дню Октябрьской революц...",
+        "full_text": "🇧🇾\n\nВ единстве — наша сила, в истории — наша память!\n\nСегодня в Пинске состоялся торжественный митинг, приуроченный ко Дню Октябрьской революции.\n\nМероприятие стало поводом вспомнить важные страницы истории, обратиться к историческому наследию и подчеркнуть значимость сохранения традиций и преемственности поколений.\n\nОсобой частью митинга стало торжественное вручение смарт-билетов БРСМ учащимся. Первый секретарь Пинского городского комитета ОО БРСМ\n\nОльга Владимировна Ильковец\n\nвручила ребятам смарт-билеты, а также состоялась церемония вручения благодарностей.\n\nПусть стремление созидать, быть инициативными и вносить свой вклад в развитие родного города всегда объединяет молодое поколение!\n\n#Пинск\n\n#БРСМ\n\n#7ноября",
+        "full_text_html": "<p><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">🇧🇾 <b>В единстве — наша сила, в истории — наша память!</b></p>\n<p>Сегодня в Пинске состоялся торжественный митинг, приуроченный ко Дню Октябрьской революции.</p>\n<p>Мероприятие стало поводом вспомнить важные страницы истории, обратиться к историческому наследию и подчеркнуть значимость сохранения традиций и преемственности поколений.</p>\n<p>Особой частью митинга стало торжественное вручение смарт-билетов БРСМ учащимся. Первый секретарь Пинского городского комитета ОО БРСМ <b>Ольга Владимировна Ильковец</b> вручила ребятам смарт-билеты, а также состоялась церемония вручения благодарностей.</p>\n<p>Пусть стремление созидать, быть инициативными и вносить свой вклад в развитие родного города всегда объединяет молодое поколение! <br/><span class=\"tg-hashtag\">#Пинск</span> <span class=\"tg-hashtag\">#БРСМ</span> <span class=\"tg-hashtag\">#7ноября</span></div></p>",
+        "image": "assets/img/news/city_5339.webp",
+        "images": [
+            "assets/img/news/city_5339.webp",
+            "assets/img/news/city_5339_1.webp",
+            "assets/img/news/city_5339_2.webp",
+            "assets/img/news/city_5339_3.webp",
+            "assets/img/news/city_5339_4.webp"
+        ],
+        "link": "https://t.me/pinskgk/5339",
+        "date": "07.11.2026",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24"
+    },
+    {
         "id": "city_5334",
         "category": "МООП",
         "title": "🚦 Сегодня в Пинске прошла профилактическая акция «Будь ярким ! Ст...",
@@ -4678,6 +4751,7 @@ const newsData = {
         "image": "assets/img/news/city_5315.webp",
         "images": [
             "assets/img/news/city_5315.webp",
+            "assets/img/news/city_5315_1.webp",
             "assets/img/news/city_5315_2.webp",
             "assets/img/news/city_5315_3.webp",
             "assets/img/news/city_5315_4.webp"
@@ -4764,6 +4838,7 @@ const newsData = {
         "image": "assets/img/news/city_5237.webp",
         "images": [
             "assets/img/news/city_5237.webp",
+            "assets/img/news/city_5237_1.webp",
             "assets/img/news/city_5237_2.webp",
             "assets/img/news/city_5237_3.webp",
             "assets/img/news/city_5237_4.webp",
@@ -4813,6 +4888,7 @@ const newsData = {
         "image": "assets/img/news/city_5217.webp",
         "images": [
             "assets/img/news/city_5217.webp",
+            "assets/img/news/city_5217_1.webp",
             "assets/img/news/city_5217_2.webp",
             "assets/img/news/city_5217_3.webp",
             "assets/img/news/city_5217_4.webp",
@@ -5258,6 +5334,7 @@ const newsData = {
             "assets/img/news/city_5108_4.webp",
             "assets/img/news/city_5108_5.webp",
             "assets/img/news/city_5108_6.webp",
+            "assets/img/news/city_5108_7.webp",
             "assets/img/news/city_5108_8.webp"
         ],
         "link": "https://t.me/pinskgk/5108",
@@ -5359,6 +5436,7 @@ const newsData = {
             "assets/img/news/city_5071.webp",
             "assets/img/news/city_5071_1.webp",
             "assets/img/news/city_5071_2.webp",
+            "assets/img/news/city_5071_3.webp",
             "assets/img/news/city_5071_4.webp",
             "assets/img/news/city_5071_5.webp"
         ],
@@ -5443,8 +5521,9 @@ const newsData = {
         "text": "🏷 На базе ГУ «ТЦСОН г. Пинска» состоялся праздничный концерт, посвящённый Дню пожилых людей. ✔️ Учащиеся УО «Пинский государственный колледж...",
         "full_text": "🏷\n\nНа базе ГУ «ТЦСОН г. Пинска» состоялся праздничный концерт, посвящённый Дню пожилых людей.\n\n✔️\n\nУчащиеся УО «Пинский государственный колледж искусств» подарили присутствующим яркие эмоции и незабываемые впечатления.\n\n⏩\n\nВ завершение праздника Пинский городской комитет ОО «БРСМ» вручил пожилым людям фирменные пряники.\n\n@pinsk_newsPV\n\n📱\n\nЮтуб\n\n📱\n\nВК\n\n📱\n\nИНСТАГРАМ\n\n📱\n\nОК\n\n📱\n\nФЕЙСБУК\n\n📱\n\nТИК ТОК\n\nСайт\n\n🚀\n\nМАХ\n\nПрислать новость",
         "full_text_html": "<p><img alt=\"🏷\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5190484633099192289.webp\"/>На базе ГУ «ТЦСОН г. Пинска» состоялся праздничный концерт, посвящённый Дню пожилых людей.</p>\n<p><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5193082916514583284.webp\"/>Учащиеся УО «Пинский государственный колледж искусств» подарили присутствующим яркие эмоции и незабываемые впечатления.</p>\n<p><img alt=\"⏩\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192759651506079601.webp\"/>В завершение праздника Пинский городской комитет ОО «БРСМ» вручил пожилым людям фирменные пряники.</p>\n<p><a href=\"https://t.me/pinsk_newsPV\" rel=\"noopener noreferrer\" target=\"_blank\">@pinsk_newsPV</a><br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334681713316479679.webp\"/></u><a href=\"https://youtube.com/channel/UC9A8yjl0khIrnl0RUFGM6Bw?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Ютуб</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334807822146225472.webp\"/></u><a href=\"https://ok.ru/profile/576335225561?utm_campaign=ios_share&amp;amp;utm_content=profile\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ВК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5319160079465857105.webp\"/></u><a href=\"https://www.instagram.com/pinskivesnik?igsh=MXhoMDlxZ3MyeXI1Zg%3D%3D&amp;amp;utm_source=qr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ИНСТАГРАМ</u></a> <br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5325865356638569272.webp\"/></u><a href=\"https://ok.ru/profile/576335225561\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ОК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5323261730283863478.webp\"/></u><a href=\"https://www.facebook.com/share/1AnRDDFQLN/?mibextid=wwXIfr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ФЕЙСБУК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5327982530702359565.webp\"/></u><a href=\"https://www.tiktok.com/@pinskivestnik?_r=1&amp;amp;_t=ZM-91f8pOwWYx6\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ТИК ТОК </u></a><a href=\"https://p-v.by/?ysclid=mn21w81zlk684771020\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Сайт</u></a> <u><img alt=\"🚀\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5190535309418331890.webp\"/></u><a href=\"https://max.ru/join/HKuliTUBPWlNt8wfn1kCqOKMLtiB3WGMoyK7MF2N0Bg\" rel=\"noopener noreferrer\" target=\"_blank\"><u>МАХ</u></a><br/><a href=\"https://t.me/PinskNews_bot\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Прислать новость</u></a></p>",
-        "image": "assets/img/news/city_5053_1.webp",
+        "image": "assets/img/news/city_5053.webp",
         "images": [
+            "assets/img/news/city_5053.webp",
             "assets/img/news/city_5053_1.webp",
             "assets/img/news/city_5053_2.webp",
             "assets/img/news/city_5053_3.webp",
@@ -5749,8 +5828,9 @@ const newsData = {
         "text": "🍎 Инициативные — значит неравнодушные! В Пинске стартовал «Яблоневый десант» в помощь пенсионерам 19.09.2026 инициативная молодёжь города Пи...",
         "full_text": "🍎\n\nИнициативные — значит неравнодушные! В Пинске стартовал «Яблоневый десант» в помощь пенсионерам\n\n19.09.2026 инициативная молодёжь города Пинска дала старт акции «Яблоневый десант», приуроченной к помощи нашим дорогим пенсионерам!\n\n🌳\n\nЭто не просто сбор урожая. Это реальная забота о старшем поколении, которое нуждается в нашей поддержке.\n\n#БРСМ\n\n#Пинск\n\n#МолодёжьПинск",
         "full_text_html": "<p><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">🍎 Инициативные — значит неравнодушные! В Пинске стартовал «Яблоневый десант» в помощь пенсионерам</p>\n<p>19.09.2026 инициативная молодёжь города Пинска дала старт акции «Яблоневый десант», приуроченной к помощи нашим дорогим пенсионерам! 🌳 Это не просто сбор урожая. Это реальная забота о старшем поколении, которое нуждается в нашей поддержке.<br/><span class=\"tg-hashtag\">#БРСМ</span> <span class=\"tg-hashtag\">#Пинск</span> <span class=\"tg-hashtag\">#МолодёжьПинск</span></div></p>",
-        "image": "assets/img/news/city_4990_1.webp",
+        "image": "assets/img/news/city_4990.webp",
         "images": [
+            "assets/img/news/city_4990.webp",
             "assets/img/news/city_4990_1.webp",
             "assets/img/news/city_4990_2.webp",
             "assets/img/news/city_4990_3.webp"
@@ -6005,7 +6085,8 @@ const newsData = {
             "assets/img/news/city_4901_5.webp",
             "assets/img/news/city_4901_6.webp",
             "assets/img/news/city_4901_7.webp",
-            "assets/img/news/city_4901_8.webp"
+            "assets/img/news/city_4901_8.webp",
+            "assets/img/news/city_4901_9.webp"
         ],
         "link": "https://t.me/pinskgk/4901",
         "date": "10.09.2026",
@@ -6092,6 +6173,7 @@ const newsData = {
             "assets/img/news/city_4871_3.webp",
             "assets/img/news/city_4871_4.webp",
             "assets/img/news/city_4871_5.webp",
+            "assets/img/news/city_4871_6.webp",
             "assets/img/news/city_4871_7.webp",
             "assets/img/news/city_4871_8.webp",
             "assets/img/news/city_4871_9.webp"
@@ -6425,7 +6507,8 @@ const newsData = {
             "assets/img/news/city_4735_1.webp",
             "assets/img/news/city_4735_2.webp",
             "assets/img/news/city_4735_3.webp",
-            "assets/img/news/city_4735_4.webp"
+            "assets/img/news/city_4735_4.webp",
+            "assets/img/news/city_4735_5.webp"
         ],
         "link": "https://t.me/pinskgk/4735",
         "date": "30.08.2026",
@@ -6824,6 +6907,7 @@ const newsData = {
             "assets/img/news/city_4622_2.webp",
             "assets/img/news/city_4622_3.webp",
             "assets/img/news/city_4622_4.webp",
+            "assets/img/news/city_4622_5.webp",
             "assets/img/news/city_4622_6.webp"
         ],
         "link": "https://t.me/pinskgk/4622",
@@ -7113,6 +7197,7 @@ const newsData = {
         "images": [
             "assets/img/news/city_4548.webp",
             "assets/img/news/city_4548_1.webp",
+            "assets/img/news/city_4548_2.webp",
             "assets/img/news/city_4548_3.webp"
         ],
         "link": "https://t.me/pinskgk/4548",
@@ -7849,7 +7934,8 @@ const newsData = {
             "assets/img/news/city_4310_5.webp",
             "assets/img/news/city_4310_6.webp",
             "assets/img/news/city_4310_7.webp",
-            "assets/img/news/city_4310_8.webp"
+            "assets/img/news/city_4310_8.webp",
+            "assets/img/news/city_4310_9.webp"
         ],
         "link": "https://t.me/pinskgk/4310",
         "date": "23.06.2026",
@@ -9043,6 +9129,7 @@ const newsData = {
             "assets/img/news/city_3929_2.webp",
             "assets/img/news/city_3929_3.webp",
             "assets/img/news/city_3929_4.webp",
+            "assets/img/news/city_3929_5.webp",
             "assets/img/news/city_3929_6.webp"
         ],
         "link": "https://t.me/pinskgk/3929",
@@ -10226,7 +10313,8 @@ const newsData = {
             "assets/img/news/city_3440_1.webp",
             "assets/img/news/city_3440_2.webp",
             "assets/img/news/city_3440_3.webp",
-            "assets/img/news/city_3440_4.webp"
+            "assets/img/news/city_3440_4.webp",
+            "assets/img/news/city_3440_5.webp"
         ],
         "link": "https://t.me/pinskgk/3440",
         "date": "16.04.2026",
@@ -10780,6 +10868,7 @@ const newsData = {
             "assets/img/news/city_3283_1.webp",
             "assets/img/news/city_3283_2.webp",
             "assets/img/news/city_3283_3.webp",
+            "assets/img/news/city_3283_4.webp",
             "assets/img/news/city_3283_5.webp",
             "assets/img/news/city_3283_6.webp",
             "assets/img/news/city_3283_7.webp"
@@ -10858,6 +10947,7 @@ const newsData = {
         "image": "assets/img/news/city_3266.webp",
         "images": [
             "assets/img/news/city_3266.webp",
+            "assets/img/news/city_3266_1.webp",
             "assets/img/news/city_3266_2.webp"
         ],
         "link": "https://t.me/pinskgk/3266",
@@ -10919,7 +11009,8 @@ const newsData = {
         "image": "assets/img/news/city_3249.webp",
         "images": [
             "assets/img/news/city_3249.webp",
-            "assets/img/news/city_3249_1.webp"
+            "assets/img/news/city_3249_1.webp",
+            "assets/img/news/city_3249_2.webp"
         ],
         "link": "https://t.me/pinskgk/3249",
         "date": "27.03.2026",
@@ -11156,7 +11247,8 @@ const newsData = {
             "assets/img/news/city_3165.webp",
             "assets/img/news/city_3165_1.webp",
             "assets/img/news/city_3165_2.webp",
-            "assets/img/news/city_3165_3.webp"
+            "assets/img/news/city_3165_3.webp",
+            "assets/img/news/city_3165_4.webp"
         ],
         "link": "https://t.me/pinskgk/3165",
         "date": "20.03.2026",
@@ -11504,6 +11596,7 @@ const newsData = {
             "assets/img/news/city_3031.webp",
             "assets/img/news/city_3031_1.webp",
             "assets/img/news/city_3031_2.webp",
+            "assets/img/news/city_3031_3.webp",
             "assets/img/news/city_3031_4.webp"
         ],
         "link": "https://t.me/pinskgk/3031",
@@ -11951,6 +12044,7 @@ const newsData = {
         "images": [
             "assets/img/news/city_2875.webp",
             "assets/img/news/city_2875_1.webp",
+            "assets/img/news/city_2875_2.webp",
             "assets/img/news/city_2875_3.webp",
             "assets/img/news/city_2875_4.webp"
         ],
@@ -12049,7 +12143,8 @@ const newsData = {
             "assets/img/news/city_2847_3.webp",
             "assets/img/news/city_2847_4.webp",
             "assets/img/news/city_2847_5.webp",
-            "assets/img/news/city_2847_6.webp"
+            "assets/img/news/city_2847_6.webp",
+            "assets/img/news/city_2847_7.webp"
         ],
         "link": "https://t.me/pinskgk/2847",
         "date": "25.02.2026",
@@ -12063,8 +12158,9 @@ const newsData = {
         "text": "✔️ Бойцы МООП «Бастион» ПолесГУ, принимавшие участие в VII международных учебно-тренировочных сборах в г. Пенза, поделились впечатлениями со...",
         "full_text": "✔️\n\nБойцы МООП «Бастион» ПолесГУ, принимавшие участие в VII международных учебно-тренировочных сборах\n\nв г. Пенза, поделились впечатлениями со студентами Полесского государственного университета.\n\n👉\n\nподробнее на\n\nсайте\n\n________________________\n\n😊\n\nПолесГУ | POLESSU\n\n📱\n\nInst\n\n📱\n\nТТ\n\n📱\n\nТG\n\n📱\n\nVK\n\n📱\n\nYT",
         "full_text_html": "<blockquote class=\"tg-blockquote\"><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5188216731453103384.webp\"/> <b>Бойцы МООП «Бастион» ПолесГУ, принимавшие участие в VII международных учебно-тренировочных сборах</b> <b>в г. Пенза, поделились впечатлениями со студентами Полесского государственного университета.</b></blockquote>\n<p><img alt=\"👉\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5471978009449731768.webp\"/> подробнее на<a href=\"https://www.polessu.by/%D0%B1%D0%BE%D0%B9%D1%86%D1%8B-%D0%BC%D0%BE%D0%BE%D0%BF-%D0%B1%D0%B0%D1%81%D1%82%D0%B8%D0%BE%D0%BD-%D0%BF%D0%BE%D0%BB%D0%B5%D1%81%D0%B3%D1%83-%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C-%D0%B2%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8-%D0%BE%D0%B1-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B8-%D0%B2-vii-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE\" rel=\"noopener noreferrer\" target=\"_blank\"> <b>сайте</b></a></p>\n<p><b>________________________</b><br/><img alt=\"😊\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5226772648574344358.webp\"/><b> </b><a href=\"https://www.polessu.by/\" rel=\"noopener noreferrer\" target=\"_blank\"><b>ПолесГУ | POLESSU</b></a><b></p>\n<p></b><b><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5319160079465857105.webp\"/></b><a href=\"https://www.instagram.com/polessu_official?igsh=dzVobmY1cmhiemRy\" rel=\"noopener noreferrer\" target=\"_blank\"><b>Inst </b></a><b><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5327982530702359565.webp\"/></b><a href=\"https://www.tiktok.com/@polessu_official?_r=1\" rel=\"noopener noreferrer\" target=\"_blank\"><b>ТТ</b></a><a href=\"https://t.me/polessu_official\" rel=\"noopener noreferrer\" target=\"_blank\"><b> </b></a><b><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5330237710655306682.webp\"/></b><a href=\"https://t.me/polessu_official\" rel=\"noopener noreferrer\" target=\"_blank\"><b>ТG</b></a><b> </b><b><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334853932915114338.webp\"/></b><a href=\"https://vk.ru/bypolessu\" rel=\"noopener noreferrer\" target=\"_blank\"><b>VK </b></a><b><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334681713316479679.webp\"/></b><a href=\"https://m.youtube.com/channel/UCSIEZ8h5jpApMUTa707UbaA\" rel=\"noopener noreferrer\" target=\"_blank\"><b>YT</b></a></p>",
-        "image": "assets/img/news/city_2844_1.webp",
+        "image": "assets/img/news/city_2844.webp",
         "images": [
+            "assets/img/news/city_2844.webp",
             "assets/img/news/city_2844_1.webp",
             "assets/img/news/city_2844_2.webp"
         ],
@@ -13736,6 +13832,7 @@ const newsData = {
         "images": [
             "assets/img/news/city_2319.webp",
             "assets/img/news/city_2319_1.webp",
+            "assets/img/news/city_2319_2.webp",
             "assets/img/news/city_2319_3.webp",
             "assets/img/news/city_2319_4.webp",
             "assets/img/news/city_2319_5.webp"
@@ -13803,7 +13900,9 @@ const newsData = {
             "assets/img/news/city_2294_4.webp",
             "assets/img/news/city_2294_5.webp",
             "assets/img/news/city_2294_6.webp",
-            "assets/img/news/city_2294_8.webp"
+            "assets/img/news/city_2294_7.webp",
+            "assets/img/news/city_2294_8.webp",
+            "assets/img/news/city_2294_9.webp"
         ],
         "link": "https://t.me/pinskgk/2294",
         "date": "09.01.2026",
@@ -13885,9 +13984,9 @@ const newsData = {
         "text": "✨ Благотворительная акция \"Цепочка добра\" 6 января в рамках благотворительной акции #ЦепочкаДобра волонтеры отряда \"Доброе сердце\" ПО ОО \"БР...",
         "full_text": "✨\n\nБлаготворительная акция \"Цепочка добра\"\n\n6 января в рамках благотворительной акции\n\n#ЦепочкаДобра\n\nволонтеры отряда \"Доброе сердце\" ПО ОО \"БРСМ\" ГУО \"Средняя школа №10 г.Пинска\" устроили\n\n#ВизитДобра\n\nи посетили одиноко проживающую\n\nЛевошко Валентину Эдуардовну.\n\n🌲\n\nЧашка чая, душевный разговор и искренняя улыбка - иногда это значит больше, чем любые слова. Такие встречи и есть настоящий смысл праздников: быть рядом, дарить заботу и помнить о тех, кто особенно в ней нуждается.\n\n#цепочкадобра_Беларусь\n\n#\n\nВизитДобра\n\n#ДоброеСердце\n\n#БРСМ\n\n#ВолонтерыПинск",
         "full_text_html": "<p>✨Благотворительная акция \"Цепочка добра\"</p>\n<p>6 января в рамках благотворительной акции <a href=\"https://vk.com/feed?q=%23%D0%A6%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%94%D0%BE%D0%B1%D1%80%D0%B0&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#ЦепочкаДобра</u></a> волонтеры отряда \"Доброе сердце\" ПО ОО \"БРСМ\" ГУО \"Средняя школа №10 г.Пинска\" устроили <a href=\"https://vk.com/feed?q=%23%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%94%D0%BE%D0%B1%D1%80%D0%B0&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#ВизитДобра</u></a> и посетили одиноко проживающую <i>Левошко Валентину Эдуардовну.</i></p>\n<p>🌲Чашка чая, душевный разговор и искренняя улыбка - иногда это значит больше, чем любые слова. Такие встречи и есть настоящий смысл праздников: быть рядом, дарить заботу и помнить о тех, кто особенно в ней нуждается.</p>\n<p><a href=\"https://vk.com/feed?q=%23%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%B4%D0%BE%D0%B1%D1%80%D0%B0_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#цепочкадобра_Беларусь</u></a> <a href=\"https://vk.com/feed?q=%23%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B5%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#</u></a>ВизитДобра <a href=\"https://vk.com/feed?q=%23%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B5%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#ДоброеСердце</u></a> <a href=\"https://vk.com/feed?q=%23%D0%91%D0%A0%D0%A1%D0%9C&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#БРСМ</u></a> <a href=\"https://vk.com/feed?q=%23%D0%92%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80%D1%8B%D0%9F%D0%B8%D0%BD%D1%81%D0%BA&amp;amp;section=search\" rel=\"noopener noreferrer\" target=\"_blank\"><u>#ВолонтерыПинск</u></a></p>",
-        "image": "assets/img/news/placeholder.webp",
+        "image": "assets/img/news/city_2272.webp",
         "images": [
-            "assets/img/news/placeholder.webp"
+            "assets/img/news/city_2272.webp"
         ],
         "link": "https://t.me/pinskgk/2272",
         "date": "09.01.2026",
@@ -14731,6 +14830,7 @@ const newsData = {
         "images": [
             "assets/img/news/city_2053.webp",
             "assets/img/news/city_2053_1.webp",
+            "assets/img/news/city_2053_2.webp",
             "assets/img/news/city_2053_3.webp",
             "assets/img/news/city_2053_4.webp",
             "assets/img/news/city_2053_5.webp",
@@ -14830,8 +14930,9 @@ const newsData = {
         "text": "Торжественное вручение молодежных билетов в Пинском погранотряде Вчера, 9 декабря учащиеся средней школы №18 посетили Пинский пограничный от...",
         "full_text": "Торжественное вручение молодежных билетов в Пинском погранотряде\n\nВчера, 9 декабря учащиеся средней школы №18 посетили Пинский пограничный отряд. Ребята познакомились с бытом и повседневной жизнью пограничников, а также побывали в комнате истории воинской части.\n\nЗавершением экскурсии стало торжественное принятие школьников в ряды Белорусского республиканского союза молодежи. Пограничники вместе с представителем Пинского городского комитета ОО «БРСМ» вручили ребятам молодежные билеты.\n\nЭтот шаг стал символом активной жизненной позиции молодых людей и открыл перед ними новые возможности для самореализации, творчества, волонтёрства и карьерного роста.",
         "full_text_html": "<p><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>Торжественное вручение молодежных билетов в Пинском погранотряде</b></p>\n<p>Вчера, 9 декабря учащиеся средней школы №18 посетили Пинский пограничный отряд. Ребята познакомились с бытом и повседневной жизнью пограничников, а также побывали в комнате истории воинской части.</p>\n<p>Завершением экскурсии стало торжественное принятие школьников в ряды Белорусского республиканского союза молодежи. Пограничники вместе с представителем Пинского городского комитета ОО «БРСМ» вручили ребятам молодежные билеты.</p>\n<p>Этот шаг стал символом активной жизненной позиции молодых людей и открыл перед ними новые возможности для самореализации, творчества, волонтёрства и карьерного роста.</div></p>",
-        "image": "assets/img/news/city_2025_1.webp",
+        "image": "assets/img/news/city_2025.webp",
         "images": [
+            "assets/img/news/city_2025.webp",
             "assets/img/news/city_2025_1.webp",
             "assets/img/news/city_2025_2.webp",
             "assets/img/news/city_2025_3.webp",
@@ -15151,6 +15252,7 @@ const newsData = {
             "assets/img/news/city_1840_5.webp",
             "assets/img/news/city_1840_6.webp",
             "assets/img/news/city_1840_7.webp",
+            "assets/img/news/city_1840_8.webp",
             "assets/img/news/city_1840_9.webp"
         ],
         "link": "https://t.me/pinskgk/1840",
@@ -15403,6 +15505,7 @@ const newsData = {
             "assets/img/news/city_1756.webp",
             "assets/img/news/city_1756_1.webp",
             "assets/img/news/city_1756_2.webp",
+            "assets/img/news/city_1756_3.webp",
             "assets/img/news/city_1756_4.webp",
             "assets/img/news/city_1756_5.webp",
             "assets/img/news/city_1756_6.webp",
@@ -15757,7 +15860,8 @@ const newsData = {
             "assets/img/news/city_1580_1.webp",
             "assets/img/news/city_1580_2.webp",
             "assets/img/news/city_1580_3.webp",
-            "assets/img/news/city_1580_4.webp"
+            "assets/img/news/city_1580_4.webp",
+            "assets/img/news/city_1580_5.webp"
         ],
         "link": "https://t.me/pinskgk/1580",
         "date": "23.10.2025",
@@ -15977,6 +16081,7 @@ const newsData = {
         "image": "assets/img/news/city_1478.webp",
         "images": [
             "assets/img/news/city_1478.webp",
+            "assets/img/news/city_1478_1.webp",
             "assets/img/news/city_1478_2.webp",
             "assets/img/news/city_1478_3.webp",
             "assets/img/news/city_1478_4.webp"
@@ -16030,6 +16135,7 @@ const newsData = {
         "image": "assets/img/news/city_1439.webp",
         "images": [
             "assets/img/news/city_1439.webp",
+            "assets/img/news/city_1439_1.webp",
             "assets/img/news/city_1439_2.webp",
             "assets/img/news/city_1439_3.webp",
             "assets/img/news/city_1439_4.webp",
