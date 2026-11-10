@@ -4624,6 +4624,22 @@ const newsData = {
 ],
     city: [
     {
+        "id": "city_5361",
+        "category": "Доброе Сердце",
+        "title": "🧡 Республиканский конкурс «СТЕНЫ ДОБРА» 🟠 Это масштабный конкурс ...",
+        "text": "🧡 Республиканский конкурс «СТЕНЫ ДОБРА» 🟠 Это масштабный конкурс художественных эскизов. Лучшие рисунки участников будут нанесены на стены в...",
+        "full_text": "🧡\n\nРеспубликанский конкурс «СТЕНЫ ДОБРА»\n\n🟠\n\nЭто масштабный конкурс художественных эскизов. Лучшие рисунки участников будут нанесены на стены в детских поликлиниках, больницах и детских садах по всей Беларуси, чтобы подарить малышам радость, уют и поддержку!\n\n👥\n\nКТО МОЖЕТ УЧАСТВОВАТЬ?\n\n🟠\n\nЧлены БРСМ и волонтёры движения «Доброе Сердце» (от 14 до 31 года);\n\n🟠\n\nМолодые художники, дизайнеры, студенты и выпускники творческих ВУЗов/колледжей;\n\n🟠\n\nТворческие команды и коллективы\n\n(без ограничений по возрасту)\n\n.\n\n📌\n\nУчаствовать можно индивидуально или командой. Один автор/команда может подать до 3-х эскизов.\n\n🗓\n\nЭТАПЫ И СРОКИ:\n\n➡️\n\nОбластной этап:\n\n1 – 20 ноября\n\n— определение лучших эскизов области.\n\n➡️\n\nРеспубликанский финал:\n\n4 – 5 декабря\n\n— объявление финалистов!\n\n📌\n\nГлавный приз:\n\nтвой рисунок украсит стены детской больницы или садика!\n\n📌\n\nДипломы и ценные подарки от БРСМ и министерств-партнёров;\n\n📌\n\nУчастие в республиканской выставке и публикация работ в СМИ.\n\n📥\n\nКАК ПОДАТЬ ЗАЯВКУ?\n\nОтправь на электронную почту\n\nkonkursbrsm@yandex.by\n\n:\n\n1. Анкету-заявку;\n\n2. Согласие на обработку персональных данных;\n\n3. Свой готовый эскиз.",
+        "full_text_html": "<p><img alt=\"🧡\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5445403680989813470.webp\"/><b> Республиканский конкурс «СТЕНЫ ДОБРА»</b></p>\n<p><img alt=\"🟠\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5215227072108048390.webp\"/> <i>Это масштабный конкурс художественных эскизов. Лучшие рисунки участников будут нанесены на стены в детских поликлиниках, больницах и детских садах по всей Беларуси, чтобы подарить малышам радость, уют и поддержку!</i></p>\n<p><img alt=\"👥\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5258513401784573443.webp\"/> <b>КТО МОЖЕТ УЧАСТВОВАТЬ?</b><br/><blockquote class=\"tg-blockquote\"><img alt=\"🟠\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5336936725765700868.webp\"/> Члены БРСМ и волонтёры движения «Доброе Сердце» (от 14 до 31 года);<br/><img alt=\"🟠\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5336936725765700868.webp\"/> Молодые художники, дизайнеры, студенты и выпускники творческих ВУЗов/колледжей;<br/><img alt=\"🟠\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5336936725765700868.webp\"/> Творческие команды и коллективы <i>(без ограничений по возрасту)</i>.</blockquote><br/><blockquote class=\"tg-blockquote\"><img alt=\"📌\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5258461531464539536.webp\"/></blockquote><blockquote class=\"tg-blockquote\"><b><i>Участвовать можно индивидуально или командой. Один автор/команда может подать до 3-х эскизов.</i></b></blockquote></p>\n<p><img alt=\"🗓\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5258105663359294787.webp\"/> <b>ЭТАПЫ И СРОКИ:</b><br/><img alt=\"➡️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5433680387366728122.webp\"/> <b><i>Областной этап: </i></b><code>1 – 20 ноября</code><b><i> — определение лучших эскизов области.</i></b><br/><img alt=\"➡️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5433680387366728122.webp\"/><i> <b>Республиканский финал: </b></i><code>4 – 5 декабря</code><b><i> — объявление финалистов!</i></b></p>\n<blockquote class=\"tg-blockquote\"><img alt=\"📌\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5258461531464539536.webp\"/></blockquote><blockquote class=\"tg-blockquote\"><b><i>Главный приз:</i></b></blockquote><blockquote class=\"tg-blockquote\"><i> твой рисунок украсит стены детской больницы или садика!</i></blockquote><blockquote class=\"tg-blockquote\"><br/></blockquote><blockquote class=\"tg-blockquote\"><img alt=\"📌\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5258461531464539536.webp\"/></blockquote><blockquote class=\"tg-blockquote\"><i>Дипломы и ценные подарки от БРСМ и министерств-партнёров;</i></blockquote><blockquote class=\"tg-blockquote\"><br/></blockquote><blockquote class=\"tg-blockquote\"><img alt=\"📌\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5258461531464539536.webp\"/></blockquote><blockquote class=\"tg-blockquote\"><i>Участие в республиканской выставке и публикация работ в СМИ.</i></blockquote>\n<p><img alt=\"📥\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5433811242135331842.webp\"/> <b>КАК ПОДАТЬ ЗАЯВКУ?</b><br/><i>Отправь на электронную почту </i><i>konkursbrsm@yandex.by</i><i>:</i></p>\n<p><a href=\"https://drive.google.com/file/d/1iNRFPiWg3dpfgOpJ0RPUu4WfKlLN1vVq/view?usp=drivesdk\" rel=\"noopener noreferrer\" target=\"_blank\"><i>1. Анкету-заявку;</i></a><br/><a href=\"https://drive.google.com/file/d/1iNRFPiWg3dpfgOpJ0RPUu4WfKlLN1vVq/view?usp=drivesdk\" rel=\"noopener noreferrer\" target=\"_blank\"><i>2. Согласие на обработку персональных данных;</i></a><br/><i>3. Свой готовый эскиз.</i></p>",
+        "image": "assets/img/news/city_5361.webp",
+        "images": [
+            "assets/img/news/city_5361.webp"
+        ],
+        "link": "https://t.me/pinskgk/5361",
+        "date": "09.11.2026",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24"
+    },
+    {
         "id": "city_5360",
         "category": "100 идей",
         "title": "У тебя есть уникальная идея, научная разработка или готовый старт...",
@@ -4716,8 +4732,7 @@ const newsData = {
         "images": [
             "assets/img/news/city_5334.webp",
             "assets/img/news/city_5334_1.webp",
-            "assets/img/news/city_5334_2.webp",
-            "assets/img/news/city_5334_3.webp"
+            "assets/img/news/city_5334_2.webp"
         ],
         "link": "https://t.me/pinskgk/5334",
         "date": "06.11.2026",
