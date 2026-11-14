@@ -4680,6 +4680,44 @@ const newsData = {
 ],
     city: [
     {
+        "id": "city_5392",
+        "category": "Молодежь",
+        "title": "🐾 Добрые дела начинаются с малого! В средней школе № 8 города Пин...",
+        "text": "🐾 Добрые дела начинаются с малого! В средней школе № 8 города Пинска прошла акция «Помоги бездомному животному» ❤️ Учащиеся 1–6 классов объе...",
+        "full_text": "🐾\n\nДобрые дела начинаются с малого!\n\nВ средней школе № 8 города Пинска прошла акция «Помоги бездомному животному»\n\n❤️\n\nУчащиеся 1–6 классов объединились ради доброго дела и собрали большое количество корма для четвероногих друзей, которые особенно нуждаются в заботе и внимании.\n\nВсе собранные угощения будут переданы в приют для животных.\n\nКаждый такой поступок — это проявление доброты, милосердия и ответственности. Ведь даже маленькая помощь может стать большой поддержкой для тех, кто не может попросить о ней сам!\n\n🐶\n\n🐱\n\n#БРСМ\n\n#Пинск\n\n#добрыедела",
+        "full_text_html": "<p><div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">🐾 <b>Добрые дела начинаются с малого!</b></p>\n<p>В средней школе № 8 города Пинска прошла акция «Помоги бездомному животному» ❤️</p>\n<p>Учащиеся 1–6 классов объединились ради доброго дела и собрали большое количество корма для четвероногих друзей, которые особенно нуждаются в заботе и внимании.</p>\n<p>Все собранные угощения будут переданы в приют для животных.</p>\n<p>Каждый такой поступок — это проявление доброты, милосердия и ответственности. Ведь даже маленькая помощь может стать большой поддержкой для тех, кто не может попросить о ней сам! 🐶🐱 <br/><span class=\"tg-hashtag\">#БРСМ</span> <span class=\"tg-hashtag\">#Пинск</span> <span class=\"tg-hashtag\">#добрыедела</span></div></p>",
+        "image": "assets/img/news/city_5392.webp",
+        "images": [
+            "assets/img/news/city_5392.webp",
+            "assets/img/news/city_5392_1.webp",
+            "assets/img/news/city_5392_2.webp"
+        ],
+        "link": "https://t.me/pinskgk/5392",
+        "date": "13.11.2026",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24"
+    },
+    {
+        "id": "city_5387",
+        "category": "Патриотика",
+        "title": "✔️ Особое внимание уделяется патриотическому воспитанию: в текуще...",
+        "text": "✔️ Особое внимание уделяется патриотическому воспитанию: в текущем году в Брестский облисполком направлено шесть представлений на награждени...",
+        "full_text": "✔️\n\nОсобое внимание уделяется патриотическому воспитанию: в текущем году в Брестский облисполком направлено шесть представлений на награждение активистов нагрудным знаком «Отличник патриотического воспитания».\n\nО противодействии незаконному обороту наркотиков доложил заместитель начальника Пинского ГОВД\n\nИван Бруцкий\n\n.\n\n– В городе не допущено ни одного факта вовлечения несовершеннолетних в незаконный оборот наркотиков. Подростки на наркологическом учете не состоят, – подчеркнул он.\n\n@pinsk_newsPV\n\n📱\n\nЮтуб\n\n📱\n\nВК\n\n📱\n\nИНСТАГРАМ\n\n📱\n\nОК\n\n📱\n\nФЕЙСБУК\n\n📱\n\nТИК ТОК\n\nСайт\n\n🚀\n\nМАХ\n\nПрислать новость\n\n❗️\n\nПолная перепечатка текста и фотографий запрещена.\n\n⏩\n\nЧастичное цитирование разрешено при наличии гиперссылки.",
+        "full_text_html": "<p><img alt=\"✔️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192994616281941813.webp\"/>Особое внимание уделяется патриотическому воспитанию: в текущем году в Брестский облисполком направлено шесть представлений на награждение активистов нагрудным знаком «Отличник патриотического воспитания».<br/>О противодействии незаконному обороту наркотиков доложил заместитель начальника Пинского ГОВД <b>Иван Бруцкий</b>.<br/><blockquote class=\"tg-blockquote\">– В городе не допущено ни одного факта вовлечения несовершеннолетних в незаконный оборот наркотиков. Подростки на наркологическом учете не состоят, – подчеркнул он.</blockquote></p>\n<p><a href=\"https://t.me/pinsk_newsPV\" rel=\"noopener noreferrer\" target=\"_blank\">@pinsk_newsPV</a><br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334681713316479679.webp\"/></u><a href=\"https://youtube.com/channel/UC9A8yjl0khIrnl0RUFGM6Bw?feature=shared\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Ютуб</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5334807822146225472.webp\"/></u><a href=\"https://ok.ru/profile/576335225561?utm_campaign=ios_share&amp;amp;utm_content=profile\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ВК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5319160079465857105.webp\"/></u><a href=\"https://www.instagram.com/pinskivesnik?igsh=MXhoMDlxZ3MyeXI1Zg%3D%3D&amp;amp;utm_source=qr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ИНСТАГРАМ</u></a> <br/><u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5325865356638569272.webp\"/></u><a href=\"https://ok.ru/profile/576335225561\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ОК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5323261730283863478.webp\"/></u><a href=\"https://www.facebook.com/share/1AnRDDFQLN/?mibextid=wwXIfr\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ФЕЙСБУК</u></a> <u><img alt=\"📱\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5327982530702359565.webp\"/></u><a href=\"https://www.tiktok.com/@pinskivestnik?_r=1&amp;amp;_t=ZM-91f8pOwWYx6\" rel=\"noopener noreferrer\" target=\"_blank\"><u>ТИК ТОК </u></a><a href=\"https://p-v.by/?ysclid=mn21w81zlk684771020\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Сайт</u></a> <u><img alt=\"🚀\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5190535309418331890.webp\"/></u><a href=\"https://max.ru/join/HKuliTUBPWlNt8wfn1kCqOKMLtiB3WGMoyK7MF2N0Bg\" rel=\"noopener noreferrer\" target=\"_blank\"><u>МАХ</u></a><br/><a href=\"https://t.me/PinskNews_bot\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Прислать новость</u></a></p>\n<p><b><img alt=\"❗️\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192666390586214530.webp\"/></b><b>Полная перепечатка текста и фотографий запрещена.<br/> </b><b><img alt=\"⏩\" class=\"tg-custom-emoji\" loading=\"lazy\" src=\"assets/img/news/emoji_5192759651506079601.webp\"/></b><b>Частичное цитирование разрешено при наличии гиперссылки.</b></p>",
+        "image": "assets/img/news/city_5387.webp",
+        "images": [
+            "assets/img/news/city_5387.webp",
+            "assets/img/news/city_5387_1.webp",
+            "assets/img/news/city_5387_2.webp",
+            "assets/img/news/city_5387_3.webp",
+            "assets/img/news/city_5387_4.webp"
+        ],
+        "link": "https://t.me/pinskgk/5387",
+        "date": "13.11.2026",
+        "tag": "ГК ОО БРСМ",
+        "tagColor": "#D91D24"
+    },
+    {
         "id": "city_5377",
         "category": "Молодежь",
         "title": "🏥 Сегодня заглянули в гости к нашим медикам! Первый секретарь Пин...",
